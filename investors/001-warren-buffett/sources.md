@@ -89,3 +89,27 @@ As of: 2026-06-10T06:42:46Z
 ### T0004 Re-used Core Sources
 
 - The 1989, 2007, and 2014 Berkshire letters were re-used directly for Berkshire textile, Dexter Shoe, Tesco, acquisition-currency, and omission-error context.
+
+## T0005 Additions - E-own-words - 2026-06-10
+
+58. [Berkshire Hathaway 1977 Chairman's Letter](https://www.berkshirehathaway.com/letters/1977.html) - Primary source for Buffett's early public-stock-as-business-acquisition framing.
+59. [Berkshire Hathaway 1988 Chairman's Letter](https://www.berkshirehathaway.com/letters/1988.html) - Primary source for the "favorite holding period" line and permanent-holdings context.
+60. [Berkshire Hathaway 1992 Chairman's Letter](https://www.berkshirehathaway.com/letters/1992.html) - Primary source for growth/value integration.
+61. [Berkshire Hathaway 2000 Chairman's Letter](https://www.berkshirehathaway.com/letters/2000pdf.pdf) - Primary source for speculation, internet-bubble warnings, and Wall Street quality-control criticism.
+62. [Berkshire Hathaway 2003 Chairman's Letter](https://www.berkshirehathaway.com/letters/2003ltr.pdf) - Primary source for float cost and reinsurance-risk language.
+63. [Berkshire Hathaway 2004 Chairman's Letter](https://www.berkshirehathaway.com/letters/2004ltr.pdf) - Primary source for benchmark candor, operating-manager trust, and index-fund comparison.
+64. [Berkshire Hathaway 2006 Chairman's Letter](https://www.berkshirehathaway.com/letters/2006ltr.pdf) - Primary source for fear/greed in catastrophe-insurance and financial-market context.
+65. [Berkshire Hathaway 2012 Chairman's Letter](https://www.berkshirehathaway.com/letters/2012ltr.pdf) - Primary source for Munger's wonderful-business/fair-price teaching and Buffett's late-career acquisition framing.
+66. [Berkshire Hathaway 2018 Chairman's Letter](https://www.berkshirehathaway.com/letters/2018ltr.pdf) - Primary source for book-value de-emphasis and the American Tailwind theme.
+67. [Berkshire Hathaway 2019 Chairman's Letter](https://www.berkshirehathaway.com/letters/2019ltr.pdf) - Primary source for Buffett's critique of GAAP earnings volatility from unrealized equity marks.
+68. [Berkshire Hathaway 2021 Chairman's Letter](https://www.berkshirehathaway.com/letters/2021ltr.pdf) - Primary source for business-pickers language and infrastructure ownership context.
+69. [Berkshire Hathaway 2023 Chairman's Letter](https://www.berkshirehathaway.com/letters/2023ltr.pdf) - Primary source for Buffett's Munger tribute and the architect/general-contractor metaphor.
+70. [Berkshire Hathaway 2024 Chairman's Letter](https://www.berkshirehathaway.com/letters/2024ltr.pdf) - Primary source for late Buffett on equities, cash, currency, controlled-business mistakes, and American capitalism.
+71. [Warren Buffett Archive - Annual Meetings](https://buffett.cnbc.com/annual-meetings/) - CNBC archive for Buffett meeting videos; used as a discovery hub and noted for future transcript verification.
+72. [1998 University of Florida Buffett lecture transcript](https://tilsonfunds.com/BuffettUofFloridaspeech.pdf) - Transcript-grade source for Buffett teaching MBAs about competence, internet valuation, and careers.
+73. [2025 Berkshire annual meeting transcript, Steady Compounding](https://steadycompounding.com/transcript/brk-2025/) - Secondary transcript source for Buffett's final CEO-era meeting; replace with official transcript if Berkshire/CNBC publishes one.
+74. [C-SPAN Salomon hearing clip](https://www.c-span.org/clip/house-committee/user-clip-buffett-at-salomon-brothers-hearing/4627438) - Partial video source for Salomon reputation doctrine; flagged as insufficient without full transcript.
+
+### T0005 Re-used Core Sources
+
+- Buffett Partnership Letters, Berkshire Owner's Manual, 1996 letter, 2007 letter, 2011 letter, 2013 letter, 2016 letter, 2020 meeting transcript, 2022 letter, 2017 meeting transcript, and the FCIC Buffett interview record were re-used directly in the own-words file.
