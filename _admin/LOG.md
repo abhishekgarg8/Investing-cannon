@@ -22,3 +22,8 @@
 - Output: investors/001-warren-buffett/mistakes-and-losses.md (~2,649 words, 19 sources)
 - Notes: Completed Buffett mistakes/losses across Berkshire textile, USAir, Dexter, General Re, EFH, Tesco, PCC, Kraft Heinz/Oxy, airlines, Paramount, omissions, Salomon/General Re legal crises, and PacifiCorp wildfire risk. Current PacifiCorp litigation status verified as of 2026-06-10; 1994 official HTML issue avoided by citing SEC/Yale sources.
 - Backlog added: None
+
+## 2026-06-10T10:34:43Z — T0005 — 001-warren-buffett — E-own-words — DONE
+- Output: investors/001-warren-buffett/in-their-own-words.md (~2,500 words, 34 sources)
+- Notes: Completed verified Buffett quote file with 33 short quotes organized by theme plus primary-materials index. Dropped/flagged aggregator and unverified reputation lines; 2025 meeting transcript marked secondary pending official source.
+- Backlog added: None
