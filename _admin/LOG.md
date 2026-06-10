@@ -17,3 +17,8 @@
 - Output: investors/001-warren-buffett/greatest-trades.md (~3,262 words, 14 sources)
 - Notes: Ranked Buffett's major trades by strategic and absolute-dollar impact; GEICO flagged as best strategic trade, Apple as largest observable public-equity dollar win. Exact P&L caveats preserved for Apple, Goldman, and the 1964 American Express partnership trade.
 - Backlog added: None
+
+## 2026-06-10T09:38:58Z — T0004 — 001-warren-buffett — D-mistakes — DONE
+- Output: investors/001-warren-buffett/mistakes-and-losses.md (~2,649 words, 19 sources)
+- Notes: Completed Buffett mistakes/losses across Berkshire textile, USAir, Dexter, General Re, EFH, Tesco, PCC, Kraft Heinz/Oxy, airlines, Paramount, omissions, Salomon/General Re legal crises, and PacifiCorp wildfire risk. Current PacifiCorp litigation status verified as of 2026-06-10; 1994 official HTML issue avoided by citing SEC/Yale sources.
+- Backlog added: None
