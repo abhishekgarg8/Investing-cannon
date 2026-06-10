@@ -63,3 +63,29 @@ As of: 2026-06-10T06:42:46Z
 ### T0003 Re-used Core Sources
 
 - The 2007 Berkshire letter, 2014 Berkshire letter, 2025 Berkshire annual report, and Buffett Partnership Letters were re-used directly for See's, GEICO, Apple/current holdings, and partnership-era concentration context.
+
+## T0004 Additions - D-mistakes - 2026-06-10
+
+39. [Berkshire Hathaway 2008 Chairman's Letter](https://www.berkshirehathaway.com/letters/2008ltr.pdf) - Primary source for ConocoPhillips, Irish banks, General Re derivatives exit, and liquidity-risk lessons.
+40. [Berkshire Hathaway 2011 Chairman's Letter](https://www.berkshirehathaway.com/letters/2011ltr.pdf) - Primary source for Energy Future Holdings mark-down and natural gas price dependence.
+41. [Berkshire Hathaway 2013 Chairman's Letter](https://www.berkshirehathaway.com/letters/2013ltr.pdf) - Primary source for final EFH bond sale, cash interest, and $873 million pretax loss.
+42. [Berkshire Hathaway 2015 Chairman's Letter](https://www.berkshirehathaway.com/letters/2015ltr.pdf) - Primary source for worker-side costs of the textile and Dexter errors.
+43. [Berkshire Hathaway 2016 Chairman's Letter](https://www.berkshirehathaway.com/letters/2016ltr.pdf) - Primary source for General Re stock issuance mistake and acquisition-currency lessons.
+44. [Berkshire Hathaway 2020 Chairman's Letter](https://www.berkshirehathaway.com/letters/2020ltr.pdf) - Primary source for Precision Castparts overpayment admission.
+45. [Berkshire Hathaway 2024 Annual Report](https://www.berkshirehathaway.com/2024ar/2024ar.pdf) - Primary source for delayed-correction rule and current manager-correction framing.
+46. [Berkshire Hathaway 2025 Annual Report](https://www.berkshirehathaway.com/2025ar/2025ar.pdf) - Primary source for Kraft Heinz and Occidental impairments and PacifiCorp wildfire disclosures.
+47. [Berkshire Hathaway 1994 Form 10-K](https://www.sec.gov/Archives/edgar/data/109694/0000950150-95-000215.txt) - Primary filing source for USAir write-down and pretax charge.
+48. [Yale SOM Berkshire airline excerpts](https://som.yale.edu/sites/default/files/2021-12/Module8-Readng.pdf) - Teaching compilation of Buffett's USAir mistake commentary; used where official 1994 letter HTML was not reliably accessible.
+49. [2020 Berkshire Hathaway Annual Meeting Transcript](https://s3.amazonaws.com/static.contentres.com/media/documents/5c882ab5-3aaf-4f3d-ba33-d105bd25cc58.pdf) - Transcript source for airline-sale mistake discussion during COVID.
+50. [2017 Berkshire Hathaway Annual Meeting Transcript](https://forum.valuepickr.com/uploads/default/original/2X/7/7e8e091d9fdbc77fd45d49479502f73a832bde4d.pdf) - Transcript source for Amazon, Google, and Walmart omission admissions.
+51. [DOJ/SEC Salomon Brothers settlement press release, 1992](https://www.justice.gov/archive/atr/public/press_releases/1992/211182.htm) - Primary legal/regulatory source for Salomon's $290 million settlement.
+52. [DOJ General Re/AIG resolution press release, 2010](https://www.justice.gov/archives/opa/pr/general-reinsurance-corporation-enters-agreement-resolving-its-role-fraudulent-reinsurance) - Primary legal source for General Re fraudulent reinsurance resolution.
+53. [SEC General Re settlement release, 2010](https://www.sec.gov/news/press/2010/2010-10.htm) - Primary SEC source for General Re/AIG and Prudential accounting-fraud charges.
+54. [FRASER FCIC Buffett interview record](https://fraser.stlouisfed.org/archival-collection/financial-crisis-inquiry-commission-4967/transcript-interview-warren-buffett-531019) - Official crisis-archive source for Buffett interview record on Moody's and financial-crisis context.
+55. [PacifiCorp wildfire litigation page](https://www.pacificorp.com/about/information-wildfire/information-wildfire-litigation.html) - Company-side current legal update for James remand and federal settlement.
+56. [CNBC Buffett on Kraft Heinz, 2019](https://buffett.cnbc.com/video/2019/04/18/buffett-i-was-wrong-on-kraft-heinz.html) - Buffett interview clip source for Kraft overpayment admission.
+57. [David Kass 2024 Berkshire meeting summary](https://blog.umd.edu/davidkass/2024/06/27/2024-berkshire-hathaway-annual-meeting-summary-of-the-37-questions-and-answers/) - Secondary transcript-style meeting summary for Paramount sale/loss when no official transcript was available.
+
+### T0004 Re-used Core Sources
+
+- The 1989, 2007, and 2014 Berkshire letters were re-used directly for Berkshire textile, Dexter Shoe, Tesco, acquisition-currency, and omission-error context.
