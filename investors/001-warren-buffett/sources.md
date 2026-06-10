@@ -46,3 +46,20 @@ As of: 2026-06-10T06:42:46Z
 ### T0002 Re-used Core Sources
 
 - Berkshire Owner's Manual, 2007 letter, 2014 letter, 2025 annual report, Buffett Partnership Letters, and Vanity Fair 2011 were re-used directly for the philosophy file and remain essential primary/critical sources for later B/C/D/G tasks.
+
+## T0003 Additions - C-greatest-trades - 2026-06-10
+
+29. [Berkshire Hathaway 1995 Annual Report](https://www.berkshirehathaway.com/1995ar/1995ar.html) - Primary source for GEICO acquisition structure, original GEICO cost basis, and 1995 holdings context.
+30. [Berkshire Hathaway 2018 Chairman's Letter](https://www.berkshirehathaway.com/letters/2018ltr.pdf) - Primary source for Apple, Bank of America, Coca-Cola, American Express, and GEICO cost/market-value disclosures and GEICO intrinsic-value discussion.
+31. [Berkshire Hathaway 2023 Annual Report](https://www.berkshirehathaway.com/2023ar/2023ar.pdf) - Primary source for Apple year-end 2023 fair value and equity-portfolio concentration.
+32. [Berkshire Hathaway 2017 Annual Report](https://www.berkshirehathaway.com/2017ar/2017ar.pdf) - Primary source for Bank of America preferred/warrant exercise mechanics.
+33. [BNSF/Berkshire joint release filed as BNSF Form 8-K exhibit, 2009](https://www.sec.gov/Archives/edgar/data/934612/000095015709000805/ex99-1.htm) - Primary contemporaneous source for BNSF transaction price, consideration mix, and strategic framing.
+34. [Bank of America press release, Berkshire investment, 2011](https://www.blackstone.com/news/press/berkshire-hathaway-to-invest-5-billion-in-bank-of-america/) - Contemporaneous source for the $5 billion preferred-stock and warrant structure.
+35. [Goldman Sachs press release, Berkshire investment, 2008](https://www.goldmansachs.com/pressroom/press-releases/2008/berkshire-hathaway-invest) - Contemporaneous source for the Goldman preferred-stock and warrant terms.
+36. [Quartr, "American Express: An Empire of Plastic," 2025](https://quartr.com/insights/edge/american-express-an-empire-of-plastic) - Secondary source for the reported 1964 American Express partnership position size and sale proceeds; use as a lead until primary transaction evidence is reconstructed.
+37. [Investopedia, "What Buffett's American Express Investment Teaches Us," 2025](https://www.investopedia.com/what-buffett-s-salad-oil-scandal-investment-teaches-us-about-how-patient-investors-win-11816711) - Secondary cross-check on the American Express salad-oil trade, including reported stock-price collapse and partnership concentration.
+38. [Berkshire Hathaway 2022 Chairman's Letter](https://www.berkshirehathaway.com/letters/2022ltr.pdf) - Primary source for long-duration Coca-Cola and American Express cost basis, dividend growth, and BNSF earnings scale.
+
+### T0003 Re-used Core Sources
+
+- The 2007 Berkshire letter, 2014 Berkshire letter, 2025 Berkshire annual report, and Buffett Partnership Letters were re-used directly for See's, GEICO, Apple/current holdings, and partnership-era concentration context.
