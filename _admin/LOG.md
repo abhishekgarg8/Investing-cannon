@@ -27,3 +27,8 @@
 - Output: investors/001-warren-buffett/in-their-own-words.md (~2,500 words, 34 sources)
 - Notes: Completed verified Buffett quote file with 33 short quotes organized by theme plus primary-materials index. Dropped/flagged aggregator and unverified reputation lines; 2025 meeting transcript marked secondary pending official source.
 - Backlog added: None
+
+## 2026-06-10T11:43:51Z — T0006 — 001-warren-buffett — F-key-writings — DONE
+- Output: investors/001-warren-buffett/key-writings.md (~2,770 words, 35 sources)
+- Notes: Completed Buffett key-writings file with explicit provenance split between Buffett-authored letters/essays/notes and edited or interpretive compilations. November 2025 Thanksgiving letter and 2025 Abel annual letter flagged as the authorship boundary for future Berkshire letters.
+- Backlog added: None
