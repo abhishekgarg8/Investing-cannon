@@ -1,3 +1,3 @@
-Tasks: 8/812 done.
-Current: T0008 001-warren-buffett H-synthesis completed at 2026-06-10T13:27:16Z.
+Tasks: 9/812 done.
+Current: T0009 002-charlie-munger A-profile completed at 2026-06-10T14:33:05Z.
 Projected finish: 2026-07-14 at one task/hour.
