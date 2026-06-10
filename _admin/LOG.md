@@ -42,3 +42,9 @@
 - Output: investors/001-warren-buffett/synthesis.md (~1,600 words, 21 sources)
 - Notes: Completed Buffett synthesis, ranked transferable lessons, regime dependence, luck-vs-skill framing, unresolved questions, and first INDEX.md row. No completed peer folders exist yet, so closest/opposite comparisons are flagged as provisional.
 - Backlog added: None
+
+
+## 2026-06-10T14:33:05Z — T0009 — 002-charlie-munger — A-profile — DONE
+- Output: investors/002-charlie-munger/profile.md (~1,919 words, 25 sources)
+- Notes: Created Munger profile with Berkshire/Daily Journal primary-source grounding, death/status verified, vehicle structure separated, and Daily Journal 2026 proxy dispute treated as company-level context. Partnership CAGR remains flagged [single-source] pending original Wheeler, Munger statements; Wesco/Blue Chip letters mapped for later tasks.
+- Backlog added: None
