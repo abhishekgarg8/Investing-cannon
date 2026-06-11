@@ -84,3 +84,8 @@
 - Output: investors/002-charlie-munger/mistakes-and-losses.md (~3,090 words, 20 sources)
 - Notes: Stale retry closeout: verified completed mistakes/losses file, sources map, and sample citations from Berkshire, SEC 13F, and Architectural Record. Marked T0012 done; no backlog added.
 - Backlog added: None
+
+## 2026-06-11T07:32:25Z — T0015 — 002-charlie-munger — G-mental-models — DONE
+- Output: investors/002-charlie-munger/mental-models.md (~3,107 words, 24 sources)
+- Notes: Reconstructed Munger's operational mental-model checklist from speeches, Berkshire/Daily Journal filings, trades, and mistakes. Current-status update reflects Daily Journal's February 2026 annual meeting result and March 2026 portfolio/margin figures.
+- Backlog added: None
