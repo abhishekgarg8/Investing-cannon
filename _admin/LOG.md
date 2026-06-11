@@ -125,3 +125,8 @@
 - Output: investors/003-benjamin-graham/key-writings.md (~3,000 words, 25 sources)
 - Notes: Completed Graham key-writings guide with ranked primary reading order, late-career article/speech coverage, and ranked secondary works. Caveats preserved around edition mirrors, posthumous memoir access, GEICO skill-vs-luck criticism, and voting/weighing-machine attribution.
 - Backlog added: None
+
+## 2026-06-11T19:35:38Z — T0024 — 003-benjamin-graham — H-synthesis — DONE
+- Output: investors/003-benjamin-graham/synthesis.md (~1,605 words, 13 sources)
+- Notes: Completed Graham synthesis from A-F plus fresh source checks; T0023 mental-models remains freshly claimed/missing, so synthesis flags refresh dependency. Added INDEX.md row; cited sources already present in sources.md, so no duplicate source append.
+- Backlog added: None
