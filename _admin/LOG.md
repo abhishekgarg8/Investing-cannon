@@ -79,3 +79,8 @@
 - Output: investors/002-charlie-munger/key-writings.md (~2,617 words, 26 sources)
 - Notes: Completed Munger key-writings with provenance split across speeches, edited compilation, Wesco letters, Berkshire essay, late transcripts, and ranked secondary works. Limitations flagged: Stripe chapter rendering, unofficial transcripts, quote-compilation risk, and missing Wheeler/Munger partnership writings.
 - Backlog added: None
+
+## 2026-06-11T06:19:42Z — T0012 — 002-charlie-munger — D-mistakes — DONE
+- Output: investors/002-charlie-munger/mistakes-and-losses.md (~3,090 words, 20 sources)
+- Notes: Stale retry closeout: verified completed mistakes/losses file, sources map, and sample citations from Berkshire, SEC 13F, and Architectural Record. Marked T0012 done; no backlog added.
+- Backlog added: None
