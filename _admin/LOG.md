@@ -115,3 +115,8 @@
 - Output: investors/003-benjamin-graham/mistakes-and-losses.md (~2,229 words, 14 sources)
 - Notes: Completed Graham mistakes/losses with emphasis on the 1929-1932 Joint Account near-death, hedge drift, leverage, ignored John Dix warning, Shattuck short loss, GEICO rule-breaking luck, Northern Pipeline process friction, and late model decay. Current legal check found no personal legal development; GEICO Investment Company Act constraint remains the key regulatory caveat.
 - Backlog added: None
+
+## 2026-06-11T14:37:30Z — T0021 — 003-benjamin-graham — E-own-words — DONE
+- Output: investors/003-benjamin-graham/in-their-own-words.md (~2,750 words, 18 sources)
+- Notes: Completed Graham quote file with 25 short source-visible quotes, annotated primary-materials index, and attribution watchlist. Famous voting/weighing-machine wording was flagged rather than used because the opened sources showed weak or derivative attribution.
+- Backlog added: None
