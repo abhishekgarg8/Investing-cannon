@@ -271,3 +271,86 @@ Created: 2026-06-11 for T0017 A-profile.
 - Quote discipline: used 25 short excerpts, each tied to an opened source and year; avoided quote aggregators as authorities; flagged the voting/weighing-machine aphorism rather than using it because opened sources showed weak or derivative attribution.
 - T0021 self-QA: reopened and checked the 1976 FAJ conversation, 1976 Medical Economics interview, 1963 speech transcript/PDF, 1974 FAJ common-stocks article, CMR 1960 article page, and CFA/Ivey biography/bibliography sources. Output file includes the required quote anthology and annotated primary-materials index.
 
+## Added 2026-06-11 for T0022 F-key-writings
+
+78. [Tier 1] Benjamin Graham and David Dodd, *Security Analysis: The Classic 1934 Edition*, bibliographic page. https://books.google.com/books/about/Security_Analysis_The_Classic_1934_Editi.html?id=A_DSAAAAMAAJ  
+    Used for bibliographic verification and as the anchor for the technical Graham-Dodd framework; substantive claims should still be checked to a physical or scanned edition when quoting.
+
+79. [Tier 1] Columbia Business School Heilbrunn Center, "History of Value Investing." https://business.columbia.edu/heilbrunn/about/valueinvestinghistory  
+    Used to verify the 1928 Graham-Dodd Columbia course origin and the link from the classroom to *Security Analysis*.
+
+80. [Tier 2] HarperCollins, *The Intelligent Investor Rev Ed.* https://www.harpercollins.com/products/the-intelligent-investor-rev-ed-benjamin-graham  
+    Publisher source for bibliographic/current-edition verification of *The Intelligent Investor*.
+
+81. [Tier 1] Benjamin Graham, *The Intelligent Investor*, fourth revised edition mirror PDF. https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The%20Intelligent%20Investor%20-%20BENJAMIN%20GRAHAM.pdf  
+    Used for edition context, central thesis, chapter priorities, and the GEICO/Postscript caveat; future exact quotations should be checked against print.
+
+82. [Tier 1] Benjamin Graham, *The Interpretation of Financial Statements*, scan. https://www.safalniveshak.com/wp-content/uploads/2011/11/interpretation-financial-statements.pdf  
+    Used for the accounting primer section: balance sheet, working capital, current ratio, inventories, receivables, debt, depreciation, earnings, and book/liquidation value.
+
+83. [Tier 1] Ivey Business School, Ben Graham Collection. https://www.ivey.uwo.ca/bengrahaminvesting/resources/ben-graham-collection/  
+    Reused as the best open bibliography and archive map for Graham books, articles, speeches, and hard-to-find full texts.
+
+84. [Tier 1] Benjamin Graham, *Common Sense Investing: The Papers of Benjamin Graham*, compilation PDF. https://sorfis.com/wp-content/uploads/2021/09/Benjamin-Graham-Common-Sense-Investing-papers-of-Ben-Graham.pdf  
+    Used as a discovery map and content source for Depression-era essays, special situations, the new speculation, and late common-stock writings; exact quotes should be traced to original journals where possible.
+
+85. [Tier 1] Benjamin Graham, "A Conversation with Benjamin Graham," *Financial Analysts Journal*, 1976. https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf  
+    Used for late-career anti-forecasting, group-expectancy, and net-current-asset views.
+
+86. [Tier 1] Benjamin Graham interview, "The Simplest Way to Select Bargain Stocks," *Medical Economics*, 1976. https://alphaarchitect.com/wp-content/uploads/2011/04/Simple-and-Easy-Approach-Medical-Economics-Graham-1976.pdf  
+    Used for the late mechanical bargain-stock method and sale discipline.
+
+87. [Tier 1] Benjamin Graham, "Securities in an Insecure World," 1963 speech transcript/PDF hosted by Jason Zweig. https://jasonzweig.com/a-rediscovered-masterpiece-by-benjamin-graham/  
+    Used for market-level thinking, formula plans, dollar averaging, and investor/speculator distinction.
+
+88. [Tier 1] Benjamin Graham, "Stock Market Warning: Danger Ahead!," *California Management Review*, 1960. https://cmr.berkeley.edu/1960/05/2-3-stock-market-warning-danger-ahead/  
+    Used for bull-market psychology and the public confusion between investment and speculation.
+
+89. [Tier 1] Benjamin Graham, "The Future of Common Stocks," *Financial Analysts Journal*, 1974 mirror PDF. https://www.safalniveshak.com/wp-content/uploads/2012/07/The-Future-of-Common-Stocks-Benjamin-Graham.pdf  
+    Used for late market-level valuation, institutional-behavior critique, and post-1973 opportunity-set framing.
+
+90. [Tier 2] CFA Institute, "80 Years of the Financial Analysts Journal." https://rpc.cfainstitute.org/research/celebrating-research-excellence/80-years-financial-analysts-journal-anniversary  
+    Used to identify "The Future of Financial Analysis" as an influential Graham article about analyst professionalism and market structure.
+
+91. [Tier 2] Open Library, *Storage and Stability*. https://openlibrary.org/works/OL273186W/Storage_and_Stability  
+    Used for bibliographic and thesis-level verification of Graham's commodity-reserve plan.
+
+92. [Tier 2] Google Books, *World Commodities and World Currency*. https://books.google.com/books/about/World_Commodities_and_World_Currency.html?id=71RWcAAACAAJ  
+    Used for bibliographic verification of Graham's 1944 commodity/currency policy book.
+
+93. [Tier 2] Google Books, *Benjamin Graham: The Memoirs of the Dean of Wall Street*. https://books.google.com/books/about/Benjamin_Graham_the_Memoirs_of_the_Dean.html?id=EZqZAAAAIAAJ  
+    Used for bibliographic verification of the posthumous memoir and its scope.
+
+94. [Tier 2] Internet Archive, *Benjamin Graham: The Memoirs of the Dean of Wall Street*. https://archive.org/details/memoirsofdeanofw00grah  
+    Used to confirm the 1996 McGraw-Hill edition exists but is access-restricted online.
+
+95. [Tier 1/Tier 2] Irving Kahn and Robert D. Milne, CFA, *Benjamin Graham: The Father of Financial Analysis*, CFA Research Foundation page. https://rpc.cfainstitute.org/research/foundation/1977/benjamin-graham-the-father-of-financial-analysis-full-pdf  
+    Used as the top ranked secondary/near-primary source: biography, bibliography, selected quotations, performance tables, and late interview metadata.
+
+96. [Tier 2] Jason Zweig, "Benjamin Graham: Building a Profession." https://jasonzweig.com/books/benjamin-graham-building-a-profession/  
+    Used for the edited rare-writings collection and the evolution of Graham's professional-analysis views.
+
+97. [Tier 2] Columbia Business School, "The Superinvestors of Graham-and-Doddsville." https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville  
+    Used as disciple-advocacy evidence for Graham's influence; treated as advocacy by Buffett, not neutral proof.
+
+98. [Tier 2] Washington Independent Review of Books, review of Joe Carlen's *The Einstein of Money*. https://www.washingtonindependentreviewofbooks.com/bookreview/the-einstein-of-money-the-life-and-timeless-financial-wisdom-of-benjamin-gr  
+    Used to evaluate Carlen's biography for accessible modern context and personal-life coverage.
+
+99. [Tier 2] ABC News, review of *The Einstein of Money*. https://abcnews.go.com/Business/review-einstein-money-details-life-buffetts-mentor/story?id=17037538  
+    Used as a second review/summary source for Carlen's biography and its Buffett/Graham framing.
+
+100. [Tier 2] Jason Zweig, "Was Benjamin Graham Skillful or Lucky?" https://jasonzweig.com/was-benjamin-graham-skillful-or-lucky/  
+    Used for GEICO luck-versus-skill criticism that should accompany Graham performance claims.
+
+101. [Tier 2] Richard Bierig, "From Benjamin Graham to Warren Buffett," Duke-hosted PDF. https://sites.duke.edu/djepapers/files/2016/08/bierig.pdf  
+    Used as compact academic bridge from Graham's methods to Buffett's adaptation.
+
+102. [Tier 2] Quote Investigator, "In the Short Run, the Market Is a Voting Machine, but in the Long Run, It Is a Weighing Machine." https://quoteinvestigator.com/2020/01/09/market/  
+    Used for attribution control around the voting/weighing-machine formulation.
+
+## T0022 Search / Verification Notes
+
+- Guiding questions: Which works are truly by Graham rather than editors or disciples? Which editions/scans are safest to cite? How does late Graham revise early Graham? Which writings matter most for reconstructing process? Which secondary works are useful but biased? Which quote or GEICO legends need skepticism?
+- Search coverage exceeded 15 query families: *Security Analysis*, *The Intelligent Investor*, *The Interpretation of Financial Statements*, *Common Sense Investing*, *Storage and Stability*, *World Commodities and World Currency*, memoirs, FAJ interview, *Medical Economics*, 1963 speech, 1960 CMR warning, 1974 common-stocks article, 1962 accumulation article, Ivey bibliography, CFA biography, Zweig anthology, Carlen biography, Buffett's Graham-and-Doddsville speech, GEICO luck criticism, legal/SEC searches, and quote-attribution checks.
+- Mandatory criticism/legal searches run: "Benjamin Graham criticism GEICO luck skill Jason Zweig," "Benjamin Graham lawsuit SEC Graham-Newman enforcement," "Benjamin Graham plagiarism controversy legal SEC," and "Benjamin Graham quote attribution criticism voting machine weighing machine." No current personal legal development was found; Graham is deceased. The recurring legal/regulatory issue remains GEICO / Investment Company Act context already surfaced in earlier files.
+- T0022 self-QA: reopened support for the 1976 FAJ interview, 1976 *Medical Economics* scan, 1963 Zweig transcript/PDF page, Ivey bibliography, and CFA Foundation publication page. Output includes required works-by-Graham and works-about-Graham sections, with long quotations avoided.
