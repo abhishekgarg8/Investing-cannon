@@ -58,3 +58,8 @@
 - Output: investors/002-charlie-munger/investment-philosophy.md (~3,150 words, 13 sources)
 - Notes: Stale retry closeout: verified completed philosophy file, sources map, and support from Berkshire 2023 AR, Daily Journal 2025 AR/2026 proxy, Farnam Street, and Kingswell transcript. Closed TODO/STATUS inconsistency; no backlog added.
 - Backlog added: None
+
+## 2026-06-11T02:30:43Z — T0011 — 002-charlie-munger — C-greatest-trades — DONE
+- Output: investors/002-charlie-munger/greatest-trades.md (~3,232 words, 18 sources)
+- Notes: Completed Munger greatest-trades file across See's, BYD, Daily Journal's crisis basket, Wesco/Gillette, Costco, and Tenneco/Li Lu, with attribution caveats separating Munger-only, Munger-influenced, and Berkshire/Daily Journal vehicle results. BYD final P&L, Costco basis, and Tenneco identification remain flagged where primary ledgers were unavailable.
+- Backlog added: None
