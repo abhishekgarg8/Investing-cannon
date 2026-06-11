@@ -130,3 +130,8 @@
 - Output: investors/003-benjamin-graham/synthesis.md (~1,605 words, 13 sources)
 - Notes: Completed Graham synthesis from A-F plus fresh source checks; T0023 mental-models remains freshly claimed/missing, so synthesis flags refresh dependency. Added INDEX.md row; cited sources already present in sources.md, so no duplicate source append.
 - Backlog added: None
+
+## 2026-06-11T22:19:53Z — T0023 — 003-benjamin-graham — G-mental-models — DONE
+- Output: investors/003-benjamin-graham/mental-models.md (~2,650 words, 16 sources)
+- Notes: Stale retry closeout: verified completed mental-models file, appended T0023 sources, and spot-checked FAJ 1976, Medical Economics 1976, CFA/Ivey biography, and 2026 NCAV evidence. Caveats preserved around GEICO/Investment Company Act, Joint Account leverage, scale, and modern NCAV decay.
+- Backlog added: None
