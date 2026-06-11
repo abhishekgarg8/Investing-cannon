@@ -64,7 +64,7 @@
 - Notes: Completed Munger greatest-trades file across See's, BYD, Daily Journal's crisis basket, Wesco/Gillette, Costco, and Tenneco/Li Lu, with attribution caveats separating Munger-only, Munger-influenced, and Berkshire/Daily Journal vehicle results. BYD final P&L, Costco basis, and Tenneco identification remain flagged where primary ledgers were unavailable.
 - Backlog added: None
 
-## 2026-06-11T03:56:42Z — T0012 — 002-charlie-munger — D-mistakes — DONE
-- Output: investors/002-charlie-munger/mistakes-and-losses.md (~3,090 words, 20 sources)
-- Notes: Completed Munger mistakes/losses across the 1973-1974 Wheeler/Munger drawdown, Alibaba/Daily Journal, margin and concentration risk, Dexter/Berkshire quality judgment, Google/Amazon omissions, Wells Fargo incentive monitoring, and Munger Hall. Exact Alibaba P&L, family-account exposure, and original Wheeler/Munger statements remain unreconstructed.
+## 2026-06-11T04:06:34Z — T0012 — 002-charlie-munger — D-mistakes — PARTIAL
+- Output: investors/002-charlie-munger/mistakes-and-losses.md (~3,090 words, 20 sources) committed; sources.md appended.
+- Notes: Output and source map were completed, but TODO closeout could not be pushed because the connector requires full-file replacement and the queue content exceeded this channel's single-call size; direct GitHub HTTPS and SSH were blocked from the container. Left TODO [~] for stale retry; future run should verify the output, mark T0012 done, and refresh STATUS.
 - Backlog added: None
