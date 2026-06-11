@@ -1,6 +1,6 @@
 # Benjamin Graham - Key Writings
 
-As of 2026-06-11T16:55:00Z: Benjamin Graham is deceased, and this file treats his writings as historical source material. The main research problem is not whether Graham wrote enough; it is provenance. His books are available in many editions, several article scans are mirrors, and some famous sayings attached to him are later refinements or weakly sourced. The guide below separates books and primary articles by Graham from edited anthologies and secondary interpretations.
+As of 2026-06-11T16:34:39Z: Benjamin Graham is deceased, and this file treats his writings as historical source material. The main research problem is not whether Graham wrote enough; it is provenance. His books are available in many editions, several article scans are mirrors, and some famous sayings attached to him are later refinements or weakly sourced. The guide below separates books and primary articles by Graham from edited anthologies and secondary interpretations.
 
 ## Works By Graham: Ranked Reading Order
 
