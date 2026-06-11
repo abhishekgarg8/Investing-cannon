@@ -1,6 +1,6 @@
 # Charlie Munger - Source Map
 
-As of: 2026-06-10T15:40:19Z
+As of: 2026-06-11T02:03:49Z
 
 ## Ranked Sources
 
@@ -47,3 +47,4 @@ As of: 2026-06-10T15:40:19Z
 - Investor classification: deceased; speech/transcript-rich; primary vehicles for this task were Berkshire Hathaway, Daily Journal, and Munger's public talks. Current legal/governance developments checked as of 2026-06-10 include post-Munger Daily Journal proxy materials; no new personal enforcement action against Munger was found in this run.
 - Source limitations: exact-word citations from annual-meeting transcripts should remain conservative because Steady Compounding/Kingswell are transcript sources, not official Daily Journal releases. The philosophy file therefore paraphrases most meeting content and cites filings where figures matter.
 - Source limitations: Stripe Press hosts an official-looking Poor Charlie's Almanack page, but it rendered without extractable lines in this environment; Farnam Street was used for accessible transcript text for the 1994 and 1995 talks.
+
