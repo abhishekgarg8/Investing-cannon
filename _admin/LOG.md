@@ -74,3 +74,8 @@
 - Output: investors/002-charlie-munger/in-their-own-words.md (~1,639 words, 17 sources)
 - Notes: Completed Munger quote file with 25 short sourced quotes organized by theme plus an annotated primary-materials index. Avoided quote aggregators; Daily Journal/CNBC exact wording remains transcript-dependent where noted.
 - Backlog added: None
+
+## 2026-06-11T05:33:05Z — T0014 — 002-charlie-munger — F-key-writings — DONE
+- Output: investors/002-charlie-munger/key-writings.md (~2,617 words, 26 sources)
+- Notes: Completed Munger key-writings with provenance split across speeches, edited compilation, Wesco letters, Berkshire essay, late transcripts, and ranked secondary works. Limitations flagged: Stripe chapter rendering, unofficial transcripts, quote-compilation risk, and missing Wheeler/Munger partnership writings.
+- Backlog added: None
