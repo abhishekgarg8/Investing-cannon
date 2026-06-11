@@ -18,7 +18,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-11T02:30:43Z T0011 | 002-charlie-munger | C-greatest-trades | investors/002-charlie-munger/greatest-trades.md
 - [~] claimed:2026-06-11T03:18:50Z T0012 | 002-charlie-munger | D-mistakes | investors/002-charlie-munger/mistakes-and-losses.md
 - [x] done:2026-06-11T04:31:09Z T0013 | 002-charlie-munger | E-own-words | investors/002-charlie-munger/in-their-own-words.md
-- [ ] T0014 | 002-charlie-munger | F-key-writings | investors/002-charlie-munger/key-writings.md
+- [x] done:2026-06-11T05:33:05Z T0014 | 002-charlie-munger | F-key-writings | investors/002-charlie-munger/key-writings.md
 - [ ] T0015 | 002-charlie-munger | G-mental-models | investors/002-charlie-munger/mental-models.md
 - [ ] T0016 | 002-charlie-munger | H-synthesis | investors/002-charlie-munger/synthesis.md
 - [ ] T0017 | 003-benjamin-graham | A-profile | investors/003-benjamin-graham/profile.md
@@ -401,14 +401,14 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0394 | 049-nicolas-darvas | F-key-writings | investors/049-nicolas-darvas/key-writings.md
 - [ ] T0395 | 049-nicolas-darvas | G-mental-models | investors/049-nicolas-darvas/mental-models.md
 - [ ] T0396 | 049-nicolas-darvas | H-synthesis | investors/049-nicolas-darvas/synthesis.md
-- [ ] T0397 | 050-william-oneil | A-profile | investors/050-william-oneil/profile.md
-- [ ] T0398 | 050-william-oneil | B-philosophy | investors/050-william-oneil/investment-philosophy.md
-- [ ] T0399 | 050-william-oneil | C-greatest-trades | investors/050-william-oneil/greatest-trades.md
-- [ ] T0400 | 050-william-oneil | D-mistakes | investors/050-william-oneil/mistakes-and-losses.md
-- [ ] T0401 | 050-william-oneil | E-own-words | investors/050-william-oneil/in-their-own-words.md
-- [ ] T0402 | 050-william-oneil | F-key-writings | investors/050-william-oneil/key-writings.md
-- [ ] T0403 | 050-william-oneil | G-mental-models | investors/050-william-oneil/mental-models.md
-- [ ] T0404 | 050-william-oneil | H-synthesis | investors/050-william-oneil/synthesis.md
+- [ ] T0397 | 050-william-o-neil | A-profile | investors/050-william-o-neil/profile.md
+- [ ] T0398 | 050-william-o-neil | B-philosophy | investors/050-william-o-neil/investment-philosophy.md
+- [ ] T0399 | 050-william-o-neil | C-greatest-trades | investors/050-william-o-neil/greatest-trades.md
+- [ ] T0400 | 050-william-o-neil | D-mistakes | investors/050-william-o-neil/mistakes-and-losses.md
+- [ ] T0401 | 050-william-o-neil | E-own-words | investors/050-william-o-neil/in-their-own-words.md
+- [ ] T0402 | 050-william-o-neil | F-key-writings | investors/050-william-o-neil/key-writings.md
+- [ ] T0403 | 050-william-o-neil | G-mental-models | investors/050-william-o-neil/mental-models.md
+- [ ] T0404 | 050-william-o-neil | H-synthesis | investors/050-william-o-neil/synthesis.md
 - [ ] T0405 | cohort-05 | X-cohort-synthesis | synthesis/cohort-05.md
 - [ ] T0406 | 051-hetty-green | A-profile | investors/051-hetty-green/profile.md
 - [ ] T0407 | 051-hetty-green | B-philosophy | investors/051-hetty-green/investment-philosophy.md
@@ -819,6 +819,4 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
-
-
 
