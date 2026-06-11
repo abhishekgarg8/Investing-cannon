@@ -63,3 +63,8 @@
 - Output: investors/002-charlie-munger/greatest-trades.md (~3,232 words, 18 sources)
 - Notes: Completed Munger greatest-trades file across See's, BYD, Daily Journal's crisis basket, Wesco/Gillette, Costco, and Tenneco/Li Lu, with attribution caveats separating Munger-only, Munger-influenced, and Berkshire/Daily Journal vehicle results. BYD final P&L, Costco basis, and Tenneco identification remain flagged where primary ledgers were unavailable.
 - Backlog added: None
+
+## 2026-06-11T03:56:42Z — T0012 — 002-charlie-munger — D-mistakes — DONE
+- Output: investors/002-charlie-munger/mistakes-and-losses.md (~3,090 words, 20 sources)
+- Notes: Completed Munger mistakes/losses across the 1973-1974 Wheeler/Munger drawdown, Alibaba/Daily Journal, margin and concentration risk, Dexter/Berkshire quality judgment, Google/Amazon omissions, Wells Fargo incentive monitoring, and Munger Hall. Exact Alibaba P&L, family-account exposure, and original Wheeler/Munger statements remain unreconstructed.
+- Backlog added: None
