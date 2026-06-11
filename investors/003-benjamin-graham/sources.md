@@ -94,3 +94,64 @@ Created: 2026-06-11 for T0017 A-profile.
 - Performance evidence: strongest source is the CFA Research Foundation volume. Future tasks should still obtain and reconcile original Graham-Newman annual reports from Ivey/Columbia to bridge gross, net, GEICO-included, and GEICO-excluded returns.
 - Quote handling: no long Graham quotations were used in the profile. Future E-own-words work should quote directly from *The Intelligent Investor*, *Security Analysis*, and the 1976 CFA interview, keeping quotations short and edition-specific.
 - T0018 self-QA: reopened the 1976 *Financial Analysts Journal* interview, *The Intelligent Investor* chapter 20, the 1976 *Medical Economics* scan, and Berkeley's *Stock Market Warning* page. All supported the claims they were used for.
+## Added 2026-06-11 for T0019 C-greatest-trades
+
+28. [Tier 1] CFA Research Foundation / Kahn and Milne, *Benjamin Graham: The Father of Financial Analysis*, 1977. https://www.ivey.uwo.ca/media/3065497/ben-graham-father-financial-analysis.pdf  
+    Reused as the backbone for GEICO, Guggenheim Exploration, Du Pont/GM, Northern Pipeline, National Transit, net-current-asset, and special-situation evidence. Strongest single source, but several trade-level figures remain single-source pending original account ledgers.
+
+29. [Tier 1] Graham-Newman Corporation 1948 annual report, Columbia PDF. https://business.columbia.edu/sites/default/files-efs/imce-uploads/1948.PDF  
+    Primary annual report for the GEICO-purchase period. Text extraction was limited; used as archive support rather than for fine-grained numerical claims.
+
+30. [Tier 1] Graham-Newman Corporation 1957 final report. https://valuehunter.wordpress.com/wp-content/uploads/2009/03/1957.pdf  
+    Primary final-report scan for liquidation context and end-of-vehicle documentation. Text extraction was limited in web tooling; use future OCR for exact final distributions and portfolio details.
+
+31. [Tier 1] Ivey Business School, Ben Graham Collection. https://www.ivey.uwo.ca/bengrahaminvesting/resources/ben-graham-collection/  
+    Archive map for Graham-Newman annual reports and Graham writings. Used to identify report availability and remaining primary-source gaps.
+
+32. [Tier 1] Benjamin Graham, "A Conversation with Benjamin Graham," *Financial Analysts Journal*, 1976. https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf  
+    Used for Graham's own late-career description of net-current-asset investing, group results, 30-stock opportunity set, and sell discipline.
+
+33. [Tier 1] Benjamin Graham, "The Simplest Way to Select Bargain Stocks," *Medical Economics*, 1976. https://alphaarchitect.com/wp-content/uploads/2011/04/Simple-and-Easy-Approach-Medical-Economics-Graham-1976.pdf  
+    Used for the simplified late Graham method: low P/E, sound balance sheet, 30-stock diversification, 50% objective, two-to-three-year holding period, and drawdown tolerance.
+
+34. [Tier 1] Benjamin Graham, *Common Sense Investing: The Papers of Benjamin Graham*, compiled PDF. https://sorfis.com/wp-content/uploads/2021/09/Benjamin-Graham-Common-Sense-Investing-papers-of-Ben-Graham.pdf  
+    Used to verify Graham's own special-situation categories and examples, including arbitrage, recapitalization payouts, cash sales/liquidations, and litigation-driven situations.
+
+35. [Tier 2] Jason Zweig, "Was Benjamin Graham Skillful or Lucky?" 2011/2021 archive. https://jasonzweig.com/was-benjamin-graham-skillful-or-lucky/  
+    Used for the critical GEICO skill-versus-luck framing and the "little over $700,000 to more than $1 billion" scale claim. Treat as interpretive secondary source.
+
+36. [Tier 2] IFA, "The Impact of GEICO on Benjamin Graham and Warren Buffett." https://www.ifa.com/articles/impact_geico_benjamin_graham_warren_buffett_luck_gecko  
+    Used only as corroborating secondary context for GEICO purchase-size variants and the rule-breaking nature of the position.
+
+37. [Tier 2] Fordham Gabelli / Museum of American Finance, "David Dodd: Out of Ben Graham's Shadow," *Financial History*, 2020. https://www.fordhamgabellicenter.org/wp-content/uploads/2020/08/David-Dodd-Out-of-Ben-Grahams-Shadow-Financial-History-Summer-2020.pdf  
+    Used for Graham-Newman capital, Dodd's role, GEICO governance ties, and the $712,000 to $400 million GEICO statement.
+
+38. [Tier 2] John Steele Gordon, "Benjamin Graham: The Intelligent Investor," *American Heritage*, 1996. https://www.americanheritage.com/benjamin-graham-intelligent-investor  
+    Used for the Du Pont/GM relative-value hedge and broad early-career context; secondary but consistent with CFA and Duke paper.
+
+39. [Tier 2] Richard Bierig, "From Benjamin Graham to Warren Buffett," Duke paper. https://sites.duke.edu/djepapers/files/2016/08/bierig.pdf  
+    Used as independent secondary support for Guggenheim Exploration and Du Pont/GM mechanics, largely echoing the CFA source with clear tables.
+
+40. [Tier 2] The New Yorker, "How Should We Read Investor Letters?" 2016. https://www.newyorker.com/magazine/2016/09/05/jeff-gramms-dear-chairman-boardroom-battles-and-the-rise-of-shareholder-activism  
+    Used for Northern Pipeline's governance chronology and Jeff Gramm's activism framing. Good narrative source, but still secondary.
+
+41. [Tier 2] Harvard Business Review, "The Case for Activist Investors," 2016. https://hbr.org/2016/03/the-case-for-activist-investors  
+    Short corroborating source for Northern Pipeline's basic activist request: sell excess securities and distribute proceeds.
+
+42. [Tier 2] Business Insider / Jeff Gramm excerpt, "The activist playbook is nearly 90 years old," 2016. https://www.businessinsider.com/benjamin-graham-was-the-first-shareholder-activist-2016-6  
+    Used for Northern Pipeline activism context and Graham's broader stockholder-management stance, sourced to Gramm's *Dear Chairman*.
+
+43. [Tier 2] Carlisle, Mohanty, and Oxman, "Ben Graham's Net Nets: Seventy-Five Years Old and Outperforming," 2010 working paper. https://sabercapitalmgt.com/wp-content/uploads/2013/03/75-Years-and-Outperforming-Graham-Strategy.pdf  
+    Used to triangulate post-Graham evidence on NCAV portfolios and to cite academic discussion of Graham-Newman's NCAV use from 1930 to 1956.
+
+44. [Tier 2] Mohanty and Oxman, "Does Ben Graham's net current asset value investing continue to generate excess returns?", *Review of Financial Economics*, 2026 abstract via RePEc. https://ideas.repec.org/a/wly/revfec/v44y2026i1ne70034.html  
+    Current academic update used for modern limitations of NCAV: significant 1969-2019 alpha with reduced profitability in 2004-2019.
+
+45. [Tier 3] Novel Investor, "Happy Hour: The Wild Ride of GEICO." https://novelinvestor.com/happy-hour-wild-ride-geico/  
+    Used as a secondary lead for the post-1948 GEICO path and reminder that the distributed shares, not Graham-Newman's continuing fund holding, created the long-run payoff. Not used for primary numbers.
+
+## T0019 Search / Verification Notes
+
+- Mandatory criticism/legal searches run: "Benjamin Graham lawsuit SEC Graham-Newman GEICO Investment Company Act distribution," "Benjamin Graham criticism GEICO luck skill Jason Zweig," "Benjamin Graham Northern Pipeline criticism lawsuit proxy fight," and "Graham-Newman Corporation SEC Investment Company Act GEICO distribution 1948." No current legal development involving Graham personally was found; the key regulatory issue remains the Investment Company Act constraint on GEICO ownership.
+- Reopened and checked support for three randomly chosen citation clusters during QA: GEICO in CFA/Zweig/Fordham, Northern Pipeline in CFA/New Yorker/*Intelligent Investor*, and NCAV in the 1976 FAJ interview/Medical Economics/Carlisle-Mohanty-Oxman. Claims in the file were tightened where CFA gave better Northern Pipeline figures than secondary retellings.
+- Remaining high-priority primary-source gaps: original Northern Pipeline ICC/company/proxy records; National Transit records; exact Du Pont/GM entry and exit prices; original Graham-Newman annual reports with reliable OCR for 1948-1957.
