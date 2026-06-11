@@ -105,3 +105,8 @@
 - Output: investors/003-benjamin-graham/investment-philosophy.md (~2,610 words, 16 sources)
 - Notes: Completed Graham philosophy around margin of safety, price-vs-value, net-current-asset and low-P/E group methods, diversification, sell discipline, and late-career skepticism toward forecasting. Tensions preserved around GEICO, formula-vs-judgment, scale, and era-specific net-net opportunity set.
 - Backlog added: None
+
+## 2026-06-11T12:33:46Z — T0019 — 003-benjamin-graham — C-greatest-trades — DONE
+- Output: investors/003-benjamin-graham/greatest-trades.md (~3,104 words, 17 sources)
+- Notes: Completed Graham greatest-trades file across GEICO, Northern Pipeline, NCAV baskets, Guggenheim Exploration, Du Pont/GM, and National Transit. Caveats preserved for single-source GEICO/Northern/National Transit figures and missing primary filings.
+- Backlog added: None
