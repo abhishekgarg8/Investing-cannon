@@ -155,3 +155,55 @@ Created: 2026-06-11 for T0017 A-profile.
 - Mandatory criticism/legal searches run: "Benjamin Graham lawsuit SEC Graham-Newman GEICO Investment Company Act distribution," "Benjamin Graham criticism GEICO luck skill Jason Zweig," "Benjamin Graham Northern Pipeline criticism lawsuit proxy fight," and "Graham-Newman Corporation SEC Investment Company Act GEICO distribution 1948." No current legal development involving Graham personally was found; the key regulatory issue remains the Investment Company Act constraint on GEICO ownership.
 - Reopened and checked support for three randomly chosen citation clusters during QA: GEICO in CFA/Zweig/Fordham, Northern Pipeline in CFA/New Yorker/*Intelligent Investor*, and NCAV in the 1976 FAJ interview/Medical Economics/Carlisle-Mohanty-Oxman. Claims in the file were tightened where CFA gave better Northern Pipeline figures than secondary retellings.
 - Remaining high-priority primary-source gaps: original Northern Pipeline ICC/company/proxy records; National Transit records; exact Du Pont/GM entry and exit prices; original Graham-Newman annual reports with reliable OCR for 1948-1957.
+
+## Added 2026-06-11 for T0020 D-mistakes
+
+46. [Tier 1] CFA Research Foundation / Kahn and Milne, *Benjamin Graham: The Father of Financial Analysis*, 1977. https://rpc.cfainstitute.org/sites/default/files/-/media/documents/book/rf-publication/1977/rf-v1977-n1-4731-pdf.pdf  
+    Reused as the core source for the 1929-1932 Joint Account losses, margin-debt vulnerability, John Dix warning, Shattuck short-sale loss, Graham-Newman restructuring, GEICO distribution context, and post-Depression process changes.
+
+47. [Tier 2] John Steele Gordon, "Benjamin Graham: The Intelligent Investor," *American Heritage*, 1996. https://www.americanheritage.com/benjamin-graham-intelligent-investor  
+    Used as an independent secondary account of the 1930 re-risking mistake, annual loss sequence, cash-infusion survival detail, and Graham's transition from losses to teaching and writing.
+
+48. [Tier 1/Tier 2] Benjamin Graham, *The Intelligent Investor*, revised edition with Jason Zweig commentary, mirror PDF. https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The%20Intelligent%20Investor%20-%20BENJAMIN%20GRAHAM.pdf  
+    Used for Graham's own post-crash framing, Raskob warning, margin-of-safety doctrine, and Zweig's biographical note on the 1929-1932 loss. Mirror source; future quote work should verify a print edition.
+
+49. [Tier 1] Benjamin Graham, "A Conversation with Benjamin Graham," *Financial Analysts Journal*, 1976. https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Benjamin%20Graham/A%20Conversation%20with%20Ben%20Graham%20-%20Financial%20Analysts%20Journal%20-%201976.pdf  
+    Used for late-career process changes: skepticism toward forecasting, reduced confidence in elaborate issue-by-issue analysis, simplified group expectancy, and sell discipline.
+
+50. [Tier 1] Benjamin Graham, "The Simplest Way to Select Bargain Stocks," *Medical Economics*, 1976. https://alphaarchitect.com/wp-content/uploads/2011/04/Simple-and-Easy-Approach-Medical-Economics-Graham-1976.pdf  
+    Used for the late formula method: low P/E, balance-sheet screen, 30-stock diversification, 50% objective, two-to-three-year limit, and explicit readiness for poor short-term results.
+
+51. [Tier 1] Benjamin Graham, *Common Sense Investing: The Papers of Benjamin Graham*, compiled PDF. https://sorfis.com/wp-content/uploads/2021/09/Benjamin-Graham-Common-Sense-Investing-papers-of-Ben-Graham.pdf  
+    Used for Graham's own post-bubble essays on investment versus speculation, "New Era" distortions, working-capital bargains, and the failure of investors to look at balance sheets.
+
+52. [Tier 1] Benjamin Graham, "Stock Market Warning: Danger Ahead!," *California Management Review*, 1960. https://cmr.berkeley.edu/1960/05/2-3-stock-market-warning-danger-ahead/  
+    Used for Graham's later warning that 1950s speculative enthusiasm echoed earlier bull-market psychology and for the opportunity-cost / forecast-humility framing.
+
+53. [Tier 2] Jason Zweig, "Was Benjamin Graham Skillful or Lucky?", 2012. https://jasonzweig.com/was-benjamin-graham-skillful-or-lucky/  
+    Used for the critical GEICO lens: the huge position, rule-breaking hold, and luck-versus-skill problem in Graham's record.
+
+54. [Tier 1] GovInfo, *Investment Company Act of 1940*, current compilation as amended through P.L. 119-27, enacted July 18, 2025. https://www.govinfo.gov/content/pkg/COMPS-1879/pdf/COMPS-1879.pdf  
+    Used to verify the current statutory insurance-company ownership restriction for registered investment companies, relevant to the GEICO regulatory issue.
+
+55. [Tier 1] Berkshire Hathaway, 2014 shareholder letter. https://www.berkshirehathaway.com/letters/2014ltr.pdf  
+    Used for Buffett's primary explanation that Graham-style cigar-butt investing worked with small sums but was not scalable and was weaker as a foundation for a large enduring enterprise.
+
+56. [Tier 2] Carlisle, Mohanty, and Oxman, "Ben Graham's Net Nets: Seventy-Five Years Old and Outperforming," 2010 working paper. https://sabercapitalmgt.com/wp-content/uploads/2013/03/75-Years-and-Outperforming-Graham-Strategy.pdf  
+    Used to assess modern evidence on net-net returns, risk factors, liquidity, distress, and stricter-filter limitations.
+
+57. [Tier 2] Mohanty and Oxman, "Does Ben Graham's net current asset value investing continue to generate excess returns?", *Review of Financial Economics*, 2026 abstract via RePEc. https://ideas.repec.org/a/wly/revfec/v44y2026i1ne70034.html  
+    Used for current evidence that NCAV alpha persists over 1969-2019 but weakened in 2004-2019, supporting the model-decay discussion.
+
+58. [Tier 2] The New Yorker, "How Should We Read Investor Letters?", 2016. https://www.newyorker.com/magazine/2016/09/05/jeff-gramms-dear-chairman-boardroom-battles-and-the-rise-of-shareholder-activism  
+    Used for the Northern Pipeline proxy-fight chronology and the lesson that value realization required governance preparation, not just analysis.
+
+59. [Tier 2] Business Insider / Jeff Gramm excerpt, "Benjamin Graham Was the First Shareholder Activist," 2016. https://www.businessinsider.com/benjamin-graham-was-the-first-shareholder-activist-2016-6  
+    Used as corroborating secondary context for Northern Pipeline activism and management resistance.
+
+## T0020 Search / Verification Notes
+
+- Guiding questions: What nearly killed Graham's vehicle? Which losses were caused by market prices versus leverage and hedge drift? What did Graham say afterward? Which "mistakes" were actually winning exceptions, especially GEICO? Which parts of the Graham model later decayed or failed to transfer?
+- Mandatory criticism/legal searches run: "Benjamin Graham lawsuit SEC Graham-Newman enforcement," "Graham-Newman GEICO Investment Company Act SEC distribution 1948," "Benjamin Graham criticism GEICO lucky skill Jason Zweig," and "Benjamin Graham Northern Pipeline proxy fight criticism lawsuit." No current personal legal development involving Graham was found; the substantiated legal issue remains the GEICO / Investment Company Act ownership problem.
+- Saturation searches run near the end: "Benjamin Graham mistakes losses greatest mistake career 1930 John Dix," "Benjamin Graham Joint Account 44 percent margin debt 1930," and "Benjamin Graham did Graham-Newman almost fail 1930 father-in-law cash infusion." These reinforced the Depression drawdown thesis and did not change the core findings.
+- T0020 self-QA completed: reopened support for Depression loss data in CFA/American Heritage, GEICO statutory support in GovInfo, and late model adaptation in the 1976 FAJ interview. Word count and required sections verified locally.
+- Remaining primary-source gaps: original Joint Account ledgers and partner communications; primary SEC correspondence or order for the GEICO distribution; original Forbes 1932 articles; original Shattuck trade records.
