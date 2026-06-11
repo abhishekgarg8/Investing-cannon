@@ -135,3 +135,7 @@
 - Output: investors/003-benjamin-graham/mental-models.md (~2,650 words, 16 sources)
 - Notes: Stale retry closeout: verified completed mental-models file, appended T0023 sources, and spot-checked FAJ 1976, Medical Economics 1976, CFA/Ivey biography, and 2026 NCAV evidence. Caveats preserved around GEICO/Investment Company Act, Joint Account leverage, scale, and modern NCAV decay.
 - Backlog added: None
+## 2026-06-11T23:33:44Z — T0026 — 004-peter-lynch — B-philosophy — DONE
+- Output: investors/004-peter-lynch/investment-philosophy.md (~2,510 words, 15 sources)
+- Notes: Completed Lynch philosophy around bottom-up GARP, everyday-observation leads plus financial-statement work, portfolio breadth, thesis-based selling, and transferability limits. No profile/sources existed on main because T0025 remained freshly claimed; created sources.md with T0026 source map and caveats on scale, investor behavior gap, later Magellan closet-indexing, and 2008 SEC gift settlement.
+- Backlog added: None
