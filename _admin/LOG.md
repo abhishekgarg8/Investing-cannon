@@ -200,3 +200,8 @@
 - Output: investors/005-george-soros/in-their-own-words.md (~1,785 words, 28 task-specific sources)
 - Notes: Completed Soros own-words file with 27 source-verified short quotes, an annotated primary-materials index, and explicit caveats around quote aggregators, missing Quantum letters, and no first-party podcast transcripts found.
 - Backlog added: None
+
+## 2026-06-12T14:34:51Z — T0038 — 005-george-soros — F-key-writings — DONE
+- Output: investors/005-george-soros/key-writings.md (~2,794 words, 25 sources)
+- Notes: Completed Soros key-writings guide ranking primary books, essays, CEU lectures, and serious secondary works; flagged missing Quantum letters and page-level chapter verification gaps.
+- Backlog added: None
