@@ -38,7 +38,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-12T05:28:32Z T0031 | 004-peter-lynch | G-mental-models | investors/004-peter-lynch/mental-models.md
 - [x] done:2026-06-12T06:26:20Z T0032 | 004-peter-lynch | H-synthesis | investors/004-peter-lynch/synthesis.md
 - [x] done:2026-06-12T09:45:29Z T0033 | 005-george-soros | A-profile | investors/005-george-soros/profile.md
-- [ ] T0034 | 005-george-soros | B-philosophy | investors/005-george-soros/investment-philosophy.md
+- [~] claimed:2026-06-12T10:16:58Z T0034 | 005-george-soros | B-philosophy | investors/005-george-soros/investment-philosophy.md
 - [ ] T0035 | 005-george-soros | C-greatest-trades | investors/005-george-soros/greatest-trades.md
 - [ ] T0036 | 005-george-soros | D-mistakes | investors/005-george-soros/mistakes-and-losses.md
 - [ ] T0037 | 005-george-soros | E-own-words | investors/005-george-soros/in-their-own-words.md
@@ -819,6 +819,5 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
-
 
 
