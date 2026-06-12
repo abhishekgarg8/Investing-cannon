@@ -139,3 +139,8 @@
 - Output: investors/004-peter-lynch/investment-philosophy.md (~2,510 words, 15 sources)
 - Notes: Completed Lynch philosophy around bottom-up GARP, everyday-observation leads plus financial-statement work, portfolio breadth, thesis-based selling, and transferability limits. No profile/sources existed on main because T0025 remained freshly claimed; created sources.md with T0026 source map and caveats on scale, investor behavior gap, later Magellan closet-indexing, and 2008 SEC gift settlement.
 - Backlog added: None
+
+## 2026-06-12T00:39:48Z — T0025 — 004-peter-lynch — A-profile — DONE
+- Output: investors/004-peter-lynch/profile.md (~3,132 words, 20 sources)
+- Notes: Stale retry closeout: created Lynch profile with living/status check, Magellan vehicle structure, 29.2% CAGR arithmetic caveat, $18-$20 million-to-$14 billion AUM triangulation, public-access/investor-behavior caveats, and 2008 SEC gift-settlement context.
+- Backlog added: None
