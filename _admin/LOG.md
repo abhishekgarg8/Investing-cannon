@@ -180,3 +180,8 @@
 - Output: investors/005-george-soros/profile.md (~2,521 words, 22 sources)
 - Notes: Created Soros profile with living/status check, SFM family-office structure, Quantum return caveats, sterling profit dispute, 2026 13F/AUM caveats, and legal/criticism context around France, 1979 SEC complaint, Asian-crisis claims, and conspiracy framing.
 - Backlog added: None
+
+## 2026-06-12T10:45:35Z — T0034 — 005-george-soros — B-philosophy — DONE
+- Output: investors/005-george-soros/investment-philosophy.md (~2,579 words, 32 sources)
+- Notes: Completed Soros philosophy around fallibility/reflexivity, boom-bust feedback loops, macro process, sizing, sell discipline, risk, career evolution, market-fundamentalism rejection, regime fit, and tensions around legal/regulatory history and attribution to Quantum/SFM teams.
+- Backlog added: None
