@@ -149,3 +149,8 @@
 - Output: investors/004-peter-lynch/greatest-trades.md (~3,188 words, 14 task-specific sources)
 - Notes: Completed Lynch greatest-trades file around Fannie Mae, auto cyclicals, and the Lynch/Rothchild ranked list of Magellan winners. Exact P&L figures are flagged `[single-source: Lynch/Rothchild book]` where primary Magellan reports have not yet been reconstructed; caveats preserved on public access, behavior gap, later Fannie/Freddie conservatorship, later Magellan scale/closet-indexing, and the 2008 SEC gift matter.
 - Backlog added: None
+
+## 2026-06-12T02:43:43Z — T0028 — 004-peter-lynch — D-mistakes — DONE
+- Output: investors/004-peter-lynch/mistakes-and-losses.md (~3,238 words, 14 task-specific sources)
+- Notes: Completed Lynch mistakes/losses around 1987 liquidity/redemptions, repeat drawdowns, investor behavior gap/public-access caveats, sell-discipline errors, Starbucks/Apple omissions, 2008 housing/Fannie-Freddie risk, the 2008 SEC broker-gift settlement, and later Magellan scale warnings.
+- Backlog added: None
