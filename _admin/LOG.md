@@ -210,3 +210,8 @@
 - Output: investors/005-george-soros/mental-models.md (~2,986 words, 19 task-specific sources)
 - Notes: Reconstructed Soros's operational checklist from fallibility/reflexivity writings, crisis essays, Quantum trade/mistake files, and associate evidence; emphasized trend-plus-misconception tests, sizing, sell rules, risk limits, and transferability boundaries. Key caveats preserved around missing Quantum internals, team attribution, current SFM non-comparability, and legal/reputational risk.
 - Backlog added: None
+
+## 2026-06-12T17:29:20Z — T0040 — 005-george-soros — H-synthesis — DONE
+- Output: investors/005-george-soros/synthesis.md (~1,700 words, 13 sources)
+- Notes: Stale closeout: verified the already-committed Soros synthesis, INDEX row, required sections, and source map. Preserved caveats around Quantum return reconstruction, Black Wednesday P&L, team attribution, SFM non-comparability, and legal/reputational risk.
+- Backlog added: None
