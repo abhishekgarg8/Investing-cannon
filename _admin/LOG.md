@@ -225,3 +225,8 @@
 - Output: investors/006-stanley-druckenmiller/investment-philosophy.md (~2,916 words, 16 sources)
 - Notes: Completed Druckenmiller philosophy around forward-looking macro, liquidity, cross-asset flexibility, concentration/sizing, portfolio-matrix risk management, sell discipline, temperament, regime dependence, and transferability caveats. Preserved caveats around audited returns, intra-year drawdowns, Quantum attribution, legal/regulatory search limitations, and 13F non-comparability.
 - Backlog added: None
+
+## 2026-06-12T20:36:04Z — T0043 — 006-stanley-druckenmiller — C-greatest-trades — DONE
+- Output: investors/006-stanley-druckenmiller/greatest-trades.md (~3,648 words, 19 task-specific sources)
+- Notes: Completed Druckenmiller greatest-trades file with Black Wednesday ranked as the clear best trade and ERM follow-ons, bonds, oil/defense, 1987 reversal, tech, 2008, Nvidia, and Teva caveated by source quality. Key limitations preserved around audited Duquesne returns, Swedish-krona single-source P&L, and 13F non-comparability.
+- Backlog added: None
