@@ -158,3 +158,8 @@
 - Output: investors/004-peter-lynch/in-their-own-words.md (~1,541 words, 21 task-specific sources)
 - Notes: Completed Lynch quote file with 26 short source-visible quotes, annotated primary/near-primary materials index, and attribution watchlist. Key caveats preserved: 2025 Compound transcript needs audio spot-checking; book quotes still need page-level verification in F-key-writings.
 - Backlog added: None
+
+## 2026-06-12T05:28:32Z — T0031 — 004-peter-lynch — G-mental-models — DONE
+- Output: investors/004-peter-lynch/mental-models.md (~2,953 words, 20 task-specific sources)
+- Notes: Reconstructed Lynch's operational checklist from existing A-E files plus fresh book/transcript/Fidelity/SEC sources, emphasizing category discipline, balance-sheet survival, liquidity/client-behavior risk, scale, and transferability limits. Key gaps remain page-verifying Lynch/Rothchild books and reconstructing Lynch-era Magellan holdings/cash/turnover.
+- Backlog added: None
