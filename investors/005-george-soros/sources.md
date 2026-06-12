@@ -124,3 +124,45 @@ Additional searches covered: Soros 1981 British gilt loss; 1987 crash / S&P futu
 - The 1997 more-than-$2bn Asian-market-shock figure is direct from RFE/RL's report of a Quantum spokesperson, but final annual impact was not reconstructed.
 - The 2000 dot-com details are partly public and partly later Druckenmiller recollection; exact SFM investor-letter language and fund-merger mechanics still need primary verification.
 - BSG Resources claims against Soros were dismissed with prejudice in 2021, but the file should continue to distinguish that dismissal from the separate ICSID corruption findings involving BSG and Guinea.
+
+## T0037 E-own-words additions - 2026-06-12T13:35:12Z
+
+63. [GeorgeSoros.com - The Alchemy of Finance](https://www.georgesoros.com/1987/10/19/the_alchemy_of_finance/) - Official page for Soros's canonical investing book; useful as an index pointer, though later F work should cite the book directly.
+64. [Soros on Soros official chapter excerpt PDF](https://www.georgesoros.com/wp-content/uploads/2017/10/soros_on_soros-chap-2-2017_10_05.pdf) - Primary interview-format excerpt for family influence, Popper, early finance career, and the "errors, biases, and misconceptions" formulation.
+65. [GeorgeSoros.com, 2014 - Fallibility, Reflexivity, and the Human Uncertainty Principle](https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/) - Primary late-career essay distilling fallibility/reflexivity and Soros's relationship with academic economics.
+66. [Open Society Foundations PDF - General Theory of Reflexivity transcript](https://www.opensocietyfoundations.org/uploads/9ae17912-2262-4646-8ffc-d01afc934c36/george-soros-general-theory-of-reflexivity-transcript.pdf) - Primary CEU lecture transcript for the conceptual origin story and open-society link.
+67. [Open Society Foundations PDF - Financial Markets transcript](https://www.opensocietyfoundations.org/uploads/2b96bb8c-e2e1-4d88-9eea-badf16d0a2b8/george-soros-financial-markets-transcript.pdf) - Primary CEU lecture transcript for market prices, fundamentals, positive feedback, bubbles, and regulators.
+68. [Open Society Foundations PDF - Open Society transcript](https://www.opensocietyfoundations.org/uploads/ff00a4b4-e422-4935-b50d-4e6f72879f71/george-soros-open-society-transcript.pdf) - Primary lecture transcript connecting Popper, open society, and Soros's market edge.
+69. [Open Society Foundations PDF - Capitalism Versus Open Society transcript](https://www.opensocietyfoundations.org/uploads/2b96bb8c-e2e1-4d88-9eea-badf16d0a2b8/george-soros-capitalism-vs-open-society-transcript.pdf) - Primary lecture transcript on agency problems, market values, and moral values.
+70. [GeorgeSoros.com, 2011 - Remarks delivered at the Cato Institute](https://www.georgesoros.com/2011/04/28/why_i_agree_with_some_of_friedrich_hayek/) - Primary speech excerpt for Hayek, Popper, fallibility, reflexivity, and market fundamentalism.
+71. [GeorgeSoros.com, 2010 - Remarks delivered at the INET Conference at King's College](https://www.georgesoros.com/2010/04/09/anatomy_of_a_crisis_-_the_living_history_of_the_last_30_years_economic_theo/) - Primary speech on economics as history, not physics, and the failure of crisis-era theory.
+72. [GeorgeSoros.com, 2012 - Remarks delivered at the Festival of Economics](https://www.georgesoros.com/2012/06/02/remarks_at_the_festival_of_economics_trento_italy/) - Primary speech on reflexivity, political bubbles, and euro-crisis dynamics.
+73. [GeorgeSoros.com, 1997 - Toward a Global Open Society](https://www.georgesoros.com/1997/12/02/toward-a-global-open-society/) - Primary essay linking global capitalism, financial instability, and open-society institutions.
+74. [GeorgeSoros.com, 2008 - The Crisis & What To Do About It](https://www.georgesoros.com/2008/11/06/the_crisis_what_to_do_about_it/) - Primary post-Lehman essay on reflexivity, super-bubbles, CDS, leverage, and regulation.
+75. [GeorgeSoros.com, 2008 - The Worst Market Crisis in 60 Years](https://www.georgesoros.com/2008/01/22/the_worst_market_crisis_in_60_years/) - Primary essay with Soros's early 2008 super-boom and market-fundamentalism framing.
+76. [GeorgeSoros.com, 2008 - The Perilous Price of Oil](https://www.georgesoros.com/2008/08/27/the_perilous_price_of_oil/) - Primary/testimony-derived source applying bubble theory to oil and commodity markets.
+77. [GeorgeSoros.com, 1988 - After Black Monday](https://www.georgesoros.com/1988/03/16/after-black-monday/) - Primary post-crash essay with rare self-criticism about the 1987 crash.
+78. [GeorgeSoros.com, 1987 - A Global New Deal](https://www.georgesoros.com/1987/08/13/a-global-new-deal/) - Primary macro-policy essay on dollar hegemony, Japan, trade imbalance, and protectionism.
+79. [GeorgeSoros.com, 1998 - The Only Way for Russia to End Its Crisis](https://www.georgesoros.com/1998/08/13/the-only-way-for-russia-to-end-its-crisis/) - Primary timestamped Russia-crisis essay shortly before the Russian default/devaluation and related Quantum losses.
+80. [GeorgeSoros.com, 2011 - My Philanthropy](https://www.georgesoros.com/2011/06/22/my_philanthropy/) - Primary essay on wartime formation, risk appetite, public interest, OSF governance, and political philanthropy.
+81. [GeorgeSoros.com, 2008 - Soros: Global Investing's Godfather](https://www.georgesoros.com/2008/05/13/cnn_money/) - Officially republished CNN Money interview covering the 2008 crisis, personal hedging, fallibility, and investor advice.
+82. [GeorgeSoros.com, 2006 - Interview with Harvey Blume](https://www.georgesoros.com/2006/08/20/the_boston_globe/) - Officially republished Boston Globe interview on philosophy, critical thinking, globalization, and international law.
+83. [GeorgeSoros.com, 2020 - The Great Anticipator](https://www.georgesoros.com/2020/08/11/the-great-anticipator/) - Late-life interview with first-person comments on conspiracies, family survival, Black Wednesday, and asymmetric risk.
+84. [GeorgeSoros.com, 2012 - Europe's Crisis of Values](https://www.georgesoros.com/2012/12/31/europes-crisis-of-values/) - Primary essay linking austerity, extremism, and the EU's open-society claims.
+85. [GeorgeSoros.com, 2012 - A Europe of Solidarity, Not Only Discipline](https://www.georgesoros.com/2012/10/30/a_europe_of_solidarity_not_only_discipline/) - Primary essay explaining Solidarity Now and Soros's EU philanthropy as an anti-disintegration intervention.
+86. [GeorgeSoros.com, 2014 - The Future of Europe interview](https://www.georgesoros.com/2014/03/21/the-future-of-europe-an-interview-with-george-soros/) - Officially republished NYRB interview on Germany, banking union, refugees, Roma, and EU disintegration.
+87. [GeorgeSoros.com, 2016 - The EU is on the Verge of Collapse interview](https://www.georgesoros.com/2016/01/20/the-eu-is-on-the-verge-of-collapse-an-interview/) - Officially republished NYRB interview on migration, Merkel, nationalism, Russia, and open society.
+88. [GeorgeSoros.com, 2019 - Remarks delivered at the World Economic Forum](https://www.georgesoros.com/2019/01/24/remarks-delivered-at-the-world-economic-forum-2/) - Primary late-career speech on AI, authoritarian control, open society, and political philanthropy.
+89. [GeorgeSoros.com, 2016 - Open Society Needs Defending](https://www.georgesoros.com/2016/12/30/open-society-needs-defending/) - Primary essay on post-2016 democratic crisis, globalization, inequality, and open/closed societies.
+90. [GeorgeSoros.com, 2023 - Can Democracy Survive the Polycrisis?](https://www.georgesoros.com/2023/06/06/can-democracy-survive-the-polycrisis/) - Primary late statement on AI, climate, Ukraine, and the open/closed society distinction.
+
+## T0037 query coverage notes
+
+Additional searches covered: Soros own quotes; reflexivity lecture transcripts; official Soros essays; Soros on Soros excerpts; CEU lecture PDFs; Cato/INET/Festival speeches; Soros interviews; Soros podcast transcripts; Soros criticism; Soros lawsuit/current legal status; French insider-trading appeal; and 1979 SEC complaint context.
+
+## T0037 limitations to carry forward
+
+- No first-party Soros podcast transcript was found; podcast results were third-party discussions of Soros's work rather than direct own-words sources.
+- The quote set deliberately avoids quote aggregators and famous orphan quotes; this leaves out some popular Soros aphorisms that could not be tied to an opened original venue.
+- Internal Quantum letters, investor updates, and trading-room memos remain missing; public essays and speeches dominate the own-words corpus.
+- Several book pages are useful indexes but not substitutes for page-level book verification in the later F-key-writings task.
