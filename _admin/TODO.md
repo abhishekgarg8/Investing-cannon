@@ -42,7 +42,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-12T11:46:35Z T0035 | 005-george-soros | C-greatest-trades | investors/005-george-soros/greatest-trades.md
 - [x] done:2026-06-12T12:37:48Z T0036 | 005-george-soros | D-mistakes | investors/005-george-soros/mistakes-and-losses.md
 - [x] done:2026-06-12T13:35:12Z T0037 | 005-george-soros | E-own-words | investors/005-george-soros/in-their-own-words.md
-- [ ] T0038 | 005-george-soros | F-key-writings | investors/005-george-soros/key-writings.md
+- [~] claimed:2026-06-12T14:18:21Z T0038 | 005-george-soros | F-key-writings | investors/005-george-soros/key-writings.md
 - [ ] T0039 | 005-george-soros | G-mental-models | investors/005-george-soros/mental-models.md
 - [ ] T0040 | 005-george-soros | H-synthesis | investors/005-george-soros/synthesis.md
 - [ ] T0041 | 006-stanley-druckenmiller | A-profile | investors/006-stanley-druckenmiller/profile.md
