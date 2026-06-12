@@ -205,3 +205,8 @@
 - Output: investors/005-george-soros/key-writings.md (~2,794 words, 25 sources)
 - Notes: Completed Soros key-writings guide ranking primary books, essays, CEU lectures, and serious secondary works; flagged missing Quantum letters and page-level chapter verification gaps.
 - Backlog added: None
+
+## 2026-06-12T15:34:26Z — T0039 — 005-george-soros — G-mental-models — DONE
+- Output: investors/005-george-soros/mental-models.md (~2,986 words, 19 task-specific sources)
+- Notes: Reconstructed Soros's operational checklist from fallibility/reflexivity writings, crisis essays, Quantum trade/mistake files, and associate evidence; emphasized trend-plus-misconception tests, sizing, sell rules, risk limits, and transferability boundaries. Key caveats preserved around missing Quantum internals, team attribution, current SFM non-comparability, and legal/reputational risk.
+- Backlog added: None
