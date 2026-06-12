@@ -195,3 +195,8 @@
 - Output: investors/005-george-soros/mistakes-and-losses.md (~3,005 words, 15 task-specific sources)
 - Notes: Completed Soros mistakes/losses across 1981 gilts, 1987 crash execution, 1994 yen, 1997 Asia shock, 1998 Russia, 1999-2000 technology/euro losses, and legal/reputational failures. Key caveats preserved: Quantum figures remain press/participant reported; 1987/1994/1997 loss magnitudes and attribution need primary fund records.
 - Backlog added: None
+
+## 2026-06-12T13:35:12Z — T0037 — 005-george-soros — E-own-words — DONE
+- Output: investors/005-george-soros/in-their-own-words.md (~1,785 words, 28 task-specific sources)
+- Notes: Completed Soros own-words file with 27 source-verified short quotes, an annotated primary-materials index, and explicit caveats around quote aggregators, missing Quantum letters, and no first-party podcast transcripts found.
+- Backlog added: None
