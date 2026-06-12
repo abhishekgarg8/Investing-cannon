@@ -93,3 +93,34 @@ Additional searches covered: Black Wednesday position size, profit estimates, Ba
 - The 2007 credit-crisis comeback is backed by Alpha/press earnings and return estimates, but public sources opened here do not reveal the underlying instruments.
 - The 2012-13 yen trade belongs to Soros Fund Management/Scott Bessent under Soros's platform; do not present it as a solo George Soros decision.
 - Asian-currency shorts are supported by Soros's later account and academic footprint evidence, but no reliable Soros-specific P&L was found in this run.
+
+## T0036 D-mistakes additions - 2026-06-12T12:50:00Z
+
+48. [GeorgeSoros.com, 1988 - After Black Monday](https://www.georgesoros.com/1988/03/16/after-black-monday/) - Primary Soros post-crash essay analyzing the 1987 sequence from Japanese bonds through U.S. bonds, equities, and the dollar; useful for his own post-mortem language.
+49. [Los Angeles Times, 1994 - Soros weathers $600-million blow](https://www.latimes.com/archives/la-xpm-1994-03-07-fi-31188-story.html) - Near-contemporaneous source for the February 1994 yen-related one-day loss, 5% yen move, and contemporaneous assets/context.
+50. [RFE/RL, 1997 - George Soros: The Man Who Broke The Bank Of England](https://www.rferl.org/a/1087131.html) - Contemporary source for the October 1997 Asian-market-shock loss estimate, bond profits offset by equity/currency losses, and Soros BBC remark.
+51. [Irish Times, 1998 - Soros funds face $2bn loss on Russian bonds](https://www.irishtimes.com/business/soros-funds-face-2bn-loss-on-russian-bonds-1.187055) - Contemporary source for admitted up-to-$2bn Russia crisis losses and Druckenmiller's "took a risk" framing.
+52. [GeorgeSoros.com, 1998 - The Only Way for Russia to End Its Crisis](https://www.georgesoros.com/1998/08/13/the-only-way-for-russia-to-end-its-crisis/) - Primary Soros article just before the Russian default/devaluation, documenting his diagnosis and proposed currency-board solution.
+53. [Kyle and Obizhaeva, 2013 - Large Bets and Stock Market Crashes](https://www.american.edu/kogod/research/upload/20130906_kyle_obizhaeva-crashes-66-circulate.pdf) - Academic source tying Soros's costly 1987 S&P futures execution to later thinking about withdrawing from active management.
+54. [Encyclopedia.com - Soros Fund Management LLC](https://www.encyclopedia.com/books/politics-and-business-magazines/soros-fund-management-llc) - Secondary company-history source for 1987, 1994, and 1996 context; useful but should be checked against primary fund documents where possible.
+55. [Wired, 2000 - Hedge Funds on the Decline](https://www.wired.com/2000/04/hedge-funds-on-the-decline/) - Contemporary source for the 2000 Quantum decline, technology/euro mistake framing, and macro-fund industry context.
+56. [WealthBriefing, 2011 - George Soros Converts Hedge Fund To Family Office](https://www.wealthbriefing.com/html/article.php/george-soros-converts-hedge-fund-to-family-office-) - Source for family-office conversion details, outside-money return, and regulatory framing; overlaps with Guardian but adds letter excerpts.
+57. [Guardian, 2011 - Soros fails to reverse insider dealing conviction](https://www.theguardian.com/business/2011/oct/06/george-soros-insider-dealing-european-court-of-human-rights) - Legal reporting source for the ECHR rejection of Soros's challenge to the French insider-dealing conviction.
+58. [Justia / SDNY, 2017 - BSG Resources v. Soros stay order](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2017cv02726/472483/136/) - Court source explaining why the Soros/OSF litigation was stayed pending the Guinea arbitration and what issues overlapped.
+59. [Justia / SDNY, 2021 - BSG Resources v. Soros Document 193](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2017cv02726/472483/193/) - Court source converting dismissal motion to summary judgment and allowing limited discovery on bribery-related questions.
+60. [Justia docket, 2021 - BSG Resources v. Soros](https://dockets.justia.com/docket/new-york/nysdce/1%3A2017cv02726/472483) - Docket source for October 27, 2021 dismissal with prejudice of all plaintiffs' claims, each side bearing its own costs.
+61. [IISD, 2024 - BSG Resources v. Guinea ICSID award summary](https://www.iisd.org/itn/2024/04/02/the-icsid-tribunals-decision-in-bsg-resources-v-guinea-concludes-that-the-mining-licences-were-obtained-through-corruption/) - Current legal-context source for the arbitration conclusion that BSG mining rights were secured through corrupt practices.
+62. [NBER Digest, 1998 - Did Foreign Investors Cause Asian Market Problem?](https://www.nber.org/digest/oct98/did-foreign-investors-cause-asian-market-problem) - Useful caveat source explaining limitations of hedge-fund exposure estimates in Brown/Goetzmann/Park.
+
+## T0036 query coverage notes
+
+Additional searches covered: Soros 1981 British gilt loss; 1987 crash / S&P futures execution; 1994 yen loss; October 1997 Asian-market shock; 1998 Russian default losses and Soros's own Russia article; 1999-2000 Quantum technology/euro losses and restructuring; Druckenmiller dot-com mistake accounts; 1979 SEC complaint and 1986 CFTC fine; French insider-trading conviction and ECHR appeal; Asian-crisis empirical evidence; BSG Resources / Guinea litigation status through dismissal and ICSID award; current SFM family-office structure and OSF/Soros living-status check.
+
+## T0036 limitations to carry forward
+
+- The D-mistakes file still lacks primary Quantum investor letters for 1981, 1987, 1994, 1997, 1998, and 2000; figures remain press/participant reported unless otherwise noted.
+- The 1987 drawdown has conflicting reported framings: roughly 30%, at least $350 million, and up to $800 million appear across secondary sources. A primary fund report is needed.
+- The 1994 yen loss is well-supported as a large one-day hit, but sources differ from $350 million to $800 million; I used the LA Times $600 million as the central contemporary figure and flagged the range.
+- The 1997 more-than-$2bn Asian-market-shock figure is direct from RFE/RL's report of a Quantum spokesperson, but final annual impact was not reconstructed.
+- The 2000 dot-com details are partly public and partly later Druckenmiller recollection; exact SFM investor-letter language and fund-merger mechanics still need primary verification.
+- BSG Resources claims against Soros were dismissed with prejudice in 2021, but the file should continue to distinguish that dismissal from the separate ICSID corruption findings involving BSG and Guinea.
