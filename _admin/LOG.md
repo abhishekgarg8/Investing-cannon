@@ -215,3 +215,8 @@
 - Output: investors/005-george-soros/synthesis.md (~1,700 words, 13 sources)
 - Notes: Stale closeout: verified the already-committed Soros synthesis, INDEX row, required sections, and source map. Preserved caveats around Quantum return reconstruction, Black Wednesday P&L, team attribution, SFM non-comparability, and legal/reputational risk.
 - Backlog added: None
+
+## 2026-06-12T18:33:45Z — T0041 — 006-stanley-druckenmiller — A-profile — DONE
+- Output: investors/006-stanley-druckenmiller/profile.md (~2,429 words, 20 sources)
+- Notes: Created Druckenmiller profile with current living/status check, Duquesne/Dreyfus/Soros vehicle structure, caveated 30%/no-losing-year record, 2026 13F footprint, philanthropy, and legal/regulatory search limitations. Key caveats preserved around audited returns, start-date differences, Quantum attribution, and 13F non-comparability to total AUM.
+- Backlog added: None
