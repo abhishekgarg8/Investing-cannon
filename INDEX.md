@@ -7,3 +7,5 @@
 | 004 | Peter Lynch | GARP; bottom-up stock picking; consumer scuttlebutt; category-flexible mutual fund; broad active portfolio | Turned everyday observation into researched stock stories, using Fidelity's platform, category discipline, and tolerance for volatility to compound Magellan at exceptional scale. | [investors/004-peter-lynch/](investors/004-peter-lynch/) |
 
 
+
+(Rows added by each investor's H-synthesis task.)
