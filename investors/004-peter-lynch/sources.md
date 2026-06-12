@@ -77,3 +77,28 @@
 - For Fannie Mae, split realized gains, unrealized marks, dividends, and Fidelity-wide versus Magellan-only profits.
 - Find primary or contemporaneous sources for exact Ford, Chrysler, Volvo, Philip Morris, MCI, GE, General Public Utilities, Student Loan Marketing, Kemper, and Loews entry/exit windows.
 - Upgrade the searchable *Beating the Street* mirror citation to page-verified book scans or a controlled-lending copy.
+
+## T0028 D-mistakes sources (2026-06-12)
+
+1. [American Academy of Arts & Sciences Peter S. Lynch profile](https://www.amacad.org/person/peter-s-lynch) - Current institutional status check, updated April 2026, plus Magellan role, 29.2% annual return, and AUM-growth context.
+2. [Fidelity Magellan Fund fact sheet](https://www.fidelity.com/myfidelity/InsideFidelity/NewsCenter/quickFacts/Magellan.html) - Primary Fidelity source for manager sequence, start/end AUM framing, and the 1965-1981 closed-to-new-investors caveat.
+3. [Up, Up, then Doooown - Time, January 4, 1988](https://time.com/archive/6711236/up-up-then-doooown/) - Key contemporaneous source for the 1987 crash episode: Magellan's three-day share-price plunge, asset decline, redemption pressure, forced selling, and Lynch's cash-policy change.
+4. [Fidelity 2022 Lynch/Kuiper transcript](https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/learning-center/110322%20rewards%20exclusive_UnderstandtheChange-Transcript_%20F.pdf) - Official Fidelity transcript for Lynch's later comments on repeated 10%+ drawdowns, risk tolerance, knowing what one owns, and his 2008 housing misread.
+5. [The Compound and Friends 2025 Peter Lynch transcript](https://podscripts.co/podcasts/the-compound-and-friends/how-peter-lynch-became-the-greatest-fund-manager-of-all-time) - 2025 transcript for Lynch's late-career comments on missed Starbucks/Apple opportunities and sell-discipline lessons. Auto-transcript caveat remains.
+6. [Peter Lynch on Common Investor Mistakes - Novel Investor transcript of Wall Street Week](https://novelinvestor.com/peter-lynch-on-common-investor-mistakes/) - Transcript source for Lynch's 1990 comments on not knowing what one owns, playing the market, doing insufficient work, and asymmetric upside/downside.
+7. [Peter Lynch's Track Record Revisited - A Wealth of Common Sense](https://awealthofcommonsense.com/2016/07/peter-lynchs-track-record-revisited/) - Secondary source for behavior-gap and public-access caveats; use carefully because it summarizes Jakab/Bernstein rather than publishing original Fidelity dollar-weighted data.
+8. [SEC press release: Fidelity gift matter](https://www.sec.gov/news/press/2008/2008-32.htm) - Primary SEC overview of the 2008 Fidelity broker-gift settlement, $8 million firm penalty, and Lynch's settled charges.
+9. [SEC administrative order against Peter S. Lynch](https://www.sec.gov/files/litigation/admin/2008/ic-28189.pdf) - Primary order for the Lynch-specific findings, ticket value, settlement terms, and post-Magellan portfolio-management status.
+10. [FHFA conservatorship history](https://www.fhfa.gov/conservatorship/history) - Official source for the September 6, 2008 Fannie Mae/Freddie Mac conservatorships and the financial-condition rationale.
+11. [Stansky's Monster - Ross M. Miller, SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=964824.) - Academic critique of post-Lynch Magellan scale/closet-indexing problems; used as a franchise and capacity caveat rather than Lynch-era evidence.
+12. [Master Stock Picking With Peter Lynch's Proven Strategies - Investopedia](https://www.investopedia.com/articles/stocks/06/peterlynch.asp) - Secondary strategy summary for tenbaggers, long-term orientation, and the warning against selling winners too early.
+13. [One Up on Wall Street - Simon & Schuster publisher page](https://www.simonandschuster.com/books/One-Up-On-Wall-Street/Peter-Lynch/9780743200400) - Publisher metadata for the core Lynch/Rothchild book; later tasks should add page-level citations.
+14. [Beating the Street - Google Books bibliographic record](https://books.google.com/books/about/Beating_the_Street.html?id=XyVYo9iRuScC) - Bibliographic source for the case-study book; useful provenance for trade/mistake follow-up.
+
+### Open questions added by T0028
+
+- Locate original Lynch-era Magellan shareholder letters, especially the October 1987 letter, to verify contemporaneous language against the Time reconstruction.
+- Reconstruct Magellan annual reports and holdings from 1977 to 1990 so drawdowns, cash levels, turnover, and realized/unrealized gains can be separated from later memory.
+- Trace the investor-return gap to the original Lynch, Fidelity, Spencer Jakab, or dollar-weighted calculation before using the 7% figure as fully verified.
+- Verify page-level citations in One Up on Wall Street and Beating the Street for sell-discipline rules, mistake taxonomy, and Fannie Mae discussion.
+- Build a mini case study on how later Magellan's asset growth and benchmarking changed the opportunity set after Lynch.
