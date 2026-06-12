@@ -40,7 +40,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-12T09:45:29Z T0033 | 005-george-soros | A-profile | investors/005-george-soros/profile.md
 - [x] done:2026-06-12T10:45:35Z T0034 | 005-george-soros | B-philosophy | investors/005-george-soros/investment-philosophy.md
 - [x] done:2026-06-12T11:46:35Z T0035 | 005-george-soros | C-greatest-trades | investors/005-george-soros/greatest-trades.md
-- [ ] T0036 | 005-george-soros | D-mistakes | investors/005-george-soros/mistakes-and-losses.md
+- [x] done:2026-06-12T12:37:48Z T0036 | 005-george-soros | D-mistakes | investors/005-george-soros/mistakes-and-losses.md
 - [ ] T0037 | 005-george-soros | E-own-words | investors/005-george-soros/in-their-own-words.md
 - [ ] T0038 | 005-george-soros | F-key-writings | investors/005-george-soros/key-writings.md
 - [ ] T0039 | 005-george-soros | G-mental-models | investors/005-george-soros/mental-models.md
