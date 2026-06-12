@@ -193,3 +193,40 @@
 - Reconstruct Lynch-era Magellan annual/semiannual reports for holdings, cash, turnover, and position-size verification.
 - Trace the reported average-investor return gap to original Fidelity, Lynch, Jakab, or Bernstein material before treating the 7% figure as fully verified.
 - Upgrade source-visible book mirrors to page-verified copies for `One Up on Wall Street`, `Beating the Street`, and `Learn to Earn`.
+
+## T0030 F-key-writings sources (2026-06-12)
+
+1. [One Up on Wall Street - Simon & Schuster official page](https://www.simonandschuster.com/books/One-Up-On-Wall-Street/Peter-Lynch/9780743200400) - Official publisher source for the book title, authorship, average-investor edge framing, tenbagger description, financial-statement work, and category guidelines.
+2. [One Up on Wall Street - Google Books](https://books.google.com/books/about/One_Up_On_Wall_Street.html?id=KcJaXu7FVZ0C) - Bibliographic/source-summary support for the updated edition, financial-statement emphasis, and category-specific investing topics.
+3. [Beating the Street - Simon & Schuster official page](https://www.simonandschuster.com/books/Beating-the-Street/Peter-Lynch/9780671891633) - Official publisher source for the sequel's company-behind-the-stock thesis and do-it-yourself research framing.
+4. [Beating the Street - Google Books](https://books.google.com/books/about/Beating_the_Street.html?id=XyVYo9iRuScC) - Bibliographic/source-summary support for the Barron's Roundtable case-study structure and early table-of-contents leads.
+5. [Learn to Earn - Google Books Malta record](https://books.google.com.mt/books?id=_Z3B7naRL-AC&lr=&source=gbs_navlinks_s) - Bibliographic and summary source for the financial-literacy thesis, high-school-or-older audience, and beginner education framing.
+6. [Learn to Earn - Google Books U.S. record](https://books.google.com/books/about/Learn_to_Earn.html?id=9ejeb7Duc5cC) - Table-of-contents and bibliographic source for the capitalism, investing basics, company life-cycle, and appendix sections.
+7. [Worth archive: Fear of Crashing](https://worth.com/from-the-archives-fear-of-crashing/) - Best opened original-archive Worth column; supports Lynch's crash-temperament, market-timing, long-horizon, and all-stock-retirement arguments.
+8. [Peter Lynch Worth/Investor's Edge article collection PDF](https://12mv2.com/wp-content/uploads/2020/09/pl_fortworthcollection.pdf) - Third-party compiled lead source for the broader Worth column corpus; useful for topic mapping, with original Worth URLs still preferred.
+9. [Scott Burns critique: Dangerous Advice from Peter Lynch](https://scottburns.com/dangerous-advice-from-peter-lynch/) - Counterweight to Lynch's all-stock retirement optimism; useful for sequence-risk and assumption sensitivity.
+10. [Peter Lynch on Making Money in the U.S. Stock Market - MOI Global transcript](https://moiglobal.com/peter-lynch-1994/) - 1994 National Press Club speech transcript; source for oral summary of know-what-you-own, macro skepticism, and balance-sheet survival themes.
+11. [Peter Lynch on Common Investor Mistakes - Novel Investor transcript](https://novelinvestor.com/peter-lynch-on-common-investor-mistakes/) - 1990 Wall Street Week transcript; useful for mistake taxonomy and anti-market-timing framing.
+12. [Peter Lynch and Chris Kuiper Fidelity transcript](https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/learning-center/110322%20rewards%20exclusive_UnderstandtheChange-Transcript_%20F.pdf) - Official Fidelity 2022 transcript for current-status and late-career process continuity.
+13. [The Compound and Friends Peter Lynch transcript - Podscripts](https://podscripts.co/podcasts/the-compound-and-friends/how-peter-lynch-became-the-greatest-fund-manager-of-all-time) - 2025 transcript used cautiously for late-career reflections on public-company shrinkage, AI, Starbucks/Apple omissions, and continuity of business principles.
+14. [The Compound and Friends official episode page](https://podcasts.thecompoundnews.com/show/TCAF/how-peter-lynch-became-the-greatest-fund-manager-of-all-time/) - Official provenance source for the 2025 interview date, participants, and topic.
+15. [NBC/CNBC Apple-regret coverage](https://www.nbcmiami.com/news/business/money-report/investing-legend-peter-lynch-on-the-investments-he-regrets-not-making-in-recent-years/3021416/) - Source-visible CNBC coverage for Lynch's Apple regret and balance-sheet/research comments.
+16. [Fidelity Magellan Fund fact sheet](https://www.fidelity.com/myfidelity/InsideFidelity/NewsCenter/quickFacts/Magellan.html) - Institutional anchor for Magellan manager sequence, Lynch tenure, start/end asset scale, and public-access caveat.
+17. [Museum of American Finance Peter Lynch profile](https://www.moaf.org/about/people/peter-lynch) - Secondary institutional biography for Magellan record framing, books, and advisory role.
+18. [American Academy of Arts & Sciences profile](https://www.amacad.org/person/peter-s-lynch) - Current institutional profile updated in 2026; corroborates current role, books, 29.2% annualized return, and AUM growth.
+19. [Time: Up, Up, then Doooown](https://time.com/archive/6711236/up-up-then-doooown/) - Contemporary 1988 source for October 1987 Magellan pressure, redemptions, forced selling, and later cash-buffer context.
+20. [Peter Lynch's Track Record Revisited - A Wealth of Common Sense](https://awealthofcommonsense.com/2016/07/peter-lynchs-track-record-revisited/) - Secondary critique for public-access and investor-behavior-gap caveats.
+21. [Petajisto: Magellan's Problem / Closet Indexing](https://www.petajisto.net/media/magellan_oped.pdf) - Active-share note on later Magellan scale and benchmark drift; useful capacity counterweight.
+22. [Kiplinger/Petajisto active-share PDF](https://www.petajisto.net/media/20070709k.pdf) - Supporting active-share article connected to the Magellan closet-indexing critique.
+23. [Bruner/Darden: Fidelity Magellan Fund, 1995](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=909375) - Case abstract framing the post-Lynch sustainability and scale question around Magellan.
+24. [SEC administrative order against Peter S. Lynch](https://www.sec.gov/files/litigation/admin/2008/ic-28189.pdf) - Primary legal source for the 2008 broker-gift matter, Lynch-specific findings, and post-Magellan portfolio-management status.
+25. [SEC press release: Fidelity gift matter](https://www.sec.gov/news/press/2008/2008-32.htm) - Primary SEC overview of the broader Fidelity settlement and penalty context.
+
+### Open questions added by T0030
+
+- Page-verify the three Lynch/Rothchild books against physical, publisher, library, or controlled-lending copies before adding exact page references or canonical quotes.
+- Replace the third-party Worth/Investor's Edge compilation with original Worth archive URLs wherever possible.
+- Trace the average-Magellan-investor return gap to Lynch, Fidelity, Spencer Jakab, William Bernstein, or dollar-weighted source data before treating the figure as fully verified.
+- Reconstruct Lynch-era Magellan annual reports to connect the books' examples to actual holdings, position sizes, cash, turnover, and realized/unrealized gains.
+- Audio-check the 2025 Compound interview before using any auto-transcript wording as a canonical quote.
+
