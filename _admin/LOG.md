@@ -190,3 +190,8 @@
 - Output: investors/005-george-soros/greatest-trades.md (~3,600 words, 15 task-specific sources)
 - Notes: Completed Soros greatest-trades file across Black Wednesday sterling, post-Plaza dollar/yen and equity futures, 2007 credit-crisis comeback, Abenomics yen, and Asian-currency shorts. Key caveats preserved: Black Wednesday P&L remains disputed from about $1B/GBP1B to about $2B; 1985-87 and 2007 figures are partly portfolio-level; later yen trade is SFM/Bessent attribution; Asian-crisis P&L was not found.
 - Backlog added: None
+
+## 2026-06-12T12:37:48Z — T0036 — 005-george-soros — D-mistakes — DONE
+- Output: investors/005-george-soros/mistakes-and-losses.md (~3,005 words, 15 task-specific sources)
+- Notes: Completed Soros mistakes/losses across 1981 gilts, 1987 crash execution, 1994 yen, 1997 Asia shock, 1998 Russia, 1999-2000 technology/euro losses, and legal/reputational failures. Key caveats preserved: Quantum figures remain press/participant reported; 1987/1994/1997 loss magnitudes and attribution need primary fund records.
+- Backlog added: None
