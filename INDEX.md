@@ -5,6 +5,7 @@
 | 002 | Charlie Munger | Quality value; mental models; concentrated investing; behavioral risk control; owner-operator systems | Rebuilt value investing around multidisciplinary judgment, business quality, incentives, and anti-ruin discipline, then embedded it in Berkshire and Daily Journal structures. | [investors/002-charlie-munger/](investors/002-charlie-munger/) |
 | 003 | Benjamin Graham | Value investing; security analysis; margin of safety; net-current-asset value; special situations; shareholder activism | Codified security analysis and margin-of-safety investing, turning neglected assets, statistical bargains, and special situations into a teachable discipline. | [investors/003-benjamin-graham/](investors/003-benjamin-graham/) |
 | 004 | Peter Lynch | GARP; bottom-up stock picking; consumer scuttlebutt; category-flexible mutual fund; broad active portfolio | Turned everyday observation into researched stock stories, using Fidelity's platform, category discipline, and tolerance for volatility to compound Magellan at exceptional scale. | [investors/004-peter-lynch/](investors/004-peter-lynch/) |
+| 005 | George Soros | Global macro; reflexivity; policy-regime arbitrage; currency speculation; concentrated sizing; political economy | Turned fallibility and reflexivity into a global macro method for trading brittle policy regimes and feedback loops, while exposing the limits of opacity, leverage, and public influence. | [investors/005-george-soros/](investors/005-george-soros/) |
 
 
 
