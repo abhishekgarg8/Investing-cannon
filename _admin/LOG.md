@@ -230,3 +230,8 @@
 - Output: investors/006-stanley-druckenmiller/greatest-trades.md (~3,648 words, 19 task-specific sources)
 - Notes: Completed Druckenmiller greatest-trades file with Black Wednesday ranked as the clear best trade and ERM follow-ons, bonds, oil/defense, 1987 reversal, tech, 2008, Nvidia, and Teva caveated by source quality. Key limitations preserved around audited Duquesne returns, Swedish-krona single-source P&L, and 13F non-comparability.
 - Backlog added: None
+
+## 2026-06-12T21:28:52Z — T0044 — 006-stanley-druckenmiller — D-mistakes — DONE
+- Output: investors/006-stanley-druckenmiller/mistakes-and-losses.md (~3,099 words, 18 task-specific sources)
+- Notes: Completed Druckenmiller mistakes/losses across early Duquesne drawdowns, Drysdale/T-bill near-death, 1987 reversal, 1991 Gulf War positioning, 1999-2000 technology/Quantum damage, 2010 closure, Nvidia premature sale, and legal/regulatory caveats. Key limitations preserved around audited Duquesne returns, original 2010 letter, Quantum/Duquesne attribution, and 13F non-comparability.
+- Backlog added: None
