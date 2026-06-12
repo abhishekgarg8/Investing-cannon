@@ -61,3 +61,39 @@ For T0042, additional searches covered: Druckenmiller investment philosophy, spe
 - Current 13F value is not total AUM and should not be used to infer performance or the full macro portfolio.
 - The Lost Tree Club speech PDF was found but not text-extracted in the browser; later E/F/G tasks should verify exact wording and provenance before quoting it.
 - Legal/regulatory searches found routine SEC filings but no major personal enforcement case in the opened source set; this should be refreshed in later tasks rather than treated as a permanent clean bill.
+
+## T0043 C-greatest-trades source additions
+
+As of 2026-06-12. The greatest-trades task reused the T0041/T0042 source map and added/verified the following trade-specific sources.
+
+1. [Cove Street Capital PDF - Druckenmiller Lost Tree Club speech](https://covestreetcapital.com/wp-content/uploads/2015/03/Druckenmiller-_Speech.pdf) - Primary/near-primary transcript source for the oil/defense concentration, 1981 long-bond trade, Soros sizing lesson, and first-person Black Wednesday sizing narrative.
+2. [Arya Deniz transcript mirror - Stanley Druckenmiller's Lost Tree Club lecture](https://aryadeniz.substack.com/p/stanley-druckenmillers-lost-tree) - Readable mirror used to verify the Lost Tree text for trade details; provenance remains the Cove Street PDF.
+3. [InvestmentNews/Bloomberg - Stanley Druckenmiller closing up shop](https://www.investmentnews.com/alternatives/stanley-druckenmiller-closing-up-shop/30897) - Key secondary source for Black Wednesday sizing, Swedish krona follow-on P&L, 1987 reversal, 1999-2000 tech P&L, 2008/2009 returns, and Duquesne closure context.
+4. [Guardian - Black Wednesday victor Stanley Druckenmiller quits hedge fund](https://www.theguardian.com/business/2010/aug/19/black-wednesday-victor-druckenmiller-quits-hedge) - Secondary source tying Druckenmiller's CIO role to the $1B sterling profit and providing 2010 investor-letter context.
+5. [Bank of England - History](https://www.bankofengland.co.uk/about/history) - Official source for ERM context, UK exit, and over-GBP3B estimated Treasury cost.
+6. [Bank of England - Andy Haldane speech, 2021](https://www.bankofengland.co.uk/speech/2021/june/andy-haldane-speech-at-the-institute-for-government-on-the-changes-in-monetary-policy) - Official eyewitness/context source for reserve losses and rate moves on Black Wednesday.
+7. [A Wealth of Common Sense - You Are Not Stanley Druckenmiller](https://awealthofcommonsense.com/2016/11/you-are-not-stanley-druckenmiller/) - Schwager-derived secondary source for the 1987 reversal and retail-transferability warning.
+8. [Ivanhoff - Five Market Insights from Stanley Druckenmiller](https://ivanhoff.com/2016/10/04/five-market-insights-from-stanley-druckenmiller/) - Schwager-derived secondary source for the 1987 reversal, Soros sizing lesson, and 1999-2000 reversal summary.
+9. [Morgan Stanley - Hard Lessons: Stan Druckenmiller](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali) - Current near-primary interview for Nvidia, Teva, premature selling, current Duquesne Family Office role, and process examples.
+10. [SEC 13F information table, Duquesne Family Office, 2022 Q4](https://www.sec.gov/Archives/edgar/data/1536411/000153641123000003/xslForm13F_X02/form13f_20221231.xml) - Primary public-filing source for the initial visible Nvidia position.
+11. [SEC 13F information table, Duquesne Family Office, 2023 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641123000005/xslForm13F_X02/form13f_20230331.xml) - Primary public-filing source for increased Nvidia exposure.
+12. [SEC 13F information table, Duquesne Family Office, 2023 Q2](https://www.sec.gov/Archives/edgar/data/1536411/000153641123000006/xslForm13F_X02/form13f_20230630.xml) - Primary public-filing source for peak visible Nvidia exposure in this reconstruction.
+13. [SEC 13F information table, Duquesne Family Office, 2024 Q2](https://www.sec.gov/Archives/edgar/data/1536411/000153641124000007/xslForm13F_X02/form13f_20240630.xml) - Primary public-filing source showing the reduced Nvidia position.
+14. [SEC 13F information table, Duquesne Family Office, 2025 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641125000008/xslForm13F_X02/form13f_20250331.xml) - Primary public-filing source for a large Teva ADS position.
+15. [SEC 13F information table, Duquesne Family Office, 2025 Q3](https://www.sec.gov/Archives/edgar/data/1536411/000153641125000017/xslForm13F_X02/form13f_20250930.xml) - Primary public-filing source for a larger Teva ADS position.
+16. [SEC 13F information table, Duquesne Family Office, 2026 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/xslForm13F_X02/form13f_20260331.xml) - Primary public-filing source for Q1 2026 public holdings after Teva reduction.
+17. [13F.info - Duquesne Family Office LLC filing index](https://13f.info/manager/0001536411-duquesne-family-office-llc) - Filing-index helper used to navigate accessions; individual SEC filings remain the cited primary evidence for holdings.
+18. [Bowdoin Orient - Druckenmiller '75 earns $260 million in 2008](https://bowdoinorient.com/bonus/article/4252/) - Secondary source for reported 2008 personal earnings and spokesman caveat.
+19. [Acquirer's Multiple - 2008 crisis excerpt](https://acquirersmultiple.com/2022/09/stanley-druckenmiller-i-predicted-the-2008-financial-crisis-thanks-to-a-lehman-brothers-analyst/) - Secondary excerpt from How Leaders Lead used only as a lead for 2008 thesis formation pending original transcript verification.
+
+## T0043 search coverage notes
+
+Queries covered: Druckenmiller greatest trades; Black Wednesday Bessent/Soros/position-size variants; Bank of England ERM primary context; Lost Tree Club bond and sterling trade transcript; New Market Wizards/1987 crash reversal; 2008 crisis and Duquesne returns; Nvidia/AI trade SEC 13Fs; Teva 13F holdings; Duquesne 2026 13F status; and criticism/transferability warnings around copying concentrated macro trades.
+
+## T0043 source limitations
+
+- No audited Duquesne investor letters or annual return tables were located for 1981-2010.
+- Black Wednesday final gross/net P&L and exact Quantum/SFM position size remain triangulated from first-person speech plus press, not internal ledgers.
+- The Swedish krona $1B figure remains [single-source] from the Bloomberg/InvestmentNews profile.
+- Nvidia and Teva P&L cannot be inferred from 13Fs because they omit intraperiod trades, hedges, derivatives, shorts, cost basis, and realized gains.
+- The 2008 crisis section remains a partial performance/context entry until full Duquesne letters or contemporaneous position-level evidence are found.
