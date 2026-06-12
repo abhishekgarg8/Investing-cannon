@@ -53,3 +53,27 @@
 - Locate Lynch's original October 1987 shareholder letter rather than relying on reposts or excerpts.
 - Trace the investor-return behavior-gap statistic to Lynch, Fidelity, Spencer Jakab, or source data before treating it as verified.
 - For legal checks, disambiguate common-name court hits from Peter S. Lynch of Fidelity before adding any post-2008 legal developments.
+
+## T0027 C-greatest-trades sources (2026-06-12)
+
+1. [Beating the Street - searchable text mirror](https://www.scribd.com/document/548390606/Beating-the-Street-Peter-Lynch) - Core opened source for Lynch/Rothchild's Fannie Mae diary, Magellan's largest-winner ranking, position-size notes, and reported P&L figures. Provenance caveat: this is a searchable hosted text mirror, so future work should verify against a physical copy, Internet Archive controlled lending, or publisher record.
+2. [Beating the Street - Google Books bibliographic record](https://books.google.com/books/about/Beating_the_Street.html?id=XyVYo9iRuScC) - Bibliographic source confirming the book identity and publication context for the searchable text used above.
+3. [This Was Peter Lynch's Favorite Stock - The Motley Fool](https://www.fool.com/investing/general/2013/03/06/this-was-peter-lynchs-favorite-stock.aspx) - Secondary corroboration of the Fannie Mae 50-bagger framing, 1981 distress, 1992 reference price, and more-than-$500 million Magellan profit claim.
+4. [Remember Fannie Mae - Washington Post](https://www.washingtonpost.com/archive/business/1995/12/11/remember-fannie-mae/1934db7f-c94b-4c98-9990-bd97f1351811/) - 1995 contemporary-ish secondary source confirming Lynch's repeated affinity for Fannie Mae and Fidelity-wide profit magnitude around $1 billion.
+5. [Fidelity Magellan Fund fact sheet](https://www.fidelity.com/myfidelity/InsideFidelity/NewsCenter/quickFacts/Magellan.html) - Fidelity source for Magellan manager sequence, Lynch tenure, start/end AUM, and the 1965-1981 closed-to-new-investors caveat.
+6. [FHFA Conservatorship History](https://www.fhfa.gov/conservatorship/history) - Official source for the 2008 Fannie Mae/Freddie Mac conservatorships; used to flag later GSE balance-sheet and regulatory risk, not as evidence against Lynch-era trade execution.
+7. [Peter Lynch's Track Record Revisited - A Wealth of Common Sense](https://awealthofcommonsense.com/2016/07/peter-lynchs-track-record-revisited/) - Secondary critique of public access and investor timing around the Magellan record; useful for transferability caveats.
+8. [Stansky's Monster: A Critical Examination of Fidelity Magellan's 'Frankenfund' - SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=964824.) - Academic critique of later Magellan scale and closet-indexing issues; not Lynch-era trade evidence, but used to keep the record non-hagiographic.
+9. [SEC press release: Fidelity gift matter](https://www.sec.gov/news/press/2008/2008-32.htm) - Primary regulatory source for the 2008 Fidelity broker-gift settlement involving Peter Lynch; used only as legal/contextual caveat.
+10. [SEC administrative order against Peter S. Lynch](https://www.sec.gov/files/litigation/admin/2008/ic-28189.pdf) - Primary order for Lynch's settlement terms and the fact that the matter was post-Magellan portfolio management.
+11. [Fidelity 2022 Lynch/Kuiper transcript](https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/learning-center/110322%20rewards%20exclusive_UnderstandtheChange-Transcript_%20F.pdf) - Official Fidelity transcript for Lynch's later comments on understanding what one owns, risk tolerance, and drawdowns.
+12. [Peter Lynch on Making Money in the U.S. Stock Market - MOI Global transcript](https://moiglobal.com/peter-lynch-1994/) - Transcript of Lynch's 1994 public talk; useful for category discipline, macro skepticism, and individual-company research framing.
+13. [Peter Lynch Worth/Investor's Edge article collection PDF](https://12mv2.com/wp-content/uploads/2020/09/pl_fortworthcollection.pdf) - Compiled set of Lynch columns; used for Fannie Mae/multibagger context and post-Magellan application notes. Provenance should be upgraded to original Worth pages if possible.
+14. [One Up on Wall Street - Simon & Schuster publisher page](https://www.simonandschuster.com/books/One-Up-On-Wall-Street/Peter-Lynch/9780743200400) - Publisher source for the popular "use what you know" framing; used to separate method examples from documented top P&L trades.
+
+### Open questions added by T0027
+
+- Reconstruct Lynch-era Magellan holdings and annual reports from 1977-1990 to verify the Lynch/Rothchild top-winner list.
+- For Fannie Mae, split realized gains, unrealized marks, dividends, and Fidelity-wide versus Magellan-only profits.
+- Find primary or contemporaneous sources for exact Ford, Chrysler, Volvo, Philip Morris, MCI, GE, General Public Utilities, Student Loan Marketing, Kemper, and Loews entry/exit windows.
+- Upgrade the searchable *Beating the Street* mirror citation to page-verified book scans or a controlled-lending copy.
