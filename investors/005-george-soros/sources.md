@@ -195,3 +195,37 @@ Additional searches covered: Soros official book index; *The Alchemy of Finance*
 - No Quantum investor letters, internal trading memos, or risk reports were located; public essays and speeches remain the core primary corpus.
 - Secondary works about Soros should be page-checked before later files quote or rely on exact chapter claims.
 - The Drobny/Bessent source opened here is a preview; use a licensed full copy before extracting detailed quotations or full sterling-trade passages.
+
+## T0039 G-mental-models additions - 2026-06-12T15:32:21Z
+
+106. [Open Society Foundations - George Soros](https://www.opensocietyfoundations.org/george-soros) - Current official source for Soros's living status, OSF founder/chair role, biography, and philanthropy context.
+107. [Soros Fund Management official site](https://sorosfundmgmt.com/) - Current official source for SFM as a $28 billion family office / global asset manager and principal asset manager for OSF.
+108. [SEC Form 13F-HR primary document, Soros Fund Management, period ended 2026-03-31](https://www.sec.gov/Archives/edgar/data/1029160/000090266426002529/xslForm13F_X02/primary_doc.xml) - Primary current filing used to warn that visible U.S. long holdings are not a full macro book.
+109. [Open Society Foundations PDF - General Theory of Reflexivity transcript](https://www.opensocietyfoundations.org/uploads/9ae17912-2262-4646-8ffc-d01afc934c36/george-soros-general-theory-of-reflexivity-transcript.pdf) - Primary transcript for fallibility, reflexivity, open society, and the participant-observer frame behind the mental models.
+110. [Open Society Foundations PDF - Financial Markets transcript](https://www.opensocietyfoundations.org/uploads/2b96bb8c-e2e1-4d88-9eea-badf16d0a2b8/george-soros-financial-markets-transcript.pdf) - Primary transcript for market prices as inputs, leverage, bubbles, positive feedback, and participant-versus-regulator distinctions.
+111. [GeorgeSoros.com - Fallibility, Reflexivity, and the Human Uncertainty Principle](https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/) - Primary late essay for the "trend plus misconception" bubble heuristic and twilight-period framing.
+112. [GeorgeSoros.com - Remarks delivered at the Cato Institute](https://www.georgesoros.com/2011/04/28/why_i_agree_with_some_of_friedrich_hayek/) - Primary source connecting Popper/Hayek, imperfect knowledge, fallibility, reflexivity, and rejection of efficient-market conclusions.
+113. [GeorgeSoros.com - Remarks delivered at the INET Conference at King's College](https://www.georgesoros.com/2010/04/09/anatomy_of_a_crisis_-_the_living_history_of_the_last_30_years_economic_theo/) - Primary speech supporting the "markets as history, not physics" model.
+114. [GeorgeSoros.com - The Worst Market Crisis in 60 Years](https://www.georgesoros.com/2008/01/22/the_worst_market_crisis_in_60_years/) - Primary crisis essay for market fundamentalism, moral hazard, credit super-boom, and institutionalized misconception.
+115. [GeorgeSoros.com - The Crisis & What To Do About It](https://www.georgesoros.com/2008/11/06/the_crisis_what_to_do_about_it/) - Primary source for the limits of reflexivity as precise prediction and for risk/regulatory implications.
+116. [GeorgeSoros.com - The Perilous Price of Oil](https://www.georgesoros.com/2008/08/27/the_perilous_price_of_oil/) - Primary testimony-derived source for applying trend-plus-misconception logic to commodities and index flows.
+117. [Morgan Stanley - Stan Druckenmiller: Hard Lessons](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali) - Direct interview source for the sizing/asymmetry lesson attributed by Druckenmiller to Soros.
+118. [Guardian, 2010 - Black Wednesday victor Stanley Druckenmiller quits hedge fund](https://www.theguardian.com/business/2010/aug/19/black-wednesday-victor-druckenmiller-quits-hedge) - Key attribution source for the sterling trade and Soros's role in pressing size.
+119. [GeorgeSoros.com, 1988 - After Black Monday](https://www.georgesoros.com/1988/03/16/after-black-monday/) - Primary Soros post-mortem showing model humility after being caught wrong-footed in the 1987 crash.
+120. [Los Angeles Times, 1994 - Soros weathers $600-million blow](https://www.latimes.com/archives/la-xpm-1994-03-07-fi-31188-story.html) - Contemporary source for yen-loss timing and policy-event risk.
+121. [Irish Times, 1998 - Soros funds face $2bn loss on Russian bonds](https://www.irishtimes.com/business/soros-funds-face-2bn-loss-on-russian-bonds-1.187055) - Contemporary source for Russia-loss evidence and the danger of correct diagnosis with persistent exposure.
+122. [Los Angeles Times, 2000 - Soros fund losses and restructuring](https://www.latimes.com/archives/la-xpm-2000-apr-29-fi-24605-story.html) - Contemporary source for technology/euro losses, reduced risk posture, and organizational change.
+123. [NBER Working Paper 6427 - Hedge Funds and the Asian Currency Crisis of 1997](https://www.nber.org/papers/w6427) - Academic source used to separate Asian-crisis evidence from public blame narratives.
+124. [ADL - Antisemitism behind George Soros conspiracy theories](https://www.adl.org/resources/article/antisemitism-lurking-behind-george-soros-conspiracy-theories) - Context source for distinguishing legitimate criticism and legal/reputational risk from antisemitic conspiracy claims.
+
+## T0039 query coverage notes
+
+Additional searches covered: Soros reflexivity and fallibility transcripts; *The Alchemy of Finance* and boom-bust heuristics; trend-plus-misconception language; INET/Cato methodology speeches; commodity/oil reflexivity; Druckenmiller and Bessent sizing/sterling attribution; current SFM family-office structure and 2026 13F status; Soros living-status check; 1981 gilt, 1987 crash, 1994 yen, 1998 Russia, and 1999-2000 tech/euro loss evidence; SEC/French legal context; BSG Resources current disposition; Asian-crisis hedge-fund evidence; and current legal/status checks. This run met the 15+ search expectation before writing the G-mental-models output.
+
+## T0039 limitations to carry forward
+
+- No internal Quantum Fund risk manual, investor letters, position books, or trade-level attribution records were located; the checklist is reconstructed from Soros's public writings, public lectures, press accounts, academic work, and associate interviews.
+- The mental-models file distinguishes Soros's own framework from Druckenmiller/Bessent/SFM team evidence, but exact decision ownership remains unresolved for several trades.
+- Current SFM statements and 2026 13F filings are useful for present status but should not be projected backward onto Soros's personal Quantum-era process.
+- Several book-level claims still need authorized page-level verification, especially *The Alchemy of Finance*, *Soros on Soros*, Drobny/Bessent, Mallaby, and Kaufman.
+- Transferability is intentionally constrained: individuals can replicate feedback-loop thinking and fallibility discipline, but not Quantum/SFM leverage, derivatives access, counterparty network, team infrastructure, permanent capital, or political visibility.
