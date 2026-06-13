@@ -251,3 +251,8 @@
 - Output: investors/006-stanley-druckenmiller/in-their-own-words.md (~1650 words, 15 indexed task-specific sources)
 - Notes: Stale retry completed the missing own-words file with 28 short, source-visible quote snippets across five themes and an annotated primary-materials index. No quote aggregators used; limitations preserved around the missing 2010 closure letter, Lost Tree transcript provenance, and legal/regulatory search.
 - Backlog added: None
+
+## 2026-06-13T02:45:09Z — T0048 — 006-stanley-druckenmiller — H-synthesis — DONE
+- Output: investors/006-stanley-druckenmiller/synthesis.md (~1,795 words, 17 sources)
+- Notes: Completed synthesis integrating A-G files, current Q1 2026 13F status, ranked lessons, taxonomy, regime dependence, peer comparisons, and unresolved questions. Preserved caveats around audited returns, Quantum attribution, 2010 closure-letter access, 13F limits, and current legal/regulatory search limits.
+- Backlog added: None
