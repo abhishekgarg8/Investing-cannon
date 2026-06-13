@@ -172,3 +172,39 @@ Queries covered: Druckenmiller writings, books, speeches, interviews, transcript
 - Schwager's chapter and Drobny/Mallaby book material should be checked against licensed or physical copies for page-level citation in final synthesis.
 - 13F and Form D filings are primary documents but are not performance evidence and cannot reconstruct the full macro portfolio.
 - Soros/Quantum-era attribution remains unresolved across Druckenmiller, Soros, Bessent, and the broader organization.
+
+## T0047 G-mental-models source additions
+
+As of 2026-06-13. The mental-models task reused the T0041-T0046 source map, read the completed A-D and F files, and added/verified the following model-specific sources.
+
+1. [Morgan Stanley - Hard Lessons: Stan Druckenmiller](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali) - Current official 2026 transcript for present family-office role, contrarianism, Nvidia, Teva, technical-analysis decay, lost-nerve comments, no-losing-year caveat, and current process examples.
+2. [The New Market Wizards scan - Stanley Druckenmiller chapter](https://scispace.com/pdf/the-new-market-wizards-conversations-with-america-s-top-4u1ydm6a7n.pdf) - Core primary-adjacent interview source for Doc Drelles, liquidity-versus-valuation timing, Drysdale/T-bill failure, 1987 reversal, Soros sizing lesson, and cross-asset philosophy.
+3. [Cove Street Capital PDF - Druckenmiller Lost Tree Club speech](https://covestreetcapital.com/wp-content/uploads/2015/03/Druckenmiller-_Speech.pdf) - Best provenance for the 2015 Lost Tree Club transcript; used for concentration, early bond/oil/defense examples, and dot-com self-critique.
+4. [Arya Deniz transcript mirror - Stanley Druckenmiller's Lost Tree speech](https://aryadeniz.substack.com/p/stanley-druckenmillers-lost-tree) - Readable navigation mirror for the Lost Tree text; not a substitute for the PDF when exact wording is needed.
+5. [Goldman Sachs - Talks at GS: Stanley Druckenmiller](https://www.goldmansachs.com/insights/talks-at-gs/stanley-druckenmiller) - Official event page for the Goldman interview.
+6. [Livewire Markets PDF - Talks at GS transcript](https://www.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckNLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22c7d1b9313e40e108f94e0e1878baf2704bf257/transcript.pdf) - Opened transcript source for portfolio matrix, concentration-as-focus, VAR skepticism, daily P&L risk monitoring, and policy/liquidity framing.
+7. [A Letter a Day - John Collison and Stan Druckenmiller](https://aletteraday.substack.com/p/letter-40-john-collison-and-stan) - Transcript source for market internals, hot/cold risk dial, inflation, bond-signal distortion, and process comments.
+8. [Norges Bank Investment Management - 2023 Investment Conference](https://www.nbim.no/en/investments/annual-investment-conference/2023-investment-conference/) - Official event page corroborating the NBIM interview.
+9. [Tidal Wave / Arda Capital - Transcript: Druckenmiller, April 2023](https://newsletter.tidalwaveresearch.com/p/transcript-druckenmiller-april-2023) - Transcript source for five-or-six-bucket framework, no-client pressure, and fat-pitch patience.
+10. [Pittsburgh Quarterly - What Do I Know? Stanley Druckenmiller](https://pittsburghquarterly.com/articles/what-do-i-know-stanley-druckenmiller/) - Autobiographical source for early Duquesne, Drysdale revenue shock, Drelles, Soros overlap, and 2010 closure logic.
+11. [InvestmentNews/Bloomberg - Stanley Druckenmiller closing up shop](https://www.investmentnews.com/alternatives/stanley-druckenmiller-closing-up-shop/30897) - 2010 source for $12 billion AUM, no-losing-year claim, 5% 2010 drawdown, scale limits, and client-capital return.
+12. [Guardian - Black Wednesday victor Stanley Druckenmiller quits hedge fund](https://www.theguardian.com/business/2010/aug/19/black-wednesday-victor-druckenmiller-quits-hedge) - 2010 source for closure-letter excerpts, emotional toll, Black Wednesday attribution, and interim drawdown pressure.
+13. [SEC Form 13F-HR, Duquesne Family Office LLC, 2026 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/xslForm13F_X02/primary_doc.xml) - Primary filing source for current report type, manager identity, entry count, and table value.
+14. [SEC 13F information table, Duquesne Family Office LLC, 2026 Q1](https://www.sec.gov/Archives/edgar/data/1536411/000153641126000004/xslForm13F_X02/form13f_20260331.xml) - Primary filing source for current observable holdings and the limits of 13F copycat inference.
+15. [SEC Form D/A, Juggernaut Fund LP, 2021](https://www.sec.gov/Archives/edgar/data/1219173/000121917321000001/xslFormDX01/primary_doc.xml) - Primary private-fund structure source naming Druckenmiller and his control relationship to Duquesne Holding Co, Duquesne Family Office, and the issuer.
+16. [Novel Investor - Stan Druckenmiller's Worst Mistake Ever](https://novelinvestor.com/stan-druckenmillers-worst-mistake-ever/) - Secondary transcript evidence for the 1999 internet-short mistake; retained with provenance caution.
+17. [Brunnermeier and Nagel - Hedge Funds and the Technology Bubble](https://www.princeton.edu/~markus/research/papers/hedgefunds_bubble.pdf) - Academic context for hedge funds riding technology-bubble exposure and limits-to-arbitrage dynamics.
+18. [A Wealth of Common Sense - You Are Not Stanley Druckenmiller](https://awealthofcommonsense.com/2016/11/you-are-not-stanley-druckenmiller/) - Transferability critique used to warn against copying Druckenmiller's macro calls or delayed filings.
+
+## T0047 search coverage notes
+
+Queries covered: Druckenmiller mental models, investment philosophy, Lost Tree Club speech/PDF, New Market Wizards, Goldman Sachs transcript/risk management, Sohn 2022 transcript, NBIM/Norges Bank 2023 transcript, Pittsburgh Quarterly profile, Duquesne 2010 closure/letter/no-losing-year claims, Drysdale/T-bill loss, 1987 Black Monday reversal, dot-com short mistake, Nvidia premature sale, Teva process example, Duquesne Family Office 2026 13F, Juggernaut Form D, SEC complaint/lawsuit/FINRA checks, criticism/underperformance, and 13F copycat/transferability limitations.
+
+## T0047 source limitations
+
+- T0045 E-own-words remained freshly claimed and absent on main during this run, so T0047 did not rely on an unfinished quote file.
+- The full 2010 Duquesne investor letter remains missing; this task used contemporaneous press excerpts and clearly treated them as secondary.
+- No audited annual Duquesne return or drawdown series was located; 30%/no-losing-year claims remain quality-source reported but unreconstructed.
+- 1999-2000 Quantum/Duquesne/personal-account attribution remains partly press-reported and collapsed across Soros Fund Management actors.
+- Current 13F filings are useful for observable U.S.-listed long securities and options only; they are not evidence of total AUM, full macro risk, shorts, cash, currencies, commodities, non-U.S. securities, or realized P&L.
+- Legal/regulatory searches again found routine SEC filings and private-fund documents but no major personal enforcement case in the opened source set; synthesis should refresh rather than treat this as permanent proof.
