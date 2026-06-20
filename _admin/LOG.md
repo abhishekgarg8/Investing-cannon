@@ -328,3 +328,8 @@
 - Output: investors/008-howard-marks/key-writings.md (~2,250 words, 22 sources)
 - Notes: Completed Marks key-writings guide covering the memo corpus, The Most Important Thing, Mastering the Market Cycle, interview/audio companions, and ranked secondary works. Caveats preserved around book-versus-memo provenance, private Oaktree machinery, source limits, and transferability.
 - Backlog added: None
+
+## 2026-06-20T19:27:35Z — T0063 — 008-howard-marks — G-mental-models — DONE
+- Output: investors/008-howard-marks/mental-models.md (~2,857 words, 24 sources)
+- Notes: Reconstructed Marks/Oaktree mental models as a credit operating system: price/value discipline, risk control, cycle-temperature posture, sell rules, client-structure fit, and compliance controls. Caveats preserved around team attribution, scale/crowding, private-credit liquidity/product risk, Thrasio control failure, and firm-level SEC matters.
+- Backlog added: None
