@@ -256,3 +256,9 @@
 - Output: investors/006-stanley-druckenmiller/synthesis.md (~1,795 words, 17 sources)
 - Notes: Completed synthesis integrating A-G files, current Q1 2026 13F status, ranked lessons, taxonomy, regime dependence, peer comparisons, and unresolved questions. Preserved caveats around audited returns, Quantum attribution, 2010 closure-letter access, 13F limits, and current legal/regulatory search limits.
 - Backlog added: None
+
+
+## 2026-06-20T00:04:46Z — T0049 — 007-jim-simons — A-profile — DONE
+- Output: investors/007-jim-simons/profile.md (~2435 words, 20 sources)
+- Notes: Created Simons profile with deceased/status check, Renaissance/Medallion vehicle structure, caveated Medallion return record, Q1 2026 13F footprint, philanthropy, and current legal/regulatory search. Key caveats preserved around non-public audited returns, employee-only Medallion access, basket-options tax settlement, 13F non-comparability, and institutional fund gaps.
+- Backlog added: None
