@@ -118,3 +118,31 @@ Additional task caveats:
 - The 2020 outside-fund performance numbers differ between Institutional Investor and Bloomberg-syndicated reporting; original investor letters are needed to reconcile share class, period, and methodology.
 - The current Form ADV could not be reliably fetched in this environment; this task does not claim a complete 2026 regulatory-history update beyond sources opened here.
 - No opened source in this run supported a new posthumous personal legal proceeding involving Simons as of 2026-06-20.
+
+## T0053 E-own-words additions - appended 2026-06-20
+
+Task output: `investors/007-jim-simons/in-their-own-words.md`
+
+Primary and high-weight sources used in the own-words task:
+
+1. [Alpha Architect - James Simons transcript: Quantitative Finance and Building a Firm (2015)](https://alphaarchitect.com/james-simons-transcript-quantitative-finance-and-building-a-firm/) - Best compact investment-process transcript found: early discretionary trading, anomaly testing, transaction costs, capacity, hiring, and partner incentives.
+2. [TED official page - The mathematician who cracked Wall Street (2015/2016)](https://www.ted.com/talks/jim_simons_the_mathematician_who_cracked_wall_street) - Origin venue for the Chris Anderson interview; useful for official metadata and video context, though transcript text was not exposed in this run.
+3. [SingjuPost - TED full-transcript mirror (2015)](https://singjupost.com/a-rare-interview-with-the-mathematician-who-cracked-wall-street-jim-simons-at-ted-full-transcript/) - Searchable mirror of the TED interview transcript; used only for short quote snippets with a verification caveat.
+4. [MIT Sloan - Quant pioneer James Simons on math, money, and philanthropy (2019)](https://mitsloan.mit.edu/ideas-made-to-matter/quant-pioneer-james-simons-math-money-and-philanthropy) - Interview-based source for Simons's life principles, beauty/hiring/firing/luck comments, and philanthropy framing.
+5. [Simons Foundation - Jim Simons on his career in mathematics (2012)](https://www.simonsfoundation.org/2012/09/28/simons-foundation-chair-jim-simons-on-his-career-in-mathematics/) - Foundation-hosted video/interview page with source-visible transcript fragments on childhood curiosity, math, Stony Brook, the move to finance, and foundation work.
+6. [Numberphile full-length interview transcript (interview 2015; transcript page 2025)](https://josherich.me/podcast/jim-simons-full-length-interview-numberphile) - Long transcript covering model discipline, the absence of traditional fundamental inputs, risk-taking, luck, science funding, and the foundation; useful but not official.
+7. [Brian Keating - Into the Impossible podcast transcript (2020)](https://briankeating.com/jim-simons/) - Broad late-life interview on identity, leadership, alpha, predictive signals, philanthropy, fatherhood, political risk, and advice; transcript text is imperfect in places.
+8. [SSRN - James H. Simons, PhD: Using Mathematics to Make Money (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668072) - Published Journal of Investment Consulting interview record; indexed for future use because the full PDF text was not reliably accessible in this run.
+9. [Celebratio Mathematica - Other resources about James Harris Simons](https://celebratio.org/Simons_J/article/507/) - Curated resource page pointing to oral-history/video leads, including AIP-related materials; some linked pages were blocked or not full-text accessible.
+10. [Simons Foundation - How to Live a Life: Jim Simons's Guiding Principles (2025)](https://www.simonsfoundation.org/2025/05/10/how-to-live-a-life-jim-simonss-guiding-principles/) - Posthumous foundation article/video built around his principles; useful for source discovery, though quote wording in this task relies on MIT Sloan where visible.
+11. [Simons Foundation - death announcement (2024)](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) - Primary status source confirming death date and career/philanthropy frame; no new posthumous personal legal proceeding surfaced in this task's legal sweep.
+12. [Renaissance Technologies official site (2026)](https://www.rentec.com/Home.action?index=true) - Current official firm description and website-authenticity warning; included because derivative Renaissance pages are common.
+13. [U.S. Senate basket-options hearing record (2014)](https://www.govinfo.gov/content/pkg/CHRG-113shrg89882/html/CHRG-113shrg89882.htm) - Primary legal/regulatory source for basket-options controversy and Peter Brown testimony; not a Jim Simons quote source.
+14. [SEC comment letter from Renaissance on short disclosure (2008)](https://www.sec.gov/comments/s7-24-08/s72408-3.pdf) - Firm-level primary document on proprietary-trading secrecy and disclosure risk; attribute to Renaissance, not personally to Simons.
+
+Additional task caveats:
+
+- The file uses 33 short quote snippets, organized by theme, and avoids longer transcript excerpts.
+- The TED, Numberphile, and Keating transcript texts should be audio/video checked before any public-facing quotation outside the Canon.
+- Quote-aggregator lines about models and data were dropped or flagged when no source-visible origin was found.
+- No public Medallion letters, partner letters, or internal Renaissance memos were found in this run; Simons's public words explain the philosophy, not the full trading ledger.
