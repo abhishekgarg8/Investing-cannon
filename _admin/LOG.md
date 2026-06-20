@@ -297,3 +297,9 @@
 - Output: investors/007-jim-simons/key-writings.md (~2,559 words, 23 sources)
 - Notes: Stale retry closeout: completed the missing key-writings file by ranking Simons's mathematical papers, interview/essay corpus, firm/regulatory context, and best secondary works. Caveats preserved around absent Medallion letters/internal memos, blocked PNAS/PubMed pages, transcript provenance, and secondary-only performance reconstructions.
 - Backlog added: None
+
+
+## 2026-06-20T10:30:03Z — T0057 — 008-howard-marks — A-profile — DONE
+- Output: investors/008-howard-marks/profile.md (~2,450 words, 17 sources)
+- Notes: Created Marks profile with Oaktree/Brookfield structure, AUM-methodology caveats, and current ownership/legal status. Personal audited return remains unavailable; 2011 distressed-fund return kept [single-source] for later verification.
+- Backlog added: None
