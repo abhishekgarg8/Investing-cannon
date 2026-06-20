@@ -233,7 +233,7 @@
 
 ## 2026-06-12T21:28:52Z — T0044 — 006-stanley-druckenmiller — D-mistakes — DONE
 - Output: investors/006-stanley-druckenmiller/mistakes-and-losses.md (~3,099 words, 18 task-specific sources)
-- Notes: Completed Druckenmiller mistakes/losses across early Duquesne drawdowns, Drysdale/T-bill near-death, 1987 reversal, 1991 Gulf War positioning, 1999-2000 technology/Quantum damage, 2010 closure, Nvidia premature sale, and legal/regulatory caveats. Key limitations preserved around audited Duquesne returns, original 2010 letter, Quantum/Duquesne attribution, and 13F non-comparability.
+- Notes: Completed Druckenmiller mistakes/losses across early Duquesne drawdowns, Drysdale/T-bill near-death, 1987 reversal, 1991 Gulf War positioning, 1999-2000 technology/Quantum damage, and legal/regulatory caveats. Key limitations preserved around audited Duquesne returns, original 2010 letter, Quantum/Duquesne attribution, and 13F non-comparability.
 - Backlog added: None
 
 
@@ -322,4 +322,9 @@
 ## 2026-06-20T16:42:34Z — T0060 — 008-howard-marks — D-mistakes — DONE
 - Output: investors/008-howard-marks/mistakes-and-losses.md (~2,919 words, 22 sources)
 - Notes: Stale retry completed Marks/Oaktree mistakes file covering opportunity-cost conservatism, crisis-sizing limits, Thrasio control/write-down, private-credit/liquidity risks, scale, and firm-level SEC compliance failures.
+- Backlog added: None
+
+## 2026-06-20T18:42:01Z — T0062 — 008-howard-marks — F-key-writings — DONE
+- Output: investors/008-howard-marks/key-writings.md (~2,250 words, 22 sources)
+- Notes: Completed Marks key-writings guide covering the memo corpus, The Most Important Thing, Mastering the Market Cycle, interview/audio companions, and ranked secondary works. Caveats preserved around book-versus-memo provenance, private Oaktree machinery, source limits, and transferability.
 - Backlog added: None
