@@ -318,3 +318,8 @@
 - Output: investors/008-howard-marks/in-their-own-words.md (~1,694 words, 35 sources)
 - Notes: Built a primary-source quote file from Oaktree memos, official pages, transcripts, and SEC records; kept 25 Marks quotes under 25 words and separated borrowed lines from Marks originals.
 - Backlog added: none
+
+## 2026-06-20T16:42:34Z — T0060 — 008-howard-marks — D-mistakes — DONE
+- Output: investors/008-howard-marks/mistakes-and-losses.md (~2,919 words, 22 sources)
+- Notes: Stale retry completed Marks/Oaktree mistakes file covering opportunity-cost conservatism, crisis-sizing limits, Thrasio control/write-down, private-credit/liquidity risks, scale, and firm-level SEC compliance failures.
+- Backlog added: None
