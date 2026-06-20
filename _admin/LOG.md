@@ -343,3 +343,8 @@
 - Output: investors/009-seth-klarman/profile.md (~2,900 words, 24 sources)
 - Notes: Created Klarman profile with Baupost vehicle structure, current ADV/13F footprint, caveated long-run track record, recent underperformance/redemptions, and Ontario mega-quarry controversy. Birth details rely on lower-tier secondary sources pending primary confirmation; audited partnership return series remains open. During closeout, repaired an over-short TODO replacement and verified T0065 plus the queue tail through T0812.
 - Backlog added: None
+
+## 2026-06-20T22:46:02Z — T0066 — 009-seth-klarman — B-philosophy — DONE
+- Output: investors/009-seth-klarman/investment-philosophy.md (~3,350 words, 21 sources)
+- Notes: Completed Klarman philosophy around flexible value mandate, off-the-beaten-path sourcing, scenario/downside underwriting, cash optionality, and no-recourse-leverage risk controls. Preserved tensions around post-2014 underperformance/redemptions, private-asset lockups, AI-era adaptation, and stakeholder/externality conflicts.
+- Backlog added: None
