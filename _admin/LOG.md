@@ -313,3 +313,8 @@
 - Output: investors/008-howard-marks/greatest-trades.md (~3,241 words, 20 sources)
 - Notes: Completed Marks/Oaktree greatest-trades file as fund-vintage and restructuring-episode reconstruction; 2008-09 Opps VII/VIIb ranked best-supported winner. Caveats preserved around private ledgers, Marks-versus-team attribution, subscription-line effects, and unverified position-level P&L.
 - Backlog added: None
+
+## 2026-06-20T14:50:36Z — T0061 — 008-howard-marks — E-own-words — DONE
+- Output: investors/008-howard-marks/in-their-own-words.md (~1,694 words, 35 sources)
+- Notes: Built a primary-source quote file from Oaktree memos, official pages, transcripts, and SEC records; kept 25 Marks quotes under 25 words and separated borrowed lines from Marks originals.
+- Backlog added: none
