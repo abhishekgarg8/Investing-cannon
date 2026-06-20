@@ -333,3 +333,8 @@
 - Output: investors/008-howard-marks/mental-models.md (~2,857 words, 24 sources)
 - Notes: Reconstructed Marks/Oaktree mental models as a credit operating system: price/value discipline, risk control, cycle-temperature posture, sell rules, client-structure fit, and compliance controls. Caveats preserved around team attribution, scale/crowding, private-credit liquidity/product risk, Thrasio control failure, and firm-level SEC matters.
 - Backlog added: None
+
+## 2026-06-20T20:26:31Z — T0064 — 008-howard-marks — H-synthesis — DONE
+- Output: investors/008-howard-marks/synthesis.md (~1,576 words, 19 sources)
+- Notes: Completed Marks synthesis, ranked transferable lessons, taxonomy, regime dependence, peer comparisons, unresolved questions, and INDEX.md row. Preserved caveats around Marks/Oaktree attribution, private fund return opacity, scale, private-credit liquidity/product risk, Thrasio source limits, and firm-level SEC matters.
+- Backlog added: None
