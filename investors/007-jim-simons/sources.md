@@ -180,3 +180,37 @@ Additional task caveats:
 - The Goldman Sachs Peter Brown transcript redirected through a static PDF handler in this environment; Moontower notes were used as the source-visible transcript mirror, with provenance caveat.
 - The Q1 2026 13F is useful for current public footprint only. It should not be cited as Medallion holdings, total AUM, short exposure, derivatives exposure or strategy-level performance.
 - Medallion return figures remain high-quality secondary evidence, primarily Zuckerman/Cornell/Bloomberg/Institutional Investor chains, not public audited fund statements.
+
+## T0056 H-synthesis additions - appended 2026-06-20
+
+Task output: `investors/007-jim-simons/synthesis.md`
+
+Primary and high-weight sources used in the synthesis task:
+
+1. [Simons Foundation - death announcement (2024)](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) - Primary status source for Simons's death date and posthumous framing.
+2. [Renaissance Technologies official website (2026)](https://www.rentec.com/Home.action?index=true) - Current official firm framing around mathematical/statistical investment methods and official-site boundaries.
+3. [SEC Form 13F-HR primary document, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/xslForm13F_X02/primary_doc.xml) - Current public 13F footprint; used only as a disclosure caveat, not as Medallion, AUM, short, derivatives or leverage evidence.
+4. [SEC filing detail page, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/0001037389-26-000033-index.html) - EDGAR index confirming the 2026 filing date, accession number and report period.
+5. [Alpha Architect - Jim Simons transcript (2015)](https://alphaarchitect.com/james-simons-transcript-quantitative-finance-and-building-a-firm/) - Core process source for anomalies, transaction costs, capacity and collaborative firm-building.
+6. [MIT Sloan - Quant pioneer James Simons on math, money, and philanthropy (2019)](https://mitsloan.mit.edu/ideas-made-to-matter/quant-pioneer-james-simons-math-money-and-philanthropy) - Interview-based source for hiring, collaboration, temperament and philanthropy framing.
+7. [Simons Foundation - Remembering the Life and Careers of Jim Simons (2024)](https://www.simonsfoundation.org/2024/05/10/remembering-the-life-and-careers-of-jim-simons/) - First-party background on Renaissance founding and scientific culture.
+8. [Bloomberg profile mirror via FIU - Simons at Renaissance Cracks Code (2007)](https://riskanalysis.fiu.edu/news/2010/simons-at-renaissance/simons_at_renaissance.pdf) - Contemporaneous reporting on Medallion/RIEF distinction, assets, turnover and return figures.
+9. [Cornell Capital Group - Medallion Fund: The Ultimate Counterexample (2020)](https://www.cornell-capital.com/blog/medallion-fund-the-ultimate-counterexample/) - Analytical source for reported Medallion returns, factor limits, capacity and outside-fund contrast.
+10. [Institutional Investor - Famed Medallion Fund Stretches Explanation (2019)](https://www.institutionalinvestor.com/article/2bswymr8cih3jeaslxc00/portfolio/famed-medallion-fund-stretches-explanation-to-the-limit-professor-claims) - Strong secondary source on Cornell/Zuckerman return figures and why the record strains standard explanations.
+11. [Institutional Investor/Zuckerman excerpt - Bitter Lawsuits, Epic Meltdowns (2019)](https://www.institutionalinvestor.com/article/2bswabr234orjmebrnbb4/culture/bitter-lawsuits-epic-meltdowns-vicious-arguments-jim-simons-renaissance-made-him-billions-but-it-came-at-a-price) - Anti-hagiography source for 2007 quant-quake stress, IP tensions and organizational risk.
+12. [SEC comment letter - Renaissance on Form SH short disclosure (2008)](https://www.sec.gov/comments/s7-24-08/s72408-3.pdf) - Primary firm source for secrecy, reverse-engineering and market-impact disclosure risk.
+13. [U.S. Senate/govinfo basket-options hearing record (2014)](https://www.govinfo.gov/content/pkg/CHRG-113shrg89882/html/CHRG-113shrg89882.htm) - Primary government source for basket-options allegations, leverage/tax details and model/code risk testimony.
+14. [AP/CBS News - Renaissance executives IRS settlement (2021)](https://www.cbsnews.com/news/robert-mercer-irs-tax-settlement-7-billion/) - AP-syndicated source for the as-much-as-$7-billion settlement framing.
+15. [WealthManagement/Bloomberg - RenTech insiders to pay back taxes (2021)](https://www.wealthmanagement.com/high-net-worth/jim-simons-rentech-insiders-to-pay-billions-in-back-taxes) - Bloomberg-syndicated settlement detail, including the distinction between Medallion and outside funds.
+16. [UC Academic Senate - Elwyn Ralph Berlekamp In Memoriam (2021)](https://senate.universityofcalifornia.edu/in-memoriam/files/elwyn-berlekamp.html) - Source for Berlekamp's Axcom/Medallion rebuild and the reported 1990 result.
+17. [Cravath - Renaissance Technologies Corp. Settles Trade Secrets Dispute (2009)](https://www.cravath.com/news-insights/renaissance-technologies-corp-settles-trade-secrets-dispute.html) - Law-firm source for IP leakage risk and the Millennium/former-employee settlement.
+18. [Institutional Investor - RenTech's Medallion Fund Surged 76% in 2020 (2021)](https://www.institutionalinvestor.com/article/2bsvvp5c6brvusqte8zk0/corner-office/rentechs-medallion-fund-surged-76-in-2020-but-funds-open-to-outsiders-tanked) - Outside-fund contrast source for 2020.
+19. [Institutional Investor - Renaissance Suffers Huge Losses in October (2025)](https://www.institutionalinvestor.com/article/renaissance-suffers-huge-losses-october) - Current outside-fund stress source for 2025 RIEF/RIDA drawdowns.
+
+Additional task caveats:
+
+- T0054 key-writings remained freshly claimed and `key-writings.md` was absent at synthesis time; refresh this synthesis when that output exists.
+- Medallion returns remain reported secondary evidence, not public audited fund statements.
+- 13F data remains a current public long-equity footprint only, not Medallion holdings, total AUM, short exposure, derivatives exposure or strategy-level performance.
+- Outside-fund performance should not be blended with Medallion; RIEF/RIDA/RIDGE need separate vehicle-level tables from original investor letters where available.
+- No opened source supported a new posthumous personal legal proceeding involving Simons as of 2026-06-20T08:45:32Z.
