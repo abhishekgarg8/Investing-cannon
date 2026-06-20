@@ -282,3 +282,8 @@
 - Output: investors/007-jim-simons/in-their-own-words.md (~1,850 words, 14 sources)
 - Notes: Completed Simons own-words file with 33 short source-visible quote snippets across five themes plus annotated primary/near-primary materials. Caveats preserved around transcript mirrors, quote aggregators, absent Medallion letters, and no new posthumous personal legal proceeding surfaced.
 - Backlog added: None
+
+## 2026-06-20T07:31:08Z — T0055 — 007-jim-simons — G-mental-models — DONE
+- Output: investors/007-jim-simons/mental-models.md (~2,757 words, 20 task-specific sources)
+- Notes: Reconstructed Simons/Renaissance mental models as an institutional decision system: small-edge testing, cost/capacity discipline, portfolio-level risk, secrecy/IP, survival override, and transferability limits. Caveats preserved around non-public Medallion signals/ledgers, secondary return figures, 13F non-comparability, outside-fund drawdowns, and tax/legal structure.
+- Backlog added: None
