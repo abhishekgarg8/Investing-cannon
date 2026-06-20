@@ -268,3 +268,7 @@
 - Notes: Completed Simons philosophy around scientific model-building, small statistical edges, capacity/secrecy, execution, risk controls, and the Medallion-versus-outside-fund boundary. Caveats preserve non-public audited Medallion records, 13F non-comparability, basket-options tax settlement, IP/personnel litigation, and inference-versus-documentation boundaries.
 - Backlog added: None
 
+## 2026-06-20T01:32:49Z — T0051 — 007-jim-simons — C-greatest-trades — DONE
+- Output: investors/007-jim-simons/greatest-trades.md (~3,181 words, 13 task-specific sources)
+- Notes: Completed Simons greatest-trades file as documented trade/episode reconstruction because Medallion position ledgers are private; single best framed as the Medallion engine/capacity decision. Caveats preserved around secondary performance figures, 2007/2020 outside-fund contrast, and basket-options tax/leverage controversy.
+- Backlog added: None
