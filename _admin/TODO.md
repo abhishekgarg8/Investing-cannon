@@ -65,7 +65,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-20T11:40:59Z T0058 | 008-howard-marks | B-philosophy | investors/008-howard-marks/investment-philosophy.md
 - [x] done:2026-06-20T12:35:20Z T0059 | 008-howard-marks | C-greatest-trades | investors/008-howard-marks/greatest-trades.md
 - [~] claimed:2026-06-20T13:16:26Z T0060 | 008-howard-marks | D-mistakes | investors/008-howard-marks/mistakes-and-losses.md
-- [ ] T0061 | 008-howard-marks | E-own-words | investors/008-howard-marks/in-their-own-words.md
+- [x] done:2026-06-20T14:50:36Z T0061 | 008-howard-marks | E-own-words | investors/008-howard-marks/in-their-own-words.md
 - [ ] T0062 | 008-howard-marks | F-key-writings | investors/008-howard-marks/key-writings.md
 - [ ] T0063 | 008-howard-marks | G-mental-models | investors/008-howard-marks/mental-models.md
 - [ ] T0064 | 008-howard-marks | H-synthesis | investors/008-howard-marks/synthesis.md
