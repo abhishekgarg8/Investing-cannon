@@ -72,3 +72,38 @@ Source map for T0065 A-profile. Ranked roughly by reliability and usefulness for
 - Goldman, Apple/Columbia, Capital Allocators, and iConnections confirm recent interview topics and current posture; only sources with accessible text were used for direct claims.
 - Current portfolio comments rely on SEC 13F filings but are explicitly limited to visible U.S.-reportable long positions.
 - Tensions/criticisms rely on Bloomberg-derived Financial Advisor reporting, Institutional Investor allocator interviews, and practitioner critique; they should be preserved as external critiques, not audited fund records.
+
+## T0067 C-greatest-trades Task-Specific Sources
+
+1. [Carrier Management / Bloomberg - PG&E Claim Payday](https://www.carriermanagement.com/news/2020/08/25/210607.htm) - Best public source for Baupost's PG&E subrogation-claim payout: more than $3B received; profit could approach $1B before equity offsets.
+2. [Insurance Journal / Bloomberg - PG&E Claims and Equity Exposure](https://www.insurancejournal.com/news/national/2019/01/14/514769.htm) - Explains Baupost's CSAA subrogation-claim purchase, reported entry price, and simultaneous PG&E equity drawdown.
+3. [SEC - Idenix Schedule 14D-9](https://www.sec.gov/Archives/edgar/data/1093649/000119312514243557/d744635dsc14d9.htm) - Primary source for Baupost's 53.331M-share Idenix holding, share count, and ownership math at Merck's tender.
+4. [Merck - Merck to Acquire Idenix](https://www.merck.com/news/merck-to-acquire-idenix/) - Primary corporate release for the $24.50/share cash offer and $3.85B transaction value.
+5. [Merck - Tender Offer Completed](https://www.merck.com/news/merck-completes-tender-offer-to-acquire-idenix/) - Confirms offer completion terms and timing for Idenix exit.
+6. [SEC - Idenix Subscription Agreement](https://www.sec.gov/Archives/edgar/data/1093649/000119312514023268/d665213dex101.htm) - Primary source for Baupost-linked 16.42M-share registered-direct purchase at $6.50.
+7. [RTTNews - Idenix Registered Direct Offering](https://www.rttnews.com/2258475/idenix-to-raise-106-7-mln-through-registered-direct-offering.aspx) - Secondary contemporaneous source for Baupost moving from roughly 27% to 35% ownership.
+8. [Gulf Times / Bloomberg - Lehman Claims Recoveries](https://www.gulf-times.com/story/606192/lehmans-carcass-has-handed-huge-profits-to-distressed-funds) - Best accessible source for Lehman claim price/recovery path and Baupost's role among distressed buyers.
+9. [Business Insider / Economist - Klarman Profile](https://www.businessinsider.com/seth-klarman-and-his-cult-following-2012-7) - Secondary source noting Lehman as Baupost's largest distressed-debt position at that point.
+10. [Quinn Emanuel - Lehman Bankruptcy Litigation Lessons](https://www.quinnemanuel.com/the-firm/publications/article-december-2018-what-we-learned-as-lehman-s-bankruptcy-litigators/) - Legal-process context for Lehman recoveries and litigation complexity.
+11. [Institutional Investor - How Hedge Funds Hide](https://www.institutionalinvestor.com/article/2bsxj4zrq30triruvpf5s/corner-office/how-hedge-funds-hide) - Main source for Baupost's Iceland failed-bank claims, vehicles, EUR3B/$3.7B exposure, and near-$1B estimated profit.
+12. [Yale Journal of Financial Crises - Iceland Bank Failures](https://elischolar.library.yale.edu/journal-of-financial-crises/vol6/iss3/11/) - Academic context for Icelandic bank resolutions and creditor recoveries.
+13. [Toshiba - Sale of Westinghouse Claims to Nucleus](https://www.global.toshiba/content/dam/toshiba/migration/corp/irAssets/about/ir/en/news/20180118_1.pdf) - Primary source for claim face amounts and $2.16B purchase price.
+14. [Nishimura & Asahi - Toshiba Westinghouse Claims Sale](https://www.nishimura.com/en/experience/work/6731) - Identifies Nucleus Acquisition LLC as a consortium controlled by Baupost.
+15. [Utility Dive - Toshiba Agreement to Sell Westinghouse Claims](https://www.utilitydive.com/news/toshiba-reaches-agreement-to-sell-westinghouse-claims-assets/515162/) - Secondary transaction context for Toshiba balance-sheet relief and Westinghouse restructuring.
+16. [Hughes Hubbard - Fairfield Sentry / Baupost Claim Sale](https://www.hugheshubbard.com/news-insights/insights/second-circuit-stands-by-expansion-of-section-363-review-in-chapter-15-proceedings) - Legal source for Madoff claim purchase around 32 cents and subsequent value move above 50 cents.
+17. [Greenbackd / Absolute Return - Seth Klarman Interview Excerpt](https://greenbackd.com/2010/06/07/absolute-return-interviews-seth-klarman/) - Interview excerpt for Facet and CIT trade logic, entry prices, and process comments.
+18. [SEC - Abbott / Facet Transaction Release](https://www.sec.gov/Archives/edgar/data/1800/000110465910013527/a10-5485_1sctoc.htm) - Primary filing for Abbott's $27/share Facet acquisition.
+19. [MarketFolly - Baupost Exits Facet](https://www.marketfolly.com/2010/04/seth-klarmans-baupost-group-exits-facet.html) - Secondary source summarizing Baupost's Form 4 sale of 1.5M Facet shares at $27.
+20. [Biogen - Increased Facet Offer](https://investors.biogen.com/news-releases/news-release-details/biogen-idec-increases-offer-acquire-facet-biotech-1750-share) - Primary corporate source for Biogen's raised $17.50 offer before Abbott's superior bid.
+21. [Weil - CIT One Year On](https://restructuring.weil.com/case-overviews/cit-one-year-on/) - Restructuring-law summary of CIT's prepackaged bankruptcy, debt reduction, and timing.
+22. [SEC - CIT 2009 Form 10-K](https://www.sec.gov/Archives/edgar/data/1171825/000089109210001036/e38085_10k.htm) - Primary source for CIT's restructuring debt reduction and new second-lien notes.
+23. [SEC - Baupost Q1 2026 13F Cover](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/xslForm13F_X02/primary_doc.xml) - Used to frame why 13F visible public equity is only a partial window into Baupost's actual trade set.
+24. [Fortune - Canadian Mega-Quarry](https://fortune.com/2012/02/15/a-hedge-fund-star-bets-on-a-canadian-mega-quarry/) - Existing profile source reused for stakeholder/headline-risk caveat in claims and real-asset investing.
+
+## T0067 Source Quality Notes
+
+- The strongest task evidence is primary or near-primary: SEC filings, Merck/Toshiba/Abbott/Biogen corporate releases, CIT's 10-K, and bankruptcy/legal analyses.
+- PG&E, Lehman, and Iceland dollar profits rely partly on Bloomberg/Institutional Investor secondary reporting because Baupost does not publish position-level ledgers.
+- Idenix proceeds are mathematically grounded in SEC share count and Merck's tender price; full P&L is still estimated because open filings do not reconstruct every purchase and cost basis.
+- Westinghouse is deliberately treated as a large claims purchase, not a verified profit figure, because accessible sources verify purchase terms but not Baupost's final economics.
+- Madoff/Fairfield Sentry is included for process insight and convexity, but final realized Baupost P&L remains unavailable.
