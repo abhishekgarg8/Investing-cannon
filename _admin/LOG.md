@@ -338,3 +338,8 @@
 - Output: investors/008-howard-marks/synthesis.md (~1,576 words, 19 sources)
 - Notes: Completed Marks synthesis, ranked transferable lessons, taxonomy, regime dependence, peer comparisons, unresolved questions, and INDEX.md row. Preserved caveats around Marks/Oaktree attribution, private fund return opacity, scale, private-credit liquidity/product risk, Thrasio source limits, and firm-level SEC matters.
 - Backlog added: None
+
+## 2026-06-20T21:51:17Z — T0065 — 009-seth-klarman — A-profile — DONE
+- Output: investors/009-seth-klarman/profile.md (~2,900 words, 24 sources)
+- Notes: Created Klarman profile with Baupost vehicle structure, current ADV/13F footprint, caveated long-run track record, recent underperformance/redemptions, and Ontario mega-quarry controversy. Birth details rely on lower-tier secondary sources pending primary confirmation; audited partnership return series remains open. During closeout, repaired an over-short TODO replacement and verified T0065 plus the queue tail through T0812.
+- Backlog added: None
