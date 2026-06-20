@@ -308,3 +308,8 @@
 - Output: investors/008-howard-marks/investment-philosophy.md (~2,823 words, 22 sources)
 - Notes: Completed Marks philosophy around second-level thinking, risk control, value/price, bottom-up credit process, cycle-aware posture, macro-forecast skepticism, sell discipline, and sea-change/private-credit evolution. Tensions preserved around team attribution, scale/AUM methodology, firm-level SEC settlements, and the boundary between cycle assessment and macro forecasting.
 - Backlog added: None
+
+## 2026-06-20T12:35:20Z — T0059 — 008-howard-marks — C-greatest-trades — DONE
+- Output: investors/008-howard-marks/greatest-trades.md (~3,241 words, 20 sources)
+- Notes: Completed Marks/Oaktree greatest-trades file as fund-vintage and restructuring-episode reconstruction; 2008-09 Opps VII/VIIb ranked best-supported winner. Caveats preserved around private ledgers, Marks-versus-team attribution, subscription-line effects, and unverified position-level P&L.
+- Backlog added: None
