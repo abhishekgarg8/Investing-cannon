@@ -292,3 +292,8 @@
 - Output: investors/007-jim-simons/synthesis.md (~1,755 words, 19 sources)
 - Notes: Completed Simons synthesis integrating completed A-E and G files; preserved caveats around missing/freshly claimed F-key-writings, non-public Medallion ledgers/returns, 13F non-comparability, outside-fund divergence, and basket-options tax/legal structure.
 - Backlog added: None
+
+## 2026-06-20T09:35:34Z — T0054 — 007-jim-simons — F-key-writings — DONE
+- Output: investors/007-jim-simons/key-writings.md (~2,559 words, 23 sources)
+- Notes: Stale retry closeout: completed the missing key-writings file by ranking Simons's mathematical papers, interview/essay corpus, firm/regulatory context, and best secondary works. Caveats preserved around absent Medallion letters/internal memos, blocked PNAS/PubMed pages, transcript provenance, and secondary-only performance reconstructions.
+- Backlog added: None
