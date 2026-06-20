@@ -32,3 +32,30 @@ Annotated source map started with T0049 A-profile on 2026-06-19.
 - Medallion's best-known 1988-2018 return numbers appear to trace to Gregory Zuckerman's *The Man Who Solved the Market* and later analyses. Later tasks should page-check the book and trace any underlying documents.
 - Public 13F value is not total AUM. Do not use 13F value as a Medallion or firm-AUM figure without labeling it.
 - FT and WSJ results appeared, including obituaries and tax-settlement coverage, but were paywalled in this run. Use only if accessible through a legitimate archive or subscription in a later run.
+
+## T0050 B-philosophy additions - appended 2026-06-20
+
+Task output: `investors/007-jim-simons/investment-philosophy.md`
+
+Primary and high-weight sources used in the philosophy task:
+
+1. [Renaissance Technologies official website (2026)](https://www.rentec.com/Home.action?index=true) - Official language that Renaissance uses mathematical and statistical methods in investment-program design and execution; also confirms official-site boundaries and performance disclaimer.
+2. [Alpha Architect - Jim Simons transcript (2015)](https://alphaarchitect.com/james-simons-transcript-quantitative-finance-and-building-a-firm/) - Key Simons self-description of the shift from discretionary trading to models, anomalies, machine-learning-style testing, transaction costs, capacity limits, and collaborative hiring.
+3. [MIT Sloan - Quant pioneer James Simons on math, money, and philanthropy (2019)](https://mitsloan.mit.edu/ideas-made-to-matter/quant-pioneer-james-simons-math-money-and-philanthropy) - Interview-based source for Simons' collaboration, hiring and management principles; used sparingly for philosophy and temperament.
+4. [Simons Foundation - Remembering the Life and Careers of Jim Simons (2024)](https://www.simonsfoundation.org/2024/05/10/remembering-the-life-and-careers-of-jim-simons/) - First-party timeline and description of Renaissance's preference for scientists and collaborative culture.
+5. [Bloomberg profile mirror via FIU - Simons at Renaissance Cracks Code (2007)](https://riskanalysis.fiu.edu/news/2010/simons-at-renaissance/simons_at_renaissance.pdf) - Contemporaneous reporting on Medallion/RIEF structure, assets, turnover differences, returns and quant research process.
+6. [Cornell Capital Group - Medallion Fund: The Ultimate Counterexample (2020)](https://www.cornell-capital.com/blog/medallion-fund-the-ultimate-counterexample/) - Bradford Cornell analysis of reported Medallion returns, capacity limits, market-efficiency implications and outside-fund contrast.
+7. [Institutional Investor - Famed Medallion Fund Stretches Explanation (2020)](https://www.institutionalinvestor.com/article/2bswymr8cih3jeaslxc00/portfolio/famed-medallion-fund-stretches-explanation-to-the-limit-professor-claims) - Reporting on Cornell/Zuckerman return claims, Medallion's small-edge/high-repetition economics, execution, secrecy and capacity discipline.
+8. [Institutional Investor/Zuckerman excerpt - Bitter Lawsuits, Epic Meltdowns (2019)](https://www.institutionalinvestor.com/article/2bswabr234orjmebrnbb4/culture/bitter-lawsuits-epic-meltdowns-vicious-arguments-jim-simons-renaissance-made-him-billions-but-it-came-at-a-price) - Anti-hagiography source for IP conflict and 2007 quant-quake survival override.
+9. [SEC comment letter - Renaissance on Form SH public short disclosure (2008)](https://www.sec.gov/comments/s7-24-08/s72408-3.pdf) - Primary Renaissance filing showing secrecy, proprietary trading and market-impact logic around public disclosure.
+10. [U.S. Senate/govinfo basket-options hearing record (2014)](https://www.govinfo.gov/content/pkg/CHRG-113shrg89882/html/CHRG-113shrg89882.htm) - Primary government record for Renaissance basket-options allegations, leverage/tax controversy and Peter Brown testimony on model and code risk.
+11. [WealthManagement/Bloomberg - RenTech insiders to pay back taxes (2021)](https://www.wealthmanagement.com/high-net-worth/jim-simons-rentech-insiders-to-pay-billions-in-back-taxes) - Secondary/Bloomberg report on IRS settlement terms, additional Simons payment and distinction between Medallion and outside funds.
+12. [SEC Form 13F-HR primary document, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/xslForm13F_X02/primary_doc.xml) - Current primary filing for Renaissance's public 13F footprint; used only as a current-state caveat, not as AUM or Medallion evidence.
+13. [SEC filing detail page, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/0001037389-26-000033-index.html) - EDGAR index confirming filing date, accession number, period and filing documents.
+
+Additional task caveats:
+
+- The Alpha Architect transcript appears to reproduce a public interview excerpt; later E-own-words work should verify exact wording against original video/audio before quote treatment.
+- Medallion performance statistics remain public secondary evidence, mainly Zuckerman/Cornell/Institutional Investor, not public audited primary records.
+- The philosophy file deliberately distinguishes Medallion from RIEF/RIDA and current 13F holdings. These should not be blended in future tasks.
+- Legal/regulatory review in this run focused on the basket-options tax dispute, the 2008 short-disclosure comment letter, and IP/personnel disputes. No source opened in this run supported claiming a new posthumous personal legal proceeding involving Simons as of 2026-06-20.
