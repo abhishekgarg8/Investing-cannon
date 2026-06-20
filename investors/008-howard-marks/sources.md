@@ -189,3 +189,31 @@ Annotated source map started for T0057 A-profile and appended by later tasks. Ra
 - The least transferable material is Oaktree's institutional credit machinery: private sourcing, restructuring influence, locked capital, specialist teams, compliance infrastructure, and client mandate design.
 - Thrasio remains secondary-source constrained until the original Oaktree investor letter and any follow-up apology/process-change memo are located.
 
+## T0064 H-synthesis source additions
+
+1. **Oaktree official biography: Howard Marks** - https://www.oaktreecapital.com/about/leadership/bio/howard-marks - Primary status and role source for Marks as Oaktree philosophy steward, client communicator, and co-chairman.
+2. **Oaktree About page** - https://www.oaktreecapital.com/about - Primary current source for $224B AUM, asset-class mix, client mix, employee count, and March 31, 2026 date stamp.
+3. **Oaktree Credit strategy page** - https://www.oaktreecapital.com/strategies/credit - Primary source for $161B credit AUM, 243 investment professionals, strategy breadth, and bottom-up credit process.
+4. **Oaktree Investment Philosophy** - https://www.oaktreecapital.com/about/investment-philosophy - Primary institutional source for the six enduring tenets synthesized in H.
+5. **Howard Marks, Risk Revisited (2014)** - https://www.oaktreecapital.com/docs/default-source/memos/2014-09-03-risk-revisited.pdf?sfvrsn=78b60f65_6 - Primary risk framework for permanent loss, leverage, liquidity, valuation, and opportunity-cost risks.
+6. **Howard Marks, The Illusion of Knowledge (2022)** - https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge - Primary source for macro-forecasting skepticism and the I-don't-know school.
+7. **Howard Marks, Further Thoughts on Sea Change (2023)** - https://www.oaktreecapital.com/insights/memo/further-thoughts-on-sea-change - Primary regime-dependence source for the post-2021 rate/credit shift.
+8. **Howard Marks, The Calculus of Value (2025)** - https://www.oaktreecapital.com/insights/memo/the-calculus-of-value - Primary source for price/value mechanics and psychology-driven price movement.
+9. **Howard Marks, What's Going on in Private Credit? (2026)** - https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit - Primary current memo for private-credit cycle, direct-lending crowding, software debt, and liquidity/product design risk.
+10. **Howard Marks, AI Hurtles Ahead (2026)** - https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead - Primary late-career application of price-versus-promise and moderate sizing to AI.
+11. **Oaktree 2020 in Review** - https://www.oaktreecapital.com/docs/default-source/memos/2020_in_review.pdf?sfvrsn=c7a37e66_4 - Primary Oaktree source for 2020 deployment and Opps XI formation.
+12. **Oaktree 2021 in Review** - https://www.oaktreecapital.com/docs/default-source/memos/2021-in-review_co.pdf - Primary source for Opps XI final close, gross/net IRR caveat, and subscription-line effect.
+13. **Oaktree Opportunities Fund XII close release** - https://www.brookfieldoaktreeholdings.com/news-releases/news-release-details/oaktree-closes-opportunities-fund-xii-16-billion - Primary source for $16B Opps XII commitments, deployment, and seniority/downside-protection language.
+14. **Brookfield remaining-interest announcement** - https://bn.brookfield.com/press-releases/brookfield-acquire-remaining-interest-oaktree - Primary source for proposed acquisition of the remaining Oaktree interest and continued senior roles for Marks/Karsh.
+15. **Brookfield Asset Management Q1 2026 supplemental** - https://bam.brookfield.com/sites/brookfield-bam-v2/files/BAM-IR-Master/Supplemental-Information/2026/Q1-26-BAM-Supplemental.pdf - Primary current source showing approximately 26% of Oaktree still treated as not held by Brookfield as of March 31, 2026.
+16. **SEC administrative order, Oaktree pay-to-play matter (2018)** - https://www.sec.gov/files/litigation/admin/2018/ia-4960.pdf - Primary legal source for firm-level pay-to-play violation and penalty.
+17. **SEC administrative order, Oaktree reporting matter (2024)** - https://www.sec.gov/files/litigation/admin/2024/34-101163.pdf - Primary legal source for firm-level beneficial ownership and insider-reporting violations.
+18. **Asia Asset Management on Oaktree/Thrasio letter (2024)** - https://www.asiaasset.com/analysis/pe-panorama-oaktrees-rebuke-of-investment-partners-may-be-a-sign-of-the-times/ - Secondary source quoting and summarizing the FT-reported Oaktree investor letter; original letter still needed.
+19. **Transacted on Oaktree/Thrasio investor letter (2024)** - https://www.transacted.io/oaktree-capital-blames-silver-lake-and-advent-for-thrasio-bankruptcy-in-scathing-investor-letter - Secondary corroboration of the Thrasio control/trust failure narrative.
+
+### T0064 research notes
+
+- H-synthesis preserves the investor/team distinction: public evidence supports Marks as philosophy steward and communicator while Oaktree's realized investment outcomes are institution- and team-produced.
+- Fresh 2026 checks found no newer personal legal development for Marks; firm-level SEC matters remain 2018 and 2024 in the opened source set.
+- The latest opened Brookfield primary materials still show the remaining Oaktree interest as a pending/ownership-transition issue through Q1 2026; future runs should update after closing filings.
+- The Thrasio failure remains useful but secondary-source constrained because the original Oaktree investor letter was not located.
