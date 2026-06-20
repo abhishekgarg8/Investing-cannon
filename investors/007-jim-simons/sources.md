@@ -88,3 +88,32 @@ Additional task caveats:
 - Named markets such as soybean futures and French government bonds are Bloomberg-reported examples, not reconstructed individual trades.
 - The 2020 Covid entry uses the opened April 2020 Institutional Investor snapshot only; later full-year Medallion return claims were not used because a high-confidence opened source was not established in this run.
 - Basket options are included as a controversial structural/economic trade, not as evidence of predictive alpha.
+
+## T0052 D-mistakes additions - appended 2026-06-20
+
+Task output: `investors/007-jim-simons/mistakes-and-losses.md`
+
+Primary and high-weight sources used in the mistakes/losses task:
+
+1. [Simons Foundation - death announcement (2024)](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) - Current-status source confirming Simons died on 2024-05-10; used to frame posthumous legal/status review.
+2. [Simons Foundation - Remembering the Life and Careers of Jim Simons (2024)](https://www.simonsfoundation.org/2024/05/10/remembering-the-life-and-careers-of-jim-simons/) - First-party background on Renaissance's scientific culture and talent model; used in process-change discussion.
+3. [Alpha Architect - Jim Simons transcript (2015)](https://alphaarchitect.com/james-simons-transcript-quantitative-finance-and-building-a-firm/) - Simons self-description of the move from discretionary trading to tested, capacity-aware quantitative models.
+4. [UC Academic Senate - Elwyn Ralph Berlekamp In Memoriam (2021)](https://senate.universityofcalifornia.edu/in-memoriam/files/elwyn-berlekamp.html) - Main source for early Axcom/Medallion struggle, Berlekamp's rebuild, and reported 55% net return in 1990.
+5. [U.S. Senate/govinfo basket-options hearing record (2014)](https://www.govinfo.gov/content/pkg/CHRG-113shrg89882/html/CHRG-113shrg89882.htm) - Primary source for basket-options allegations, leverage/tax details, and Peter Brown testimony on model/code risk and March 2000 lessons.
+6. [Institutional Investor/Zuckerman excerpt - Bitter Lawsuits, Epic Meltdowns (2019)](https://www.institutionalinvestor.com/article/2bswabr234orjmebrnbb4/culture/bitter-lawsuits-epic-meltdowns-vicious-arguments-jim-simons-renaissance-made-him-billions-but-it-came-at-a-price) - Key source for 2007 quant-quake losses, Simons/Brown internal tension, survival override, IP conflict, and organizational anti-hagiography.
+7. [Moontower Meta - Notes from RenTec CEO Peter Brown on the Goldman Sachs podcast (2023)](https://moontowermeta.com/notes-from-rentec-ceo-peter-brown-on-the-gs-podcast/) - Secondary transcript notes for Brown's recollections of 2000, 2007, and 2008 risk lessons; useful but lower provenance than original audio/transcript.
+8. [Bloomberg profile mirror via FIU - Simons at Renaissance Cracks Code (2007)](https://riskanalysis.fiu.edu/news/2010/simons-at-renaissance/simons_at_renaissance.pdf) - Contemporaneous source distinguishing Medallion and RIEF structure, assets, turnover, and strategy profile.
+9. [Institutional Investor - RenTech's Medallion Fund Surged 76% in 2020 (2021)](https://www.institutionalinvestor.com/article/2bsvvp5c6brvusqte8zk0/corner-office/rentechs-medallion-fund-surged-76-in-2020-but-funds-open-to-outsiders-tanked) - Source for 2020 Medallion-versus-outsider-fund performance contrast; exact outside-fund percentages treated as source-dependent pending investor letters.
+10. [Markets Insider/Bloomberg - Renaissance's Stock Hedge Fund Falls 16% as Clients Pull $14.6B (2022)](https://markets.businessinsider.com/news/stocks/renaissance-s-stock-hedge-fund-falls-16-as-clients-pull-14-6b-1031072324) - Bloomberg-syndicated source for 2021 RIEF loss/outflows and a second account of 2020 outside-fund losses; used to flag percentage discrepancies.
+11. [AP/CBS News - Renaissance executives IRS settlement (2021)](https://www.cbsnews.com/news/robert-mercer-irs-tax-settlement-7-billion/) - Secondary/AP confirmation of the "as much as $7 billion" IRS settlement.
+12. [WealthManagement/Bloomberg - RenTech insiders to pay back taxes (2021)](https://www.wealthmanagement.com/high-net-worth/jim-simons-rentech-insiders-to-pay-billions-in-back-taxes) - Bloomberg-syndicated settlement detail including the additional Simons dividend-withholding payment.
+13. [SEC comment letter - Renaissance on Form SH public short disclosure (2008)](https://www.sec.gov/comments/s7-24-08/s72408-3.pdf) - Primary Renaissance letter showing secrecy/proprietary-disclosure risk logic.
+14. [Cravath - Renaissance trade-secret lawsuit dismissal (2023)](https://www.cravath.com/news/cravath-represents-renaissance-technologies-in-securing-the-dismissal-of-74-million-trade-secret-lawsuit.html) - Law-firm source used only to document continuing IP/legal-risk context after Simons stepped back.
+15. [SEC Form 13F-HR primary document, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/xslForm13F_X02/primary_doc.xml) - Current public filing used only as a caveat: 13F is not Medallion performance, AUM, leverage, or strategy evidence.
+
+Additional task caveats:
+
+- Medallion loss figures and 2007 drawdown details remain secondary-source, episode-level figures, not public audited fund statements.
+- The 2020 outside-fund performance numbers differ between Institutional Investor and Bloomberg-syndicated reporting; original investor letters are needed to reconcile share class, period, and methodology.
+- The current Form ADV could not be reliably fetched in this environment; this task does not claim a complete 2026 regulatory-history update beyond sources opened here.
+- No opened source in this run supported a new posthumous personal legal proceeding involving Simons as of 2026-06-20.
