@@ -59,3 +59,32 @@ Additional task caveats:
 - Medallion performance statistics remain public secondary evidence, mainly Zuckerman/Cornell/Institutional Investor, not public audited primary records.
 - The philosophy file deliberately distinguishes Medallion from RIEF/RIDA and current 13F holdings. These should not be blended in future tasks.
 - Legal/regulatory review in this run focused on the basket-options tax dispute, the 2008 short-disclosure comment letter, and IP/personnel disputes. No source opened in this run supported claiming a new posthumous personal legal proceeding involving Simons as of 2026-06-20.
+
+## T0051 C-greatest-trades additions - appended 2026-06-20
+
+Task output: `investors/007-jim-simons/greatest-trades.md`
+
+Primary and high-weight sources used in the greatest-trades task:
+
+1. [Renaissance Technologies official website (2026)](https://www.rentec.com/Home.action?index=true) - Official firm description of mathematical/statistical investment methods and official-site boundaries.
+2. [Alpha Architect - Jim Simons transcript (2015)](https://alphaarchitect.com/james-simons-transcript-quantitative-finance-and-building-a-firm/) - Simons's public explanation of anomaly testing, transaction-cost awareness, capacity limits and collaborative firm-building.
+3. [Bloomberg profile mirror via FIU - Simons at Renaissance Cracks Code (2007)](https://riskanalysis.fiu.edu/news/2010/simons-at-renaissance/simons_at_renaissance.pdf) - Best contemporaneous source for 2007 Medallion/RIEF assets, named market examples, turnover distinction and pre-2007 return figures.
+4. [Cornell Capital Group - Medallion Fund: The Ultimate Counterexample (2020)](https://www.cornell-capital.com/blog/medallion-fund-the-ultimate-counterexample/) - Academic-style analysis of Zuckerman's reported Medallion return series, including $100-to-$398.7 million, 63.3% CAGR, no negative annual return and crisis-year figures.
+5. [Institutional Investor - Famed Medallion Fund Stretches Explanation (2020)](https://www.institutionalinvestor.com/article/2bswymr8cih3jeaslxc00/portfolio/famed-medallion-fund-stretches-explanation-to-the-limit-professor-claims) - Reporting on Cornell/Zuckerman return figures, small-edge economics, employee retention, capacity discipline and outsider-fund contrast.
+6. [UC Academic Senate - Elwyn Ralph Berlekamp In Memoriam (2021)](https://senate.universityofcalifornia.edu/in-memoriam/files/elwyn-berlekamp.html) - Best opened source for Berlekamp's 1989 Axcom/Medallion redesign and the reported 55% net return in 1990.
+7. [Institutional Investor/Zuckerman excerpt - Bitter Lawsuits, Epic Meltdowns (2019)](https://www.institutionalinvestor.com/article/2bswabr234orjmebrnbb4/culture/bitter-lawsuits-epic-meltdowns-vicious-arguments-jim-simons-renaissance-made-him-billions-but-it-came-at-a-price) - Key secondary source for the 2007 quant-quake drawdown, internal debate, IP tensions and survival framing.
+8. [Moontower Meta - Notes from RenTec CEO Peter Brown on the Goldman Sachs podcast (2023)](https://moontowermeta.com/notes-from-rentec-ceo-peter-brown-on-the-gs-podcast/) - Transcript notes for Brown's recollections of 2000, 2007 and 2008 risk-management episodes; useful but lower provenance than the original Goldman Sachs transcript.
+9. [Institutional Investor - The Famed Medallion Fund Is Crushing It. Other RenTech Funds, Not So Much (2020)](https://www.institutionalinvestor.com/article/2bswzoz7x91fqht87wvsw/portfolio/the-famed-medallion-fund-is-crushing-it-other-rentech-funds-not-so-much) - Best opened source for the April 2020 Covid snapshot: Medallion up 24% while outside funds were negative.
+10. [U.S. Senate/govinfo basket-options hearing record (2014)](https://www.govinfo.gov/content/pkg/CHRG-113shrg89882/html/CHRG-113shrg89882.htm) - Primary government record for basket-option structure, trading volume, leverage and tax-avoidance allegations.
+11. [AP/CBS News - Renaissance hedge fund execs to pay $7 billion in settlement with IRS (2021)](https://www.cbsnews.com/news/robert-mercer-irs-tax-settlement-7-billion/) - AP-syndicated settlement source for the "as much as $7 billion" IRS resolution.
+12. [WealthManagement/Bloomberg - Jim Simons, RenTech Insiders to Pay Billions in Back Taxes (2021)](https://www.wealthmanagement.com/high-net-worth/jim-simons-rentech-insiders-to-pay-billions-in-back-taxes) - Bloomberg-syndicated settlement detail, including short-term/long-term tax characterization and Simons's additional $670 million payment.
+13. [SEC Form 13F-HR primary document, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/xslForm13F_X02/primary_doc.xml) - Current Renaissance public 13F footprint; used only as a caveat that 13F is not Medallion, AUM, leverage or strategy performance.
+
+Additional task caveats:
+
+- Medallion's actual trade ledger, individual position sizes, intraday drawdowns and realized P&L by instrument remain non-public in the sources opened for this task.
+- The output deliberately treats the single best "trade" as the Medallion engine/capacity structure because no opened source supports a cleaner, named-position P&L winner.
+- Annual and episode-level return figures mostly trace through Zuckerman/Cornell/Institutional Investor/Bloomberg rather than public audited fund statements; the file flags them as reported or single-source where appropriate.
+- Named markets such as soybean futures and French government bonds are Bloomberg-reported examples, not reconstructed individual trades.
+- The 2020 Covid entry uses the opened April 2020 Institutional Investor snapshot only; later full-year Medallion return claims were not used because a high-confidence opened source was not established in this run.
+- Basket options are included as a controversial structural/economic trade, not as evidence of predictive alpha.
