@@ -63,7 +63,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-20T08:45:32Z T0056 | 007-jim-simons | H-synthesis | investors/007-jim-simons/synthesis.md
 - [x] done:2026-06-20T10:30:03Z T0057 | 008-howard-marks | A-profile | investors/008-howard-marks/profile.md
 - [x] done:2026-06-20T11:40:59Z T0058 | 008-howard-marks | B-philosophy | investors/008-howard-marks/investment-philosophy.md
-- [ ] T0059 | 008-howard-marks | C-greatest-trades | investors/008-howard-marks/greatest-trades.md
+- [x] done:2026-06-20T12:35:20Z T0059 | 008-howard-marks | C-greatest-trades | investors/008-howard-marks/greatest-trades.md
 - [ ] T0060 | 008-howard-marks | D-mistakes | investors/008-howard-marks/mistakes-and-losses.md
 - [ ] T0061 | 008-howard-marks | E-own-words | investors/008-howard-marks/in-their-own-words.md
 - [ ] T0062 | 008-howard-marks | F-key-writings | investors/008-howard-marks/key-writings.md
