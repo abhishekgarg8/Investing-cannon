@@ -108,8 +108,9 @@ Primary and high-weight sources used in the mistakes/losses task:
 11. [AP/CBS News - Renaissance executives IRS settlement (2021)](https://www.cbsnews.com/news/robert-mercer-irs-tax-settlement-7-billion/) - Secondary/AP confirmation of the "as much as $7 billion" IRS settlement.
 12. [WealthManagement/Bloomberg - RenTech insiders to pay back taxes (2021)](https://www.wealthmanagement.com/high-net-worth/jim-simons-rentech-insiders-to-pay-billions-in-back-taxes) - Bloomberg-syndicated settlement detail including the additional Simons dividend-withholding payment.
 13. [SEC comment letter - Renaissance on Form SH public short disclosure (2008)](https://www.sec.gov/comments/s7-24-08/s72408-3.pdf) - Primary Renaissance letter showing secrecy/proprietary-disclosure risk logic.
-14. [Cravath - Renaissance trade-secret lawsuit dismissal (2023)](https://www.cravath.com/news/cravath-represents-renaissance-technologies-in-securing-the-dismissal-of-74-million-trade-secret-lawsuit.html) - Law-firm source used only to document continuing IP/legal-risk context after Simons stepped back.
+14. [Cravath - Renaissance Technologies Corp. Settles Trade Secrets Dispute (2009)](https://www.cravath.com/news-insights/renaissance-technologies-corp-settles-trade-secrets-dispute.html) - Law-firm source documenting Renaissance's trade-secrets dispute with former employees and Millennium Partners; used for IP/legal-risk context.
 15. [SEC Form 13F-HR primary document, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/xslForm13F_X02/primary_doc.xml) - Current public filing used only as a caveat: 13F is not Medallion performance, AUM, leverage, or strategy evidence.
+16. [Institutional Investor - Renaissance Suffers Huge Losses in October (2025)](https://www.institutionalinvestor.com/article/renaissance-suffers-huge-losses-october) - Source for the late-2025 RIEF/RIDA outside-fund drawdown; used to refresh the outside-product risk section.
 
 Additional task caveats:
 
