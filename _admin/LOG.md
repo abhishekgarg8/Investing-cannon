@@ -348,3 +348,8 @@
 - Output: investors/009-seth-klarman/investment-philosophy.md (~3,350 words, 21 sources)
 - Notes: Completed Klarman philosophy around flexible value mandate, off-the-beaten-path sourcing, scenario/downside underwriting, cash optionality, and no-recourse-leverage risk controls. Preserved tensions around post-2014 underperformance/redemptions, private-asset lockups, AI-era adaptation, and stakeholder/externality conflicts.
 - Backlog added: None
+
+## 2026-06-20T23:33:16Z — T0067 — 009-seth-klarman — C-greatest-trades — DONE
+- Output: investors/009-seth-klarman/greatest-trades.md (~2,950 words, 25 source URLs)
+- Notes: Completed Klarman/Baupost greatest-trades file ranking PG&E subrogation claims, Idenix, Lehman claims, Iceland failed-bank claims, Westinghouse/Toshiba claims, Fairfield Sentry/Madoff claim, Facet Biotech, and CIT. Caveats preserved around opaque Baupost ledgers, PG&E equity offsets, Idenix cost-basis reconstruction, single-source Iceland profit estimate, and undisclosed Westinghouse/Madoff realized P&L.
+- Backlog added: None
