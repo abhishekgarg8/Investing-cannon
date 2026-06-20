@@ -66,7 +66,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-20T12:35:20Z T0059 | 008-howard-marks | C-greatest-trades | investors/008-howard-marks/greatest-trades.md
 - [x] done:2026-06-20T16:42:34Z T0060 | 008-howard-marks | D-mistakes | investors/008-howard-marks/mistakes-and-losses.md
 - [x] done:2026-06-20T14:50:36Z T0061 | 008-howard-marks | E-own-words | investors/008-howard-marks/in-their-own-words.md
-- [~] claimed:2026-06-20T18:20:47Z T0062 | 008-howard-marks | F-key-writings | investors/008-howard-marks/key-writings.md
+- [x] done:2026-06-20T18:42:01Z T0062 | 008-howard-marks | F-key-writings | investors/008-howard-marks/key-writings.md
 - [ ] T0063 | 008-howard-marks | G-mental-models | investors/008-howard-marks/mental-models.md
 - [ ] T0064 | 008-howard-marks | H-synthesis | investors/008-howard-marks/synthesis.md
 - [ ] T0065 | 009-seth-klarman | A-profile | investors/009-seth-klarman/profile.md
