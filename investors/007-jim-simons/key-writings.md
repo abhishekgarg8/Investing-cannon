@@ -6,7 +6,7 @@ As of 2026-06-20, Jim Simons is deceased. He left no public shareholder-letter a
 
 ### 1. "Minimal cones, Plateau's problem, and the Bernstein conjecture" (1967)
 
-This short PNAS note is the cleanest entry point into Simons as a working mathematician. Its central thesis is that stability of minimal cones can push the Bernstein and Plateau regularity problems up to a critical dimension, while a specific high-dimensional cone suggests where the classical intuition breaks. Celebratio's bibliography reproduces the paper metadata and abstract, including the conclusion that the results yield Bernstein through `R^8`, interior regularity through `R^7`, and a candidate counterexample in `R^8` ([Celebratio bibliography, 2016](https://celebratio.org/Simons_J/article/376/)). PNAS also lists the original article and DOI ([PNAS, 1967](https://www.pnas.org/doi/10.1073/pnas.58.2.410)).
+This short PNAS note is the cleanest entry point into Simons as a working mathematician. Its central thesis is that stability of minimal cones can push the Bernstein and Plateau regularity problems up to a critical dimension, while a specific high-dimensional cone suggests where the classical intuition breaks. Celebratio's bibliography reproduces the paper metadata, DOI, and abstract, including the conclusion that the results yield Bernstein through `R^8`, interior regularity through `R^7`, and a candidate counterexample in `R^8` ([Celebratio bibliography, 2016](https://celebratio.org/Simons_J/article/376/)).
 
 Key ideas:
 
@@ -28,7 +28,7 @@ Key ideas:
 
 ### 3. "Some cohomology classes in principal fiber bundles and their application to Riemannian geometry" (1971)
 
-This PNAS paper with Shiing-Shen Chern defines global invariants for fiber bundles with a connection under conditions where certain curvature forms vanish. The PubMed abstract states that these invariants become conformal invariants in the tangent-bundle case and give necessary conditions for conformal immersion in Euclidean space ([PubMed/PNAS, 1971](https://pubmed.ncbi.nlm.nih.gov/16591916/)). Celebratio gives the formal bibliographic record and DOI ([Celebratio bibliography, 2016](https://celebratio.org/Simons_J/article/376/)).
+This PNAS paper with Shiing-Shen Chern defines global invariants for fiber bundles with a connection under conditions where certain curvature forms vanish. Celebratio gives the formal bibliographic record and DOI for the original article ([Celebratio bibliography, 2016](https://celebratio.org/Simons_J/article/376/)).
 
 Key ideas:
 
