@@ -262,3 +262,9 @@
 - Output: investors/007-jim-simons/profile.md (~2435 words, 20 sources)
 - Notes: Created Simons profile with deceased/status check, Renaissance/Medallion vehicle structure, caveated Medallion return record, Q1 2026 13F footprint, philanthropy, and current legal/regulatory search. Key caveats preserved around non-public audited returns, employee-only Medallion access, basket-options tax settlement, 13F non-comparability, and institutional fund gaps.
 - Backlog added: None
+
+## 2026-06-20T00:46:07Z — T0050 — 007-jim-simons — B-philosophy — DONE
+- Output: investors/007-jim-simons/investment-philosophy.md (~2,791 words, 13 task-specific sources)
+- Notes: Completed Simons philosophy around scientific model-building, small statistical edges, capacity/secrecy, execution, risk controls, and the Medallion-versus-outside-fund boundary. Caveats preserve non-public audited Medallion records, 13F non-comparability, basket-options tax settlement, IP/personnel litigation, and inference-versus-documentation boundaries.
+- Backlog added: None
+
