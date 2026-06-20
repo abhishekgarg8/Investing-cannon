@@ -277,3 +277,8 @@
 - Output: investors/007-jim-simons/mistakes-and-losses.md (~2,553 words, 16 task-specific sources)
 - Notes: Verified and refreshed the already-present Simons mistakes/losses draft, added the late-2025 RIEF/RIDA outside-fund drawdown, and replaced an unverified Cravath dismissal citation with a verified trade-secrets settlement source. Caveats preserved around non-public Medallion ledgers, secondary 2007 drawdown figures, source-dependent outside-fund percentages, basket-options tax settlement, and current Form ADV access.
 - Backlog added: None
+
+## 2026-06-20T05:36:39Z — T0053 — 007-jim-simons — E-own-words — DONE
+- Output: investors/007-jim-simons/in-their-own-words.md (~1,850 words, 14 sources)
+- Notes: Completed Simons own-words file with 33 short source-visible quote snippets across five themes plus annotated primary/near-primary materials. Caveats preserved around transcript mirrors, quote aggregators, absent Medallion letters, and no new posthumous personal legal proceeding surfaced.
+- Backlog added: None
