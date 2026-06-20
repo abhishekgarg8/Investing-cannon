@@ -303,3 +303,8 @@
 - Output: investors/008-howard-marks/profile.md (~2,450 words, 17 sources)
 - Notes: Created Marks profile with Oaktree/Brookfield structure, AUM-methodology caveats, and current ownership/legal status. Personal audited return remains unavailable; 2011 distressed-fund return kept [single-source] for later verification.
 - Backlog added: None
+
+## 2026-06-20T11:40:59Z — T0058 — 008-howard-marks — B-philosophy — DONE
+- Output: investors/008-howard-marks/investment-philosophy.md (~2,823 words, 22 sources)
+- Notes: Completed Marks philosophy around second-level thinking, risk control, value/price, bottom-up credit process, cycle-aware posture, macro-forecast skepticism, sell discipline, and sea-change/private-credit evolution. Tensions preserved around team attribution, scale/AUM methodology, firm-level SEC settlements, and the boundary between cycle assessment and macro forecasting.
+- Backlog added: None
