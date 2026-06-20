@@ -288,7 +288,7 @@
 - Notes: Reconstructed Simons/Renaissance mental models as an institutional decision system: small-edge testing, cost/capacity discipline, portfolio-level risk, secrecy/IP, survival override, and transferability limits. Caveats preserved around non-public Medallion signals/ledgers, secondary return figures, 13F non-comparability, outside-fund drawdowns, and tax/legal structure.
 - Backlog added: None
 
-## 2026-06-20T08:45:32Z - T0056 - 007-jim-simons - H-synthesis - DONE
+## 2026-06-20T08:45:32Z — T0056 — 007-jim-simons — H-synthesis — DONE
 - Output: investors/007-jim-simons/synthesis.md (~1,755 words, 19 sources)
 - Notes: Completed Simons synthesis integrating completed A-E and G files; preserved caveats around missing/freshly claimed F-key-writings, non-public Medallion ledgers/returns, 13F non-comparability, outside-fund divergence, and basket-options tax/legal structure.
 - Backlog added: None
