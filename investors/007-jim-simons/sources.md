@@ -214,3 +214,41 @@ Additional task caveats:
 - 13F data remains a current public long-equity footprint only, not Medallion holdings, total AUM, short exposure, derivatives exposure or strategy-level performance.
 - Outside-fund performance should not be blended with Medallion; RIEF/RIDA/RIDGE need separate vehicle-level tables from original investor letters where available.
 - No opened source supported a new posthumous personal legal proceeding involving Simons as of 2026-06-20T08:45:32Z.
+
+## T0054 F-key-writings additions - appended 2026-06-20
+
+Task output: `investors/007-jim-simons/key-writings.md`
+
+Primary and high-weight sources used in the key-writings task:
+
+1. [SSRN - James H. Simons, PhD: Using Mathematics to Make Money (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668072) - Best metadata page for the Journal of Investment Consulting interview: date, venue, abstract, and author/contact information.
+2. [Journal of Investment Consulting PDF - Using Mathematics to Make Money (2023)](https://a-us.storyblok.com/f/1016289/x/d3dc57f7ca/jic221_masters-series-simons.pdf) - Source-visible primary interview text on model testing, scientific hiring, collaboration, competition, machine learning, signal/noise, and philanthropy.
+3. [Celebratio Mathematica - Simons bibliography (2016)](https://celebratio.org/Simons_J/article/376/) - Curated mathematical bibliography with abstracts and formal metadata for Simons's papers; used for the 1967 and 1971 papers where direct publisher pages were blocked or thin.
+4. [Annals of Mathematics - Minimal varieties in Riemannian manifolds (1968)](https://annals.math.princeton.edu/1968/88-1/p04) - Primary journal metadata for Simons's major minimal-varieties paper.
+5. [Annals of Mathematics - Characteristic forms and geometric invariants (1974)](https://annals.math.princeton.edu/1974/99-1/p03) - Primary journal metadata for the Chern-Simons paper.
+6. [Springer - Differential characters and geometric invariants (1985)](https://link.springer.com/chapter/10.1007/BFb0075216) - Publisher page for the Cheeger-Simons paper, including provenance from 1973 Stanford AMS notes and later publication rationale.
+7. [arXiv - Axiomatic Characterization of Ordinary Differential Cohomology (2007)](https://arxiv.org/abs/math/0701077) - Primary abstract for late Simons-Sullivan differential-cohomology work.
+8. [arXiv - Structured vector bundles define differential K-theory (2008)](https://arxiv.org/abs/0810.4935) - Primary abstract for Simons-Sullivan differential K-theory model.
+9. [arXiv - Characters for Complex Bundles and their Connections (2018)](https://arxiv.org/abs/1803.07129) - Primary abstract for later Simons-Sullivan work on complex bundles and connections.
+10. [Simons Foundation - My Guiding Principles (2020)](https://www.simonsfoundation.org/2020/01/22/my-guiding-principles/) - Authored management/philanthropy essay listing Simons's five operating principles and connecting data science in finance to Flatiron Institute design.
+11. [Alpha Architect - Jim Simons transcript (2015)](https://alphaarchitect.com/james-simons-transcript-quantitative-finance-and-building-a-firm/) - Strong compact investment-process transcript: discretionary beginnings, anomaly testing, costs, capacity, infrastructure, partnership, and collaboration.
+12. [TED official page - The mathematician who cracked Wall Street (2015)](https://www.ted.com/talks/jim_simons_the_mathematician_who_cracked_wall_street) - Official venue metadata and topic framing for the Chris Anderson interview; transcript mirrors should be checked against video before long quotation.
+13. [MIT Sloan - Quant pioneer James Simons on math, money, and philanthropy (2019)](https://mitsloan.mit.edu/ideas-made-to-matter/quant-pioneer-james-simons-math-money-and-philanthropy) - Source-visible account of Sussman Fellowship talks, persistence, beauty, hiring, collaboration, and philanthropy.
+14. [Simons Foundation - Jim Simons on his career in mathematics (2012)](https://www.simonsfoundation.org/2012/09/28/simons-foundation-chair-jim-simons-on-his-career-in-mathematics/) - Foundation-hosted career/interview index covering mathematics, Renaissance, MIT/ICM/NAS talks, and philanthropy.
+15. [Numberphile transcript mirror - Jim Simons full length interview (2015/2025)](https://www.josherich.me/podcast/jim-simons-full-length-interview-numberphile) - Useful transcript mirror for mathematical self-explanation and model discipline; should be audio-checked before publication-grade quoting.
+16. [SEC comment letter - Renaissance on Form SH short disclosure (2008)](https://www.sec.gov/comments/s7-24-08/s72408-3.pdf) - Primary firm document on proprietary-trading secrecy, reverse-engineering, and disclosure-risk logic; attribute to Renaissance, not personally to Simons.
+17. [U.S. Senate/govinfo basket-options hearing record (2014)](https://www.govinfo.gov/content/pkg/CHRG-113shrg89882/html/CHRG-113shrg89882.htm) - Primary regulatory/legal source for basket-options controversy; used as surrounding firm context, not a Simons-authored work.
+18. [SEC Form 13F-HR primary document, Q1 2026](https://www.sec.gov/Archives/edgar/data/1037389/000103738926000033/xslForm13F_X02/primary_doc.xml) - Current Renaissance public long-equity footprint; included only as a disclosure caveat, not Medallion or AUM evidence.
+19. [Penguin Random House - The Man Who Solved the Market (2019)](https://www.penguinrandomhouse.com/books/557104/the-man-who-solved-the-market-by-gregory-zuckerman/) - Publisher page for Zuckerman's biography, including publication metadata, access claims, and book framing.
+20. [CFA Institute - William J. Bernstein review of The Man Who Solved the Market (2020)](https://rpc.cfainstitute.org/blogs/enterprising-investor/2020/book-review-the-man-who-solved-the-market) - Strong critical companion to Zuckerman, highlighting both Medallion's record and the limits of what the book reveals.
+21. [Lawson/Stony Brook - Jim Simons, the Mathematician (2024)](https://www.math.stonybrook.edu/sites/default/files/JimSimonstheMathematician.pdf) - Best compact secondary guide to Simons's mathematical work and influence.
+22. [Simons Foundation - Remembering the Life and Careers of Jim Simons (2024)](https://www.simonsfoundation.org/2024/05/10/remembering-the-life-and-careers-of-jim-simons/) - First-party career timeline and context for mathematics, Renaissance, philanthropy, Math for America, and Flatiron Institute.
+23. [Simons Foundation - death announcement (2024)](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/) - Primary status source for Simons's death date and posthumous framing.
+
+Additional task caveats:
+
+- No public Medallion investor letters, partner letters, internal research memos, or audited performance books were found; the key-writings file treats this absence as material.
+- PNAS/PubMed pages for the 1967 and 1971 papers were blocked during QA; the file relies on Celebratio and Annals/Springer/open abstracts for source-visible metadata rather than citing blocked pages.
+- Transcript mirrors are used as discovery and short-snippet support only. Future quote-heavy work should audio/video check TED, Numberphile, and other interviews against original media.
+- Mathematical papers are primary works by Simons, but their investment relevance is indirect; the file avoids claiming that Chern-Simons theory explains Medallion.
+- Zuckerman remains the dominant secondary source for many private-firm details; later tasks should page-check the book and separate Zuckerman-sourced claims from independent primary evidence.
