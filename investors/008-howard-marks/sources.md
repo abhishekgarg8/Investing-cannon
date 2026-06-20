@@ -61,3 +61,28 @@ Annotated source map started for T0057 A-profile. Ranking emphasizes primary sou
 - The 2011 31% gross annualized distressed-fund return claim is promising for C-greatest-trades but currently [single-source].
 - The 2018 and 2024 SEC orders are firm-level Oaktree matters. No source opened in this run showed personal charges against Marks.
 - Current Brookfield/Oaktree ownership should be updated from filings after 2026-03-31. The October 2025 release expected a Q1 2026 close, but BAM's Q1 2026 supplemental still referenced the approximately 26% of Oaktree not held by Brookfield.
+
+## T0058 B-philosophy source additions
+
+1. **Oaktree Investment Philosophy** - https://www.oaktreecapital.com/about/investment-philosophy - Primary institutional statement of the six tenets: risk control, consistency, inefficiency, specialization, bottom-up process, and no market timing.
+2. **Oaktree Business Principles** - https://www.oaktreecapital.com/about/business-principles - Primary source for Oaktree's research, client-interest, communication, new-product, and anti-bigness principles.
+3. **Oaktree Credit strategy page** - https://www.oaktreecapital.com/strategies/credit - Primary current source for Oaktree's credit platform, bottom-up credit analysis, opportunistic-credit process, and private-credit scope.
+4. **Howard Marks, "The Most Important Thing" memo (2003)** - https://www.oaktreecapital.com/docs/default-source/memos/2003-07-01-the-most-important-thing.pdf?sfvrsn=91c00f65_6 - Primary memo for intrinsic value, defensive investing, cycles, contrarianism, patient opportunism, mandate discipline, and scale limits.
+5. **Columbia University Press, *The Most Important Thing* page (2011)** - https://cup.columbia.edu/book/the-most-important-thing/9780231153683/ - Publisher source for the book's chapter structure and public framing of Marks's philosophy.
+6. **Howard Marks, "Dare to Be Great" (2006)** - https://www.oaktreecapital.com/docs/default-source/memos/2006-09-07-dare-to-be-great.pdf?sfvrsn=b3bc0f65_6 - Primary memo for non-consensus behavior, avoiding benchmark herding, and concentration with skill/risk control.
+7. **Howard Marks, "Risk Revisited" (2014)** - https://www.oaktreecapital.com/docs/default-source/memos/2014-09-03-risk-revisited.pdf?sfvrsn=78b60f65_6 - Primary memo for multi-dimensional risk, model limits, risk manager limits, and constant risk control.
+8. **Howard Marks, "It's Not Easy" (2015)** - https://www.oaktreecapital.com/docs/default-source/memos/2015-09-09-its-not-easy.pdf - Primary memo for second-level thinking and consensus-versus-price questions.
+9. **CFA Institute transcript, "Mastering the Market Cycle" (2019)** - https://rpc.cfainstitute.org/research/multimedia/2019/mastering-the-market-cycle-howard-marks-conference-collection - Transcript evidence for credit-cycle mechanics, lender behavior, and cycle-aware positioning.
+10. **CalPERS, "Mastering the Market Cycle" presentation (2019)** - https://www.calpers.ca.gov/documents/201901-full-day1-05-howard-marks-pp-a/download - Presentation source for recurring market-excess themes, psychology, risk aversion, and capital availability.
+11. **Howard Marks, "Thinking About Macro" (2021)** - https://www.oaktreecapital.com/insights/memo/thinking-about-macro - Primary memo for macro-forecasting skepticism.
+12. **Howard Marks, "Selling Out" (2022)** - https://www.oaktreecapital.com/insights/memo/selling-out - Primary memo for sell discipline, thesis comparison, position-size judgment, and forced-sale caveats.
+13. **Howard Marks, "The Illusion of Knowledge" (2022)** - https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge - Primary memo for the "I don't know" school and limits of macro knowledge.
+14. **Howard Marks, "Sea Change" (2022)** - https://www.oaktreecapital.com/insights/memo/sea-change - Primary memo for the post-2021 rate-regime shift thesis.
+15. **Howard Marks, "Further Thoughts on Sea Change" (2023)** - https://www.oaktreecapital.com/insights/memo/further-thoughts-on-sea-change - Primary follow-up arguing the rate shift may require capital reallocation.
+16. **Howard Marks, "Fewer Losers, or More Winners?" (2023)** - https://www.oaktreecapital.com/insights/memo/fewer-losers-or-more-winners - Primary memo for risk/return distributions and the defensive-versus-aggressive tradeoff.
+17. **Howard Marks, "The Indispensability of Risk" (2023)** - https://www.oaktreecapital.com/insights/memo/the-indispensability-of-risk - Primary memo for the risk of taking too little risk.
+18. **Howard Marks, "Taking the Temperature" (2023)** - https://www.oaktreecapital.com/insights/memo/taking-the-temperature - Primary memo for cycle-temperature reading and the March 2020 buy-some-not-all stance.
+19. **Howard Marks, "The Calculus of Value" (2025)** - https://www.oaktreecapital.com/insights/memo/the-calculus-of-value - Primary memo for price/value interaction and psychology's effect on short-term prices.
+20. **Howard Marks, "What's Going on in Private Credit?" (2026)** - https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit - Primary current memo for the private-credit/direct-lending cycle, goldrush capital, underwriting standards, and liquidity mismatch.
+21. **SEC administrative order, Oaktree pay-to-play matter (2018)** - https://www.sec.gov/files/litigation/admin/2018/ia-4960.pdf - Primary legal source used for the firm-level compliance tension.
+22. **SEC administrative order, Oaktree reporting matter (2024)** - https://www.sec.gov/files/litigation/admin/2024/34-101163.pdf - Primary legal source used for the firm-level Section 13(d)/16(a) reporting tension.
