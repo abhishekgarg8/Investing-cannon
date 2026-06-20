@@ -272,3 +272,8 @@
 - Output: investors/007-jim-simons/greatest-trades.md (~3,181 words, 13 task-specific sources)
 - Notes: Completed Simons greatest-trades file as documented trade/episode reconstruction because Medallion position ledgers are private; single best framed as the Medallion engine/capacity decision. Caveats preserved around secondary performance figures, 2007/2020 outside-fund contrast, and basket-options tax/leverage controversy.
 - Backlog added: None
+
+## 2026-06-20T03:29:41Z — T0052 — 007-jim-simons — D-mistakes — DONE
+- Output: investors/007-jim-simons/mistakes-and-losses.md (~2,553 words, 16 task-specific sources)
+- Notes: Verified and refreshed the already-present Simons mistakes/losses draft, added the late-2025 RIEF/RIDA outside-fund drawdown, and replaced an unverified Cravath dismissal citation with a verified trade-secrets settlement source. Caveats preserved around non-public Medallion ledgers, secondary 2007 drawdown figures, source-dependent outside-fund percentages, basket-options tax settlement, and current Form ADV access.
+- Backlog added: None
