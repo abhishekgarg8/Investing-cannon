@@ -1,6 +1,6 @@
 # Jim Simons - Mistakes and Losses
 
-As of: 2026-06-20T02:29:13Z
+As of: 2026-06-20T03:28:24Z
 
 ## Evidence Boundaries and Guiding Questions
 
@@ -44,6 +44,8 @@ That distinction became painful in 2020 and 2021. Institutional Investor reporte
 
 The exact 2020 outside-fund percentages should therefore be treated as source-dependent unless later runs obtain original investor letters. The broader point is solid: the aura of Medallion did not transfer cleanly to outside-capital products. The behavioral root cause was brand extrapolation. Clients and observers naturally treated "Renaissance" as one skill bucket, but capacity, holding period, turnover, fees, instruments, and strategy constraints changed the product. The process lesson for the Canon is severe: a manager's best private vehicle cannot be assumed to describe the strategy available to public or institutional allocators.
 
+The issue had not vanished by late 2025. Institutional Investor reported that RIEF fell 14.39% in October 2025 and was down 7.5% for the year, while RIDA lost 15.6% for October and was down 10.3% for the year; the same article noted Renaissance declined to comment and that these public institutional funds were coming off strong 2024 results ([Institutional Investor, 2025](https://www.institutionalinvestor.com/article/renaissance-suffers-huge-losses-october)). This newer episode reinforces the same distinction: the public institutional products can have ordinary allocator drawdowns even while Medallion remains the legendary, mostly opaque reference point.
+
 ### 5. Basket Options: When Tax and Leverage Engineering Became the Loss
 
 Renaissance's basket-options structure is not a trading loss in the ordinary sense. It is a structural mistake in which tax optimization, leverage, and strategy secrecy became the eventual loss. The Senate Permanent Subcommittee on Investigations record described Renaissance accounts averaging more than 100,000 trades per day, using basket options with leverage that the committee said reached up to 20:1, and generating tens of billions of dollars of profits that were treated as long-term capital gains rather than short-term trading income ([U.S. Senate hearing record, 2014](https://www.govinfo.gov/content/pkg/CHRG-113shrg89882/html/CHRG-113shrg89882.htm)).
@@ -56,7 +58,7 @@ The behavioral root cause was the seduction of structural edge. Renaissance was 
 
 Secrecy protected Renaissance's edge, but it also created its own failure modes. Renaissance argued in a 2008 SEC comment letter that public disclosure of short positions could reveal proprietary strategies and harm funds and investors ([SEC comment letter, 2008](https://www.sec.gov/comments/s7-24-08/s72408-3.pdf)). That was a rational position for a high-capacity-sensitive quant firm. The same secrecy, however, made outside verification almost impossible and intensified disputes over people, code, and intellectual property.
 
-Zuckerman's Institutional Investor excerpt emphasizes "bitter lawsuits" and organizational conflict around Renaissance's rise ([Institutional Investor/Zuckerman excerpt, 2019](https://www.institutionalinvestor.com/article/2bswabr234orjmebrnbb4/culture/bitter-lawsuits-epic-meltdowns-vicious-arguments-jim-simons-renaissance-made-him-billions-but-it-came-at-a-price)). A later Cravath announcement says Renaissance secured dismissal of a $74 million trade-secret lawsuit, useful evidence that IP risk remained part of the firm's legal terrain after Simons stepped back from day-to-day management ([Cravath, 2023](https://www.cravath.com/news/cravath-represents-renaissance-technologies-in-securing-the-dismissal-of-74-million-trade-secret-lawsuit.html)). The root cause was not simple bad behavior; it was a business model whose core asset was invisible code, data, and process knowledge. A firm built on invisible assets needs unusually strong governance around employment, secrecy, ownership, and disclosure.
+Zuckerman's Institutional Investor excerpt emphasizes "bitter lawsuits" and organizational conflict around Renaissance's rise ([Institutional Investor/Zuckerman excerpt, 2019](https://www.institutionalinvestor.com/article/2bswabr234orjmebrnbb4/culture/bitter-lawsuits-epic-meltdowns-vicious-arguments-jim-simons-renaissance-made-him-billions-but-it-came-at-a-price)). A Cravath announcement says Renaissance settled a trade-secrets dispute in which it alleged that two former employees used proprietary statistical algorithms to build an automated equities-trading system at Millennium Partners; Millennium paid Renaissance $20 million and fired the former employees, while Renaissance later reached a confidential settlement with the employees ([Cravath, 2009](https://www.cravath.com/news-insights/renaissance-technologies-corp-settles-trade-secrets-dispute.html)). The root cause was not simple bad behavior; it was a business model whose core asset was invisible code, data, and process knowledge. A firm built on invisible assets needs unusually strong governance around employment, secrecy, ownership, and disclosure.
 
 ## What They Said About the Mistakes
 
