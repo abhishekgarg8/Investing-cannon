@@ -56,7 +56,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-20T00:04:46Z T0049 | 007-jim-simons | A-profile | investors/007-jim-simons/profile.md
 - [x] done:2026-06-20T00:46:07Z T0050 | 007-jim-simons | B-philosophy | investors/007-jim-simons/investment-philosophy.md
 - [x] done:2026-06-20T01:32:49Z T0051 | 007-jim-simons | C-greatest-trades | investors/007-jim-simons/greatest-trades.md
-- [ ] T0052 | 007-jim-simons | D-mistakes | investors/007-jim-simons/mistakes-and-losses.md
+- [~] claimed:2026-06-20T03:18:47Z T0052 | 007-jim-simons | D-mistakes | investors/007-jim-simons/mistakes-and-losses.md
 - [ ] T0053 | 007-jim-simons | E-own-words | investors/007-jim-simons/in-their-own-words.md
 - [ ] T0054 | 007-jim-simons | F-key-writings | investors/007-jim-simons/key-writings.md
 - [ ] T0055 | 007-jim-simons | G-mental-models | investors/007-jim-simons/mental-models.md
