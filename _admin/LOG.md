@@ -369,3 +369,8 @@
 - Output: investors/009-seth-klarman/key-writings.md (~2,618 words, 28 task-specific sources)
 - Notes: Completed Klarman key-writings guide using the already-present partial output, refreshed provenance wording, and appended the missing T0070 source map. Covered Margin of Safety, Security Analysis, annual-letter excerpts, crisis interviews, public-capitalism speeches, 2023-2026 interviews, ranked secondary works, and access gaps; caveats preserved around unauthorized book copies, private Baupost letters, blocked/premium transcripts, performance/redemption criticism, allocator skepticism, and stakeholder controversy.
 - Backlog added: None
+
+## 2026-06-21T06:29:13Z — T0071 — 009-seth-klarman — G-mental-models — DONE
+- Output: investors/009-seth-klarman/mental-models.md (~2,948 words, 24 sources)
+- Notes: Completed Klarman/Baupost mental models as an operating framework: margin-of-safety error budget, volatility-as-inventory, scarce-buyer sourcing, absolute-return cash discipline, patient-capital structure, catalyst/process underwriting, AI-assisted research, failure modes, and individual-investor transferability. Preserved caveats around Baupost opacity, 13F incompleteness, post-2014 cash-drag/redemption criticism, private-asset/client-fit risk, and stakeholder externalities.
+- Backlog added: None
