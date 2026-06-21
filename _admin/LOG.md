@@ -435,3 +435,9 @@
 - Output: investors/011-philip-fisher/investment-philosophy.md (~2,385 words, 17 sources)
 - Notes: Completed Fisher philosophy around quality growth, scuttlebutt research, concentration, sell discipline, risk-as-knowledge, and transferability limits. Preserved caveats around mirrored Forbes interview access, private Fisher & Co. track-record opacity, and modern Fisher Investments disambiguation.
 - Backlog added: None
+
+
+## 2026-06-21T23:53:39Z — T0084 — 011-philip-fisher — C-greatest-trades — DONE
+- Output: investors/011-philip-fisher/greatest-trades.md (~3,140 words, 15 task-specific sources)
+- Notes: Completed Fisher greatest-trades file ranking Motorola as the best-supported single winner, followed by Texas Instruments, Raychem, Food Machinery/FMC, and Dow Chemical. Caveats preserved around private Fisher & Co. ledgers, Motorola return arithmetic, TI trust-specific basis, and unreconstructed Raychem/FMC/Dow P&L.
+- Backlog added: None
