@@ -384,3 +384,8 @@
 - Output: investors/010-john-templeton/profile.md (~2,633 words, 15 sources)
 - Notes: Created Templeton profile with deceased/current-status check, Templeton Growth Fund 1954-1992 track-record caveats, Franklin acquisition/AUM anchoring, current TEPLX continuity caveats, and foundation criticism/legal-status context.
 - Backlog added: None
+
+## 2026-06-21T09:41:07Z — T0074 — 010-john-templeton — B-philosophy — DONE
+- Output: investors/010-john-templeton/investment-philosophy.md (~2,690 words, 10 sources)
+- Notes: Completed Templeton philosophy around maximum-pessimism global value, real-return objective, quality bargains, bottom-up research, diversification, sell discipline, risk/temperament, regime fit, and tensions around TEPLX continuity, access costs, evidence quality, and foundation criticism.
+- Backlog added: None
