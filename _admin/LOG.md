@@ -394,3 +394,8 @@
 - Output: investors/010-john-templeton/greatest-trades.md (~3,600 words, 13 sources)
 - Notes: Completed Templeton greatest-trades file across the dot-com IPO lockup short basket, 1939 distressed-stock basket, Japan allocation, 1969-1974 bear-market protection, late-1970s/early-1980s U.S. equity rotation, Asia-crisis personal purchases, fund-franchise compounding, and 1987 crash buying. Caveats preserved around missing Templeton-era ledgers, source-labeled P&L, and posthumous Franklin legal context.
 - Backlog added: None
+
+## 2026-06-21T12:34:06Z — T0077 — 010-john-templeton — E-own-words — DONE
+- Output: investors/010-john-templeton/in-their-own-words.md (~2,205 words, 14 sources)
+- Notes: Completed Templeton own-words file with 40 short source-visible quote snippets and an annotated primary/near-primary materials index. Flagged transcript mirrors, famous attribution traps, missing founder letter archive, unavailable original Equities/Charlie Rose transcript text, and separation from posthumous Franklin/Western Asset matters.
+- Backlog added: None
