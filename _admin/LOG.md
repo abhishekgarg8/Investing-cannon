@@ -374,3 +374,8 @@
 - Output: investors/009-seth-klarman/mental-models.md (~2,948 words, 24 sources)
 - Notes: Completed Klarman/Baupost mental models as an operating framework: margin-of-safety error budget, volatility-as-inventory, scarce-buyer sourcing, absolute-return cash discipline, patient-capital structure, catalyst/process underwriting, AI-assisted research, failure modes, and individual-investor transferability. Preserved caveats around Baupost opacity, 13F incompleteness, post-2014 cash-drag/redemption criticism, private-asset/client-fit risk, and stakeholder externalities.
 - Backlog added: None
+
+## 2026-06-21T07:35:58Z — T0072 — 009-seth-klarman — H-synthesis — DONE
+- Output: investors/009-seth-klarman/synthesis.md (~1,594 words, 21 sources)
+- Notes: Completed Klarman synthesis with transferable lessons, taxonomy, regime dependence, peer comparisons, and unresolved questions; preserved key caveats around Baupost opacity, 13F incompleteness, post-2014 cash-drag/redemption criticism, client-fit risk, AI-era adaptation, and stakeholder externalities.
+- Backlog added: None
