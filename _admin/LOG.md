@@ -379,3 +379,8 @@
 - Output: investors/009-seth-klarman/synthesis.md (~1,594 words, 21 sources)
 - Notes: Completed Klarman synthesis with transferable lessons, taxonomy, regime dependence, peer comparisons, and unresolved questions; preserved key caveats around Baupost opacity, 13F incompleteness, post-2014 cash-drag/redemption criticism, client-fit risk, AI-era adaptation, and stakeholder externalities.
 - Backlog added: None
+
+## 2026-06-21T08:47:48Z — T0073 — 010-john-templeton — A-profile — DONE
+- Output: investors/010-john-templeton/profile.md (~2,633 words, 15 sources)
+- Notes: Created Templeton profile with deceased/current-status check, Templeton Growth Fund 1954-1992 track-record caveats, Franklin acquisition/AUM anchoring, current TEPLX continuity caveats, and foundation criticism/legal-status context.
+- Backlog added: None
