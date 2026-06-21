@@ -410,3 +410,8 @@
 - Output: investors/010-john-templeton/mistakes-and-losses.md (~3,250 words, 13 sources)
 - Notes: Stale retry closeout: verified the already-present mistakes/losses file, T0076 source map, and sampled citations from Templeton, Franklin, Horizon Kinetics, and SEC sources. Preserved caveats around secondary return tables, source-labeled 1939/dot-com figures, unreconstructed Japan/Asia ledgers, and posthumous Franklin/Foundation context.
 - Backlog added: None
+
+## 2026-06-21T17:30:00Z — T0080 — 010-john-templeton — H-synthesis — DONE
+- Output: investors/010-john-templeton/synthesis.md (~1,602 words, 10 sources)
+- Notes: Completed Templeton synthesis, transferable lessons, style taxonomy, regime dependence, transferability assessment, peer comparisons, unresolved questions, and INDEX.md row. T0079 mental-models remains freshly claimed/missing; cited sources were already present in sources.md, so no duplicate source append.
+- Backlog added: None
