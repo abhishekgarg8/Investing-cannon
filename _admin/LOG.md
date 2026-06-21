@@ -363,3 +363,9 @@
 - Output: investors/009-seth-klarman/in-their-own-words.md (~1,797 words, 21 sources)
 - Notes: Completed Klarman own-words file with 43 short source-visible quote snippets and an annotated primary/near-primary materials index. Caveats preserved around private Baupost letters, blocked Goldman transcript access, premium Capital Allocators transcript, and page-level Margin of Safety verification.
 - Backlog added: None
+
+
+## 2026-06-21T04:29:48Z — T0070 — 009-seth-klarman — F-key-writings — DONE
+- Output: investors/009-seth-klarman/key-writings.md (~2,618 words, 28 task-specific sources)
+- Notes: Completed Klarman key-writings guide using the already-present partial output, refreshed provenance wording, and appended the missing T0070 source map. Covered Margin of Safety, Security Analysis, annual-letter excerpts, crisis interviews, public-capitalism speeches, 2023-2026 interviews, ranked secondary works, and access gaps; caveats preserved around unauthorized book copies, private Baupost letters, blocked/premium transcripts, performance/redemption criticism, allocator skepticism, and stakeholder controversy.
+- Backlog added: None
