@@ -405,3 +405,8 @@
 - Output: investors/010-john-templeton/key-writings.md (~3,050 words, 20 sources)
 - Notes: Verified already-present key-writings file and T0078 source map; sampled citations support the required sections. Caveats preserved around limited page-level book access, missing founder-letter archive, and posthumous Franklin/Foundation context.
 - Backlog added: None
+
+## 2026-06-21T15:22:45Z — T0076 — 010-john-templeton — D-mistakes — DONE
+- Output: investors/010-john-templeton/mistakes-and-losses.md (~3,250 words, 13 sources)
+- Notes: Stale retry closeout: verified the already-present mistakes/losses file, T0076 source map, and sampled citations from Templeton, Franklin, Horizon Kinetics, and SEC sources. Preserved caveats around secondary return tables, source-labeled 1939/dot-com figures, unreconstructed Japan/Asia ledgers, and posthumous Franklin/Foundation context.
+- Backlog added: None
