@@ -82,7 +82,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-21T10:30:02Z T0075 | 010-john-templeton | C-greatest-trades | investors/010-john-templeton/greatest-trades.md
 - [~] claimed:2026-06-21T11:19:08Z T0076 | 010-john-templeton | D-mistakes | investors/010-john-templeton/mistakes-and-losses.md
 - [x] done:2026-06-21T12:34:06Z T0077 | 010-john-templeton | E-own-words | investors/010-john-templeton/in-their-own-words.md
-- [ ] T0078 | 010-john-templeton | F-key-writings | investors/010-john-templeton/key-writings.md
+- [x] done:2026-06-21T14:25:48Z T0078 | 010-john-templeton | F-key-writings | investors/010-john-templeton/key-writings.md
 - [ ] T0079 | 010-john-templeton | G-mental-models | investors/010-john-templeton/mental-models.md
 - [ ] T0080 | 010-john-templeton | H-synthesis | investors/010-john-templeton/synthesis.md
 - [ ] T0081 | cohort-01 | X-cohort-synthesis | synthesis/cohort-01.md
