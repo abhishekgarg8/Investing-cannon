@@ -425,3 +425,8 @@
 - Output: investors/011-philip-fisher/profile.md (~2,148 words, 20 sources)
 - Notes: Created Fisher profile with deceased/status check, Fisher & Co. private advisory structure, unaudited/opaque track-record caveats, Motorola/Texas Instruments case-study limits, and Ken Fisher/Fisher Investments disambiguation.
 - Backlog added: None
+
+## 2026-06-21T21:27:14Z — T0079 — 010-john-templeton — G-mental-models — DONE
+- Output: investors/010-john-templeton/mental-models.md (~2,848 words, 13 sources)
+- Notes: Stale retry closeout: verified already-committed mental-models output, appended T0079 source map, and spot-checked Franklin 16 Rules, Templeton Foundation, Horizon Kinetics, and SEC Western Asset citations. Preserved caveats around missing original Templeton Growth Fund ledgers and posthumous Franklin/Foundation context.
+- Backlog added: None
