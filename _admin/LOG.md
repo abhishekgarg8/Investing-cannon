@@ -359,3 +359,7 @@
 - Notes: Verified already-present Klarman mistakes/losses output and completed missing closeout/source-map work. Covered post-2014 underperformance/redemptions, 2015 public-equity errors, PG&E equity-versus-claims, private-asset/client-fit risk, Ontario mega-quarry, HP/Viasat, and AI-era adaptation; caveats preserved around private Baupost ledgers and source-labeled figures.
 - Backlog added: None
 
+## 2026-06-21T02:31:06Z — T0069 — 009-seth-klarman — E-own-words — DONE
+- Output: investors/009-seth-klarman/in-their-own-words.md (~1,797 words, 21 sources)
+- Notes: Completed Klarman own-words file with 43 short source-visible quote snippets and an annotated primary/near-primary materials index. Caveats preserved around private Baupost letters, blocked Goldman transcript access, premium Capital Allocators transcript, and page-level Margin of Safety verification.
+- Backlog added: None
