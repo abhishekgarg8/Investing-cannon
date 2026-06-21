@@ -1,3 +1,3 @@
-Progress: 80/812 tasks complete (9.9%) as of 2026-06-21T18:26:59Z
-Current investor: 011-philip-fisher (next eligible task: T0082 A-profile; T0079 still claimed)
-Projected finish at 1 task/hour: 2026-07-22T06:26:59Z
+Progress: 81/812 tasks complete (10.0%) as of 2026-06-21T19:35:42Z
+Current investor: 010-john-templeton (next eligible task: T0079 stale retry; 011-philip-fisher T0083 follows)
+Projected finish at 1 task/hour: 2026-07-22T06:35:42Z

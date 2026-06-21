@@ -420,3 +420,8 @@
 - Output: synthesis/cohort-01.md (~2,358 words, 18 sources)
 - Notes: Completed first cohort synthesis across Buffett through Templeton with convergent principles, disagreements, sizing/sell-discipline table, and themes.md append. Flagged Templeton T0079 mental-models missing/freshly claimed and warned against structure-blind imitation across styles.
 - Backlog added: None
+
+## 2026-06-21T19:35:42Z — T0082 — 011-philip-fisher — A-profile — DONE
+- Output: investors/011-philip-fisher/profile.md (~2,148 words, 20 sources)
+- Notes: Created Fisher profile with deceased/status check, Fisher & Co. private advisory structure, unaudited/opaque track-record caveats, Motorola/Texas Instruments case-study limits, and Ken Fisher/Fisher Investments disambiguation.
+- Backlog added: None

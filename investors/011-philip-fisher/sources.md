@@ -1,0 +1,39 @@
+# Philip Fisher - Sources
+
+Annotated source map started during T0082 A-profile research, 2026-06-21.
+
+## Tier 1 / primary and near-primary sources
+
+1. [Internet Archive record: *Common Stocks and Uncommon Profits and Other Writings*](https://archive.org/details/commonstocksunco0000fish) - Metadata for the 1996 Wiley edition, confirming bundled contents, publication details, and restricted scan status. Use as a bibliographic anchor; page-level claims still need book access.
+2. [Google Books: *Common Stocks and Uncommon Profits and Other Writings*](https://books.google.com/books/about/Common_Stocks_and_Uncommon_Profits_and_O.html?id=UES-QgAACAAJ) - Publisher metadata and about-the-author note: Fisher began as a securities analyst in 1928 and founded Fisher & Company in 1931. Useful for career chronology and publisher framing.
+3. [Fisher Investments: Books by Philip Fisher](https://www.fisherinvestments.com/en-us/resource-library/investing-books/philip-fisher) - Family-linked corporate page summarizing Fisher's books, including *Common Stocks*, *Developing an Investment Philosophy*, and *Conservative Investors Sleep Well*. Useful but must be separated from Philip Fisher's own vehicle record.
+4. [Graham and Doddsville / Whitney Tilson notes: 2004 Berkshire Hathaway Annual Meeting](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Berkshire%20Hathaway%20Annual%20Meeting%20Notes%202004.pdf) - Contemporaneous notes, not an official transcript; captures Buffett/Munger comments shortly after Fisher's death and is a strong lead for influence.
+5. [CNBC edited transcript via ContentRes: 2018 Berkshire Hathaway Annual Meeting](https://s3.amazonaws.com/static.contentres.com/media/documents/e3ab342f-baae-465d-a5d3-41a789b624cb.pdf) - Official-ish edited transcript in which Buffett praises *Common Stocks* and explains the scuttlebutt method as still used inside Berkshire.
+6. [SEC EDGAR: Fisher Asset Management 13F-HR filing detail](https://www.sec.gov/Archives/edgar/data/850529/0000850529-16-000030-index.htm) - Primary regulatory disambiguation: Fisher Asset Management/Fisher Investments is a public 13F filer tied to Ken Fisher, not a proxy for Philip Fisher's Fisher & Co. track record.
+7. [Fisher Investments: Form CRS and Form ADV explainer](https://www.fisherinvestments.com/en-us/disclosures/form-crs-and-form-adv) - Explains the current Fisher Investments ADV/CRS context. Useful only for disambiguating the modern firm and understanding public regulatory records.
+
+## Tier 2 / strong secondary sources
+
+8. [Encyclopedia.com / Contemporary Authors: "Fisher, Philip A(rthur) 1907-2004"](https://www.encyclopedia.com/arts/educational-magazines/fisher-philip-arthur-1907-2004) - Concise obituary-style biography with birth/death, Stanford education, Fisher & Co., WWII service, books, and periodical source leads.
+9. [Los Angeles Times: "Philip A. Fisher, 96; Early Author of Advice Books on Investing"](https://www.latimes.com/archives/la-xpm-2004-apr-21-me-passings21.2-story.html) - Short obituary confirming death, Stanford, Army service, Fisher & Co. retirement, and influence on Buffett.
+10. [Los Angeles Times: "Master Investors"](https://www.latimes.com/archives/la-xpm-1987-12-06-ss-27193-story.html) - Valuable contemporaneous 1987 profile with Fisher holdings and philosophy during a crash; includes Motorola, Raychem, FMC, Dow Chemical, Texas Instruments, and the 14-major-decisions framing.
+11. [Investopedia: "Philip Fisher's Investment Strategies and Market Influence"](https://www.investopedia.com/terms/p/philip-fisher.asp) - Broad secondary overview with early life, Fisher & Co., Motorola, scuttlebutt, and Ken Fisher/Fisher Investments distinction. Useful for cross-checking, not enough alone for figures.
+12. [Business Insider / Stockopedia: "Philip Fisher Screen: The Father of Growth Investing"](https://www.businessinsider.com/philip-fisher-screen-the-father-of-growth-investing-2012-12) - Secondary profile with important caveat that no comprehensive Fisher track record is visible; also cites Motorola 20-fold and screen backtests, which should be treated separately from Fisher's own record.
+13. [Morningstar Australia: "A 15 step checklist from Buffett's forgotten inspiration"](https://www.morningstar.com.au/stocks/a-15-step-checklist-from-buffett-s-forgotten-inspiration) - Modern interpretation of Fisher's 15 points. Useful for framework context and transferability, not for original wording.
+
+## Tier 3 / useful leads and transcript mirrors
+
+14. [Investment Talk: "A Rare Interview with Phil Fisher Following the 1987 Crash"](https://www.investmenttalk.co/p/a-rare-interview-with-phil-fisher) - Secondary repost/excerpt of a rare Fisher interview. Good lead for philosophy, Graham comparison, circle of competence, management, and patience; original Forbes source must be located before quote-heavy use.
+15. [Novel Investor: "Philip Fisher Explains His Growth Philosophy"](https://novelinvestor.com/philip-fisher-explains-growth-philosophy/) - Reposts excerpts attributed to Forbes' "A Talk with Philip Fisher," including Texas Instruments and 14 big winners. Use as a lead pending original article verification.
+16. [Novel Investor: "Philip Fisher's 15 Points"](https://novelinvestor.com/philip-fishers-15-points/) - Accessible list of the 15 points and short commentary. Useful orientation; cite Fisher's book directly when available.
+17. [Fisher Investments: Our History](https://www.fisherinvestments.com/en-us/about/our-story/our-history) - Current Fisher Investments history and AUM. Important for separating Ken Fisher's 1979 firm from Philip Fisher's private advisory practice.
+18. [Forbes: "Philip A. Fisher, 1907-2004"](https://www.forbes.com/forbes/2004/0426/142.html) - Lead only in this run: search/open attempts surfaced snippets but not a fully opened page. Likely important because Kenneth Fisher authored/featured the obituary; future run should access directly or via archive.
+19. [New York Times: "Philip A. Fisher, 96, Is Dead; Wrote Key Investment Book"](https://www.nytimes.com/2004/04/19/business/philip-a-fisher-96-is-dead-wrote-key-investment-book.html) - Lead only in this run: cited by other sources but not fully opened. Future run should access for obituary details and original wording.
+20. [Mercury News obituary lead](http://www.mercurynews.com/) - Lead only via Contemporary Authors periodical/source list; locate the April 20, 2004 item if archives permit.
+
+## Research notes and gaps
+
+- Search battery completed for investment philosophy, books, interviews, 13F/ADV, biggest trades, losses/mistakes, criticism/underperformance, lawsuit/SEC, obituary, and Berkshire influence.
+- No audited Fisher & Co. return series, AUM figure, fee schedule, client roster, or primary client letter archive was located.
+- No task-relevant personal legal/regulatory development for Philip Fisher surfaced. Modern Fisher Investments ADV/13F records should be treated as Ken Fisher / firm disambiguation only.
+- Key numbers needing triangulation: Fisher & Co. founding year (1931 vs. 1932), Motorola 1955-2004 total return, Texas Instruments purchase/split history, client count, and peak AUM.
