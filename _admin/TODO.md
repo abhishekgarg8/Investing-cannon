@@ -72,7 +72,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-20T21:37:14Z T0065 | 009-seth-klarman | A-profile | investors/009-seth-klarman/profile.md
 - [x] done:2026-06-20T22:46:02Z T0066 | 009-seth-klarman | B-philosophy | investors/009-seth-klarman/investment-philosophy.md
 - [x] done:2026-06-20T23:33:16Z T0067 | 009-seth-klarman | C-greatest-trades | investors/009-seth-klarman/greatest-trades.md
-- [~] claimed:2026-06-21T01:20:43Z T0068 | 009-seth-klarman | D-mistakes | investors/009-seth-klarman/mistakes-and-losses.md
+- [x] done:2026-06-21T01:23:00Z T0068 | 009-seth-klarman | D-mistakes | investors/009-seth-klarman/mistakes-and-losses.md
 - [ ] T0069 | 009-seth-klarman | E-own-words | investors/009-seth-klarman/in-their-own-words.md
 - [ ] T0070 | 009-seth-klarman | F-key-writings | investors/009-seth-klarman/key-writings.md
 - [ ] T0071 | 009-seth-klarman | G-mental-models | investors/009-seth-klarman/mental-models.md
