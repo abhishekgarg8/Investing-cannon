@@ -353,3 +353,9 @@
 - Output: investors/009-seth-klarman/greatest-trades.md (~2,950 words, 25 source URLs)
 - Notes: Completed Klarman/Baupost greatest-trades file ranking PG&E subrogation claims, Idenix, Lehman claims, Iceland failed-bank claims, Westinghouse/Toshiba claims, Fairfield Sentry/Madoff claim, Facet Biotech, and CIT. Caveats preserved around opaque Baupost ledgers, PG&E equity offsets, Idenix cost-basis reconstruction, single-source Iceland profit estimate, and undisclosed Westinghouse/Madoff realized P&L.
 - Backlog added: None
+
+## 2026-06-21T01:23:00Z — T0068 — 009-seth-klarman — D-mistakes — DONE
+- Output: investors/009-seth-klarman/mistakes-and-losses.md (~3,191 words, 16 sources)
+- Notes: Verified already-present Klarman mistakes/losses output and completed missing closeout/source-map work. Covered post-2014 underperformance/redemptions, 2015 public-equity errors, PG&E equity-versus-claims, private-asset/client-fit risk, Ontario mega-quarry, HP/Viasat, and AI-era adaptation; caveats preserved around private Baupost ledgers and source-labeled figures.
+- Backlog added: None
+
