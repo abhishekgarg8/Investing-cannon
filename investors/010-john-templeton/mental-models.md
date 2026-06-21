@@ -1,7 +1,7 @@
 # John Templeton - Mental Models
 
 Task: T0079 G-mental-models  
-As of: 2026-06-21T20:33:00Z  
+As of: 2026-06-21T20:27:40Z  
 Status: Complete
 
 ## Evidence boundaries and guiding questions
