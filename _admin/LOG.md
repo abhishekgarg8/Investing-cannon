@@ -430,3 +430,8 @@
 - Output: investors/010-john-templeton/mental-models.md (~2,848 words, 13 sources)
 - Notes: Stale retry closeout: verified already-committed mental-models output, appended T0079 source map, and spot-checked Franklin 16 Rules, Templeton Foundation, Horizon Kinetics, and SEC Western Asset citations. Preserved caveats around missing original Templeton Growth Fund ledgers and posthumous Franklin/Foundation context.
 - Backlog added: None
+
+## 2026-06-21T22:27:37Z — T0083 — 011-philip-fisher — B-philosophy — DONE
+- Output: investors/011-philip-fisher/investment-philosophy.md (~2,385 words, 17 sources)
+- Notes: Completed Fisher philosophy around quality growth, scuttlebutt research, concentration, sell discipline, risk-as-knowledge, and transferability limits. Preserved caveats around mirrored Forbes interview access, private Fisher & Co. track-record opacity, and modern Fisher Investments disambiguation.
+- Backlog added: None
