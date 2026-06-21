@@ -240,3 +240,35 @@ Source map for T0065 A-profile. Ranked roughly by reliability and usefulness for
 - Post-2014 return, withdrawal, and team-cut claims remain Bloomberg/investor-reporting sourced, not audited Baupost returns; the output labels them as public reporting rather than definitive ledgers.
 - *Margin of Safety* remains a page-level source gap. This task relied on authorized bibliographic metadata and reputable secondary notes for high-level concepts, not unauthorized PDFs or long excerpts.
 - Current AI-era material is unusually recent: Business Insider (2025), Apple/Columbia (2025), and iConnections (2026) were used to show adaptation, but only accessible text was cited for direct factual claims.
+
+## T0072 H-synthesis Task-Specific Sources
+
+1. [Baupost - Seth A. Klarman biography](https://www.baupost.com/Team/Seth-A-Klarman) - Official current role/status and corpus anchor for Klarman.
+2. [Harvard Kennedy School - Seth Klarman profile](https://www.hks.harvard.edu/about/seth-klarman) - Current institutional biography and role context.
+3. [Baupost - Investment Philosophy](https://www.baupost.com/investment_philosophy) - Official source for flexible value mandate, cash optionality, downside controls, no recourse leverage, hedging, and teams.
+4. [SEC - Baupost Group Q1 2026 Form 13F cover page](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/xslForm13F_X02/primary_doc.xml) - Primary current 13F cover data; used to frame the visible public-long book.
+5. [SEC - Baupost Group Q1 2026 13F information table](https://www.sec.gov/Archives/edgar/data/1061768/000106176826000007/xslForm13F_X02/BGLLCQ12026.xml) - Primary current holdings table; used with 13F limitations.
+6. [CFA Institute - Opportunities for Patient Investors](https://rpc.cfainstitute.org/research/financial-analysts-journal/2010/opportunities-for-patient-investors) - Official venue/date/DOI anchor for the 2010 Klarman-Zweig interview.
+7. [Jason Zweig - open transcript of 2010 CFA interview](https://jasonzweig.com/why-one-legendary-investor-is-more-worried-than-ever/) - Best open process transcript for volatility, cash, crisis underwriting, and Graham-and-Dodd adaptation.
+8. [Google Books - Margin of Safety](https://books.google.com/books/about/Margin_of_Safety.html?id=1QpjAAAACAAJ) - Authorized bibliographic/summary source for Klarman's book; not page-level quote authority.
+9. [Institutional Investor - Klarman on Security Analysis](https://www.institutionalinvestor.com/article/2c174jip5j2kj8ilug8ao/portfolio/seth-klarman-on-what-makes-a-value-investor-and-committing-sacrilege-in-new-edition-of-security-analysis) - Modern source for balance-sheet-analysis evolution and technology-risk adaptation.
+10. [Financial Advisor / Bloomberg - Clients Pulled $7 Billion](https://www.fa-mag.com/news/hedge-fund-clients-pulled--7-billion-from-elite-money-manager-since-2021-81075.html) - Central corrective source for post-2014 returns, redemptions, assets, and 2024 team cuts.
+11. [Institutional Investor - Passing on Seth Klarman](https://www.institutionalinvestor.com/article/2bsxbzz740xowdk2ed81s/portfolio/i-cant-believe-im-saying-this-but-im-passing-on-seth-klarman) - Allocator critique of private-asset duration, liquidity, client fit, and Baupost scarcity value.
+12. [A Wealth of Common Sense - Margin of Too Much Safety](https://awealthofcommonsense.com/2025/01/margin-of-too-much-safety/) - Practitioner critique of cash drag and crisis-scar-tissue failure mode; commentary only.
+13. [Carrier Management / Bloomberg - PG&E Claim Payday](https://www.carriermanagement.com/news/2020/08/25/210607.htm) - Best public source for PG&E claim payout and approximate profit caveat.
+14. [SEC - Idenix Schedule 14D-9](https://www.sec.gov/Archives/edgar/data/1093649/000119312514243557/d744635dsc14d9.htm) - Primary source for Baupost share count at Merck tender.
+15. [Merck - Merck to Acquire Idenix](https://www.merck.com/news/merck-to-acquire-idenix/) - Primary acquisition-price source for Idenix.
+16. [Business Insider - Klarman on AI at Baupost](https://www.businessinsider.com/how-to-use-ai-investing-finance-seth-klarman-baupost-group-2025-8) - Current AI-workflow source for tool-assisted research and human judgment boundary.
+17. [iConnections - Klarman at Global Alts New York 2026](https://iconnections.io/insights/seth-klarman-baupost-ai-era-global-alts-ny-2026/) - Current source for AI-era exposures, raw-land optionality, AI-agnostic businesses, credit and commercial real estate.
+18. [Fortune - Canadian mega-quarry](https://fortune.com/2012/02/15/a-hedge-fund-star-bets-on-a-canadian-mega-quarry/) - Main stakeholder/externality controversy source; public access was limited, so use with corroboration.
+19. [Global News - Highland withdraws mega-quarry proposal](https://globalnews.ca/news/310987/highland-companies-withdraws-mega-quarry-proposal-for-north-of-toronto/) - Local source for project withdrawal and community/government opposition.
+20. [Ritholtz - Masters in Business: Seth Klarman](https://ritholtz.com/2026/06/mib-seth-klarman/) - Current 2026 interview page; transcript was not available on the opened page, so indexed as follow-up.
+
+## T0072 Source Quality Notes
+
+- H-synthesis leaned on completed A-G folder work plus fresh current checks.
+- Strongest sources: Baupost official pages, SEC 13F filings, CFA/Zweig, SEC/Merck, and the Bloomberg-derived performance/redemption report.
+- Return and redemption numbers remain public-reporting sourced, not audited Baupost ledgers.
+- 13F filings are partial: they omit cash, shorts, derivatives, private investments, most credit, real estate, and fund-level economics.
+- Ritholtz 2026 transcript remains pending; future tasks should revisit it.
+- No new current personal legal/enforcement matter against Klarman surfaced in targeted searches.
