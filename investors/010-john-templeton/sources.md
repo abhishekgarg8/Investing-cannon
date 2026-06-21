@@ -28,3 +28,28 @@ Accessed: 2026-06-21
 - The strongest performance figure found is the Foundation's $10,000-to-$2 million statement for Templeton Growth Fund Class A from 1954 to 1992. A full annual audited manager-only return table remains open.
 - Current Templeton Growth Fund performance and AUM figures are fund-continuity evidence. They include post-1992 Franklin ownership and later managers and should not be presented as Templeton's personal record.
 - Some contemporaneous archive pages, including UPI and Money/CNN, were blocked or unsafe to open in this environment. Where possible, primary Franklin/SEC sources were used instead.
+
+Task: T0074 B-philosophy  
+Accessed: 2026-06-21
+
+## T0074 Source Additions
+
+16. Franklin Templeton, *16 Rules for Investment Success* - Templeton's 1993 article, republished by Franklin Templeton with foundation permission. Primary/near-primary source for real-return objective, anti-speculation stance, flexibility, buying low, quality-bargain filter, value-over-macro discipline, diversification, homework, monitoring, panic control, humility, and optimism. https://www.franklintempleton.com/forms-literature/download/TL-R16
+17. Franklin Templeton, Templeton Growth Fund prospectus - official fund document for the current strategy description: global equity mandate, emerging/developing-market flexibility, bottom-up value-oriented long-term approach, valuation inputs, sell criteria, portfolio-manager responsibilities, expenses, and foreign/emerging/currency/liquidity risk disclosure. Useful as institutional-continuity evidence, not Templeton's personal post-1992 record. https://www.franklintempleton.com/forms-literature/download-preview/101-P
+18. Franklin Templeton, TEPLX product page - official live page for fund inception date, current value/global category, current expenses/load, turnover, managers, sector exposure, and since-inception performance caveat. Used to discuss access-cost and post-Templeton continuity tensions. https://www.franklintempleton.com/investments/options/mutual-funds/products/105/A/templeton-growth-fund-inc/TEPLX
+19. John Templeton Foundation, "Sir John Templeton" - reused from T0073 for career chronology, 1939 distressed basket, 1954 fund launch, 1992 sale/performance summary, open-mindedness motto, philanthropy, Nassau/death context, and intellectual temperament. https://www.templeton.org/about/sir-john-templeton
+20. Franklin Resources, "History" - official corporate history for Franklin's framing of the 1992 Templeton acquisition as a major independent mutual-fund merger and a broadening into international equity expertise. https://www.franklinresources.com/about-us/history
+21. SEC, Franklin Resources, Inc. 1994 Form 10-K - primary filing for the acquisition of substantially all Templeton, Galbraith & Hansberger assets/liabilities, acquired AUM, post-acquisition AUM, purchase price accounting, and unified Franklin/Templeton structure. https://www.sec.gov/Archives/edgar/data/38777/0000038777-94-000129.txt
+22. The Guardian, "Sir John Templeton" obituary - independent secondary source for public framing of Templeton as a global-stock-picking pioneer and philanthropist; used only as corroborative color, not performance proof. https://www.theguardian.com/business/2008/jul/10/usa
+23. John Templeton Foundation, "Religion, Science, & Society" - current official source for foundation grantmaking areas and the continuing open-inquiry/science-religion legacy. Used only in the philosophy/legacy tension section. https://www.templeton.org/funding-areas/religion-science-and-society
+24. Sunny Bains, "Questioning the Integrity of the John Templeton Foundation," *Evolutionary Psychology* / SAGE - critical source for foundation-reputation context. Used to separate investment philosophy from later foundation criticism. https://journals.sagepub.com/doi/10.1177/147470491100900111
+25. PMC open-access page for foundation criticism/context - alternate access/context page surfaced in search for the Bains criticism and broader science/religion funding debate; some safe-open attempts encountered browser checks, so use alongside the SAGE DOI. https://pmc.ncbi.nlm.nih.gov/articles/PMC10480919/
+26. SEC Templeton Growth Fund N-CSR archive - retained for later portfolio/annual-report reconstruction and as registered-fund continuity context; not central to B-philosophy prose because the prospectus was stronger for process/risk wording. https://www.sec.gov/Archives/edgar/data/805664/000119312519284363/d825729dncsr.htm
+
+## T0074 Search Notes and Limitations
+
+- Search plan covered primary/near-primary philosophy sources, current and historical fund documents, Franklin acquisition records, official foundation materials, independent obituary context, criticism/legal-status searches, and current fund continuity evidence.
+- More than 15 distinct searches were run. Source saturation was reached when the same core facts recurred across Templeton's 1993 rules, official biography, Franklin/SEC fund documents, and foundation-criticism sources.
+- The philosophy file uses 10 distinct cited URLs. It intentionally treats current TEPLX and prospectus data as continuity evidence, not as a pure John Templeton manager-era record.
+- No new personal legal proceeding involving John Templeton surfaced. Foundation criticism is included only as intellectual/reputational context and not as investment misconduct.
+- Remaining open research for later tasks: reconstruct annual Templeton Growth Fund returns from original reports; identify Templeton-era country/sector exposures; page-verify book sources such as *The Templeton Plan* and *Investing the Templeton Way*; source the 1939 basket beyond the official biography.
