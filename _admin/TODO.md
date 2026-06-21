@@ -78,7 +78,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-21T06:29:13Z T0071 | 009-seth-klarman | G-mental-models | investors/009-seth-klarman/mental-models.md
 - [x] done:2026-06-21T07:35:58Z T0072 | 009-seth-klarman | H-synthesis | investors/009-seth-klarman/synthesis.md
 - [x] done:2026-06-21T08:47:48Z T0073 | 010-john-templeton | A-profile | investors/010-john-templeton/profile.md
-- [ ] T0074 | 010-john-templeton | B-philosophy | investors/010-john-templeton/investment-philosophy.md
+- [~] claimed:2026-06-21T09:16:31Z T0074 | 010-john-templeton | B-philosophy | investors/010-john-templeton/investment-philosophy.md
 - [ ] T0075 | 010-john-templeton | C-greatest-trades | investors/010-john-templeton/greatest-trades.md
 - [ ] T0076 | 010-john-templeton | D-mistakes | investors/010-john-templeton/mistakes-and-losses.md
 - [ ] T0077 | 010-john-templeton | E-own-words | investors/010-john-templeton/in-their-own-words.md
