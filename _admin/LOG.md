@@ -389,3 +389,8 @@
 - Output: investors/010-john-templeton/investment-philosophy.md (~2,690 words, 10 sources)
 - Notes: Completed Templeton philosophy around maximum-pessimism global value, real-return objective, quality bargains, bottom-up research, diversification, sell discipline, risk/temperament, regime fit, and tensions around TEPLX continuity, access costs, evidence quality, and foundation criticism.
 - Backlog added: None
+
+## 2026-06-21T10:30:02Z — T0075 — 010-john-templeton — C-greatest-trades — DONE
+- Output: investors/010-john-templeton/greatest-trades.md (~3,600 words, 13 sources)
+- Notes: Completed Templeton greatest-trades file across the dot-com IPO lockup short basket, 1939 distressed-stock basket, Japan allocation, 1969-1974 bear-market protection, late-1970s/early-1980s U.S. equity rotation, Asia-crisis personal purchases, fund-franchise compounding, and 1987 crash buying. Caveats preserved around missing Templeton-era ledgers, source-labeled P&L, and posthumous Franklin legal context.
+- Backlog added: None
