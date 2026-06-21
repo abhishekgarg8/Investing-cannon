@@ -87,7 +87,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-21T17:30:00Z T0080 | 010-john-templeton | H-synthesis | investors/010-john-templeton/synthesis.md
 - [x] done:2026-06-21T18:26:59Z T0081 | cohort-01 | X-cohort-synthesis | synthesis/cohort-01.md
 - [x] done:2026-06-21T19:35:42Z T0082 | 011-philip-fisher | A-profile | investors/011-philip-fisher/profile.md
-- [~] claimed:2026-06-21T22:19:47Z T0083 | 011-philip-fisher | B-philosophy | investors/011-philip-fisher/investment-philosophy.md
+- [x] done:2026-06-21T22:27:37Z T0083 | 011-philip-fisher | B-philosophy | investors/011-philip-fisher/investment-philosophy.md
 - [ ] T0084 | 011-philip-fisher | C-greatest-trades | investors/011-philip-fisher/greatest-trades.md
 - [ ] T0085 | 011-philip-fisher | D-mistakes | investors/011-philip-fisher/mistakes-and-losses.md
 - [ ] T0086 | 011-philip-fisher | E-own-words | investors/011-philip-fisher/in-their-own-words.md
