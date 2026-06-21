@@ -53,3 +53,31 @@ Accessed: 2026-06-21
 - The philosophy file uses 10 distinct cited URLs. It intentionally treats current TEPLX and prospectus data as continuity evidence, not as a pure John Templeton manager-era record.
 - No new personal legal proceeding involving John Templeton surfaced. Foundation criticism is included only as intellectual/reputational context and not as investment misconduct.
 - Remaining open research for later tasks: reconstruct annual Templeton Growth Fund returns from original reports; identify Templeton-era country/sector exposures; page-verify book sources such as *The Templeton Plan* and *Investing the Templeton Way*; source the 1939 basket beyond the official biography.
+
+Task: T0075 C-greatest-trades  
+Accessed: 2026-06-21
+
+## T0075 Source Additions
+
+27. William Green, "The Great Stock Picker," Money/CNN archive PDF mirror - accessible copy of 1999 Money profile; used for Japan allocation, 1969-1974 Japan/Canada portfolio episode, Korea/China crisis purchases, and 1987 crash/Ford anecdote. https://williamgreenwrites.com/wp-content/uploads/2020/11/Sir-John-Templeton.pdf
+28. Business Insider interview with William Green - secondary/interview source for the 2000 dot-com IPO lockup short basket and the 1939 basket holding-period/profit version. Useful but not primary; P&L marked single-source where only Green summary supplies the number. https://www.businessinsider.com/investing-lessons-from-charlie-munger-john-templeton-mohnish-pabrai-author-2021-4
+29. Latticework / MOI Global interview with Lauren Templeton - family/interview source for dot-com notional structure, 1939 basket details, Japan valuation/allocation details, and U.S. equity rotation around 1979-1980. https://www.latticework.com/p/lessons-from-sir-john-templeton-global
+30. Novel Investor, Templeton maxims/transcript excerpts - accessible transcript excerpts for Missouri Pacific preferred, dot-com short cover discipline, and Templeton maxims. Treated as transcript mirror, not primary archival audio. https://novelinvestor.com/maxims-john-templeton/
+31. Horizon Kinetics Q1 2021 commentary - source for Templeton Growth Fund annual/cumulative return table through 1991 and discussion of Japan as a Templeton trend. Useful secondary compilation; still needs original fund report verification. https://horizonkinetics.com/app/uploads/Q1-2021-Review_FINAL.pdf
+32. John Templeton Foundation, "Sir John Templeton" - reused for official 1939 basket statement, fund-inception to 1992 $10,000-to-$2 million summary, and biographical status. https://www.templeton.org/about/sir-john-templeton
+33. Franklin Templeton, "16 Rules for Investment Success" - reused for sell discipline, anti-panic rule, flexibility, and maximum-pessimism framing. https://www.franklintempleton.com/forms-literature/download/TL-R16
+34. Templeton Growth Fund prospectus - reused for current institutional-continuity evidence on country/sector flexibility, sell criteria, and global-fund risk disclosures. https://www.franklintempleton.com/forms-literature/download-preview/101-P
+35. Franklin Templeton TEPLX page - reused for fund inception and current/post-Templeton continuity caveat. https://www.franklintempleton.com/investments/options/mutual-funds/products/105/A/templeton-growth-fund-inc/TEPLX
+36. SEC, Franklin Resources 1994 Form 10-K - reused for 1992 Templeton acquisition, acquired AUM, and 1994 Templeton Growth Fund net assets. https://www.sec.gov/Archives/edgar/data/38777/0000038777-94-000129.txt
+37. ADVFN / Glen Arnold article citing Wall Street Journal, January 2, 1998 - secondary lead for Korea crisis purchases; used only as corroborative context beside Money profile because original WSJ archive was not opened. https://uk.advfn.com/newspaper/glenarnold/61381/john-templeton-s-triumphs-in-south-korean-and-chinese-shares
+38. Ritholtz reproduction of BusinessWeek's "The Death of Equities" - source for 1979 market-sentiment context around the U.S. equity rotation; not Templeton-specific. https://ritholtz.com/1979/08/the-death-of-equities/
+39. SEC, Franklin Advisers administrative order, 2020 - later Franklin legal/compliance context used only to avoid attributing posthumous firm issues to Templeton personally. https://www.sec.gov/enforcement-litigation/administrative-proceedings/ia-5531-s
+40. MarketWatch, "John Templeton profited from temporary insanity..." - opened as a secondary lead for the dot-com short but not relied on for core P&L because Business Insider/Green and Lauren Templeton were more specific. https://www.marketwatch.com/story/john-templeton-profited-from-temporary-insanity-in-2000-now-its-your-turn-says-longtime-money-manager-2019-05-09
+
+## T0075 Search Notes and Limitations
+
+- Search plan covered Templeton's famous distressed-basket trade, dot-com short, Japan allocation, 1969-1974 bear-market protection, U.S. equity rotation, 1987 crash buying, Korea/China crisis purchases, fund-level performance, and mandatory criticism/legal searches.
+- More than 30 search queries were run. The last searches mostly recycled the same Money/Green, Lauren Templeton, Foundation, Franklin, and Horizon Kinetics evidence rather than new primary ledgers.
+- Used 13 distinct cited URLs in the output. Strongest evidence: official Foundation biography, Franklin/SEC fund material, William Green's Money profile, Lauren Templeton interview, Business Insider/Green interview, and Horizon Kinetics' fund-return table.
+- Key limitation: exact Templeton-era position ledgers, country weights by year, cost basis, and realized P&L are not public in the opened sources. Dot-com P&L and 1939/Japan outcomes are therefore source-labeled rather than treated as audited.
+- Mandatory legal/criticism search found no new personal legal proceeding involving John Templeton. Later Franklin compliance matters are separated from Templeton personally because he died in 2008.
