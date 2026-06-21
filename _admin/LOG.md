@@ -415,3 +415,8 @@
 - Output: investors/010-john-templeton/synthesis.md (~1,602 words, 10 sources)
 - Notes: Completed Templeton synthesis, transferable lessons, style taxonomy, regime dependence, transferability assessment, peer comparisons, unresolved questions, and INDEX.md row. T0079 mental-models remains freshly claimed/missing; cited sources were already present in sources.md, so no duplicate source append.
 - Backlog added: None
+
+## 2026-06-21T18:26:59Z — T0081 — cohort-01 — X-cohort-synthesis — DONE
+- Output: synthesis/cohort-01.md (~2,358 words, 18 sources)
+- Notes: Completed first cohort synthesis across Buffett through Templeton with convergent principles, disagreements, sizing/sell-discipline table, and themes.md append. Flagged Templeton T0079 mental-models missing/freshly claimed and warned against structure-blind imitation across styles.
+- Backlog added: None
