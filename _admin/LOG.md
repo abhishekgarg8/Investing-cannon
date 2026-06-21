@@ -399,3 +399,9 @@
 - Output: investors/010-john-templeton/in-their-own-words.md (~2,205 words, 14 sources)
 - Notes: Completed Templeton own-words file with 40 short source-visible quote snippets and an annotated primary/near-primary materials index. Flagged transcript mirrors, famous attribution traps, missing founder letter archive, unavailable original Equities/Charlie Rose transcript text, and separation from posthumous Franklin/Western Asset matters.
 - Backlog added: None
+
+
+## 2026-06-21T14:25:48Z — T0078 — 010-john-templeton — F-key-writings — DONE
+- Output: investors/010-john-templeton/key-writings.md (~3,050 words, 20 sources)
+- Notes: Verified already-present key-writings file and T0078 source map; sampled citations support the required sections. Caveats preserved around limited page-level book access, missing founder-letter archive, and posthumous Franklin/Foundation context.
+- Backlog added: None
