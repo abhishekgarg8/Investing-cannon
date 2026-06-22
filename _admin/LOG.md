@@ -461,3 +461,8 @@
 - Output: investors/012-ray-dalio/profile.md (~2,782 words, 23 sources)
 - Notes: Created Ray Dalio profile with current post-Bridgewater status, Bridgewater/Pure Alpha/All Weather vehicle structure, AUM/track-record caveats, succession, criticism, and legal/context checks. Key limitations preserved around non-public audited returns, Form ADV access, LCH/Pure Alpha figures, AUM definitions, and disputed culture narratives.
 - Backlog added: None
+
+## 2026-06-22T08:34:03Z — T0091 — 012-ray-dalio — B-philosophy — DONE
+- Output: investors/012-ray-dalio/investment-philosophy.md (~2,802 words, 19 sources)
+- Notes: Completed Dalio philosophy around cause-and-effect macro, Pure Alpha/All Weather separation, risk-balanced diversification, debt-cycle worldview, culture/process psychology, and post-Dalio durability. Caveats preserved around private Bridgewater ledgers, marketing-material limits, dynamic-beta critique, and disputed radical-transparency culture.
+- Backlog added: None
