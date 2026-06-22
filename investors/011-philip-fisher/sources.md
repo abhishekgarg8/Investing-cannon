@@ -156,3 +156,31 @@ Annotated source map started during T0082 A-profile research, 2026-06-21.
 - Original Forbes pages/scans for the 1987/1996 interviews and the 2004 Forbes obituary remain uncaptured; this task uses mirrors and flags that provenance.
 - Page-level verification inside Fisher's books/monograph remains incomplete because accessible records are bibliographic, snippet, or restricted-scan sources.
 - Some secondary summaries are used for chapter maps and interpretation; they should be upgraded with primary page citations when licensed copies are available.
+
+## T0088 G-mental-models source additions - 2026-06-22
+
+1. [RLAEXP mirror: "A Talk with Phil Fisher," Forbes, October 19, 1987 and November 30 follow-up](https://rlaexp.com/studio/biz/financial_investing/see/articles/phil-fisher-87.html) - Core source for concentration, grooming positions, Texas Instruments opportunity-cost lesson, Motorola/Raychem examples, cash posture, selectivity, and crash-era risk thinking. Mirror; original Forbes archive still needed.
+2. [Investorkurs mirror: 1996 Forbes interview by James W. Michaels](https://investorkurs.no/philip-fisher-intervju-1996/) - Late-career source for price discipline, management centrality, six-stock portfolio, sell discipline, Motorola/Raychem status, and software/Internet comments. Mirror; original Forbes archive still needed.
+3. [Focused Compounding PDF mirror: "What we can learn from Phil Fisher"](https://focusedcompounding.com/wp-content/uploads/2017/06/39569207-Warren-Buffett-on-Phil-Fisher.pdf) - PDF rendering of the 1987 Forbes material used as a cross-check for the Texas Instruments "bait back" anecdote and Buffett introduction. Mirror/secondary provenance.
+4. [Novel Investor: "Philip Fisher's 15 Points"](https://novelinvestor.com/philip-fishers-15-points/) - Accessible checklist map for the 15-point model. Secondary; should be upgraded with licensed book-page citations.
+5. [Kailash Concepts: *Common Stocks and Uncommon Profits* notes/excerpts](https://kailashconcepts.com/common-stocks-and-uncommon-profits/) - Useful chapter-level and sell-rule source with page-reference leads. Secondary; verify against book later.
+6. [InvestmentNews: *Common Stocks and Uncommon Profits* book review](https://www.investmentnews.com/guides/common-stocks-and-uncommon-profits-book-review/265548) - Modern source for strengths/limits of the method, including scuttlebutt, 15 points, concentration, dated examples, and light numerical framework.
+7. [Business Insider / Stockopedia: "Philip Fisher Screen: The Father of Growth Investing"](https://www.businessinsider.com/philip-fisher-screen-the-father-of-growth-investing-2012-12) - Useful for track-record opacity, three sell-rule summary, and the warning that mechanical Fisher screens cannot capture qualitative factors.
+8. [Google Books: *Conservative Investors Sleep Well*](https://books.google.com/books/about/Conservative_Investors_Sleep_Well.html?id=_z0UAQAAMAAJ) - Bibliographic/structure anchor for Fisher's four-dimensional conservatism framework.
+9. [Hidden Value Gems: *Conservative Investors Sleep Well* summary](https://hiddenvaluegems.com/library/conservative-investors-sleep-well-by-phil-fisher) - Secondary map of the four dimensions of conservative investment; useful for operationalizing the framework.
+10. [Google Books: *Paths to Wealth Through Common Stocks*](https://books.google.com/books/about/Paths_to_Wealth_Through_Common_Stocks.html?id=KTD1ByjBJnUC) - Bibliographic/TOC anchor for Fisher's second book and common-stock value-increase framing.
+11. [Google Books: *Developing an Investment Philosophy*](https://books.google.com/books/about/Developing_an_Investment_Philosophy.html?id=IkoUAQAAMAAJ) - Bibliographic anchor for Fisher's 1980 monograph on how an investment philosophy evolves.
+12. [CNBC/ContentRes: 2018 Berkshire Hathaway annual meeting transcript](https://s3.amazonaws.com/static.contentres.com/media/documents/e3ab342f-baae-465d-a5d3-41a789b624cb.pdf) - Buffett/Munger context for Fisher's scuttlebutt method and its later use inside Berkshire.
+13. [Los Angeles Times: "Master Investors"](https://www.latimes.com/archives/la-xpm-1987-12-06-ss-27193-story.html) - Contemporaneous profile anchoring Fisher's few-holdings posture, named case studies, and long-range orientation.
+14. [Justia: *Radiation Dynamics, Inc. v. Goldmuntz*, 464 F.2d 876](https://law.justia.com/cases/federal/appellate-courts/F2/464/876/38142/) - Legal information-boundary caution for scuttlebutt and channel-check research; Fisher/Fisher & Co. prevailed but the case remains relevant to process risk.
+15. [SFGate: "Raychem Selling for $2.87 Billion"](https://www.sfgate.com/business/article/raychem-selling-for-2-87-billion-2929954.php) - Late Raychem context: Tyco acquisition value, Raychem sales, net-income decline, and product/market details.
+16. [Encyclopedia.com: "Raychem Corporation"](https://www.encyclopedia.com/books/politics-and-business-magazines/raychem-corporation) - Company-history source for Raychem's technology and innovation thesis.
+17. [Fisher Investments: Books by Philip Fisher](https://www.fisherinvestments.com/en-us/resource-library/investing-books/philip-fisher) - Bibliographic cross-check for Fisher's corpus; use only as family-linked bibliography, not as evidence of Philip Fisher's track record.
+18. [SEC EDGAR: Fisher Asset Management 13F-HR filing detail](https://www.sec.gov/Archives/edgar/data/850529/0000850529-16-000030-index.htm) - Disambiguation source showing modern Fisher Asset Management/Fisher Investments records are not Philip Fisher's private Fisher & Co. record.
+
+### T0088 source limitations
+
+- Original Forbes scans/pages for the 1987 and 1996 Fisher interviews remain uncaptured; this task uses mirrors and flags that provenance.
+- Page-level access to Fisher's books remains incomplete; checklist and framework references should be upgraded with licensed page citations when available.
+- Fisher & Co. client letters, AUM, complete holdings, audited returns, and account-level ledgers remain unavailable.
+- The two roughly 50% losses Fisher mentioned in 1987 remain unidentified.
