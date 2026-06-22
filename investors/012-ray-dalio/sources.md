@@ -94,3 +94,31 @@ As of 2026-06-22. Source map created for T0090 A-profile. Sources are grouped by
 - Observer / LCH ranking summary (2024): https://observer.com/2024/01/hedge-funds-top-managers-list-2023/ — Used for cumulative net-client-gain and 2023 net-loss context; original LCH table still needed.
 - Business Insider / LCH, "Ray Dalio's Bridgewater lost $12.1 billion in 2020" (2021): https://markets.businessinsider.com/news/stocks/ray-dalio-bridgewater-hedge-fund-lost-12-billion-2020-2021-1-1029998262 — Used as a cautionary contrast to 2008/2010 wins and for cumulative LCH net-gain context.
 - Business Insider / FT summary, "Ray Dalio Blindsided by Coronavirus..." (2020): https://markets.businessinsider.com/news/stocks/ray-dalio-blindsided-coronavirus-bridgewater-main-fund-down-20-percent-2020-3-1029000096 — Used for 2020 loss contrast and Dalio's no-edge/cut-risk postmortem.
+
+## T0094 E-own-words additions (2026-06-22T15:30:00Z)
+
+- Principles.com home: https://www.principles.com/ — Used for official corpus map, book/video/tool provenance, and current authorized social links.
+- Principles.com, "Embrace Reality and Deal with It": https://www.principles.com/principles/8b086563-5bb4-4741-8713-c62bd1a0d749/ — Used for short verified Principles snippets on truth, outcomes, and machine thinking.
+- Principles.com, "Pain + Reflection = Progress": https://www.principles.com/principles/4a903526-2db6-4a0a-9b71-889868f0f475/ — Used for verified pain/reflection/open-mindedness wording without quote aggregators.
+- Principles.com, "Radical Truth and Radical Transparency": https://www.principles.com/principles/f6412dca-b3f9-4dd0-bb65-274869dd21ed — Used for work-principles phrasing on humility, disagreement, and believability.
+- Bridgewater, "Our Founder": https://www.bridgewater.com/our-founder — Used for official Dalio role chronology and current founder/mentor framing.
+- Bridgewater, "The All Weather Story": https://www.bridgewater.com/research-and-insights/the-all-weather-story — Used for direct/near-direct Dalio wording on the 1971 lesson, economic machine, return decomposition, and All Weather origins.
+- Bridgewater home: https://www.bridgewater.com/ — Used for current Bridgewater mission language and post-Dalio institutional voice.
+- Bridgewater, "Culture": https://www.bridgewater.com/culture — Used for current statement that the firm re-underwrote and evolved several founder principles after 2022.
+- Bridgewater, "Bridgewater's Original Philosophy": https://www.bridgewater.com/culture/bridgewaters-original-philosophy — Used for provenance of Ray's philosophy statement as the firm's constitution.
+- Bridgewater, "Bridgewater's Idea Meritocracy": https://www.bridgewater.com/culture/bridgewaters-idea-meritocracy — Used for current Bridgewater restatement of Ray's meritocracy principles.
+- Bridgewater, "Our Statement on a Recent Book About Ray Dalio and Bridgewater": https://www.bridgewater.com/our-statement-on-a-recent-book-about-bridgewater — Used as required context for culture critiques and Bridgewater's denial.
+- Economic Principles, "How Does the Economy Really Work?": https://economicprinciples.org/how-the-economic-machine-works — Official landing page for the Economic Machine video.
+- Singju Post transcript, "How Does the Economy Really Work by Ray Dalio": https://singjupost.com/economy-really-work-ray-dalio-transcript/ — Transcript aid for exact short economic-machine snippets.
+- Economic Principles, "How Countries Go Broke: In a 5-Minute Read": https://economicprinciples.org/five-minute-read — Used for current debt-cycle wording and the debt/credit metaphors.
+- Economic Principles, "How Countries Go Broke": https://economicprinciples.org/how-countries-go-broke — Official 2025 book page and citation/bibliography hub.
+- Singju Post transcript, "Principles for Dealing with the Changing World Order": https://singjupost.com/principles-for-dealing-with-the-changing-world-order-ray-dalio-transcript/ — Transcript aid for 500-year history and changing-world-order snippets.
+- Singju Post transcript, "Ray Dalio with David Rubenstein: How Countries Go Broke": https://singjupost.com/ray-dalio-with-david-rubenstein-how-countries-go-broke-transcript/ — 2025 transcript for Dalio's later-life teaching, worry principle, U.S. debt discussion, and advice to young adults.
+- TED, "How to build a company where the best ideas win": https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win — Official TED page for idea-meritocracy speech provenance.
+- Academy of Achievement, Ray Dalio Part 36: https://achievement.org/video/ray-dalio-36/ — Segment transcript for reality, mistakes, weaknesses, and truth-led idea meritocracy.
+- Tim Ferriss Show transcript #264: https://tim.blog/2018/02/01/the-tim-ferriss-show-transcripts-ray-dalio/ — Long-form transcript for humility, risk, uncorrelated bets, and quality triangulation.
+- Ritholtz, "Transcript: Ray Dalio": https://ritholtz.com/2022/01/transcript-ray-dalio-2/ — Transcript for later-life stage framing and reserve-currency cycles.
+- New Yorker, "Mastering the Machine": https://www.newyorker.com/magazine/2011/07/25/mastering-the-machine — Near-primary long-form source for direct Dalio quotes, culture context, and criticism.
+- Dalio LinkedIn post on uncorrelated return streams: https://www.linkedin.com/posts/raydalio_principles-raydalio-mentor-activity-7292261108667609088-gSH- — Current social/video transcript for the 15-return-streams mantra.
+- Dalio LinkedIn post on China/risk sizing: https://www.linkedin.com/posts/raydalio_principles-activity-7357060277458063361-XrZ9 — Current social/video transcript for diversification and exposure-sizing language.
+- Dalio LinkedIn post on pain/reflection: https://www.linkedin.com/posts/raydalio_one-principle-that-ive-really-learned-is-activity-7363958247931691009-sEpp — Current retelling of the 1981-82 mistake and pain/reflection formula.
