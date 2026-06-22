@@ -511,3 +511,8 @@
 - Output: investors/013-john-maynard-keynes/greatest-trades.md (~3,418 words, 13 task-specific sources)
 - Notes: Completed Keynes greatest-trades reconstruction across King's equity pivot, U.S. distressed equities, U.S. utility preferreds, Union Corporation/gold mining, Austin Motor/British autos, U.S. investment trusts, and early metal-option winners. Caveats preserved around archival reconstruction, missing single-security P&L, portfolio-level U.S. figures, information-boundary issues, and mixed early macro/commodity speculation.
 - Backlog added: None
+
+## 2026-06-22T23:35:52Z — T0101 — 013-john-maynard-keynes — D-mistakes — DONE
+- Output: investors/013-john-maynard-keynes/mistakes-and-losses.md (~2,758 words, 16 sources)
+- Notes: Completed Keynes mistakes-and-losses file covering currency underperformance, commodity/rubber/tin losses, 1929-1931 King's drawdowns, P.R./Independent vehicle failures, 1937-1938 National Mutual governance failure, personal-versus-King's behavior, and information-network transferability caveats.
+- Backlog added: None
