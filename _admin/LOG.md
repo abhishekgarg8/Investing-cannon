@@ -466,3 +466,8 @@
 - Output: investors/012-ray-dalio/investment-philosophy.md (~2,802 words, 19 sources)
 - Notes: Completed Dalio philosophy around cause-and-effect macro, Pure Alpha/All Weather separation, risk-balanced diversification, debt-cycle worldview, culture/process psychology, and post-Dalio durability. Caveats preserved around private Bridgewater ledgers, marketing-material limits, dynamic-beta critique, and disputed radical-transparency culture.
 - Backlog added: None
+
+## 2026-06-22T11:32:43Z — T0093 — 012-ray-dalio — D-mistakes — DONE
+- Output: investors/012-ray-dalio/mistakes-and-losses.md (~2,610 words, 20 sources)
+- Notes: Verified and tightened an already-present Dalio mistakes/losses draft, including 1981-82 overconfidence, 2020 Pure Alpha/All Weather losses, 2022 risk-parity stress, post-founder rewiring, China exposure, and culture/legal operating losses. Preserved caveats around private Bridgewater ledgers, source-labeled performance figures, and Dalio-versus-post-2020 Bridgewater attribution.
+- Backlog added: None
