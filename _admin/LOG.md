@@ -7,7 +7,6 @@
 - Notes: Created Buffett profile with verified Berkshire 1965-2025 performance, current Abel succession status, vehicle structure, caveats, and open questions. Partnership return series flagged for later reconstruction from primary letters.
 - Backlog added: None
 
-
 ## 2026-06-10T07:26:04Z — T0002 — 001-warren-buffett — B-philosophy — DONE
 - Output: investors/001-warren-buffett/investment-philosophy.md (~2,779 words, 17 sources)
 - Notes: Distilled Buffett's philosophy around business ownership, intrinsic value, float/permanent capital, moats, risk/reputation controls, and transferability limits. Tensions flagged: public-stock flexibility, decentralized-model misconduct risk, crisis-era conflicts, and scale.
@@ -43,7 +42,6 @@
 - Notes: Completed Buffett synthesis, ranked transferable lessons, regime dependence, luck-vs-skill framing, unresolved questions, and first INDEX.md row. No completed peer folders exist yet, so closest/opposite comparisons are flagged as provisional.
 - Backlog added: None
 
-
 ## 2026-06-10T14:33:05Z — T0009 — 002-charlie-munger — A-profile — DONE
 - Output: investors/002-charlie-munger/profile.md (~1,919 words, 25 sources)
 - Notes: Created Munger profile with Berkshire/Daily Journal primary-source grounding, death/status verified, vehicle structure separated, and Daily Journal 2026 proxy dispute treated as company-level context. Partnership CAGR remains flagged [single-source] pending original Wheeler, Munger statements; Wesco/Blue Chip letters mapped for later tasks.
@@ -69,7 +67,6 @@
 - Notes: Output and source map were completed, but TODO closeout could not be pushed because the connector requires full-file replacement and the queue content exceeded this channel's single-call size; direct GitHub HTTPS and SSH were blocked from the container. Left TODO [~] for stale retry; future run should verify the output, mark T0012 done, and refresh STATUS.
 - Backlog added: None
 
-
 ## 2026-06-11T04:31:09Z — T0013 — 002-charlie-munger — E-own-words — DONE
 - Output: investors/002-charlie-munger/in-their-own-words.md (~1,639 words, 17 sources)
 - Notes: Completed Munger quote file with 25 short sourced quotes organized by theme plus an annotated primary-materials index. Avoided quote aggregators; Daily Journal/CNBC exact wording remains transcript-dependent where noted.
@@ -89,7 +86,6 @@
 - Output: investors/002-charlie-munger/mental-models.md (~3,107 words, 24 sources)
 - Notes: Reconstructed Munger's operational mental-model checklist from speeches, Berkshire/Daily Journal filings, trades, and mistakes. Current-status update reflects Daily Journal's February 2026 annual meeting result and March 2026 portfolio/margin figures.
 - Backlog added: None
-
 
 ## 2026-06-11T08:31:59Z — T0016 — 002-charlie-munger — H-synthesis — DONE
 - Output: investors/002-charlie-munger/synthesis.md (~1,542 words, 16 sources)
@@ -135,6 +131,7 @@
 - Output: investors/003-benjamin-graham/mental-models.md (~2,650 words, 16 sources)
 - Notes: Stale retry closeout: verified completed mental-models file, appended T0023 sources, and spot-checked FAJ 1976, Medical Economics 1976, CFA/Ivey biography, and 2026 NCAV evidence. Caveats preserved around GEICO/Investment Company Act, Joint Account leverage, scale, and modern NCAV decay.
 - Backlog added: None
+
 ## 2026-06-11T23:33:44Z — T0026 — 004-peter-lynch — B-philosophy — DONE
 - Output: investors/004-peter-lynch/investment-philosophy.md (~2,510 words, 15 sources)
 - Notes: Completed Lynch philosophy around bottom-up GARP, everyday-observation leads plus financial-statement work, portfolio breadth, thesis-based selling, and transferability limits. No profile/sources existed on main because T0025 remained freshly claimed; created sources.md with T0026 source map and caveats on scale, investor behavior gap, later Magellan closet-indexing, and 2008 SEC gift settlement.
@@ -154,6 +151,7 @@
 - Output: investors/004-peter-lynch/mistakes-and-losses.md (~3,238 words, 14 task-specific sources)
 - Notes: Completed Lynch mistakes/losses around 1987 liquidity/redemptions, repeat drawdowns, investor behavior gap/public-access caveats, sell-discipline errors, Starbucks/Apple omissions, 2008 housing/Fannie-Freddie risk, the 2008 SEC broker-gift settlement, and later Magellan scale warnings.
 - Backlog added: None
+
 ## 2026-06-12T03:29:06Z — T0029 — 004-peter-lynch — E-own-words — DONE
 - Output: investors/004-peter-lynch/in-their-own-words.md (~1,541 words, 21 task-specific sources)
 - Notes: Completed Lynch quote file with 26 short source-visible quotes, annotated primary/near-primary materials index, and attribution watchlist. Key caveats preserved: 2025 Compound transcript needs audio spot-checking; book quotes still need page-level verification in F-key-writings.
@@ -164,7 +162,6 @@
 - Notes: Reconstructed Lynch's operational checklist from existing A-E files plus fresh book/transcript/Fidelity/SEC sources, emphasizing category discipline, balance-sheet survival, liquidity/client-behavior risk, scale, and transferability limits. Key gaps remain page-verifying Lynch/Rothchild books and reconstructing Lynch-era Magellan holdings/cash/turnover.
 - Backlog added: None
 
-
 ## 2026-06-12T06:26:20Z — T0032 — 004-peter-lynch — H-synthesis — DONE
 - Output: investors/004-peter-lynch/synthesis.md (~1,626 words, 18 sources)
 - Notes: Completed Lynch synthesis, ranked transferable lessons, style taxonomy, regime dependence, luck-vs-skill assessment, closest/opposite repo comparisons, unresolved questions, and INDEX.md row. T0030 F-key-writings remains freshly claimed/missing, so synthesis explicitly flags refresh dependency.
@@ -174,7 +171,6 @@
 - Output: investors/004-peter-lynch/key-writings.md (~2,743 words, 25 sources)
 - Notes: Stale retry closeout: verified the already-committed key-writings file, appended the missing T0030 source map, and spot-checked Simon & Schuster, Fidelity, SEC, and Worth citations. Page-level book verification, Worth original-URL upgrades, investor-return-gap tracing, and 2025 Compound audio checks remain open.
 - Backlog added: None
-
 
 ## 2026-06-12T09:45:29Z — T0033 — 005-george-soros — A-profile — DONE
 - Output: investors/005-george-soros/profile.md (~2,521 words, 22 sources)
@@ -236,7 +232,6 @@
 - Notes: Completed Druckenmiller mistakes/losses across early Duquesne drawdowns, Drysdale/T-bill near-death, 1987 reversal, 1991 Gulf War positioning, 1999-2000 technology/Quantum damage, and legal/regulatory caveats. Key limitations preserved around audited Duquesne returns, original 2010 letter, Quantum/Duquesne attribution, and 13F non-comparability.
 - Backlog added: None
 
-
 ## 2026-06-12T23:44:01Z — T0046 — 006-stanley-druckenmiller — F-key-writings — DONE
 - Output: investors/006-stanley-druckenmiller/key-writings.md (~2,925 words, 21 sources)
 - Notes: Completed key-writings guide treating Druckenmiller's corpus as speeches, long interviews, edited chapters, filings, and serious secondary works rather than a standalone authored book. Limitations preserved around the missing 2010 closure letter, quote provenance, page-level book verification, 13F limits, and Soros/Quantum attribution.
@@ -256,7 +251,6 @@
 - Output: investors/006-stanley-druckenmiller/synthesis.md (~1,795 words, 17 sources)
 - Notes: Completed synthesis integrating A-G files, current Q1 2026 13F status, ranked lessons, taxonomy, regime dependence, peer comparisons, and unresolved questions. Preserved caveats around audited returns, Quantum attribution, 2010 closure-letter access, 13F limits, and current legal/regulatory search limits.
 - Backlog added: None
-
 
 ## 2026-06-20T00:04:46Z — T0049 — 007-jim-simons — A-profile — DONE
 - Output: investors/007-jim-simons/profile.md (~2435 words, 20 sources)
@@ -297,7 +291,6 @@
 - Output: investors/007-jim-simons/key-writings.md (~2,559 words, 23 sources)
 - Notes: Stale retry closeout: completed the missing key-writings file by ranking Simons's mathematical papers, interview/essay corpus, firm/regulatory context, and best secondary works. Caveats preserved around absent Medallion letters/internal memos, blocked PNAS/PubMed pages, transcript provenance, and secondary-only performance reconstructions.
 - Backlog added: None
-
 
 ## 2026-06-20T10:30:03Z — T0057 — 008-howard-marks — A-profile — DONE
 - Output: investors/008-howard-marks/profile.md (~2,450 words, 17 sources)
@@ -364,7 +357,6 @@
 - Notes: Completed Klarman own-words file with 43 short source-visible quote snippets and an annotated primary/near-primary materials index. Caveats preserved around private Baupost letters, blocked Goldman transcript access, premium Capital Allocators transcript, and page-level Margin of Safety verification.
 - Backlog added: None
 
-
 ## 2026-06-21T04:29:48Z — T0070 — 009-seth-klarman — F-key-writings — DONE
 - Output: investors/009-seth-klarman/key-writings.md (~2,618 words, 28 task-specific sources)
 - Notes: Completed Klarman key-writings guide using the already-present partial output, refreshed provenance wording, and appended the missing T0070 source map. Covered Margin of Safety, Security Analysis, annual-letter excerpts, crisis interviews, public-capitalism speeches, 2023-2026 interviews, ranked secondary works, and access gaps; caveats preserved around unauthorized book copies, private Baupost letters, blocked/premium transcripts, performance/redemption criticism, allocator skepticism, and stakeholder controversy.
@@ -399,7 +391,6 @@
 - Output: investors/010-john-templeton/in-their-own-words.md (~2,205 words, 14 sources)
 - Notes: Completed Templeton own-words file with 40 short source-visible quote snippets and an annotated primary/near-primary materials index. Flagged transcript mirrors, famous attribution traps, missing founder letter archive, unavailable original Equities/Charlie Rose transcript text, and separation from posthumous Franklin/Western Asset matters.
 - Backlog added: None
-
 
 ## 2026-06-21T14:25:48Z — T0078 — 010-john-templeton — F-key-writings — DONE
 - Output: investors/010-john-templeton/key-writings.md (~3,050 words, 20 sources)
@@ -436,7 +427,6 @@
 - Notes: Completed Fisher philosophy around quality growth, scuttlebutt research, concentration, sell discipline, risk-as-knowledge, and transferability limits. Preserved caveats around mirrored Forbes interview access, private Fisher & Co. track-record opacity, and modern Fisher Investments disambiguation.
 - Backlog added: None
 
-
 ## 2026-06-21T23:53:39Z — T0084 — 011-philip-fisher — C-greatest-trades — DONE
 - Output: investors/011-philip-fisher/greatest-trades.md (~3,140 words, 15 task-specific sources)
 - Notes: Completed Fisher greatest-trades file ranking Motorola as the best-supported single winner, followed by Texas Instruments, Raychem, Food Machinery/FMC, and Dow Chemical. Caveats preserved around private Fisher & Co. ledgers, Motorola return arithmetic, TI trust-specific basis, and unreconstructed Raychem/FMC/Dow P&L.
@@ -447,7 +437,6 @@
 - Notes: Completed Fisher mistakes/losses around the 1929 cheap-stock lesson, two unidentified roughly 50% losses, Texas Instruments client-pressure/sale error, Motorola and Raychem hold-or-sell stress tests, Radiation Dynamics information-boundary risk, and Fisher & Co. track-record opacity.
 - Backlog added: None
 
-
 ## 2026-06-22T02:31:58Z — T0086 — 011-philip-fisher — E-own-words — DONE
 - Output: investors/011-philip-fisher/in-their-own-words.md (~1,529 words, 15 task-specific sources)
 - Notes: Completed Fisher own-words file with 35 short source-visible quotes across five themes plus annotated primary/near-primary materials index. Main limitations: Forbes interviews remain mirror-sourced, Fisher & Co. letters/podcasts/speeches were not found, and book quotes need licensed page-level verification.
@@ -456,4 +445,9 @@
 ## 2026-06-22T03:33:43Z — T0087 — 011-philip-fisher — F-key-writings — DONE
 - Output: investors/011-philip-fisher/key-writings.md (~2,955 words, 29 source URLs)
 - Notes: Completed Fisher key-writings guide covering the four primary books/monograph, collected editions, late-career Forbes interviews as near-primary adjuncts, and ranked secondary works. Main limitations preserved: Forbes originals remain mirror-sourced, page-level book access is incomplete, and modern Fisher Investments records are disambiguated from Philip Fisher.
+- Backlog added: None
+
+## 2026-06-22T04:41:10Z — T0088 — 011-philip-fisher — G-mental-models — DONE
+- Output: investors/011-philip-fisher/mental-models.md (~2,900 words, 18 task-specific sources)
+- Notes: Reconstructed Fisher's mental models as an operational quality-growth checklist: scuttlebutt, 15-point filter, four-dimensional conservatism, concentration/grooming positions, sell rules, risk limits, failure modes, and transferability. Preserved caveats around mirrored Forbes interviews, incomplete page-level book access, legal information-boundary risk, Fisher & Co. track-record opacity, and modern Fisher Investments disambiguation.
 - Backlog added: None
