@@ -481,3 +481,8 @@
 - Output: investors/012-ray-dalio/in-their-own-words.md (~1,832 words, 27 sources)
 - Notes: Completed Dalio own-words file with 35 short source-visible quote snippets across five themes plus an annotated primary/near-primary materials index. Caveats preserved around transcript mirrors, book page-level verification, post-Dalio Bridgewater voice, and culture-criticism context.
 - Backlog added: None
+
+## 2026-06-22T16:39:27Z — T0095 — 012-ray-dalio — F-key-writings — DONE
+- Output: investors/012-ray-dalio/key-writings.md (~2,477 words, 20 sources)
+- Notes: Completed Dalio key-writings guide covering Principles, Big Debt Crises, Changing World Order, How Countries Go Broke, Economic Machine, All Weather/Daily Observations, and ranked outside/critical works. Caveats preserved around private Daily Observations/client letters, page-level book verification, Bridgewater-versus-Dalio authorship, and culture/macro critiques.
+- Backlog added: None
