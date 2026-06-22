@@ -122,3 +122,26 @@ As of 2026-06-22. Source map created for T0090 A-profile. Sources are grouped by
 - Dalio LinkedIn post on uncorrelated return streams: https://www.linkedin.com/posts/raydalio_principles-raydalio-mentor-activity-7292261108667609088-gSH- — Current social/video transcript for the 15-return-streams mantra.
 - Dalio LinkedIn post on China/risk sizing: https://www.linkedin.com/posts/raydalio_principles-activity-7357060277458063361-XrZ9 — Current social/video transcript for diversification and exposure-sizing language.
 - Dalio LinkedIn post on pain/reflection: https://www.linkedin.com/posts/raydalio_one-principle-that-ive-really-learned-is-activity-7363958247931691009-sEpp — Current retelling of the 1981-82 mistake and pain/reflection formula.
+
+## T0095 F-key-writings additions (2026-06-22T16:39:27Z)
+
+- Principles.com home: https://www.principles.com/ — Used for Dalio-controlled corpus map and provenance for Principles materials.
+- Principles.com, "Embrace Reality and Deal with It": https://www.principles.com/principles/8b086563-5bb4-4741-8713-c62bd1a0d749/ — Used for the official reality/truth framing in Principles.
+- Principles.com, "Radical Truth and Radical Transparency": https://www.principles.com/principles/f6412dca-b3f9-4dd0-bb65-274869dd21ed — Used for the work-principles culture section.
+- Principles for Navigating Big Debt Crises official page: https://www.principles.com/big-debt-crises — Primary Dalio-controlled source for the 2018 debt-cycle book.
+- Simon & Schuster, "Principles for Dealing with the Changing World Order": https://www.simonandschuster.com/books/Principles-for-Dealing-with-the-Changing-World-Order/Ray-Dalio/9781982160272 — Publisher provenance for the 2021 book.
+- AEI review of "Principles for Dealing with the Changing World Order": https://www.aei.org/articles/principles-for-dealing-with-the-changing-world-order-review-trouble-ahead-as-usual/ — Used as a skeptical outside check on Dalio's big-cycle macro history.
+- Economic Principles, "How Countries Go Broke: In a 5-Minute Read": https://economicprinciples.org/five-minute-read — Used for Dalio's concise current sovereign-debt-cycle framing.
+- Economic Principles, "How Countries Go Broke" official book page: https://economicprinciples.org/how-countries-go-broke — Used for the 2025 book's official project page and bibliography hub.
+- Simon & Schuster, "How Countries Go Broke": https://www.simonandschuster.com/books/How-Countries-Go-Broke/Ray-Dalio/9781501124068 — Publisher provenance for the 2025 book.
+- Independent Institute review of "How Countries Go Broke": https://www.independent.org/tir/2026-spring/how-countries-go-broke/ — Used for criticism of Dalio's sovereign-debt diagnosis.
+- Economic Principles, "How Does the Economy Really Work?": https://economicprinciples.org/how-the-economic-machine-works — Official source for the Economic Machine explainer.
+- Bridgewater, "The All Weather Story": https://www.bridgewater.com/research-and-insights/the-all-weather-story — Primary Bridgewater source for All Weather/risk-parity origins and framework.
+- Bridgewater, "50 Years of the Daily Observations": https://www.bridgewater.com/50-years-of-the-bridgewater-daily-observations — Used for Daily Observations provenance and institutional research-process history.
+- Bridgewater, "Our Founder": https://www.bridgewater.com/our-founder — Used for Dalio role chronology and post-Dalio authorship boundary.
+- New Yorker, "Mastering the Machine": https://www.newyorker.com/magazine/2011/07/25/mastering-the-machine — Ranked as the best outside profile of Dalio/Bridgewater process.
+- Macmillan, "The Fund" by Rob Copeland: https://us.macmillan.com/books/9781250276933/thefund/ — Used as publisher provenance for the major critical book on Dalio-era Bridgewater.
+- Bridgewater statement on "The Fund": https://www.bridgewater.com/our-statement-on-a-recent-book-about-bridgewater — Used as the required paired response to Copeland's critique.
+- Academy of Achievement, Ray Dalio profile/interview archive: https://achievement.org/achiever/ray-dalio/ — Used as the best accessible biographical interview archive.
+- Tim Ferriss Show transcript #264: https://tim.blog/2018/02/01/the-tim-ferriss-show-transcripts-ray-dalio/ — Used for process/decision-quality interview context.
+- TED, "How to build a company where the best ideas win": https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win — Used for the compact public idea-meritocracy presentation.
