@@ -486,3 +486,8 @@
 - Output: investors/012-ray-dalio/key-writings.md (~2,477 words, 20 sources)
 - Notes: Completed Dalio key-writings guide covering Principles, Big Debt Crises, Changing World Order, How Countries Go Broke, Economic Machine, All Weather/Daily Observations, and ranked outside/critical works. Caveats preserved around private Daily Observations/client letters, page-level book verification, Bridgewater-versus-Dalio authorship, and culture/macro critiques.
 - Backlog added: None
+
+## 2026-06-22T17:29:19Z — T0096 — 012-ray-dalio — G-mental-models — DONE
+- Output: investors/012-ray-dalio/mental-models.md (~3,183 words, 26 task-specific sources)
+- Notes: Reconstructed Dalio/Bridgewater mental models as economic-machine templates, alpha/beta separation, All Weather risk balance, uncorrelated-return-stream sizing, no-edge de-risking, and culture/founder-dependence limits. Preserved caveats around private Bridgewater ledgers, post-Dalio attribution, risk-parity failure, dynamic-beta critique, and implementation limits.
+- Backlog added: None
