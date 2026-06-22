@@ -506,3 +506,8 @@
 - Output: investors/013-john-maynard-keynes/investment-philosophy.md (~2,832 words, 16 sources)
 - Notes: Completed Keynes philosophy around uncertainty, enterprise vs speculation, equities as long-horizon endowment asset, concentrated value stock selection, and survival-oriented risk control. Preserved caveats around early currency/commodity speculation, private-information standards, committee/governance constraints, and differences between personal and King's portfolios.
 - Backlog added: None
+
+## 2026-06-22T22:35:47Z — T0100 — 013-john-maynard-keynes — C-greatest-trades — DONE
+- Output: investors/013-john-maynard-keynes/greatest-trades.md (~3,418 words, 13 task-specific sources)
+- Notes: Completed Keynes greatest-trades reconstruction across King's equity pivot, U.S. distressed equities, U.S. utility preferreds, Union Corporation/gold mining, Austin Motor/British autos, U.S. investment trusts, and early metal-option winners. Caveats preserved around archival reconstruction, missing single-security P&L, portfolio-level U.S. figures, information-boundary issues, and mixed early macro/commodity speculation.
+- Backlog added: None
