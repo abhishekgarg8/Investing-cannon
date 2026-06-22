@@ -101,3 +101,27 @@ Annotated source map started during T0082 A-profile research, 2026-06-21.
 - The 1987 and 1996 Forbes interviews were accessed through mirrors, not original page scans.
 - Raychem can be described as a thesis stress test, but not as a verified realized loss without Fisher & Co. transactions.
 - No Fisher & Co. account statements, client letters, audited return composite, or original adviser records were found in this run.
+
+## T0086 E-own-words source additions - 2026-06-22
+
+1. [RLAEXP mirror: "A Talk with Phil Fisher," Forbes, October 19, 1987, plus November 30, 1987 follow-up](https://rlaexp.com/studio/biz/financial_investing/see/articles/phil-fisher-87.html) - Core quote source for concentration, selectivity, management, market-cycle caution, and Texas Instruments/Motorola/Raychem remarks. Mirror; original Forbes archive still needed.
+2. [Waardebeleggen mirror: "What We Can Learn from Philip Fisher"](https://www.waardebeleggen.com/what-we-can-learn-from-philip-fisher/) - Secondary mirror preserving Buffett introduction and the same 1987 material; useful cross-check but not independent.
+3. [Investorkurs mirror: 1996 Forbes interview by James W. Michaels](https://investorkurs.no/philip-fisher-intervju-1996/) - Key quote source for management, price discipline, Motorola, Raychem, concentration, Internet comments, and mutual-fund advice. Mirror; original Forbes needed.
+4. [Los Angeles Times: "Master Investors"](https://www.latimes.com/archives/la-xpm-1987-12-06-ss-27193-story.html) - Contemporaneous source for "few outstanding ones" and Fisher crash-era holdings/posture.
+5. [Kailash Concepts: *Common Stocks and Uncommon Profits* excerpts](https://kailashconcepts.com/common-stocks-and-uncommon-profits/) - Secondary excerpt source with page references for scuttlebutt, surplus funds, and sell-discipline snippets; verify against licensed copy later.
+6. [Hidden Value Gems: *Common Stocks and Uncommon Profits* summary](https://hiddenvaluegems.com/library/common-stocks-and-uncommon-profits-by-phil-fisher) - Secondary source for chapter/title-level quote lead ("Don't quibble..."); not a substitute for book verification.
+7. [Internet Archive record: *Common Stocks and Uncommon Profits and Other Writings*](https://archive.org/details/commonstocksunco0000fish) - Bibliographic/collection anchor for Fisher's core works.
+8. [Google Books: *Common Stocks and Uncommon Profits and Other Writings*](https://books.google.com/books/about/Common_Stocks_and_Uncommon_Profits_and_O.html?id=ixJbY_Tak9EC) - Bibliographic anchor for Wiley edition and metadata.
+9. [Google Books: *Paths to Wealth Through Common Stocks*](https://books.google.com/books/about/Paths_to_Wealth_Through_Common_Stocks.html?id=KTD1ByjBJnUC) - Bibliographic anchor for Fisher's 1960 work.
+10. [Google Books: *Conservative Investors Sleep Well*](https://books.google.com/books/about/Conservative_Investors_Sleep_Well.html?id=_z0UAQAAMAAJ) - Bibliographic anchor for Fisher's 1975 work.
+11. [Mullen Books: *Developing an Investment Philosophy*](https://www.mullenbooks.com/pages/books/183931/philip-a-fisher/developing-an-investment-philosophy?soldItem=true) - Bibliographic anchor for the 1980 Financial Analysts Research Foundation monograph.
+12. [Open Library: Philip A. Fisher](https://openlibrary.org/authors/OL457141A/Philip_A._Fisher) - Author/bibliography cross-check for Fisher corpus.
+13. [CNBC Warren Buffett Archive: Phil Fisher's scuttlebutt method](https://buffett.cnbc.com/video/1998/05/04/phil-fishers-scuttlebutt-method.html) - Influence/context, not Fisher own words.
+14. [CNBC edited transcript via ContentRes: 2018 Berkshire Hathaway annual meeting](https://s3.amazonaws.com/static.contentres.com/media/documents/e3ab342f-baae-465d-a5d3-41a789b624cb.pdf) - Later Berkshire context for Fisher's scuttlebutt method.
+15. [Justia: *Radiation Dynamics, Inc. v. Goldmuntz*, 464 F.2d 876](https://law.justia.com/cases/federal/appellate-courts/F2/464/876/38142/) - Legal context for scuttlebutt information-boundary risk.
+
+### T0086 source limitations
+
+- Original Forbes pages/scans for the 1987 and 1996 interviews remain uncaptured.
+- No public Fisher & Co. letters, podcasts, speeches, or client materials were found.
+- Book quotes in this file should be upgraded with page-level verification against a licensed copy.
