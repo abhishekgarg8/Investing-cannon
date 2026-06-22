@@ -1,0 +1,33 @@
+# John Maynard Keynes - Sources
+
+Annotated source map started for T0098 A-profile on 2026-06-22. Ranking emphasizes primary or archive-based sources first, then peer-reviewed reconstructions, then institutional biographies and contextual sources. URLs were opened or source-checked during this run; do not treat search snippets as citations.
+
+## Best sources found
+
+1. [Chambers and Dimson - Retrospectives: John Maynard Keynes, Investment Innovator (Journal of Economic Perspectives), 2013](https://www.aeaweb.org/articles?id=10.1257%2Fjep.27.3.213) - Best single profile-grade paper on Keynes as institutional investor; anchors the King's College record and endowment-innovation thesis.
+2. [Chambers and Dimson - conference PDF version of the JEP paper, 2013](https://www.aeaweb.org/conference/2013/retrieve.php?pdfid=315) - Contains the performance table details used for the 15.97% King's Discretionary Portfolio figure and benchmark comparison.
+3. [NBER chapter - Keynes, King's, and Endowment Asset Management, 2013](https://www.nber.org/system/files/chapters/c12860/revisions/c12860.rev1.pdf) - Best vehicle-structure source for King's College asset allocation, real estate context, and the institutional endowment shift.
+4. [Cambridge Judge Business School - Keynes research page, 2013](https://www.jbs.cam.ac.uk/centres/ceam/research/financial-history/keynes/) - Cambridge research hub summarizing Keynes's endowment role and linking to the academic reconstruction.
+5. [Cambridge ArchiveSearch - Papers of John Maynard Keynes, 2026](https://archivesearch.lib.cam.ac.uk/repositories/7/resources/1239) - Archive-level map of Keynes papers; essential for future primary-source work.
+6. [Chambers, Dimson, and Foo - Keynes the Stock Market Investor, 2014 SSRN page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2500048) - Security-level and transaction-level paper on UK equities; useful for later greatest-trades and factor analysis.
+7. [CFA Institute Digest - Keynes: The Stock Market Investor, 2012](https://rpc.cfainstitute.org/research/cfa-digest/2012/11/keynes-the-stock-market-investor-digest-summary) - Accessible digest of the stock-selection findings, including small/mid-cap and contrarian framing.
+8. [Cambridge Core - Keynes as an investor, 2013](https://www.cambridge.org/core/books/abs/collected-writings-of-john-maynard-keynes/keynes-as-an-investor/77FA917A90CACFF2B9FC95983D17C024) - Collected Writings chapter page confirming Keynes's major institutional roles.
+9. [Accominotti and Chambers - If You're So Smart: John Maynard Keynes and Currency Speculation in the Interwar Years, 2016](https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/if-youre-so-smart-john-maynard-keynes-and-currency-speculation-in-the-interwar-years/EDE2AA44C9394C69B54283D052B96B1E) - Best source against hagiography on his currency trading and early macro speculation.
+10. [Marcuzzo and Sanfilippo - Keynes and the Interwar Commodity Option Markets, 2015 PDF](https://www.ineteconomics.org/uploads/papers/Camb.-J.-Econ.-2015-Marcuzzo-cje_bev017-1.pdf) - Important source on commodity speculation, leverage/path risk, and the difference between Keynes the theorist and Keynes the trader.
+11. [Business History Review - Keynes and Wall Street, 2016](https://www.cambridge.org/core/journals/business-history-review/article/keynes-and-wall-street/7FA43AC8FA829B915B2006248D5D12A6) - Best starting point for U.S. equity holdings and global diversification.
+12. [Journal of the History of Economic Thought - Why was Keynes keen to invest in American but not in British investment trusts?, 2025](https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/why-was-keynes-keen-to-invest-in-american-but-not-in-british-investment-trusts/0127BF64F0C36E5D876CB45A61FA9D09) - Useful for later work on investment trusts and the difference between his U.S. and UK trust preferences.
+13. [Review of Asset Pricing Studies - Keynes the art investor, 2020](https://academic.oup.com/raps/article/10/3/490/5716334) - Adds non-security asset-allocation context and warns against treating securities as his only risk assets.
+14. [Britannica - John Maynard Keynes, 2026](https://www.britannica.com/money/John-Maynard-Keynes) - Reliable current biographical scaffold for dates, education, official roles, and death.
+15. [UCC Keynes exhibition - The businessman, 2026](https://jmaynardkeynes.ucc.ie/mobile-version/the-businessman.html) - Useful secondary page on National Mutual, King's Bursar role, and overlapping business activities.
+16. [Online Library of Liberty - The Economic Consequences of the Peace, 1919](https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace) - Primary/public-domain text documenting the post-Versailles break that shaped Keynes's public reputation.
+17. [Federal Reserve History - Bretton Woods Created, 2026](https://www.federalreservehistory.org/essays/bretton-woods-created) - Institutional context for Keynes's Bretton Woods role and late-career public service.
+18. [U.S. State Department Office of the Historian - Bretton Woods-GATT, 2026](https://history.state.gov/milestones/1937-1945/bretton-woods) - Official U.S. diplomatic history cross-check on Bretton Woods and postwar monetary institutions.
+19. [IDEAS/RePEc entry - Keynes and his Personal Investments in the London Stock Exchange, 2022](https://ideas.repec.org/a/eee/streco/v61y2022icp512-526.html) - Lead for later personal-portfolio reconstruction; use the paper itself if accessible.
+20. [The New Yorker - The New World Disorder, 1998](https://www.newyorker.com/magazine/1998/10/26/the-new-world-disorder) - Secondary/essayistic source by Robert Skidelsky; useful as a biographical lead, not as a numerical anchor.
+
+## Source quality notes
+
+- The strongest track-record number is the King's Discretionary Portfolio reconstruction, not a complete "Keynes fund" audited return stream.
+- "Peak AUM" is not available in a modern format. Future work should avoid inventing a single number and should instead separate King's securities, King's real estate, insurance-company assets, personal wealth, and investment-company mandates.
+- Search snippets frequently repeat Keynes folklore about "animal spirits" or "markets can remain irrational." Those quote-attribution questions belong in E-own-words and should be re-verified from original texts, not aggregators.
+- The most important critical sources for later tasks are the interwar currency and commodity papers because they show early failure mechanics instead of the polished later endowment story.
