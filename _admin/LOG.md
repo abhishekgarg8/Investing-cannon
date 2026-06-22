@@ -471,3 +471,8 @@
 - Output: investors/012-ray-dalio/mistakes-and-losses.md (~2,610 words, 20 sources)
 - Notes: Verified and tightened an already-present Dalio mistakes/losses draft, including 1981-82 overconfidence, 2020 Pure Alpha/All Weather losses, 2022 risk-parity stress, post-founder rewiring, China exposure, and culture/legal operating losses. Preserved caveats around private Bridgewater ledgers, source-labeled performance figures, and Dalio-versus-post-2020 Bridgewater attribution.
 - Backlog added: None
+
+## 2026-06-22T12:36:50Z — T0092 — 012-ray-dalio — C-greatest-trades — DONE
+- Output: investors/012-ray-dalio/greatest-trades.md (~3,055 words, 19 sources)
+- Notes: Stale retry completed Dalio/Bridgewater greatest-trades file across 2008 crisis positioning, 2010 macro basket, All Weather/risk parity, early inflation-linked/overlay work, 2018 Pure Alpha, and post-Dalio 2022/2025 institutional evidence. Caveats preserved around private Bridgewater ledgers, fund-level return reporting, and post-2020 attribution.
+- Backlog added: None
