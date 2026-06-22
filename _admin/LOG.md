@@ -476,3 +476,8 @@
 - Output: investors/012-ray-dalio/greatest-trades.md (~3,055 words, 19 sources)
 - Notes: Stale retry completed Dalio/Bridgewater greatest-trades file across 2008 crisis positioning, 2010 macro basket, All Weather/risk parity, early inflation-linked/overlay work, 2018 Pure Alpha, and post-Dalio 2022/2025 institutional evidence. Caveats preserved around private Bridgewater ledgers, fund-level return reporting, and post-2020 attribution.
 - Backlog added: None
+
+## 2026-06-22T15:38:11Z — T0094 — 012-ray-dalio — E-own-words — DONE
+- Output: investors/012-ray-dalio/in-their-own-words.md (~1,832 words, 27 sources)
+- Notes: Completed Dalio own-words file with 35 short source-visible quote snippets across five themes plus an annotated primary/near-primary materials index. Caveats preserved around transcript mirrors, book page-level verification, post-Dalio Bridgewater voice, and culture-criticism context.
+- Backlog added: None
