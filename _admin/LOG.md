@@ -501,3 +501,8 @@
 - Output: investors/013-john-maynard-keynes/profile.md (~2,350 words, 20 sources)
 - Notes: Verified and closed out already-drafted Keynes profile and sources map; spot-checked citations for biography, King's College portfolio record, endowment equity shift, and early currency/commodity loss caveats. Caveats preserved around archival-not-audited return reconstruction, peak AUM, and modern conflict-of-interest standards.
 - Backlog added: None
+
+## 2026-06-22T21:30:21Z - T0099 - 013-john-maynard-keynes - B-philosophy - DONE
+- Output: investors/013-john-maynard-keynes/investment-philosophy.md (~2,832 words, 16 sources)
+- Notes: Completed Keynes philosophy around uncertainty, enterprise vs speculation, equities as long-horizon endowment asset, concentrated value stock selection, and survival-oriented risk control. Preserved caveats around early currency/commodity speculation, private-information standards, committee/governance constraints, and differences between personal and King's portfolios.
+- Backlog added: None
