@@ -78,3 +78,26 @@ Annotated source map started during T0082 A-profile research, 2026-06-21.
 - Motorola's 1996 reported $1,000-to-$1,993,846 result and 16% annualized statement do not reconcile arithmetically over the stated 1957-1996 window; both should be rechecked against the original Forbes archive.
 - Texas Instruments $14 entry and $250-plus path are Fisher's own interview anecdote but remain single-source without the original trust ledger.
 - Raychem, FMC, and Dow were included because Fisher or contemporaneous press named them as major/core examples, but their Fisher-specific entry weights, exits, and realized P&L remain unreconstructed.
+
+## T0085 D-mistakes source additions - 2026-06-22
+
+1. [Los Angeles Times obituary: "Philip A. Fisher, 96; Early Author of Advice Books on Investing"](https://www.latimes.com/archives/la-xpm-2004-apr-21-me-passings21.2-story.html) - Current-status anchor confirming Fisher's death, Fisher & Co. career context, and retirement chronology.
+2. [RLAEXP mirror: "A Talk with Phil Fisher," Forbes, October 19, 1987](https://rlaexp.com/studio/biz/financial_investing/see/articles/phil-fisher-87.html) - Main near-primary mistakes source for Fisher's 14 large winners, two roughly 50% losses, smaller plus/minus outcomes, Texas Instruments premature-sale anecdote, core/grooming portfolio structure, Raychem defense, and 1987 crash posture. Still a mirror pending original Forbes archive capture.
+3. [Business Insider / Stockopedia: "Philip Fisher Screen: The Father of Growth Investing"](https://www.businessinsider.com/philip-fisher-screen-the-father-of-growth-investing-2012-12) - Secondary support for Fisher's 1929 low-P/E lesson, sell-rule summary, secrecy/track-record caveat, and no-comprehensive-record limitation.
+4. [Novel Investor: "Philip Fisher's 15 Points"](https://novelinvestor.com/philip-fishers-15-points/) - Checklist orientation for the process changes after Fisher's cheap-stock lesson; use as a secondary guide until book pages are verified.
+5. [Novel Investor: "Philip Fisher Explains His Growth Philosophy"](https://novelinvestor.com/philip-fisher-explains-growth-philosophy/) - Secondary excerpt for the Texas Instruments opportunity-cost anecdote and Fisher's growth framing; mirror/lead rather than original source.
+6. [Los Angeles Times: "Master Investors"](https://www.latimes.com/archives/la-xpm-1987-12-06-ss-27193-story.html) - Contemporaneous crash-era profile for Fisher's refusal to sell Motorola/Raychem on market panic alone and for named long-term holdings.
+7. [Investorkurs mirror: "Philip Fisher intervju 1996" / Forbes interview by James W. Michaels](https://investorkurs.no/philip-fisher-intervju-1996/) - Source for Motorola drawdowns, $1,000-to-$1,993,846 reported result, six-stock portfolio, and Raychem no-longer-owned status; arithmetic and original Forbes provenance still need checking.
+8. [Encyclopedia.com: "Raychem Corporation"](https://www.encyclopedia.com/books/politics-and-business-magazines/raychem-corporation) - Company-history support for Raychem's technology thesis and innovation culture.
+9. [SFGate: "Raychem Selling for $2.87 Billion"](https://www.sfgate.com/business/article/raychem-selling-for-2-87-billion-2929954.php) - Contemporaneous source for Raychem's 1999 Tyco sale terms, sales/net-income context, and profit-decline backdrop.
+10. [EEPower: "Raychem to Merge with Tyco Subsidiary"](https://eepower.com/news/raychem-to-merge-with-tyco-subsidiary/) - Cross-check on Raychem/Tyco $37-per-share and $2.87B transaction terms.
+11. [Justia: *Radiation Dynamics, Inc. v. Goldmuntz*, 464 F.2d 876](https://law.justia.com/cases/federal/appellate-courts/F2/464/876/38142/) - Legal source for the Rule 10b-5 information-boundary dispute involving Fisher/Fisher & Co.; defendants prevailed, but the case is a key scuttlebutt-risk caution.
+12. [Novel Investor: "Phil Fisher: Scuttlebutt and Assessing Management"](https://novelinvestor.com/phil-fisher-scuttlebutt-and-assessing-management/) - Secondary support for the qualitative-management-assessment difficulty and transferability limits of copying Fisher's scuttlebutt method.
+13. [Investopedia: "Philip Fisher's Investment Strategies and Market Influence"](https://www.investopedia.com/terms/p/philip-fisher.asp) - Secondary cross-check for Fisher's sell-rule categories, Motorola framing, and Ken Fisher/Fisher Investments disambiguation.
+
+### T0085 source limitations
+
+- Fisher's two roughly 50% losses remain unidentified in accessible sources.
+- The 1987 and 1996 Forbes interviews were accessed through mirrors, not original page scans.
+- Raychem can be described as a thesis stress test, but not as a verified realized loss without Fisher & Co. transactions.
+- No Fisher & Co. account statements, client letters, audited return composite, or original adviser records were found in this run.
