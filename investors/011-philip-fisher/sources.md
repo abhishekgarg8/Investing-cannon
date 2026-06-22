@@ -125,3 +125,34 @@ Annotated source map started during T0082 A-profile research, 2026-06-21.
 - Original Forbes pages/scans for the 1987 and 1996 interviews remain uncaptured.
 - No public Fisher & Co. letters, podcasts, speeches, or client materials were found.
 - Book quotes in this file should be upgraded with page-level verification against a licensed copy.
+
+## T0087 F-key-writings source additions - 2026-06-22
+
+1. [Internet Archive: *Common Stocks and Uncommon Profits and Other Writings*](https://archive.org/details/commonstocksunco0000fish) - Bibliographic/scan-status anchor for the 1996 Wiley collected edition bundling *Common Stocks*, *Conservative Investors Sleep Well*, and *Developing an Investment Philosophy*.
+2. [Google Books: *Common Stocks and Uncommon Profits*](https://books.google.com/books/about/Common_Stocks_and_Uncommon_Profits.html?id=AKwWNQjLQQ4C) - Bibliographic anchor for Fisher's first book and publisher framing; supports publication/context but not full page-level quote verification.
+3. [The Investor's Podcast transcript: *Common Stocks and Uncommon Profits* episode](https://www.theinvestorspodcast.com/episodes/common-stocks-uncommon-profits-philip-fisher/) - Accessible chapter-title map for the first book; useful for structure, not primary quote authority.
+4. [InvestmentNews: *Common Stocks and Uncommon Profits* book review](https://www.investmentnews.com/guides/common-stocks-and-uncommon-profits-book-review/265548) - Modern review with strengths/limits: 15 points, scuttlebutt, concentration, dated examples, and light valuation math.
+5. [Kailash Concepts: *Common Stocks and Uncommon Profits* notes/excerpts](https://kailashconcepts.com/common-stocks-and-uncommon-profits/) - Chapter-level summary and page-referenced excerpt lead for scuttlebutt, surplus funds, and sell discipline; verify against book later.
+6. [Google Books: *Paths to Wealth Through Common Stocks*](https://books.google.com/books/about/Paths_to_Wealth_Through_Common_Stocks.html?id=KTD1ByjBJnUC) - Primary bibliographic/table-of-contents anchor for Fisher's 1960 book.
+7. [OverDrive/NLB: *Paths to Wealth Through Common Stocks* / collected works](https://nlb.overdrive.com/media/965774) - Publisher summary of Fisher's second book and 2012 collected edition; useful for scope/provenance.
+8. [Google Books: *Conservative Investors Sleep Well*](https://books.google.com/books/about/Conservative_Investors_Sleep_Well.html?id=_z0UAQAAMAAJ) - Bibliographic/TOC anchor for the 1975 book and its anatomy/dimensions structure.
+9. [Hidden Value Gems: *Conservative Investors Sleep Well* summary](https://hiddenvaluegems.com/library/conservative-investors-sleep-well-by-phil-fisher) - Useful map of four dimensions; secondary, not page-level authority.
+10. [Morningstar Australia: Bookworm on Fisher conservative investments](https://www.morningstar.com.au/personal-finance/bookworm-an-essential-quality-conservative-investments-phil-fisher) - Modern application/critique of Fisher's conservative-investment framework.
+11. [Google Books: *Developing an Investment Philosophy*](https://books.google.com/books/about/Developing_an_Investment_Philosophy.html?id=IkoUAQAAMAAJ) - Bibliographic anchor for the 1980 Financial Analysts Research Foundation monograph.
+12. [Mullen Books: *Developing an Investment Philosophy* listing](https://www.mullenbooks.com/pages/books/183931/philip-a-fisher/developing-an-investment-philosophy?soldItem=true) - Chapter-structure source for the monograph: origins, learning from experience, philosophy matures, market efficiency, conclusion, and appendix.
+13. [Open Library: Philip A. Fisher](https://openlibrary.org/authors/OL457141A/Philip_A._Fisher) - Bibliography cross-check for Fisher's corpus and later collected works.
+14. [RLAEXP mirror: 1987 Forbes Fisher interview and follow-up](https://rlaexp.com/studio/biz/financial_investing/see/articles/phil-fisher-87.html) - Essential near-primary interview source; mirror status caveat.
+15. [Investorkurs mirror: 1996 Forbes Fisher interview](https://investorkurs.no/philip-fisher-intervju-1996/) - Essential late-career near-primary interview; mirror status caveat.
+16. [CNBC/ContentRes: 2018 Berkshire Hathaway annual meeting transcript](https://s3.amazonaws.com/static.contentres.com/media/documents/e3ab342f-baae-465d-a5d3-41a789b624cb.pdf) - Buffett's later discussion of Fisher/scuttlebutt influence.
+17. [Graham and Doddsville / Tilson notes: 2004 Berkshire Hathaway annual meeting](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Warren%20Buffett/Berkshire%20Hathaway%20Annual%20Meeting%20Notes%202004.pdf) - Contemporaneous notes after Fisher's death; useful influence context.
+18. [eCampus/Rittenhouse TOC: John Train, *Money Masters of Our Time*](https://lyon.ecampus.com/money-masters-our-time-reprint-train-john/bk/9780887309700) - Confirms Fisher chapter "The Cutting Edge" in a serious secondary anthology.
+19. [Amazon: John Train, *Money Masters*](https://www.amazon.com/Money-Masters-John-Train/dp/0887306381) - Bibliographic cross-check for Train's secondary work.
+20. [25iq: AMA on Charlie Munger and Phil Fisher](https://25iq.com/2015/11/07/ama-on-charlie-munger-what-did-charlie-munger-learn-from-phil-fisher/) - Secondary synthesis on Fisher/Munger/Buffett influence; useful but interpretive.
+21. [Fisher Investments: Books by Philip Fisher](https://www.fisherinvestments.com/en-us/resource-library/investing-books/philip-fisher) - Family-linked corporate bibliography; helpful for book scope but not Philip Fisher performance evidence.
+22. [Justia: *Radiation Dynamics, Inc. v. Goldmuntz*](https://law.justia.com/cases/federal/appellate-courts/F2/464/876/38142/) - Legal context for no new personal legal developments and scuttlebutt information-boundary risk.
+
+### T0087 source limitations
+
+- Original Forbes pages/scans for the 1987/1996 interviews and the 2004 Forbes obituary remain uncaptured; this task uses mirrors and flags that provenance.
+- Page-level verification inside Fisher's books/monograph remains incomplete because accessible records are bibliographic, snippet, or restricted-scan sources.
+- Some secondary summaries are used for chapter maps and interpretation; they should be upgraded with primary page citations when licensed copies are available.
