@@ -446,3 +446,9 @@
 - Output: investors/011-philip-fisher/mistakes-and-losses.md (~2,500 words, 13 task-specific sources)
 - Notes: Completed Fisher mistakes/losses around the 1929 cheap-stock lesson, two unidentified roughly 50% losses, Texas Instruments client-pressure/sale error, Motorola and Raychem hold-or-sell stress tests, Radiation Dynamics information-boundary risk, and Fisher & Co. track-record opacity.
 - Backlog added: None
+
+
+## 2026-06-22T02:31:58Z — T0086 — 011-philip-fisher — E-own-words — DONE
+- Output: investors/011-philip-fisher/in-their-own-words.md (~1,529 words, 15 task-specific sources)
+- Notes: Completed Fisher own-words file with 35 short source-visible quotes across five themes plus annotated primary/near-primary materials index. Main limitations: Forbes interviews remain mirror-sourced, Fisher & Co. letters/podcasts/speeches were not found, and book quotes need licensed page-level verification.
+- Backlog added: None
