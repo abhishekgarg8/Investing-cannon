@@ -214,7 +214,7 @@
 
 ## 2026-06-12T18:33:45Z — T0041 — 006-stanley-druckenmiller — A-profile — DONE
 - Output: investors/006-stanley-druckenmiller/profile.md (~2,429 words, 20 sources)
-- Notes: Created Druckenmiller profile with current living/status check, Duquesne/Dreyfus/Soros vehicle structure, caveated 30%/no-losing-year record, 2026 13F footprint, philanthropy, and legal/regulatory search limitations. Key caveats preserved around audited returns, start-date differences, Quantum attribution, and 13F non-comparability to total AUM.
+- Notes: Created Druckenmiller profile with current living/status check, Duquesne/Dreyfus/Soros vehicle structure, caveated 30%/no-losing-year record, 2026 13F footprint, philanthropy, and legal/regulatory search limitations. Key caveats preserved around audited returns, start-date differences, Quantum attribution, and 13F non-comparability.
 - Backlog added: None
 
 ## 2026-06-12T19:29:19Z — T0042 — 006-stanley-druckenmiller — B-philosophy — DONE
@@ -450,4 +450,9 @@
 ## 2026-06-22T04:41:10Z — T0088 — 011-philip-fisher — G-mental-models — DONE
 - Output: investors/011-philip-fisher/mental-models.md (~2,900 words, 18 task-specific sources)
 - Notes: Reconstructed Fisher's mental models as an operational quality-growth checklist: scuttlebutt, 15-point filter, four-dimensional conservatism, concentration/grooming positions, sell rules, risk limits, failure modes, and transferability. Preserved caveats around mirrored Forbes interviews, incomplete page-level book access, legal information-boundary risk, Fisher & Co. track-record opacity, and modern Fisher Investments disambiguation.
+- Backlog added: None
+
+## 2026-06-22T05:41:36Z — T0089 — 011-philip-fisher — H-synthesis — DONE
+- Output: investors/011-philip-fisher/synthesis.md (~2,080 words, 12 task-specific sources)
+- Notes: Completed Fisher synthesis, INDEX row, ranked lessons, taxonomy, regime fit, peer comparisons, luck-vs-skill framing, and unresolved questions. Preserved caveats around Fisher & Co. track-record opacity, Forbes mirror provenance, Raychem/process risk, Radiation Dynamics information-boundary risk, and modern Fisher Investments disambiguation. Connector queue write initially truncated TODO during claim; repaired immediately before research closeout.
 - Backlog added: None
