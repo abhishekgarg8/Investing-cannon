@@ -184,3 +184,24 @@ Annotated source map started during T0082 A-profile research, 2026-06-21.
 - Page-level access to Fisher's books remains incomplete; checklist and framework references should be upgraded with licensed page citations when available.
 - Fisher & Co. client letters, AUM, complete holdings, audited returns, and account-level ledgers remain unavailable.
 - The two roughly 50% losses Fisher mentioned in 1987 remain unidentified.
+
+## T0089 H-synthesis source additions - 2026-06-22
+
+1. [RLAEXP mirror: "A Talk with Phil Fisher," Forbes, October 19, 1987](https://rlaexp.com/studio/biz/financial_investing/see/articles/phil-fisher-87.html) - Reopened for synthesis QA; supports concentrated portfolio, grooming positions, Motorola/Raychem/Texas Instruments examples, management-quality criteria, valuation caution, and Fisher's own loss/admission caveats. Mirror provenance remains a limitation.
+2. [Investorkurs mirror: 1996 Forbes interview by James W. Michaels](https://investorkurs.no/philip-fisher-intervju-1996/) - Supports late-career Motorola framing, six-stock concentration, Raychem no-longer-held context, and price/management comments. Original Forbes scan still needed.
+3. [CNBC/ContentRes: 2018 Berkshire Hathaway annual meeting transcript](https://s3.amazonaws.com/static.contentres.com/media/documents/e3ab342f-baae-465d-a5d3-41a789b624cb.pdf) - Supports Buffett's later explanation of Fisher/scuttlebutt influence and the Graham-plus-Fisher synthesis.
+4. [Internet Archive: *Common Stocks and Uncommon Profits and Other Writings*](https://archive.org/details/commonstocksunco0000fish) - Bibliographic anchor for Fisher's collected core writings; page-level claims still need licensed book access.
+5. [Novel Investor: "Philip Fisher's 15 Points"](https://novelinvestor.com/philip-fishers-15-points/) - Secondary map for the 15-point framework used in the transferable-lessons section.
+6. [InvestmentNews: *Common Stocks and Uncommon Profits* book review](https://www.investmentnews.com/guides/common-stocks-and-uncommon-profits-book-review/265548) - Modern critique/source for transferability limits, dated examples, concentration, and limited numerical framework.
+7. [Business Insider / Stockopedia: "Philip Fisher Screen: The Father of Growth Investing"](https://www.businessinsider.com/philip-fisher-screen-the-father-of-growth-investing-2012-12) - Supports track-record opacity and the warning that mechanical screens cannot capture Fisher's qualitative method.
+8. [Justia: *Radiation Dynamics, Inc. v. Goldmuntz*, 464 F.2d 876](https://law.justia.com/cases/federal/appellate-courts/F2/464/876/38142/) - Reopened for synthesis QA; supports the legal/information-boundary caution. Fisher/Fisher & Co. were defendants and prevailed.
+9. [SFGate: "Raychem Selling for $2.87 Billion"](https://www.sfgate.com/business/article/raychem-selling-for-2-87-billion-2929954.php) - Reopened for synthesis QA; supports Raychem/Tyco late-context and Raychem as a thesis-stress case rather than a clean triumph.
+10. [EEPower: "Raychem to Merge with Tyco Subsidiary"](https://eepower.com/news/raychem-to-merge-with-tyco-subsidiary/) - Cross-check for Raychem/Tyco $37-per-share and $2.87B transaction details.
+11. [Fisher Investments: Our History](https://www.fisherinvestments.com/en-us/about/our-story/our-history) - Disambiguates modern Fisher Investments from Philip Fisher's Fisher & Co.
+12. [SEC EDGAR: Fisher Asset Management 13F-HR filing detail](https://www.sec.gov/Archives/edgar/data/850529/0000850529-16-000030-index.htm) - Primary regulatory disambiguation for the modern Fisher Asset Management filer.
+
+### T0089 source limitations
+
+- No audited Fisher & Co. return composite, full AUM history, client letters, or trade ledger was located.
+- Several high-value interview details still rely on Forbes mirrors rather than original scans.
+- Fisher's 14 largest winners, two roughly 50% losses, and exact split-adjusted P&L for Motorola/Texas Instruments/Raychem remain only partially reconstructed.
