@@ -496,3 +496,8 @@
 - Output: investors/012-ray-dalio/synthesis.md (~2,350 words, 16 sources)
 - Notes: Completed Dalio synthesis, INDEX row, ranked transferable lessons, taxonomy, regime dependence, peer comparisons, transferability framing, and unresolved questions. Preserved caveats around private Bridgewater ledgers, post-2020/post-2025 attribution, All Weather/risk-parity stress, dynamic-beta critique, culture/legal disputes, and founder-versus-institution boundaries.
 - Backlog added: None
+
+## 2026-06-22T20:22:35Z — T0098 — 013-john-maynard-keynes — A-profile — DONE
+- Output: investors/013-john-maynard-keynes/profile.md (~2,350 words, 20 sources)
+- Notes: Verified and closed out already-drafted Keynes profile and sources map; spot-checked citations for biography, King's College portfolio record, endowment equity shift, and early currency/commodity loss caveats. Caveats preserved around archival-not-audited return reconstruction, peak AUM, and modern conflict-of-interest standards.
+- Backlog added: None
