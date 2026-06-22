@@ -90,7 +90,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-21T22:27:37Z T0083 | 011-philip-fisher | B-philosophy | investors/011-philip-fisher/investment-philosophy.md
 - [x] done:2026-06-21T23:53:39Z T0084 | 011-philip-fisher | C-greatest-trades | investors/011-philip-fisher/greatest-trades.md
 - [x] done:2026-06-22T01:31:15Z T0085 | 011-philip-fisher | D-mistakes | investors/011-philip-fisher/mistakes-and-losses.md
-- [ ] T0086 | 011-philip-fisher | E-own-words | investors/011-philip-fisher/in-their-own-words.md
+- [x] done:2026-06-22T02:31:58Z T0086 | 011-philip-fisher | E-own-words | investors/011-philip-fisher/in-their-own-words.md
 - [ ] T0087 | 011-philip-fisher | F-key-writings | investors/011-philip-fisher/key-writings.md
 - [ ] T0088 | 011-philip-fisher | G-mental-models | investors/011-philip-fisher/mental-models.md
 - [ ] T0089 | 011-philip-fisher | H-synthesis | investors/011-philip-fisher/synthesis.md
@@ -819,3 +819,4 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
+
