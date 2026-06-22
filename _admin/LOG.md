@@ -441,3 +441,8 @@
 - Output: investors/011-philip-fisher/greatest-trades.md (~3,140 words, 15 task-specific sources)
 - Notes: Completed Fisher greatest-trades file ranking Motorola as the best-supported single winner, followed by Texas Instruments, Raychem, Food Machinery/FMC, and Dow Chemical. Caveats preserved around private Fisher & Co. ledgers, Motorola return arithmetic, TI trust-specific basis, and unreconstructed Raychem/FMC/Dow P&L.
 - Backlog added: None
+
+## 2026-06-22T01:31:15Z — T0085 — 011-philip-fisher — D-mistakes — DONE
+- Output: investors/011-philip-fisher/mistakes-and-losses.md (~2,500 words, 13 task-specific sources)
+- Notes: Completed Fisher mistakes/losses around the 1929 cheap-stock lesson, two unidentified roughly 50% losses, Texas Instruments client-pressure/sale error, Motorola and Raychem hold-or-sell stress tests, Radiation Dynamics information-boundary risk, and Fisher & Co. track-record opacity.
+- Backlog added: None
