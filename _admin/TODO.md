@@ -104,7 +104,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-22T18:35:03Z T0097 | 012-ray-dalio | H-synthesis | investors/012-ray-dalio/synthesis.md
 - [x] done:2026-06-22T20:22:35Z T0098 | 013-john-maynard-keynes | A-profile | investors/013-john-maynard-keynes/profile.md
 - [x] done:2026-06-22T21:30:21Z T0099 | 013-john-maynard-keynes | B-philosophy | investors/013-john-maynard-keynes/investment-philosophy.md
-- [~] claimed:2026-06-22T22:19:54Z T0100 | 013-john-maynard-keynes | C-greatest-trades | investors/013-john-maynard-keynes/greatest-trades.md
+- [x] done:2026-06-22T22:35:47Z T0100 | 013-john-maynard-keynes | C-greatest-trades | investors/013-john-maynard-keynes/greatest-trades.md
 - [ ] T0101 | 013-john-maynard-keynes | D-mistakes | investors/013-john-maynard-keynes/mistakes-and-losses.md
 - [ ] T0102 | 013-john-maynard-keynes | E-own-words | investors/013-john-maynard-keynes/in-their-own-words.md
 - [ ] T0103 | 013-john-maynard-keynes | F-key-writings | investors/013-john-maynard-keynes/key-writings.md
