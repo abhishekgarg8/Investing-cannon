@@ -11,6 +11,7 @@
 | 008 | Howard Marks | Distressed debt; opportunistic credit; risk control; second-level thinking; market-cycle awareness; institutional memos | Turned value discipline, risk control, and cycle-temperature reading into a scalable Oaktree credit franchise and a widely transferable language for when to be defensive or aggressive. | [investors/008-howard-marks/](investors/008-howard-marks/) |
 | 009 | Seth Klarman | Value investing; margin of safety; distressed credit; special situations; cash optionality; private partnership | Turned Graham-and-Dodd risk discipline into a multi-asset private partnership that buys complexity and distress, while exposing the opportunity cost of excessive safety. | [investors/009-seth-klarman/](investors/009-seth-klarman/) |
 | 010 | John Templeton | Global value; maximum pessimism; diversified baskets; country rotation; public mutual-fund franchise | Globalized contrarian value investing by searching worldwide for pessimism-priced bargains, then using diversification, patience, and sell discipline to survive long periods of discomfort. | [investors/010-john-templeton/](investors/010-john-templeton/) |
+| 011 | Philip Fisher | Quality growth; scuttlebutt research; concentrated long-term ownership; management quality; product innovation | Made qualitative business research investable by combining scuttlebutt, management judgment, product runway analysis, and rare-position patience, while leaving a thin audited track-record trail. | [investors/011-philip-fisher/](investors/011-philip-fisher/) |
 
 
 
