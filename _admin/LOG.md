@@ -491,3 +491,8 @@
 - Output: investors/012-ray-dalio/mental-models.md (~3,183 words, 26 task-specific sources)
 - Notes: Reconstructed Dalio/Bridgewater mental models as economic-machine templates, alpha/beta separation, All Weather risk balance, uncorrelated-return-stream sizing, no-edge de-risking, and culture/founder-dependence limits. Preserved caveats around private Bridgewater ledgers, post-Dalio attribution, risk-parity failure, dynamic-beta critique, and implementation limits.
 - Backlog added: None
+
+## 2026-06-22T18:35:03Z — T0097 — 012-ray-dalio — H-synthesis — DONE
+- Output: investors/012-ray-dalio/synthesis.md (~2,350 words, 16 sources)
+- Notes: Completed Dalio synthesis, INDEX row, ranked transferable lessons, taxonomy, regime dependence, peer comparisons, transferability framing, and unresolved questions. Preserved caveats around private Bridgewater ledgers, post-2020/post-2025 attribution, All Weather/risk-parity stress, dynamic-beta critique, culture/legal disputes, and founder-versus-institution boundaries.
+- Backlog added: None
