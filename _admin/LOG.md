@@ -452,3 +452,8 @@
 - Output: investors/011-philip-fisher/in-their-own-words.md (~1,529 words, 15 task-specific sources)
 - Notes: Completed Fisher own-words file with 35 short source-visible quotes across five themes plus annotated primary/near-primary materials index. Main limitations: Forbes interviews remain mirror-sourced, Fisher & Co. letters/podcasts/speeches were not found, and book quotes need licensed page-level verification.
 - Backlog added: None
+
+## 2026-06-22T03:33:43Z — T0087 — 011-philip-fisher — F-key-writings — DONE
+- Output: investors/011-philip-fisher/key-writings.md (~2,955 words, 29 source URLs)
+- Notes: Completed Fisher key-writings guide covering the four primary books/monograph, collected editions, late-career Forbes interviews as near-primary adjuncts, and ranked secondary works. Main limitations preserved: Forbes originals remain mirror-sourced, page-level book access is incomplete, and modern Fisher Investments records are disambiguated from Philip Fisher.
+- Backlog added: None
