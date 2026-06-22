@@ -97,7 +97,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-22T07:59:59Z T0090 | 012-ray-dalio | A-profile | investors/012-ray-dalio/profile.md
 - [x] done:2026-06-22T08:34:03Z T0091 | 012-ray-dalio | B-philosophy | investors/012-ray-dalio/investment-philosophy.md
 - [~] claimed:2026-06-22T09:19:11Z T0092 | 012-ray-dalio | C-greatest-trades | investors/012-ray-dalio/greatest-trades.md
-- [ ] T0093 | 012-ray-dalio | D-mistakes | investors/012-ray-dalio/mistakes-and-losses.md
+- [~] claimed:2026-06-22T11:24:26Z T0093 | 012-ray-dalio | D-mistakes | investors/012-ray-dalio/mistakes-and-losses.md
 - [ ] T0094 | 012-ray-dalio | E-own-words | investors/012-ray-dalio/in-their-own-words.md
 - [ ] T0095 | 012-ray-dalio | F-key-writings | investors/012-ray-dalio/key-writings.md
 - [ ] T0096 | 012-ray-dalio | G-mental-models | investors/012-ray-dalio/mental-models.md
