@@ -95,7 +95,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-22T04:41:10Z T0088 | 011-philip-fisher | G-mental-models | investors/011-philip-fisher/mental-models.md
 - [x] done:2026-06-22T05:41:36Z T0089 | 011-philip-fisher | H-synthesis | investors/011-philip-fisher/synthesis.md
 - [x] done:2026-06-22T07:59:59Z T0090 | 012-ray-dalio | A-profile | investors/012-ray-dalio/profile.md
-- [~] claimed:2026-06-22T08:19:57Z T0091 | 012-ray-dalio | B-philosophy | investors/012-ray-dalio/investment-philosophy.md
+- [x] done:2026-06-22T08:34:03Z T0091 | 012-ray-dalio | B-philosophy | investors/012-ray-dalio/investment-philosophy.md
 - [ ] T0092 | 012-ray-dalio | C-greatest-trades | investors/012-ray-dalio/greatest-trades.md
 - [ ] T0093 | 012-ray-dalio | D-mistakes | investors/012-ray-dalio/mistakes-and-losses.md
 - [ ] T0094 | 012-ray-dalio | E-own-words | investors/012-ray-dalio/in-their-own-words.md
