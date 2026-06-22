@@ -456,3 +456,8 @@
 - Output: investors/011-philip-fisher/synthesis.md (~2,080 words, 12 task-specific sources)
 - Notes: Completed Fisher synthesis, INDEX row, ranked lessons, taxonomy, regime fit, peer comparisons, luck-vs-skill framing, and unresolved questions. Preserved caveats around Fisher & Co. track-record opacity, Forbes mirror provenance, Raychem/process risk, Radiation Dynamics information-boundary risk, and modern Fisher Investments disambiguation. Connector queue write initially truncated TODO during claim; repaired immediately before research closeout.
 - Backlog added: None
+
+## 2026-06-22T07:59:59Z — T0090 — 012-ray-dalio — A-profile — DONE
+- Output: investors/012-ray-dalio/profile.md (~2,782 words, 23 sources)
+- Notes: Created Ray Dalio profile with current post-Bridgewater status, Bridgewater/Pure Alpha/All Weather vehicle structure, AUM/track-record caveats, succession, criticism, and legal/context checks. Key limitations preserved around non-public audited returns, Form ADV access, LCH/Pure Alpha figures, AUM definitions, and disputed culture narratives.
+- Backlog added: None
