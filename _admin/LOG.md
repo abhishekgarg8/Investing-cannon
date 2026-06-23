@@ -550,3 +550,8 @@
 - Output: investors/014-jesse-livermore/mistakes-and-losses.md (~2,834 words, 15 sources)
 - Notes: Completed Livermore mistakes/losses across cotton and commodity failures, trendless-market starvation, campaign/corner risk, 1934 bankruptcy, post-1934 regime mismatch, and late-life personal collapse. Caveated roman-a-clef evidence, unaudited P&L claims, and disputed grain/corner attribution.
 - Backlog added: None
+
+## 2026-06-23T11:36:20Z — T0106 — 014-jesse-livermore — A-profile — DONE
+- Output: investors/014-jesse-livermore/profile.md (~2,522 words, 17 task-specific sources)
+- Notes: Completed stale-claim retry for Livermore A-profile with snapshot, life/career timeline, vehicles/structure, track-record caveats, why-he-matters section, and open questions. Preserved core caveats: no audited return series or AUM, 1929 $100 million is reported/unaudited, Reminiscences is fictionalized evidence, and pre-SEC operator tactics are not directly portable.
+- Backlog added: None
