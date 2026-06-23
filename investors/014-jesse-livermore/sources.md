@@ -18,3 +18,22 @@
 14. [Britannica, "Stock market crash of 1929"](https://www.britannica.com/event/stock-market-crash-of-1929) - Reliable background on the scale and dates of the 1929 crash regime in which Livermore's short-side method reportedly thrived.
 15. [Investopedia, "How Bucket Shops Operate and Impact Investments"](https://www.investopedia.com/terms/b/bucketshop.asp) - Background definition for bucket shops as leveraged betting venues, useful for explaining Livermore's early training environment.
 
+## T0108 C-greatest-trades source map
+
+1. [Jesse L. Livermore, *How to Trade in Stocks* (1940 scan)](https://www.buysidedigest.com/wp-content/uploads/2024/01/How-to-Trade-in-Stocks-Jesse-Livermore.pdf) - Primary Livermore source for pivotal points, leader-following, danger signals, and the method used to interpret trade entries/exits.
+2. [TIME, "Business: Fourth Down" (1934)](https://content.time.com/time/subscriber/article/0,33009,747199,00.html) - Contemporaneous bankruptcy profile with 1907 profit, 1915 war-steel recovery, Piggly Wiggly, Mexican Petroleum, and 1934 balance-sheet figures.
+3. [TIME, "Business: Fourth Down" page 2 (1934)](https://content.time.com/time/subscriber/article/0,33009,747199-2,00.html) - Context on Livermore's large 1920s office, secrecy, divorce/estate decline, and lawyer statement about repeated recoveries.
+4. [TIME, "Business: Boy Plunger" (1940)](https://time.com/archive/6764404/business-boy-plunger/) - Near-contemporaneous death profile with Union Pacific, 1907, Bethlehem Steel, Piggly Wiggly, wheat/corn, Mexican Petroleum, and late-career regulatory context.
+5. [Project Gutenberg metadata page for *Reminiscences of a Stock Operator*](https://www.gutenberg.org/ebooks/60979) - Provenance check confirming the text is a roman a clef, not an audited autobiography.
+6. [Internet Archive PDF, *Reminiscences of a Stock Operator*](https://dn790003.ca.archive.org/0/items/JesseLivermoreReminiscencesOfAStockOperator/Jesse%20Livermore%20Reminiscences%20Of%20A%20Stock%20Operator.pdf) - Near-primary literary source for Bethlehem Steel trade anatomy and Livermore-style psychology, used with roman-a-clef caveat.
+7. [Federal Reserve History, "The Panic of 1907"](https://www.federalreservehistory.org/essays/panic-of-1907) - Official historical context for the call-money/trust-company panic behind Livermore's 1907 short.
+8. [Britannica, "Stock market crash of 1929"](https://www.britannica.com/event/stock-market-crash-of-1929) - Date and magnitude anchor for the 1929 crash trade.
+9. [Business Insider, "Why Wall Street traders are obsessed with Jesse Livermore" (2015)](https://www.businessinsider.com/the-life-of-jesse-livermore-2015-7) - Rubython-derived secondary source for wheat/corn and 1929 profit claims; useful but not treated as ledger evidence.
+10. [Investopedia, "Jesse Livermore: Lessons from the Legendary Wall Street Trader"](https://www.investopedia.com/terms/j/jesse-l-livermore.asp) - Secondary check on 1929 probe losses, $100 million reported profit, and Cotton/Wilson anecdote.
+11. [The New Yorker, "A Corner in Piggly Wiggly" (1959)](https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly) - Best opened narrative source for Saunders' Piggly Wiggly corner, Livermore's role, share counts, exchange intervention, and aftermath.
+12. [Reformed Broker, "Jesse and the Quake" (2017)](https://thereformedbroker.com/2017/04/18/jesse-and-the-quake/) - Secondary reconstruction of the 1906 Union Pacific short, including claimed share count and exposure; used as single-source detail.
+13. [Todd E. Petzel, "A New Look at Some Old Evidence: The Wheat Market Scandal of 1925" (1981)](https://ageconsearch.umn.edu/bitstream/135594/2/fris-1981-18-01-086.pdf) - Academic context for 1925 wheat volatility, Grain Futures Administration investigation, large trader scale, and manipulation ambiguity.
+14. [Jesse Livermore Boy Plunger blog, Rubython excerpt hub](https://jesselivermoreboyplunger.wordpress.com/) - Biography-linked source for disputed 1925 wheat/corn netting and 1929 folklore; treated as secondary/tertiary and caveated.
+15. [SEC, "Statutes and Regulations" (2013)](https://www.sec.gov/rules-regulations/statutes-regulations) - Official source for the post-1934 regulatory regime that made Livermore-style corners and operator campaigns less transferable.
+16. [Investor.gov, "The Role of the SEC"](https://www.investor.gov/introduction-investing/investing-basics/role-sec) - Official plain-language context on post-crash securities-law goals and market fairness principles.
+
