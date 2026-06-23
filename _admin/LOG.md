@@ -583,3 +583,8 @@
 - Output: investors/015-jack-bogle/investment-philosophy.md (~2,712 words, 24 sources)
 - Notes: Completed Bogle philosophy around cost arithmetic, enterprise versus speculation, broad indexing, stay-the-course behavior, and fiduciary structure. Preserved tensions around active-fund nuance, ETFs, passive ownership concentration, and post-Bogle Vanguard legal/regulatory drift.
 - Backlog added: None
+
+## 2026-06-23T22:22:43Z — T0116 — 015-jack-bogle — C-greatest-trades — DONE
+- Output: investors/015-jack-bogle/greatest-trades.md (~2,790 words, 16 sources)
+- Notes: Stale closeout: verified already-present Bogle greatest-trades file and T0116 source map; treated Bogle's wins as structural/product decisions rather than personal-account trades. Preserved caveats around no personal alpha ledger, market-beta compounding, self-interested Vanguard evidence, and post-Bogle scale/regulatory risks.
+- Backlog added: None
