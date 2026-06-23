@@ -111,7 +111,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-23T05:36:51Z T0104 | 013-john-maynard-keynes | G-mental-models | investors/013-john-maynard-keynes/mental-models.md
 - [x] done:2026-06-23T06:30:23Z T0105 | 013-john-maynard-keynes | H-synthesis | investors/013-john-maynard-keynes/synthesis.md
 - [~] claimed:2026-06-23T07:27:05Z T0106 | 014-jesse-livermore | A-profile | investors/014-jesse-livermore/profile.md
-- [ ] T0107 | 014-jesse-livermore | B-philosophy | investors/014-jesse-livermore/investment-philosophy.md
+- [~] claimed:2026-06-23T08:16:32Z T0107 | 014-jesse-livermore | B-philosophy | investors/014-jesse-livermore/investment-philosophy.md
 - [ ] T0108 | 014-jesse-livermore | C-greatest-trades | investors/014-jesse-livermore/greatest-trades.md
 - [ ] T0109 | 014-jesse-livermore | D-mistakes | investors/014-jesse-livermore/mistakes-and-losses.md
 - [ ] T0110 | 014-jesse-livermore | E-own-words | investors/014-jesse-livermore/in-their-own-words.md
