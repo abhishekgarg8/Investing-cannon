@@ -521,3 +521,7 @@
 - Output: investors/013-john-maynard-keynes/in-their-own-words.md (~2,425 words, 28 sources)
 - Notes: Closed out existing Keynes own-words draft after QA: 44 verified short quotes across required themes plus annotated primary-materials index. Corrected concentration-letter citation year labels; attribution traps and Volume XII page-check caveat preserved.
 - Backlog added: None
+## 2026-06-23T02:30:12Z — T0103 — 013-john-maynard-keynes — F-key-writings — DONE
+- Output: investors/013-john-maynard-keynes/key-writings.md (~2,683 words, 37 task-specific sources)
+- Notes: Completed Keynes key-writings guide covering public-domain books, General Theory investor chapters, How to Pay for the War, Volume XII investment materials, and ranked secondary/critical works. Caveats preserved around Volume XII page-level access, archival-not-audited portfolio reconstructions, and the need to read currency/commodity critiques before any praise-heavy synthesis.
+- Backlog added: None
