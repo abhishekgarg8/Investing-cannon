@@ -119,7 +119,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-23T16:37:35Z T0112 | 014-jesse-livermore | G-mental-models | investors/014-jesse-livermore/mental-models.md
 - [x] done:2026-06-23T19:29:07Z T0113 | 014-jesse-livermore | H-synthesis | investors/014-jesse-livermore/synthesis.md
 - [x] done:2026-06-23T20:31:31Z T0114 | 015-jack-bogle | A-profile | investors/015-jack-bogle/profile.md
-- [ ] T0115 | 015-jack-bogle | B-philosophy | investors/015-jack-bogle/investment-philosophy.md
+- [~] claimed:2026-06-23T21:12:42Z T0115 | 015-jack-bogle | B-philosophy | investors/015-jack-bogle/investment-philosophy.md
 - [ ] T0116 | 015-jack-bogle | C-greatest-trades | investors/015-jack-bogle/greatest-trades.md
 - [ ] T0117 | 015-jack-bogle | D-mistakes | investors/015-jack-bogle/mistakes-and-losses.md
 - [ ] T0118 | 015-jack-bogle | E-own-words | investors/015-jack-bogle/in-their-own-words.md
