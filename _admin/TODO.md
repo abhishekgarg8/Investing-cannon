@@ -113,7 +113,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [~] claimed:2026-06-23T07:27:05Z T0106 | 014-jesse-livermore | A-profile | investors/014-jesse-livermore/profile.md
 - [x] done:2026-06-23T08:35:02Z T0107 | 014-jesse-livermore | B-philosophy | investors/014-jesse-livermore/investment-philosophy.md
 - [x] done:2026-06-23T09:35:00Z T0108 | 014-jesse-livermore | C-greatest-trades | investors/014-jesse-livermore/greatest-trades.md
-- [ ] T0109 | 014-jesse-livermore | D-mistakes | investors/014-jesse-livermore/mistakes-and-losses.md
+- [~] claimed:2026-06-23T10:21:56Z T0109 | 014-jesse-livermore | D-mistakes | investors/014-jesse-livermore/mistakes-and-losses.md
 - [ ] T0110 | 014-jesse-livermore | E-own-words | investors/014-jesse-livermore/in-their-own-words.md
 - [ ] T0111 | 014-jesse-livermore | F-key-writings | investors/014-jesse-livermore/key-writings.md
 - [ ] T0112 | 014-jesse-livermore | G-mental-models | investors/014-jesse-livermore/mental-models.md
