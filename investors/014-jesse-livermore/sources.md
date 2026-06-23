@@ -37,3 +37,21 @@
 15. [SEC, "Statutes and Regulations" (2013)](https://www.sec.gov/rules-regulations/statutes-regulations) - Official source for the post-1934 regulatory regime that made Livermore-style corners and operator campaigns less transferable.
 16. [Investor.gov, "The Role of the SEC"](https://www.investor.gov/introduction-investing/investing-basics/role-sec) - Official plain-language context on post-crash securities-law goals and market fairness principles.
 
+
+## T0109 D-mistakes source map
+
+1. [Jesse L. Livermore, *How to Trade in Stocks* (1940 scan)](https://www.buysidedigest.com/wp-content/uploads/2024/01/How-to-Trade-in-Stocks-Jesse-Livermore.pdf) - Primary Livermore rule source for pivotal points, time, danger signals, records, tips, and the rule against averaging losses.
+2. [Project Gutenberg, *Reminiscences of a Stock Operator* full text](https://www.gutenberg.org/files/60979/60979-h/60979-h.htm) - Public-domain text of the Livermore-inspired roman-a-clef; used for behavioral anatomy, not as audited autobiography.
+3. [Project Gutenberg metadata page for *Reminiscences of a Stock Operator*](https://www.gutenberg.org/ebooks/60979) - Provenance check for publication status and fictional/roman-a-clef framing.
+4. [TIME, "Business: Fourth Down" (1934)](https://content.time.com/time/subscriber/article/0,33009,747199,00.html) - Contemporaneous bankruptcy report with 1934 liabilities/assets, earlier failures, and trading-career context.
+5. [TIME, "Business: Fourth Down" page 2 (1934)](https://content.time.com/time/subscriber/article/0,33009,747199-2,00.html) - Continuation with office, secrecy, public blame, divorce/estate pressure, and creditor-repayment context.
+6. [TIME, "Business: Boy Plunger" (1940)](https://time.com/archive/6764404/business-boy-plunger/) - Near-contemporaneous death profile summarizing repeated fortunes, 1907/1929 lore, 1925 grain, post-SEC difficulty, and final collapse.
+7. [The New Yorker, "A Corner in Piggly Wiggly" (1959)](https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly) - Detailed account of the Piggly Wiggly corner, exchange intervention, and old-style operator/corner risk.
+8. [Federal Reserve History, "The Panic of 1907"](https://www.federalreservehistory.org/essays/panic-of-1907) - Official historical context for the liquidity panic and crisis regime that rewarded Livermore's early directional style.
+9. [SEC, "Statutes and Regulations" (2013)](https://www.sec.gov/rules-regulations/statutes-regulations) - Official source for the Securities Exchange Act of 1934 and post-crash oversight of exchanges, brokers, and market conduct.
+10. [Investor.gov, "The Role of the SEC"](https://www.investor.gov/introduction-investing/investing-basics/role-sec) - Plain-language official explanation of post-1929 securities-law fairness and disclosure goals.
+11. [Todd E. Petzel, "A New Look at Some Old Evidence: The Wheat Market Scandal of 1925" (1981)](https://ageconsearch.umn.edu/bitstream/135594/2/fris-1981-18-01-086.pdf) - Academic context for 1925 wheat-market stress, investigations, large trader scale, and manipulation ambiguity.
+12. [Business Insider, "Why Wall Street traders are obsessed with Jesse Livermore" (2015)](https://www.businessinsider.com/the-life-of-jesse-livermore-2015-7) - Rubython-derived secondary biography for late-career bankruptcy, family strain, and trader-fascination context; used cautiously.
+13. [Investopedia, "Jesse Livermore: Lessons from the Legendary Wall Street Trader"](https://www.investopedia.com/terms/j/jesse-l-livermore.asp) - Secondary check on 1929, probe-loss claims, and popular Livermore lessons; lower-tier corroboration only.
+14. [Investopedia, "How Bucket Shops Operate and Impact Investments"](https://www.investopedia.com/terms/b/bucketshop.asp) - Background definition for bucket shops and the execution-setting gap between early Livermore training and exchange trading.
+15. [WIRED, "The Long View on Short-Term Profiteers" (1999)](https://www.wired.com/1999/12/the-long-view-on-short-term-profiteers/) - Secondary review context for Livermore as an early speed-enabled trader and discipline problem.
