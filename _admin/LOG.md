@@ -569,3 +569,8 @@
 - Output: investors/014-jesse-livermore/mental-models.md (~2,718 words, 15 sources)
 - Notes: Reconstructed Livermore's operational model around pivotal points, time/price confirmation, leader-following, pyramiding, danger signals, no-averaging, and cash extraction. Preserved caveats around unaudited P&L, repeated bankruptcies, pre-SEC operator tactics, corners, grain-market scale, and mental-health/personal-collapse limits.
 - Backlog added: None
+
+## 2026-06-23T19:29:07Z — T0113 — 014-jesse-livermore — H-synthesis — DONE
+- Output: investors/014-jesse-livermore/synthesis.md (~1,535 words, 18 sources)
+- Notes: Completed Livermore synthesis with executive brief, ranked lessons, taxonomy, regime dependence, transferability, peer comparisons, luck-vs-skill framing, unresolved questions, source-map append, and refreshed INDEX row. Preserved caveats around unaudited P&L, roman-a-clef attribution, pre-SEC operator tactics, repeated bankruptcy, and modern non-transferability of corners/campaigns.
+- Backlog added: None
