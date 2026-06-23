@@ -535,3 +535,8 @@
 - Output: investors/013-john-maynard-keynes/synthesis.md (~1,790 words, 17 task-specific sources)
 - Notes: Completed Keynes synthesis with executive brief, ranked transferable lessons, style taxonomy, regime dependence, completed-investor comparisons, unresolved questions, INDEX row, and source-trail append. Preserved caveats around archival-not-audited performance, Volume XII excerpt carriers, early currency/commodity losses, governance mismatch, personal-versus-King's behavior, and nonportable information networks.
 - Backlog added: None
+
+## 2026-06-23T08:35:02Z — T0107 — 014-jesse-livermore — B-philosophy — DONE
+- Output: investors/014-jesse-livermore/investment-philosophy.md (~2,468 words, 15 sources)
+- Notes: Completed Livermore philosophy around pivotal points, tape/price records, pyramiding into winners, loss-cutting, psychology, trend-regime fit, and explicit warnings against tips, averaging down, and constant action. Preserved caveats that Reminiscences is a roman a clef, direct rules come from How to Trade in Stocks, and his repeated bankruptcies/corners show a gap between stated risk discipline and actual behavior.
+- Backlog added: None
