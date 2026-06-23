@@ -6,7 +6,7 @@ As of 2026-06-23, this is not a conventional trader's scorecard. Bogle did not l
 
 | Rank | Decision | Why it qualifies as a trade-like win | Main caveat |
 |---|---|---|---|
-| 1 | Launch First Index Investment Trust / Vanguard 500 Index Fund | Turned an ridiculed $11 million underwriting into a trillion-dollar-plus low-cost market-beta vehicle. | Market returns, not Bogle stock-picking alpha. |
+| 1 | Launch First Index Investment Trust / Vanguard 500 Index Fund | Turned a ridiculed $11 million underwriting into a trillion-dollar-plus low-cost market-beta vehicle. | Market returns, not Bogle stock-picking alpha. |
 | 2 | Build Vanguard as a mutual, at-cost fund company | Converted a firing and governance deadlock into a structure that forced cost discipline. | Legal/regulatory path was contested and the structure is hard to replicate. |
 | 3 | Go no-load and take over distribution in 1977 | Removed sales loads from the shareholder return equation and gave Vanguard direct access to investors. | Execution risk: brokers could have retaliated with redemptions. |
 | 4 | Build the fixed-income indexing and low-cost bond platform | Extended the index/cost insight into bonds, munis, money markets, and internal fixed-income management. | Attribution belongs to Bogle plus Vanguard's fixed-income professionals. |
