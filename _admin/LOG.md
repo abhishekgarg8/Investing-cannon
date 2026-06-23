@@ -516,3 +516,8 @@
 - Output: investors/013-john-maynard-keynes/mistakes-and-losses.md (~2,758 words, 16 sources)
 - Notes: Completed Keynes mistakes-and-losses file covering currency underperformance, commodity/rubber/tin losses, 1929-1931 King's drawdowns, P.R./Independent vehicle failures, 1937-1938 National Mutual governance failure, personal-versus-King's behavior, and information-network transferability caveats.
 - Backlog added: None
+
+## 2026-06-23T01:24:47Z — T0102 — 013-john-maynard-keynes — E-own-words — DONE
+- Output: investors/013-john-maynard-keynes/in-their-own-words.md (~2,425 words, 28 sources)
+- Notes: Closed out existing Keynes own-words draft after QA: 44 verified short quotes across required themes plus annotated primary-materials index. Corrected concentration-letter citation year labels; attribution traps and Volume XII page-check caveat preserved.
+- Backlog added: None
