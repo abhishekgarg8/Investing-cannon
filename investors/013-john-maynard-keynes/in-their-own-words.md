@@ -78,7 +78,7 @@ This file prioritizes Keynes's own published texts and source-visible excerpts f
 
 ## Politics, capitalism, and the future
 
-34. "It is not true that individuals possess a prescriptive 'natural liberty' in their economic activities." - *The End of Laissez-Faire*, 1926 ([Economics Network](https://www.economicsnetwork.ac.uk/archive/keynes_persuasion/The_End_of-Laissez-Faire.htm)).
+34. "It is not true that individuals possess a prescriptive 'natural liberty' in their economic activities." - *The End of Laissez-Faire*, 1926 ([Economics Network](https://www.economicsnetwork.ac.uk/archive/keynes_persuasion/The_End_of_Laissez-Faire.htm)).
 
 35. "I believe in Free Trade because ... it is the only policy which is technically sound." - "Am I a Liberal?" 1925 ([Economics Network](https://www.economicsnetwork.ac.uk/archive/keynes_persuasion/Am_I_a_Liberal.htm)).
 
