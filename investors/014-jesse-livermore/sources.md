@@ -1,0 +1,20 @@
+# Jesse Livermore - Sources
+
+## T0107 B-philosophy source map
+
+1. [Jesse L. Livermore, *How to Trade in Stocks* (1940 scan)](https://www.buysidedigest.com/wp-content/uploads/2024/01/How-to-Trade-in-Stocks-Jesse-Livermore.pdf) - Primary source for Livermore's direct rules on time, price, pivotal points, leaders, danger signals, and averaging losses.
+2. [Project Gutenberg, *Reminiscences of a Stock Operator* full text](https://www.gutenberg.org/files/60979/60979-h/60979-h.htm) - Public-domain text of the Livermore-inspired roman a clef; useful for psychology and lore, but not treated as direct memoir.
+3. [Project Gutenberg metadata page for *Reminiscences*](https://www.gutenberg.org/ebooks/60979) - Confirms the work's framing as a roman a clef about fictional Larry Livingston inspired by Livermore, plus publication and public-domain metadata.
+4. [TIME, "Business: Fourth Down" (1934)](https://content.time.com/time/subscriber/article/0,33009,747199,00.html) - Contemporaneous report on Livermore's 1934 bankruptcy, liabilities/assets, trading theory, earlier fortunes, and public reputation.
+5. [TIME, "Business: Fourth Down" page 2 (1934)](https://content.time.com/time/subscriber/article/0,33009,747199-2,00.html) - Continuation with 1920s office practices, public blame, divorce/estate context, and lawyer statement about prior repayments.
+6. [TIME, "Business: Boy Plunger" (1940)](https://time.com/archive/6764404/business-boy-plunger/) - Near-contemporaneous death profile summarizing career arc, big-swing lesson, 1907/1929 lore, SEC-era difficulty, and final collapse.
+7. [SEC, "Statutes and Regulations" (2013)](https://www.sec.gov/rules-regulations/statutes-regulations) - Official source for the Securities Exchange Act of 1934 and SEC authority over exchanges, brokers, market conduct, and reporting.
+8. [Investor.gov, "The Role of the SEC"](https://www.investor.gov/introduction-investing/investing-basics/role-sec) - Plain-language official source on why post-1929 securities laws were enacted and what market fairness principles they introduced.
+9. [Federal Reserve History, "The Panic of 1907"](https://www.federalreservehistory.org/essays/panic-of-1907) - Macro context for Livermore's 1907 trading environment and the liquidity panic that later shaped U.S. monetary reform.
+10. [The New Yorker, "A Corner in Piggly Wiggly" (1959)](https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly) - Strong historical account of the Piggly Wiggly corner, Livermore's role, old Wall Street manipulation, and later illegality of corners.
+11. [WIRED, "The Long View on Short-Term Profiteers" (1999)](https://www.wired.com/1999/12/the-long-view-on-short-term-profiteers/) - Secondary review of Gregory Millman's *The Day Traders*, useful for framing Livermore as a discipline problem in speed-enabled trading.
+12. [Business Insider, "Why Wall Street traders are obsessed with Jesse Livermore" (2015)](https://www.businessinsider.com/the-life-of-jesse-livermore-2015-7) - Rubython-based illustrated biography; useful secondary context for late-career bankruptcy, family strain, and continued trader fascination.
+13. [TurtleTrader, "Jesse Livermore: The Original Trend Follower"](https://www.turtletrader.com/jesse-livermore/) - Practitioner source linking Livermore's rules to later trend-following concepts; used only as interpretive context.
+14. [Britannica, "Stock market crash of 1929"](https://www.britannica.com/event/stock-market-crash-of-1929) - Reliable background on the scale and dates of the 1929 crash regime in which Livermore's short-side method reportedly thrived.
+15. [Investopedia, "How Bucket Shops Operate and Impact Investments"](https://www.investopedia.com/terms/b/bucketshop.asp) - Background definition for bucket shops as leveraged betting venues, useful for explaining Livermore's early training environment.
+
