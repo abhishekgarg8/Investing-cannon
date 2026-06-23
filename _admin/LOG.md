@@ -578,3 +578,8 @@
 - Output: investors/015-jack-bogle/profile.md (~2,349 words, 25 sources)
 - Notes: Created Bogle profile with deceased/status check, Vanguard fund-owned structure, first index fund record/AUM caveats, and post-Bogle Vanguard legal/regulatory context. Preserved core caveat that Bogle's measurable legacy is institutional/product beta and fee reduction, not an audited personal return series.
 - Backlog added: None
+
+## 2026-06-23T21:25:03Z — T0115 — 015-jack-bogle — B-philosophy — DONE
+- Output: investors/015-jack-bogle/investment-philosophy.md (~2,712 words, 24 sources)
+- Notes: Completed Bogle philosophy around cost arithmetic, enterprise versus speculation, broad indexing, stay-the-course behavior, and fiduciary structure. Preserved tensions around active-fund nuance, ETFs, passive ownership concentration, and post-Bogle Vanguard legal/regulatory drift.
+- Backlog added: None
