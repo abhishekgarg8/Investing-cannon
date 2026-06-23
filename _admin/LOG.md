@@ -555,3 +555,7 @@
 - Output: investors/014-jesse-livermore/profile.md (~2,522 words, 17 task-specific sources)
 - Notes: Completed stale-claim retry for Livermore A-profile with snapshot, life/career timeline, vehicles/structure, track-record caveats, why-he-matters section, and open questions. Preserved core caveats: no audited return series or AUM, 1929 $100 million is reported/unaudited, Reminiscences is fictionalized evidence, and pre-SEC operator tactics are not directly portable.
 - Backlog added: None
+## 2026-06-23T12:40:20Z — T0110 — 014-jesse-livermore — E-own-words — DONE
+- Output: investors/014-jesse-livermore/in-their-own-words.md (~2,273 words, 17 sources)
+- Notes: Completed Livermore own-words file with 32 source-visible phrase handles, annotated primary/near-primary materials index, and attribution watchlist separating the 1940 direct Livermore text from Lefevre's Larry Livingston roman-a-clef voice. Preserved caveats around quote aggregators, missing full interview transcripts, bankruptcy context, and pre-SEC operator-era transferability.
+- Backlog added: None
