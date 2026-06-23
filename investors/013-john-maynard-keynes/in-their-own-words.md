@@ -46,13 +46,13 @@ This file prioritizes Keynes's own published texts and source-visible excerpts f
 
 19. "Another important rule is the avoidance of second-class safe investments." - 1938 King's College investment-policy memorandum, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2019](https://novelinvestor.com/john-maynard-keyness-investment-policy/)).
 
-20. "One good share is safer than ten bad ones" - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2019](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
+20. "One good share is safer than ten bad ones" - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2021](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
 
-21. "I am quite incapable of having adequate knowledge of more than a very limited range of investments." - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2019](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
+21. "I am quite incapable of having adequate knowledge of more than a very limited range of investments." - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2021](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
 
-22. "I am generally trying to look a long way ahead." - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2019](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
+22. "I am generally trying to look a long way ahead." - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2021](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
 
-23. "My objection is that I have no information on which to reach a good judgement." - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2019](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
+23. "My objection is that I have no information on which to reach a good judgement." - letter exchange with Francis Scott, excerpted from *Collected Writings*, Vol. XII ([Novel Investor, 2021](https://novelinvestor.com/john-maynard-keynes-on-concentration/)).
 
 ## Slumps, policy, and recovery
 
