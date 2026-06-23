@@ -119,3 +119,20 @@
 19. [Britannica, "Stock market crash of 1929"](https://www.britannica.com/event/stock-market-crash-of-1929) - Reliable crash chronology and regime background for interpreting Livermore's 1929 legend.
 20. [The New Yorker, "A Corner in Piggly Wiggly" (1959)](https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly) - Historical account of corner/campaign mechanics and why pre-SEC operator tactics are not cleanly transferable.
 
+## T0112 G-mental-models source map
+
+1. [BuySideDigest scan, Jesse Livermore, *How to Trade in Stocks*](https://www.buysidedigest.com/wp-content/uploads/2024/01/How-to-Trade-in-Stocks-Jesse-Livermore.pdf) - Primary rules source for the time element, pivotal points, leadership, no-averaging, danger signals, record keeping, and cash-extraction heuristics.
+2. [Internet Archive, *How to Trade in Stocks* record](https://archive.org/details/howtotradeinstoc0000live) - Bibliographic/provenance anchor for Livermore's signed 1940 book.
+3. [Google Books, *How to Trade in Stocks* listing](https://books.google.com/books/about/How_to_Trade_in_Stocks.html?id=fOKxAAAAIAAJ) - Bibliographic metadata and contents support for the 1940 rule-book structure.
+4. [Google Books, *Jesse Livermore's Methods of Trading in Stocks*](https://books.google.com/books/about/Jesse_Livermore_s_Methods_of_Trading_in.html?id=gsA3LgEACAAJ) - Wyckoff-mediated source lead, used below the 1940 book as near-primary context for Livermore's trading method.
+5. [Project Gutenberg, *Reminiscences of a Stock Operator* metadata](https://www.gutenberg.org/ebooks/60979) - Attribution firewall identifying Edwin Lefevre as author and the work as roman-a-clef/Larry Livingston material rather than clean Livermore autobiography.
+6. [Project Gutenberg full text, *Reminiscences of a Stock Operator*](https://www.gutenberg.org/files/60979/60979-h/60979-h.htm) - Public-domain text used only for operator-psychology and tape-reading context, not direct Livermore quotation.
+7. [TIME, "Business: Fourth Down" (Mar. 19, 1934)](https://content.time.com/time/subscriber/article/0,33009,747199,00.html) - Near-contemporaneous bankruptcy context and adverse evidence against treating Livermore's rules as proof of durable wealth compounding.
+8. [TIME, "Business: Fourth Down" page 2 (Mar. 19, 1934)](https://content.time.com/time/subscriber/article/0,33009,747199-2,00.html) - Continuation of the bankruptcy/legal context around Livermore's comeback claims.
+9. [TIME, "Business: Boy Plunger" (Dec. 9, 1940)](https://time.com/archive/6764404/business-boy-plunger/) - Near-contemporaneous death profile covering major wins, wipeouts, Piggly Wiggly, wheat, SEC-regime comments, and personal collapse.
+10. [The New Yorker, "A Corner in Piggly Wiggly" (June 6, 1959)](https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly) - Historical account of corner mechanics and why operator-era market-power tactics are non-transferable.
+11. [Federal Reserve History, "The Panic of 1907"](https://www.federalreservehistory.org/essays/panic-of-1907) - Official macro/market-structure context for Livermore's pre-Fed crisis-trading environment.
+12. [SEC, "Statutes and Regulations"](https://www.sec.gov/rules-regulations/statutes-regulations) - Official source for post-1933/post-1934 securities-law context and market-conduct boundaries.
+13. [Investor.gov, "The Role of the SEC"](https://www.investor.gov/introduction-investing/investing-basics/role-sec) - Official plain-language source for SEC mission, creation after the crash, and fair-market principles.
+14. [Britannica, "Stock market crash of 1929"](https://www.britannica.com/event/stock-market-crash-of-1929) - Reliable secondary source for crash chronology, speculation, margin, and broad market context around Livermore's reported 1929 short-side legend.
+15. [Investopedia, "How Bucket Shops Operate and Impact Investments"](https://www.investopedia.com/terms/b/bucketshop.asp) - Background source for the bucket-shop environment associated with Livermore/Larry Livingston's origin story.
