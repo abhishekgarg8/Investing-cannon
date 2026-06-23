@@ -530,3 +530,8 @@
 - Output: investors/013-john-maynard-keynes/mental-models.md (~3,200 words, 17 task-specific sources)
 - Notes: Completed Keynes mental-models reconstruction around enterprise versus speculation, evidentiary weight, concentrated patient capital, vehicle/liability fit, sizing and sell rules, forced-sale risk, failure modes, and individual-investor transferability. Preserved caveats around Volume XII excerpt carriers, archival-not-audited portfolio reconstruction, early currency/commodity losses, governance constraints, personal-versus-King's behavior, and nonportable information networks.
 - Backlog added: None
+
+## 2026-06-23T06:30:23Z — T0105 — 013-john-maynard-keynes — H-synthesis — DONE
+- Output: investors/013-john-maynard-keynes/synthesis.md (~1,790 words, 17 task-specific sources)
+- Notes: Completed Keynes synthesis with executive brief, ranked transferable lessons, style taxonomy, regime dependence, completed-investor comparisons, unresolved questions, INDEX row, and source-trail append. Preserved caveats around archival-not-audited performance, Volume XII excerpt carriers, early currency/commodity losses, governance mismatch, personal-versus-King's behavior, and nonportable information networks.
+- Backlog added: None
