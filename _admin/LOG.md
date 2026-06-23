@@ -564,3 +564,8 @@
 - Output: investors/014-jesse-livermore/key-writings.md (~2,274 words, 21 sources)
 - Notes: Closed out already-present key-writings output after QA, appended the missing T0111 source map, and spot-checked Project Gutenberg, Google Books, and SEC citations. Preserved caveats around Reminiscences attribution, missing original Magazine of Wall Street installments, first-edition/page checks, and thin open-web access to later biographies.
 - Backlog added: None
+
+## 2026-06-23T16:37:35Z — T0112 — 014-jesse-livermore — G-mental-models — DONE
+- Output: investors/014-jesse-livermore/mental-models.md (~2,718 words, 15 sources)
+- Notes: Reconstructed Livermore's operational model around pivotal points, time/price confirmation, leader-following, pyramiding, danger signals, no-averaging, and cash extraction. Preserved caveats around unaudited P&L, repeated bankruptcies, pre-SEC operator tactics, corners, grain-market scale, and mental-health/personal-collapse limits.
+- Backlog added: None
