@@ -108,7 +108,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-22T23:35:52Z T0101 | 013-john-maynard-keynes | D-mistakes | investors/013-john-maynard-keynes/mistakes-and-losses.md
 - [x] done:2026-06-23T01:24:47Z T0102 | 013-john-maynard-keynes | E-own-words | investors/013-john-maynard-keynes/in-their-own-words.md
 - [x] done:2026-06-23T02:30:12Z T0103 | 013-john-maynard-keynes | F-key-writings | investors/013-john-maynard-keynes/key-writings.md
-- [ ] T0104 | 013-john-maynard-keynes | G-mental-models | investors/013-john-maynard-keynes/mental-models.md
+- [~] claimed:2026-06-23T05:19:28Z T0104 | 013-john-maynard-keynes | G-mental-models | investors/013-john-maynard-keynes/mental-models.md
 - [ ] T0105 | 013-john-maynard-keynes | H-synthesis | investors/013-john-maynard-keynes/synthesis.md
 - [ ] T0106 | 014-jesse-livermore | A-profile | investors/014-jesse-livermore/profile.md
 - [ ] T0107 | 014-jesse-livermore | B-philosophy | investors/014-jesse-livermore/investment-philosophy.md
