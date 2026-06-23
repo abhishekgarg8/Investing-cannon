@@ -1,3 +1,3 @@
-Tasks done: 113/812
-Current investor: 015-jack-bogle
+Tasks done: 112/812
+Current investor: 014-jesse-livermore
 Projected finish date: 2026-07-22
