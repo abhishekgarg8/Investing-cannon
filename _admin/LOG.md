@@ -559,3 +559,8 @@
 - Output: investors/014-jesse-livermore/in-their-own-words.md (~2,273 words, 17 sources)
 - Notes: Completed Livermore own-words file with 32 source-visible phrase handles, annotated primary/near-primary materials index, and attribution watchlist separating the 1940 direct Livermore text from Lefevre's Larry Livingston roman-a-clef voice. Preserved caveats around quote aggregators, missing full interview transcripts, bankruptcy context, and pre-SEC operator-era transferability.
 - Backlog added: None
+
+## 2026-06-23T15:24:18Z — T0111 — 014-jesse-livermore — F-key-writings — DONE
+- Output: investors/014-jesse-livermore/key-writings.md (~2,274 words, 21 sources)
+- Notes: Closed out already-present key-writings output after QA, appended the missing T0111 source map, and spot-checked Project Gutenberg, Google Books, and SEC citations. Preserved caveats around Reminiscences attribution, missing original Magazine of Wall Street installments, first-edition/page checks, and thin open-web access to later biographies.
+- Backlog added: None

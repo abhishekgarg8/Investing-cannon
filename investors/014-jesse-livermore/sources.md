@@ -95,3 +95,27 @@
 15. [Investopedia, "How Bucket Shops Operate and Impact Investments"](https://www.investopedia.com/terms/b/bucketshop.asp) - Background source for the bucket-shop setting often associated with the Larry Livingston/Livermore origin story.
 16. [Business Insider, "Why Wall Street traders are obsessed with Jesse Livermore" (2015)](https://www.businessinsider.com/the-life-of-jesse-livermore-2015-7) - Tertiary trader-culture source used only to understand modern fascination and reported lore, not to certify quotes.
 17. [The Reformed Broker, "Jesse and the Quake" (2017)](https://thereformedbroker.com/2017/04/18/jesse-and-the-quake/) - Practitioner/secondary context source for Union Pacific lore; excluded from direct quote bank.
+
+## T0111 F-key-writings source map
+
+1. [Internet Archive, *How to Trade in Stocks* record](https://archive.org/details/howtotradeinstoc0000live) - Bibliographic anchor for Livermore's 1940 book and later accessible editions; supports authorship/provenance caution.
+2. [Google Books, *How to Trade in Stocks* (1966 Investors' Press listing)](https://books.google.com/books/about/How_to_Trade_in_Stocks.html?id=fOKxAAAAIAAJ) - Bibliographic/chapter metadata for title, author, contents, and key sections such as pivotal points and speculation challenge.
+3. [Google Books, *Jesse Livermore's Methods of Trading in Stocks*](https://books.google.com/books/about/Jesse_Livermore_s_Methods_of_Trading_in.html?id=gsA3LgEACAAJ) - Provenance lead for the Wyckoff/Magazine of Wall Street interview compilation.
+4. [Google Books, Colchis edition of *Jesse Livermore's Methods of Trading in Stocks*](https://books.google.com/books/about/Jesse_Livermore_s_Methods_of_Trading_in.html?id=kNl1DwAAQBAJ) - Additional preview/indexing source for risk, capital, leadership, and weak-stock themes in the Wyckoff-mediated work.
+5. [Project Gutenberg, *Reminiscences of a Stock Operator* metadata](https://www.gutenberg.org/ebooks/60979) - Confirms Edwin Lefevre authorship and roman-a-clef framing; used as attribution firewall against treating Larry Livingston as Livermore's direct voice.
+6. [Internet Archive, *Reminiscences of a Stock Operator* record](https://archive.org/details/reminiscencesofs0000edwi) - Secondary bibliographic anchor for the 1923 Lefevre text and its non-Livermore authorship.
+7. [TIME, "Business: Fourth Down" (1934)](https://content.time.com/time/subscriber/article/0,33009,747199,00.html) - Near-contemporaneous source for bankruptcy figures, career context, and counterweight to hero narratives.
+8. [TIME, "Business: Boy Plunger" (1940)](https://time.com/archive/6764404/business-boy-plunger/) - Near-contemporaneous death profile and late-career context around the 1940 book/regime shift.
+9. [Internet Archive, Richard Smitten, *Jesse Livermore: World's Greatest Stock Trader*](https://archive.org/details/jesselivermore00rich) - Modern biography lead source with bibliographic record; useful for chronology but flagged for tone/page-checking.
+10. [AccountingWEB review, *Trade Like Jesse Livermore*](https://www.accountingweb.co.uk/business/finance-strategy/reviewtrade-like-jesse-livermore) - Contemporary review of Smitten's method book; useful for ranking it as interpretation, not primary evidence.
+11. [Google Books, Paul Sarnoff, *Jesse Livermore: Speculator King*](https://books.google.com/books/about/Jesse_Livermore.html?id=eP8bAQAAMAAJ) - Bibliographic/preview source for an older secondary biography; used as a lead pending page-level verification.
+12. [WIRED, "The Long View on Short-Term Profiteers" (1999)](https://www.wired.com/1999/12/the-long-view-on-short-term-profiteers/) - Context source placing Livermore in the history of speed-enabled trading and market psychology.
+13. [Google Books, John Boik, *Lessons from the Greatest Stock Traders of All Time*](https://books.google.com/books/about/Lessons_from_the_Greatest_Stock_Traders.html?id=JZfGvXjVuGQC) - Comparative secondary work for later Canon synthesis and trader-lineage taxonomy.
+14. [Amazon listing, Tom Rubython, *Jesse Livermore - Boy Plunger*](https://www.amazon.com/Jesse-Livermore-Plunger-America-Short/dp/0990619915) - Modern biography listing; treated as lead/source-discovery material, not page-verified evidence.
+15. [Equitable Growth excerpt pointer for Rubython/Livermore material](https://equitablegrowth.org/must-read-135/) - Secondary pointer for modern Livermore discourse; useful only with caveats.
+16. [SEC, "Statutes and Regulations"](https://www.sec.gov/rules-regulations/statutes-regulations) - Official source for the 1933/1934 securities-law context and post-Livermore market-structure caveats.
+17. [Investor.gov, "The Role of the SEC"](https://www.investor.gov/introduction-investing/investing-basics/role-sec) - Official plain-language source on SEC creation, investor protection, and fairness principles.
+18. [Federal Reserve History, "The Panic of 1907"](https://www.federalreservehistory.org/essays/panic-of-1907) - Official historical context for Livermore's crisis-era trading environment.
+19. [Britannica, "Stock market crash of 1929"](https://www.britannica.com/event/stock-market-crash-of-1929) - Reliable crash chronology and regime background for interpreting Livermore's 1929 legend.
+20. [The New Yorker, "A Corner in Piggly Wiggly" (1959)](https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly) - Historical account of corner/campaign mechanics and why pre-SEC operator tactics are not cleanly transferable.
+
