@@ -540,3 +540,8 @@
 - Output: investors/014-jesse-livermore/investment-philosophy.md (~2,468 words, 15 sources)
 - Notes: Completed Livermore philosophy around pivotal points, tape/price records, pyramiding into winners, loss-cutting, psychology, trend-regime fit, and explicit warnings against tips, averaging down, and constant action. Preserved caveats that Reminiscences is a roman a clef, direct rules come from How to Trade in Stocks, and his repeated bankruptcies/corners show a gap between stated risk discipline and actual behavior.
 - Backlog added: None
+
+## 2026-06-23T09:35:00Z — T0108 — 014-jesse-livermore — C-greatest-trades — DONE
+- Output: investors/014-jesse-livermore/greatest-trades.md (~2,659 words, 16 sources)
+- Notes: Completed Livermore greatest-trades file across 1929 short, 1907 panic, 1906 Union Pacific, 1915 Bethlehem/war-stock recovery, Piggly Wiggly, 1925 grain, and Mexican Petroleum. Preserved caveats around unaudited P&L, roman-a-clef evidence, corners/manipulation, and disputed wheat/corn netting.
+- Backlog added: None
