@@ -574,3 +574,7 @@
 - Output: investors/014-jesse-livermore/synthesis.md (~1,535 words, 18 sources)
 - Notes: Completed Livermore synthesis with executive brief, ranked lessons, taxonomy, regime dependence, transferability, peer comparisons, luck-vs-skill framing, unresolved questions, source-map append, and refreshed INDEX row. Preserved caveats around unaudited P&L, roman-a-clef attribution, pre-SEC operator tactics, repeated bankruptcy, and modern non-transferability of corners/campaigns.
 - Backlog added: None
+## 2026-06-23T20:31:31Z — T0114 — 015-jack-bogle — A-profile — DONE
+- Output: investors/015-jack-bogle/profile.md (~2,349 words, 25 sources)
+- Notes: Created Bogle profile with deceased/status check, Vanguard fund-owned structure, first index fund record/AUM caveats, and post-Bogle Vanguard legal/regulatory context. Preserved core caveat that Bogle's measurable legacy is institutional/product beta and fee reduction, not an audited personal return series.
+- Backlog added: None
