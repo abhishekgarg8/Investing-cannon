@@ -545,3 +545,8 @@
 - Output: investors/014-jesse-livermore/greatest-trades.md (~2,659 words, 16 sources)
 - Notes: Completed Livermore greatest-trades file across 1929 short, 1907 panic, 1906 Union Pacific, 1915 Bethlehem/war-stock recovery, Piggly Wiggly, 1925 grain, and Mexican Petroleum. Preserved caveats around unaudited P&L, roman-a-clef evidence, corners/manipulation, and disputed wheat/corn netting.
 - Backlog added: None
+
+## 2026-06-23T10:35:23Z — T0109 — 014-jesse-livermore — D-mistakes — DONE
+- Output: investors/014-jesse-livermore/mistakes-and-losses.md (~2,834 words, 15 sources)
+- Notes: Completed Livermore mistakes/losses across cotton and commodity failures, trendless-market starvation, campaign/corner risk, 1934 bankruptcy, post-1934 regime mismatch, and late-life personal collapse. Caveated roman-a-clef evidence, unaudited P&L claims, and disputed grain/corner attribution.
+- Backlog added: None
