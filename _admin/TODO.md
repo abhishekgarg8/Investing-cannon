@@ -133,7 +133,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-24T11:34:36Z T0126 | 016-joel-greenblatt | E-own-words | investors/016-joel-greenblatt/in-their-own-words.md
 - [x] done:2026-06-24T07:49:55Z T0127 | 016-joel-greenblatt | F-key-writings | investors/016-joel-greenblatt/key-writings.md
 - [x] done:2026-06-24T08:35:15Z T0128 | 016-joel-greenblatt | G-mental-models | investors/016-joel-greenblatt/mental-models.md
-- [~] claimed:2026-06-24T09:13:52Z T0129 | 016-joel-greenblatt | H-synthesis | investors/016-joel-greenblatt/synthesis.md
+- [~] claimed:2026-06-24T13:16:06Z T0129 | 016-joel-greenblatt | H-synthesis | investors/016-joel-greenblatt/synthesis.md
 - [x] done:2026-06-24T09:45:05Z T0130 | 017-julian-robertson | A-profile | investors/017-julian-robertson/profile.md
 - [~] claimed:2026-06-24T10:17:36Z T0131 | 017-julian-robertson | B-philosophy | investors/017-julian-robertson/investment-philosophy.md
 - [~] claimed:2026-06-24T10:22:57Z T0132 | 017-julian-robertson | C-greatest-trades | investors/017-julian-robertson/greatest-trades.md
