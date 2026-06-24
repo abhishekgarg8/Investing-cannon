@@ -1,3 +1,3 @@
-Tasks done: 129/812
-Current investor: 016-joel-greenblatt
+Tasks done: 130/812
+Current investor: 017-julian-robertson
 Projected finish date: 2026-07-22
