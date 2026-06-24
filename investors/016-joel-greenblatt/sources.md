@@ -32,3 +32,28 @@ Note: created during T0123 (B-philosophy) because the Greenblatt A-profile folde
 - Search results surfaced unrelated "Joseph Greenblatt" enforcement/lawsuit material; these are not Joel Greenblatt/Gotham Asset Management sources and were excluded except as a disambiguation warning.
 - The often-cited Gotham Capital 50% annualized record remains reported but not audited in the opened sources. It should be triangulated in the A-profile or C-trades task before being treated as fully verified.
 - Full book text was not relied upon beyond source-visible excerpts and publisher descriptions; later F-key-writings should do page-level verification for Greenblatt's books.
+
+## Task C source map
+
+1. [Greenblatt Columbia special-situation class notes PDF](https://focusedcompounding.com/wp-content/uploads/2018/03/Joel-Greenblatt-Class.pdf) - Core near-primary class-note source for Host Marriott, Liberty Media, Sears, Palm/3Com, and Greenblatt's special-situation framework. Treat as auditor notes rather than a verbatim official transcript.
+2. [Host Hotels - Company history](https://www.hosthotels.com/Our-Company/History) - Company source confirming the 1993 Host Marriott / Marriott International split and later Host evolution.
+3. [Host Marriott 1994 Form 10-K](https://www.sec.gov/Archives/edgar/data/314733/0000950109-94-000600.txt) - Primary SEC source for the October 8, 1993 distribution, retained businesses, Marriott International support arrangements, credit line, guarantees, and restructuring details.
+4. [Steady Compounding - Host Marriott options reconstruction](https://steadycompounding.com/options/using-options-for-special-situations/) - Secondary reconstruction of the Host option mechanics and return math; useful but flagged as single-source for option-level P&L.
+5. [Liberty Broadband - Company history](https://www.libertybroadband.com/about/company-history) - Company source for Liberty's public trading and TCI/Liberty timeline.
+6. [Stock Spin-off Investing - Superinvestors and spin-offs](https://stockspinoffinvesting.com/superinvestors-and-stock-spinoffs-what-munger-klarman-greenblatt-and-lynch-have-to-say-about-investing-in-spinoffs/) - Secondary summary of Greenblatt's Liberty Media case-study return; used only as a corroborating reconstruction.
+7. [Chicago Booth Review - "Can the Market Add and Subtract?"](https://www.chicagobooth.edu/review/can-market-add-and-subtract) - Academic/Booth summary of the Palm/3Com carve-out mispricing, first-day prices, 1.5 Palm-share entitlement, and negative stub arithmetic.
+8. [Stock Spin-off Investing - Greenblatt class takeaways](https://stockspinoffinvesting.com/3-biggest-takeaways-from-joel-greenblatts-special-situation-class/) - Secondary reconstruction of Sears / Dean Witter / Allstate breakup arithmetic from Greenblatt class notes.
+9. [GuruFocus - "Secret Hiding Places: Two Case Studies"](https://www.gurufocus.com/news/843738/secret-hiding-places-two-case-studies) - Secondary Greenblatt-book reconstruction for Strattec and Security; used for first-day/year-end price claims, flagged single-source pending price-history check.
+10. [Strattec 2004 company release PDF](https://investors.strattec.com/node/6881/pdf) - Company source confirming Strattec's emergence as an independent public company from the Briggs & Stratton spin-off in February 1995.
+11. [Vanity Fair / Michael Lewis excerpt from *The Big Short*](https://www.vanityfair.com/news/2010/04/wall-street-excerpt-201004) - Narrative source for Gotham/Greenblatt discovering Michael Burry and the later Scion CDS dispute context.
+12. [Scion Capital letters PDF](https://focusedcompounding.com/wp-content/uploads/2017/06/Scion-Capital-Letters.pdf) - Primary Burry investor letter source verifying Gotham Capital V, LLC's five-year option to acquire 22.50% of Scion Capital's management company.
+13. [WealthTrack - Greenblatt hybrid investing](https://wealthtrack.com/greenblatt-hybrid-investing/) - Secondary interview page for Gotham/Gotham Funds return-record caveats and strategy evolution.
+14. [Google Books - *You Can Be a Stock Market Genius*](https://books.google.com/books/about/You_Can_Be_a_Stock_Market_Genius.html?id=5dQnKZR0h7wC) - Bibliographic/provenance source for Greenblatt's special-situations book and reported Gotham record; not treated as audited return evidence.
+
+## Task C search notes and caveats
+
+- The trade file deliberately separates self-attributed/publicly taught situations from proven Gotham Capital holdings because no opened source supplied a Gotham position ledger, audited partnership letter, or complete trade blotter.
+- Host Marriott is the best-supported Greenblatt-style public-market trade in this run because the class notes, company history, and SEC filing triangulate the setup; exact Gotham sizing and net P&L remain unavailable.
+- Liberty Media, Sears, and Strattec are treated as Greenblatt-authored or Greenblatt-taught case studies rather than verified Gotham trades unless a future run finds primary Gotham evidence.
+- Scion Capital is included only as a non-public capital-allocation sidecar. It should not be treated as a public-markets security trade or used for clean Greenblatt P&L claims without additional primary records.
+- Searches for Gotham Capital partnership letters, individual position sizes, and audited trade-level P&L did not surface usable primary records in this run.
