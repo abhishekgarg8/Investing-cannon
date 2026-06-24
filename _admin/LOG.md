@@ -647,3 +647,8 @@
 - Output: investors/017-julian-robertson/profile.md (~2,456 words, 20-source Task A source map)
 - Notes: Completed Robertson A-profile and created sources.md. Separated original Tiger outside-capital record from later family-office/seeding and 13F footprints; preserved caveats around unaudited partnership returns, official-letter provenance, peak-AUM reconciliation, Tiger Cubs genealogy, posthumous Tiger/Hound litigation, and no opened SEC enforcement source tied to Robertson-era investment management.
 - Backlog added: None
+
+## 2026-06-24T11:34:36Z — T0126 — 016-joel-greenblatt — E-own-words — DONE
+- Output: investors/016-joel-greenblatt/in-their-own-words.md (~2,441 words, 24-source Task E source map)
+- Notes: Stale retry completed the partial own-words file with 46 short source-visible quote handles, an annotated primary/near-primary materials index, current Gotham/Form CRS status, and attribution watchlist. Preserved caveats around AI transcripts, unofficial Columbia notes, paywalled/member interviews, Magic Formula underperformance context, and missing page-level book checks.
+- Backlog added: None
