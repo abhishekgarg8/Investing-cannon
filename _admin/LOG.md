@@ -657,3 +657,8 @@
 - Output: investors/016-joel-greenblatt/synthesis.md (~2,021 words, 16 sources)
 - Notes: Stale retry refreshed the existing Greenblatt synthesis after E-own-words landed; required H sections and the INDEX row were re-checked. Caveats preserved around unaudited Gotham Capital returns, taught cases versus actual holdings, Magic Formula underperformance, and modern Gotham non-comparability.
 - Backlog added: None
+
+## 2026-06-24T13:28:38Z — T0131 — 017-julian-robertson — B-philosophy — DONE
+- Output: investors/017-julian-robertson/investment-philosophy.md (~2,477 words, 17 sources)
+- Notes: Stale retry completed Robertson philosophy around long/short spread thinking, management-quality edge, analyst culture, capacity/redemption risk, and post-2000 seeding-platform tensions. Preserved caveats around unofficial closing-letter provenance, endpoint differences in return figures, and posthumous Tiger/Hound litigation not being Robertson-era misconduct.
+- Backlog added: None
