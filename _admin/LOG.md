@@ -627,3 +627,8 @@
 - Output: investors/016-joel-greenblatt/profile.md (~2,612 words, 19-source Task A source map)
 - Notes: Stale retry completed missing Greenblatt A-profile and reconciled the previously created Greenblatt sources.md. Current role, vehicle structure, ADV-derived AUM, 13F footprint, and Form CRS legal disclosure were refreshed; Gotham Capital's early 40%-50% annualized record remains reported/not audited, with modern Gotham scale kept separate from the concentrated partnership record.
 - Backlog added: None
+
+## 2026-06-24T07:37:29Z — T0125 — 016-joel-greenblatt — D-mistakes — DONE
+- Output: investors/016-joel-greenblatt/mistakes-and-losses.md (~2,455 words, 15-source Task D source map)
+- Notes: Covered Greenblatt's acknowledged Cypress Gardens and trade-show losses, concentrated-portfolio drawdowns, Magic Formula/product underperformance risks, Scion manager-selection structure, and legal/regulatory checks. Preserved caveats around no Gotham partnership letters, no audited position-level P&L, and unnamed trade-show company identification.
+- Backlog added: None
