@@ -180,3 +180,28 @@ Task A was completed as a stale retry after B/C source maps already existed. Thi
 - Current scale figures are not a Greenblatt personal return record. The Q1 2026 13F and 2026 adviser-profile data describe modern Gotham's footprint and product platform, not early Gotham Capital alpha.
 - Magic Formula criticism is included to prevent formula hagiography. The document distinguishes the formula as a useful quality-value discipline from claims of persistent mechanical alpha.
 
+## Task H source map
+
+1. [Gotham Funds - Principals](https://www.gothamfunds.com/Principals) - Fresh current-status check for Greenblatt's role as managing principal/co-CIO, Gotham's successor relationship to Gotham Capital, bibliography, Columbia teaching, and fund risk caveats.
+2. [Gotham Funds - Strategy](https://www.gothamfunds.com/strategy) - Primary source for modern Gotham's valuation-based long/short process, fair-value convergence premise, daily adjustment, diversification, sector limits, and gross/net exposure controls.
+3. [Gotham Absolute Return Fund (GARIX)](https://www.gothamfunds.com/Fund-GARIX) - Primary fund page used for current public-product context, net-long target, risk-control framing, and short/leverage caveats.
+4. [Gotham Form CRS, March 28, 2025](https://reports.adviserinfo.sec.gov/crs/crs_149335.pdf) - Primary regulatory source for conflicts, advisory services, compensation, and no-reportable-legal-or-disciplinary-events disclosure.
+5. [Gotham Code of Ethics SEC exhibit, 2020](https://www.sec.gov/Archives/edgar/data/1742912/000089418920008947/expix2020gothamassetma.htm) - Primary compliance source used for modern Gotham fiduciary, conflict, personal-trading, and regulatory-control context.
+6. [Ritholtz / Masters in Business transcript, 2018](https://ritholtz.com/2018/04/transcript-joel-greenblatt/) - Direct interview source for early Gotham return caveats, concentration, returning outside capital, and the diversified Gotham process.
+7. [The Investor's Podcast Network / Richer, Wiser, Happier transcript](https://www.theinvestorspodcast.com/richer-wiser-happier/how-to-win-the-investing-game-w-joel-greenblatt/) - Direct interview source for survival framing, Cypress Gardens, concentration mistakes, and Magic Formula/process caveats.
+8. [Simon & Schuster - *You Can Be a Stock Market Genius*](https://www.simonandschuster.com/books/You-Can-Be-a-Stock-Market-Genius/Joel-Greenblatt/9780684840079) - Official publisher page/excerpt used for special-situations scope, individual-investor scale edge, and reported Gotham track-record claim.
+9. [Focused Compounding - Greenblatt Columbia special-situation class notes PDF](https://focusedcompounding.com/wp-content/uploads/2018/03/Joel-Greenblatt-Class.pdf) - Teaching-notes source for special-situation case logic; still treated as auditor notes, not an official transcript or position ledger.
+10. [MagicFormulaInvesting.com](https://www.magicformulainvesting.com/) - Greenblatt-related current screener/disclosure source used for public implementation and no-guarantee caveat.
+11. [MagicFormulaInvesting.com - About the Book](https://www.magicformulainvesting.com/home/aboutthebook) - Greenblatt-related source for the quality-plus-value framing behind the Magic Formula.
+12. [Reasonable Deviations - Critical look at Magic Formula, 2020](https://reasonabledeviations.com/2020/06/08/greenblatt-magic-formula/) - Independent critique/backtest source used for Magic Formula regime, volatility, and post-publication caveats.
+13. [Wall Street Journal - "This 'Magic Formula' Has Lost Its Spark," June 1, 2026](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026/card/this-magic-formula-has-lost-its-spark-tPcMh9P1PQscApiTcCVH) - Current market-press criticism used as a 2026 caveat on public Magic Formula performance.
+14. [Value Investors Club](https://valueinvestorsclub.com/) - Primary site used for VIC's current access model, delayed public ideas, application requirement, and award structure.
+15. [Crawford, Gray & Kern - *Do Fund Managers Identify and Share Profitable Ideas?* PDF](https://alphaarchitect.com/wp-content/uploads/2022/12/SSRN-id1499341.pdf) - Academic evidence on VIC abnormal returns, small-security concentration of alpha, and limits of generalizing from a screened network.
+16. [13f.info - Gotham Asset Management 13F filings](https://13f.info/manager/0001510387-gotham-asset-management-llc) - Secondary 13F aggregator used only for modern Gotham public-equity footprint and non-comparability caveats.
+
+### Task H search notes and caveats
+
+- Fresh checks covered current Gotham role/materials, Form CRS/legal disclosure, Gotham fund strategy pages, interviews, Magic Formula implementation and criticism, VIC, academic VIC evidence, 13F footprint, and peer comparisons inside the repo.
+- The synthesis uses completed A-D/F/G files. T0126 E-own-words remained freshly claimed and no `in-their-own-words.md` file was present on main, so quote-level refresh remains a dependency.
+- No opened source changed the prior legal-status conclusion: Gotham's 2025 Form CRS reports no legal or disciplinary events, and no contrary Greenblatt/Gotham enforcement source was opened in this run.
+- Early Gotham Capital returns remain reported but not audited. Future work still needs original partnership letters, monthly returns, fee terms, capital base, position-level P&L, and a clean separation of taught examples from actual Gotham trades.
