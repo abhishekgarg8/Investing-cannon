@@ -1,3 +1,3 @@
-Tasks done: 136/812
-Current investor: 017-julian-robertson
+Tasks done: 137/812
+Current investor: 018-michael-steinhardt
 Projected finish date: 2026-07-22
