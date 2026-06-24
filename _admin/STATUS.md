@@ -1,3 +1,3 @@
-Tasks done: 120/812
-Current investor: 015-jack-bogle
+Tasks done: 121/812
+Current investor: 016-joel-greenblatt
 Projected finish date: 2026-07-22
