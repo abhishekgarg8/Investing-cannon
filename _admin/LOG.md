@@ -622,3 +622,8 @@
 - Output: investors/016-joel-greenblatt/greatest-trades.md (~3,018 words, 14-source Task C source map)
 - Notes: Completed/QA'd the Greenblatt greatest-trades file already present on main; verified six ranked situations, required C-template fields, inline citations, and Task C source-map append. Spot-checked Greenblatt Columbia class notes, Host Marriott's 1994 10-K, and Chicago Booth's Palm/3Com negative-stub source. Preserved caveats around no public Gotham trade ledger, unaudited position-level P&L, and separating taught case studies from verified Gotham holdings.
 - Backlog added: None
+
+## 2026-06-24T06:41:29Z — T0122 — 016-joel-greenblatt — A-profile — DONE
+- Output: investors/016-joel-greenblatt/profile.md (~2,612 words, 19-source Task A source map)
+- Notes: Stale retry completed missing Greenblatt A-profile and reconciled the previously created Greenblatt sources.md. Current role, vehicle structure, ADV-derived AUM, 13F footprint, and Form CRS legal disclosure were refreshed; Gotham Capital's early 40%-50% annualized record remains reported/not audited, with modern Gotham scale kept separate from the concentrated partnership record.
+- Backlog added: None
