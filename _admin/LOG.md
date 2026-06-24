@@ -637,3 +637,8 @@
 - Output: investors/016-joel-greenblatt/key-writings.md (~3,200 words, 22-source Task F source map)
 - Notes: Completed Greenblatt key-writings guide covering the 1981 JPM paper, Stock Market Genius, Little Book/Magic Formula, Big Secret/value-weighted indexing, Common Sense, Gotham strategy materials, and ranked secondary/critical works. Preserved caveats around no full book text, reconstructed 1981 paper details, unofficial Columbia class notes, public Magic Formula underperformance, and missing Gotham partnership letters.
 - Backlog added: None
+
+## 2026-06-24T08:35:15Z — T0128 — 016-joel-greenblatt — G-mental-models — DONE
+- Output: investors/016-joel-greenblatt/mental-models.md (~3,231 words, 20-source Task G source map)
+- Notes: Reconstructed Greenblatt's mental models across special-situations, Magic Formula, and modern Gotham long/short implementations; emphasized valuation true north, forced-seller search, capacity, sizing, sell rules, risk limits, and transferability. Preserved caveats around missing Gotham partnership letters, class-note provenance, Magic Formula underperformance, and modern Gotham scale/13F non-comparability.
+- Backlog added: None
