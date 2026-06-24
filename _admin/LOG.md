@@ -612,3 +612,8 @@
 - Output: investors/016-joel-greenblatt/investment-philosophy.md (~3,333 words, 21 sources)
 - Notes: Completed/QA'd Greenblatt philosophy already present on main; refreshed Magic Formula underperformance caveat with 2026 WSJ source. A-profile T0122 remains freshly claimed/missing; Gotham Capital 50% annualized record remains reported/not audited.
 - Backlog added: None
+
+## 2026-06-24T05:24:33Z — T0120 — 015-jack-bogle — G-mental-models — DONE
+- Output: investors/015-jack-bogle/mental-models.md (~2,830 words, 19 sources)
+- Notes: Stale retry closeout: verified already-present mental-models file, T0120 source map, and sample citations from House testimony, Vanguard fund profile, and SEC Fair Fund order. No content changes needed; caveats preserved around Bogle as a fund-selection/behavior model rather than a personal trading system.
+- Backlog added: None
