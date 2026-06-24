@@ -24,6 +24,7 @@ Note: created during T0123 (B-philosophy) because the Greenblatt A-profile folde
 18. [Journal of Portfolio Management - "How the small investor can beat the market," 1981](https://www.pm-research.com/content/iijpormgmt/7/4/48) - Early Greenblatt/Pzena/Newberg paper; establishes the net-net/value research lineage.
 19. [13f.info - Gotham Asset Management 13F filings](https://13f.info/manager/0001510387-gotham-asset-management-llc) - Secondary 13F aggregator showing modern Gotham's broad public-equity footprint through Q1 2026.
 20. [Investopedia - Magic Formula Investing, updated 2026](https://www.investopedia.com/terms/m/magic-formula-investing.asp) - Tertiary but current explainer for formula mechanics, exclusions, annual rebalance, and critiques; used only for accessible implementation details and critique context.
+21. [Wall Street Journal - "This 'Magic Formula' Has Lost Its Spark," June 1, 2026](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026/card/this-magic-formula-has-lost-its-spark-tPcMh9P1PQscApiTcCVH) - Current market-press critique that the public Magic Formula has lagged for years; useful caveat on regime dependence and formula crowding.
 
 ## Search notes and caveats
 
