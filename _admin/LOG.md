@@ -672,3 +672,8 @@
 - Output: investors/017-julian-robertson/in-their-own-words.md (~2,300 words, 16 sources)
 - Notes: Closeout of already-present T0134 output: verified the own-words file, Task E source map, and spot-checked Columbia, closure-letter, Business Insider, and Justia sources. Caveats preserved around missing official Tiger letter archive, transcript mirrors, blocked Opalesque pages, and posthumous Tiger/Hound litigation.
 - Backlog added: None
+
+## 2026-06-24T17:39:07Z — T0133 — 017-julian-robertson — D-mistakes — DONE
+- Output: investors/017-julian-robertson/mistakes-and-losses.md (~3,200 words, 18 sources)
+- Notes: Completed Robertson mistakes/losses around the 1998 yen shock, U.S. Airways concentration, dot-com/value timing failure, scale/liquidity/redemption mismatch, and legal/reputational/platform risks. Preserved caveats around unaudited Tiger loss attribution, unresolved U.S. Airways final P&L, and posthumous Hound/Tiger litigation not being Robertson-era investment misconduct.
+- Backlog added: None
