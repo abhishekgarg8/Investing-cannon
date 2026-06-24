@@ -642,3 +642,8 @@
 - Output: investors/016-joel-greenblatt/mental-models.md (~3,231 words, 20-source Task G source map)
 - Notes: Reconstructed Greenblatt's mental models across special-situations, Magic Formula, and modern Gotham long/short implementations; emphasized valuation true north, forced-seller search, capacity, sizing, sell rules, risk limits, and transferability. Preserved caveats around missing Gotham partnership letters, class-note provenance, Magic Formula underperformance, and modern Gotham scale/13F non-comparability.
 - Backlog added: None
+
+## 2026-06-24T09:37:29Z — T0129 — 016-joel-greenblatt — H-synthesis — DONE
+- Output: investors/016-joel-greenblatt/synthesis.md (~2,400 words, 16-source Task H source map)
+- Notes: Completed Greenblatt synthesis with executive brief, ranked lessons, taxonomy, regime dependence, peer comparisons, unresolved questions, source-map append, and INDEX row. Preserved caveats around T0126 own-words still claimed/missing, reported-not-audited Gotham returns, no public trade ledger, Magic Formula underperformance, and modern Gotham non-comparability.
+- Backlog added: None
