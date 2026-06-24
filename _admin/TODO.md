@@ -139,7 +139,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-24T15:24:16Z T0132 | 017-julian-robertson | C-greatest-trades | investors/017-julian-robertson/greatest-trades.md
 - [x] done:2026-06-24T17:39:07Z T0133 | 017-julian-robertson | D-mistakes | investors/017-julian-robertson/mistakes-and-losses.md
 - [x] done:2026-06-24T16:21:32Z T0134 | 017-julian-robertson | E-own-words | investors/017-julian-robertson/in-their-own-words.md
-- [~] claimed:2026-06-24T19:16:31Z T0135 | 017-julian-robertson | F-key-writings | investors/017-julian-robertson/key-writings.md
+- [x] done:2026-06-24T19:39:16Z T0135 | 017-julian-robertson | F-key-writings | investors/017-julian-robertson/key-writings.md
 - [ ] T0136 | 017-julian-robertson | G-mental-models | investors/017-julian-robertson/mental-models.md
 - [ ] T0137 | 017-julian-robertson | H-synthesis | investors/017-julian-robertson/synthesis.md
 - [ ] T0138 | 018-michael-steinhardt | A-profile | investors/018-michael-steinhardt/profile.md
