@@ -677,3 +677,8 @@
 - Output: investors/017-julian-robertson/mistakes-and-losses.md (~3,200 words, 18 sources)
 - Notes: Completed Robertson mistakes/losses around the 1998 yen shock, U.S. Airways concentration, dot-com/value timing failure, scale/liquidity/redemption mismatch, and legal/reputational/platform risks. Preserved caveats around unaudited Tiger loss attribution, unresolved U.S. Airways final P&L, and posthumous Hound/Tiger litigation not being Robertson-era investment misconduct.
 - Backlog added: None
+
+## 2026-06-24T19:39:16Z — T0135 — 017-julian-robertson — F-key-writings — DONE
+- Output: investors/017-julian-robertson/key-writings.md (~3,412 words, 20 sources)
+- Notes: Completed key-writings guide separating Robertson/Tiger first-person corpus from serious secondary works; strongest sources are the 2000 letter mirror, Columbia/Graham & Doddsville, VII excerpt, SEC 13D, Strachman, and Institutional Investor. Caveats preserved around no official Tiger letter archive, transcript gaps, mirror/excerpt provenance, and current posthumous Hound/Tiger platform litigation.
+- Backlog added: None
