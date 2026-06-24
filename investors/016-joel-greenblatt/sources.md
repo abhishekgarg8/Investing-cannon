@@ -89,3 +89,28 @@ Task A was completed as a stale retry after B/C source maps already existed. Thi
 - Liberty Media, Sears, and Strattec are treated as Greenblatt-authored or Greenblatt-taught case studies rather than verified Gotham trades unless a future run finds primary Gotham evidence.
 - Scion Capital is included only as a non-public capital-allocation sidecar. It should not be treated as a public-markets security trade or used for clean Greenblatt P&L claims without additional primary records.
 - Searches for Gotham Capital partnership letters, individual position sizes, and audited trade-level P&L did not surface usable primary records in this run.
+
+## Task D source map
+
+1. [The Investor's Podcast Network - RWH003, Joel Greenblatt transcript](https://www.theinvestorspodcast.com/richer-wiser-happier/how-to-win-the-investing-game-w-joel-greenblatt/) - Core own-words source for Cypress Gardens, Host Marriott sizing, concentrated-position mistakes, "live to play another day," the 2000 long/short/Magic Formula caveat, Burry manager-selection comments, and Rob Goldstein as challenge partner.
+2. [Ritholtz / Masters in Business transcript, 2018](https://ritholtz.com/2018/04/transcript-joel-greenblatt/) - Core own-words source for the unnamed trade-show worst investment, operating leverage lesson, recurring 20%-30% concentrated drawdowns, returning outside capital, and the diversified Gotham process.
+3. [Gotham Funds - Principals](https://www.gothamfunds.com/Principals) - Primary current bio; confirms living/current Gotham role, successor relationship to Gotham Capital, authorship, Columbia teaching, and fund risk disclosures.
+4. [Gotham Funds - Strategy](https://www.gothamfunds.com/strategy) - Primary modern Gotham strategy statement; used for broad long/short implementation, sector/gross/net controls, diversification, and "stick to strategy" framing.
+5. [Gotham Absolute Return Fund (GARIX)](https://www.gothamfunds.com/Fund-GARIX) - Primary product page for May 31, 2026 performance comparisons, exposures, holdings counts, expenses, and risk disclosures.
+6. [Gotham Form CRS, March 28, 2025](https://reports.adviserinfo.sec.gov/crs/crs_149335.pdf) - Primary regulatory source for advisory registration, conflicts, allocation/fee incentives, compensation, and no-reportable-legal-or-disciplinary-events statement.
+7. [Gotham Code of Ethics exhibit, SEC filing, 2020](https://www.sec.gov/Archives/edgar/data/1742912/000089418920008947/expix2020gothamassetma.htm) - Primary compliance source for fiduciary duties, conflict disclosure, personal trading controls, and penalties for code violations.
+8. [MagicFormulaInvesting.com](https://www.magicformulainvesting.com/) - Greenblatt-related site for current Magic Formula screener and explicit disclosure that the formula does not guarantee performance.
+9. [MagicFormulaInvesting.com - About the Book](https://www.magicformulainvesting.com/home/aboutthebook) - Greenblatt-related source for Magic Formula book positioning and the "good businesses at bargain prices" framing.
+10. [Reasonable Deviations - Critical look at Magic Formula, 2020](https://reasonabledeviations.com/2020/06/08/greenblatt-magic-formula/) - Independent backtest/critique; used for predictive-value nuance, drawdown evidence, and post-2010 underperformance caveat.
+11. [ShareScope - "Time to move on from magic formula investing?", 2023](https://knowledge.sharescope.co.uk/2023/10/18/time-to-move-on-from-magic-formula-investing/) - Practitioner critique of a UK Magic Formula implementation; used for underperformance and screen-versus-research caveats.
+12. [Vanity Fair / Michael Lewis excerpt from *The Big Short*](https://www.vanityfair.com/news/2010/04/wall-street-excerpt-201004) - Narrative source for Gotham/Greenblatt discovering and funding Michael Burry's Scion Capital.
+13. [Money Maze Podcast - Joel Greenblatt, 2024](https://www.moneymazepodcast.com/podcast/joel-greenblatt) - Recent interview page used for learning-from-mistakes, patience, and the note that Greenblatt would have been fired several times had Gotham not been his own firm.
+14. [Focused Compounding - Greenblatt Columbia special-situation class notes PDF](https://focusedcompounding.com/wp-content/uploads/2018/03/Joel-Greenblatt-Class.pdf) - Auditor-notes source used as background on Greenblatt's special-situation teaching, valuation work, and reported Gotham return context; not treated as an official verbatim transcript.
+15. [13f.info - Gotham Asset Management 13F filings](https://13f.info/manager/0001510387-gotham-asset-management-llc) - Secondary 13F aggregator checked for current public-equity scale through Q1 2026; used only as background and not cited for total firm AUM.
+
+## Task D search notes and caveats
+
+- Mandatory criticism/legal searches were run for Joel Greenblatt, Gotham Asset Management, Gotham Capital, SEC enforcement, lawsuits, Form CRS/ADV, Magic Formula underperformance, Gotham mutual fund underperformance, Scion/Burry, Cypress Gardens, and the unnamed trade-show loss.
+- No opened source showed a Greenblatt/Gotham enforcement action or task-relevant lawsuit. Gotham's Form CRS reports no legal or disciplinary events as of March 28, 2025.
+- The trade-show worst investment remains unnamed because the opened primary transcript did not identify the company. Future work should not infer the name without contemporaneous filings or a direct Greenblatt source.
+- Early Gotham drawdowns and position-level losses remain reported/anecdotal rather than audited. The mistakes file avoids exact P&L claims except where Greenblatt gave approximate figures in opened interviews.
