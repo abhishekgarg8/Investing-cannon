@@ -652,3 +652,8 @@
 - Output: investors/016-joel-greenblatt/in-their-own-words.md (~2,441 words, 24-source Task E source map)
 - Notes: Stale retry completed the partial own-words file with 46 short source-visible quote handles, an annotated primary/near-primary materials index, current Gotham/Form CRS status, and attribution watchlist. Preserved caveats around AI transcripts, unofficial Columbia notes, paywalled/member interviews, Magic Formula underperformance context, and missing page-level book checks.
 - Backlog added: None
+
+## 2026-06-24T13:17:28Z — T0129 — 016-joel-greenblatt — H-synthesis — DONE
+- Output: investors/016-joel-greenblatt/synthesis.md (~2,021 words, 16 sources)
+- Notes: Stale retry refreshed the existing Greenblatt synthesis after E-own-words landed; required H sections and the INDEX row were re-checked. Caveats preserved around unaudited Gotham Capital returns, taught cases versus actual holdings, Magic Formula underperformance, and modern Gotham non-comparability.
+- Backlog added: None
