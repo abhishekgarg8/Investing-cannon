@@ -617,3 +617,8 @@
 - Output: investors/015-jack-bogle/mental-models.md (~2,830 words, 19 sources)
 - Notes: Stale retry closeout: verified already-present mental-models file, T0120 source map, and sample citations from House testimony, Vanguard fund profile, and SEC Fair Fund order. No content changes needed; caveats preserved around Bogle as a fund-selection/behavior model rather than a personal trading system.
 - Backlog added: None
+
+## 2026-06-24T05:25:29Z — T0124 — 016-joel-greenblatt — C-greatest-trades — DONE
+- Output: investors/016-joel-greenblatt/greatest-trades.md (~3,018 words, 14-source Task C source map)
+- Notes: Completed/QA'd the Greenblatt greatest-trades file already present on main; verified six ranked situations, required C-template fields, inline citations, and Task C source-map append. Spot-checked Greenblatt Columbia class notes, Host Marriott's 1994 10-K, and Chicago Booth's Palm/3Com negative-stub source. Preserved caveats around no public Gotham trade ledger, unaudited position-level P&L, and separating taught case studies from verified Gotham holdings.
+- Backlog added: None
