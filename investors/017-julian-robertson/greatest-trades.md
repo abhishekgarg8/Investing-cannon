@@ -1,6 +1,6 @@
 # Julian Robertson - Greatest Trades
 
-As of 2026-06-24T14:33:21Z, the public record supports one clearly documented Robertson "greatest trade" - Tiger's 1995-1996 copper short - and several important but less transparent situations. Tiger Management was a private hedge-fund complex, not a public mutual fund, so position-level P&L is usually reported by journalists, biographies, SEC snapshots, or Robertson interviews rather than by audited Tiger statements. Treat every dollar figure below as reported unless explicitly sourced to a regulatory filing.
+As of 2026-06-24T15:24:16Z, the public record supports one clearly documented Robertson "greatest trade" - Tiger's 1995-1996 copper short - and several important but less transparent situations. Tiger Management was a private hedge-fund complex, not a public mutual fund, so position-level P&L is usually reported by journalists, biographies, SEC snapshots, or Robertson interviews rather than by audited Tiger statements. Treat every dollar figure below as reported unless explicitly sourced to a regulatory filing.
 
 ## Evidence Caveat And Ranking
 
