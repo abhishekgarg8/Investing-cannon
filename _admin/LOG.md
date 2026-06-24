@@ -662,3 +662,8 @@
 - Output: investors/017-julian-robertson/investment-philosophy.md (~2,477 words, 17 sources)
 - Notes: Stale retry completed Robertson philosophy around long/short spread thinking, management-quality edge, analyst culture, capacity/redemption risk, and post-2000 seeding-platform tensions. Preserved caveats around unofficial closing-letter provenance, endpoint differences in return figures, and posthumous Tiger/Hound litigation not being Robertson-era misconduct.
 - Backlog added: None
+
+## 2026-06-24T15:24:16Z — T0132 — 017-julian-robertson — C-greatest-trades — DONE
+- Output: investors/017-julian-robertson/greatest-trades.md (~2,671 words, 17 sources)
+- Notes: Stale retry QA'd and completed Robertson greatest-trades ranking across copper, subprime CDS, Eurotunnel, Apple/Google, WuXi, and Tiger Cub seed economics. Preserved caveats around missing original Tiger trade ledgers, biography/practitioner single-source P&L figures, and post-2000 personal/family-office evidence.
+- Backlog added: None
