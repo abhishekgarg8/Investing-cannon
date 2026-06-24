@@ -202,7 +202,7 @@ Task A was completed as a stale retry after B/C source maps already existed. Thi
 ### Task H search notes and caveats
 
 - Fresh checks covered current Gotham role/materials, Form CRS/legal disclosure, Gotham fund strategy pages, interviews, Magic Formula implementation and criticism, VIC, academic VIC evidence, 13F footprint, and peer comparisons inside the repo.
-- The synthesis uses completed A-D/F/G files. T0126 E-own-words remained freshly claimed and no `in-their-own-words.md` file was present on main, so quote-level refresh remains a dependency.
+- Stale retry refresh: T0126 E-own-words is now present on main, and the synthesis was refreshed to use the completed A-G folder while preserving quote-source caveats from the own-words file.
 - No opened source changed the prior legal-status conclusion: Gotham's 2025 Form CRS reports no legal or disciplinary events, and no contrary Greenblatt/Gotham enforcement source was opened in this run.
 - Early Gotham Capital returns remain reported but not audited. Future work still needs original partnership letters, monthly returns, fee terms, capital base, position-level P&L, and a clean separation of taught examples from actual Gotham trades.
 
