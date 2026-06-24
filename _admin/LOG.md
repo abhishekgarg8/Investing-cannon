@@ -687,3 +687,8 @@
 - Output: investors/017-julian-robertson/synthesis.md (~1,728 words, 19 sources)
 - Notes: Completed Robertson synthesis with executive brief, ranked transferable lessons, taxonomy, regime dependence, peer comparisons, transferability/luck framing, unresolved questions, Task H source-map append, and refreshed INDEX row. Preserved caveats around unaudited Tiger returns, 1998-2000 path risk, unresolved U.S. Airways economics, posthumous Hound/Tiger litigation, and T0136 still being queue-claimed despite a present mental-models file.
 - Backlog added: None
+
+## 2026-06-24T22:49:11Z — T0138 — 018-michael-steinhardt — A-profile — DONE
+- Output: investors/018-michael-steinhardt/profile.md (~2,885 words, 18 sources)
+- Notes: Created Steinhardt profile and sources map with reported 24.5% net 1967-1995 return caveat, 1994 drawdown/AUM context, WisdomTree/philanthropy, and legal/reputational record through 2024 antiquities developments. Corrected DOJ/SEC Treasury settlement to $76M from primary source.
+- Backlog added: None
