@@ -667,3 +667,8 @@
 - Output: investors/017-julian-robertson/greatest-trades.md (~2,671 words, 17 sources)
 - Notes: Stale retry QA'd and completed Robertson greatest-trades ranking across copper, subprime CDS, Eurotunnel, Apple/Google, WuXi, and Tiger Cub seed economics. Preserved caveats around missing original Tiger trade ledgers, biography/practitioner single-source P&L figures, and post-2000 personal/family-office evidence.
 - Backlog added: None
+
+## 2026-06-24T16:21:32Z — T0134 — 017-julian-robertson — E-own-words — DONE
+- Output: investors/017-julian-robertson/in-their-own-words.md (~2,300 words, 16 sources)
+- Notes: Closeout of already-present T0134 output: verified the own-words file, Task E source map, and spot-checked Columbia, closure-letter, Business Insider, and Justia sources. Caveats preserved around missing official Tiger letter archive, transcript mirrors, blocked Opalesque pages, and posthumous Tiger/Hound litigation.
+- Backlog added: None
