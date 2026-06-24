@@ -697,3 +697,8 @@
 - Output: investors/017-julian-robertson/mental-models.md (~2,559 words, 18 sources)
 - Notes: Stale retry closeout: verified already-present mental-models file, appended missing Task G source map, and spot-checked Columbia, SEC U.S. Airways, and NY Supreme Court Hound/Tiger sources. Caveats preserved around no official Tiger risk manual/letter archive, unaudited Tiger ledgers, U.S. Airways final economics, and posthumous seed-platform litigation.
 - Backlog added: None
+
+## 2026-06-24T23:24:20Z — T0139 — 018-michael-steinhardt — B-philosophy — DONE
+- Output: investors/018-michael-steinhardt/investment-philosophy.md (~2,557 words, 19 sources)
+- Notes: Completed Steinhardt philosophy around variant perception, analyst filtering, macro/fundamental portfolio resets, sizing/sell discipline, 1994 liquidity/leverage limits, and boundary/governance tensions. Caveats preserved around excerpt-carrier sources, private-fund opacity, and regulatory/reputational record.
+- Backlog added: None
