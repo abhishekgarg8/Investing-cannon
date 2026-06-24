@@ -682,3 +682,8 @@
 - Output: investors/017-julian-robertson/key-writings.md (~3,412 words, 20 sources)
 - Notes: Completed key-writings guide separating Robertson/Tiger first-person corpus from serious secondary works; strongest sources are the 2000 letter mirror, Columbia/Graham & Doddsville, VII excerpt, SEC 13D, Strachman, and Institutional Investor. Caveats preserved around no official Tiger letter archive, transcript gaps, mirror/excerpt provenance, and current posthumous Hound/Tiger platform litigation.
 - Backlog added: None
+
+## 2026-06-24T21:36:46Z — T0137 — 017-julian-robertson — H-synthesis — DONE
+- Output: investors/017-julian-robertson/synthesis.md (~1,728 words, 19 sources)
+- Notes: Completed Robertson synthesis with executive brief, ranked transferable lessons, taxonomy, regime dependence, peer comparisons, transferability/luck framing, unresolved questions, Task H source-map append, and refreshed INDEX row. Preserved caveats around unaudited Tiger returns, 1998-2000 path risk, unresolved U.S. Airways economics, posthumous Hound/Tiger litigation, and T0136 still being queue-claimed despite a present mental-models file.
+- Backlog added: None
