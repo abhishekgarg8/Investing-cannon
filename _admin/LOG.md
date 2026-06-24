@@ -607,3 +607,8 @@
 - Output: investors/015-jack-bogle/synthesis.md (~1,540 words, 18 sources)
 - Notes: Completed Bogle synthesis with executive brief, ranked lessons, taxonomy, regime dependence, peer comparisons, luck-vs-skill framing, unresolved questions, source-map append, and refreshed INDEX row. Preserved caveats around no personal alpha ledger, market-beta attribution, post-Bogle Vanguard regulatory matters, passive stewardship concentration, and non-U.S. adaptation.
 - Backlog added: None
+
+## 2026-06-24T04:22:41Z — T0123 — 016-joel-greenblatt — B-philosophy — DONE
+- Output: investors/016-joel-greenblatt/investment-philosophy.md (~3,333 words, 21 sources)
+- Notes: Completed/QA'd Greenblatt philosophy already present on main; refreshed Magic Formula underperformance caveat with 2026 WSJ source. A-profile T0122 remains freshly claimed/missing; Gotham Capital 50% annualized record remains reported/not audited.
+- Backlog added: None
