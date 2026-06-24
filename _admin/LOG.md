@@ -588,3 +588,7 @@
 - Output: investors/015-jack-bogle/greatest-trades.md (~2,790 words, 16 sources)
 - Notes: Stale closeout: verified already-present Bogle greatest-trades file and T0116 source map; treated Bogle's wins as structural/product decisions rather than personal-account trades. Preserved caveats around no personal alpha ledger, market-beta compounding, self-interested Vanguard evidence, and post-Bogle scale/regulatory risks.
 - Backlog added: None
+## 2026-06-24T00:29:36Z — T0117 — 015-jack-bogle — D-mistakes — DONE
+- Output: investors/015-jack-bogle/mistakes-and-losses.md (~3,136 words, 17 sources)
+- Notes: Stale/unfinished closeout: verified already-present mistakes/losses file and source map; refreshed current Vanguard target-date Fair Fund status from the 2026 SEC order. Preserved caveats that Bogle losses are institutional/product/scale risks, not a personal trading-loss ledger.
+- Backlog added: None
