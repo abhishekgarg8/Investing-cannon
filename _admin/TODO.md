@@ -137,7 +137,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-24T09:45:05Z T0130 | 017-julian-robertson | A-profile | investors/017-julian-robertson/profile.md
 - [~] claimed:2026-06-24T13:18:42Z T0131 | 017-julian-robertson | B-philosophy | investors/017-julian-robertson/investment-philosophy.md
 - [~] claimed:2026-06-24T10:22:57Z T0132 | 017-julian-robertson | C-greatest-trades | investors/017-julian-robertson/greatest-trades.md
-- [ ] T0133 | 017-julian-robertson | D-mistakes | investors/017-julian-robertson/mistakes-and-losses.md
+- [~] claimed:2026-06-24T13:20:05Z T0133 | 017-julian-robertson | D-mistakes | investors/017-julian-robertson/mistakes-and-losses.md
 - [ ] T0134 | 017-julian-robertson | E-own-words | investors/017-julian-robertson/in-their-own-words.md
 - [ ] T0135 | 017-julian-robertson | F-key-writings | investors/017-julian-robertson/key-writings.md
 - [ ] T0136 | 017-julian-robertson | G-mental-models | investors/017-julian-robertson/mental-models.md
