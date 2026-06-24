@@ -1,6 +1,6 @@
 # Joel Greenblatt - Synthesis
 
-As of 2026-06-24T09:30:58Z, Joel Greenblatt appears living and active as managing principal and co-chief investment officer of Gotham Asset Management, the successor to Gotham Capital, which he founded in 1985 ([Gotham Principals](https://www.gothamfunds.com/Principals)). This synthesis integrates the completed A-profile, B-philosophy, C-trades, D-mistakes, F-writings, and G-mental-models files. The E-own-words task remains separately claimed and its file was not present on main during this synthesis, so any future quote-level file should refresh this synthesis rather than treating it as quote-complete.
+As of 2026-06-24T13:17:28Z, Joel Greenblatt appears living and active as managing principal and co-chief investment officer of Gotham Asset Management, the successor to Gotham Capital, which he founded in 1985 ([Gotham Principals](https://www.gothamfunds.com/Principals)). This stale-retry refresh integrates the completed A-profile through G-mental-models files, including the now-present E-own-words file. Quote-level caveats remain: the own-words file intentionally uses short source-visible quote handles, treats Columbia class notes as near-primary teaching notes rather than official transcripts, and labels AI-generated transcripts cautiously.
 
 ## Executive Brief
 
@@ -70,7 +70,7 @@ Transferability is high at the level of questions and low at the level of copyin
 
 ## Unresolved Questions
 
-- T0126 E-own-words was still freshly claimed and no `in-their-own-words.md` file was present on main during this task. Refresh quote-level claims after that file lands.
+- Quote-level claims should remain tied to the E-own-words source posture: short source-visible handles are acceptable, but full book text, audio-only interviews, AI-generated transcripts, and Columbia class notes still need page/audio/provenance checks before any expansion.
 - Original Gotham Capital partnership letters, audited returns, monthly drawdowns, fee terms, and capital-base data remain unfound in opened sources.
 - The reported 40%, 50%, and other early-return figures need reconciliation by period, fee treatment, gross/net definition, and source provenance.
 - The C-trades file still needs a primary Gotham position ledger to distinguish actual holdings from Greenblatt-taught examples.
