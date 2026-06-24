@@ -632,3 +632,8 @@
 - Output: investors/016-joel-greenblatt/mistakes-and-losses.md (~2,455 words, 15-source Task D source map)
 - Notes: Covered Greenblatt's acknowledged Cypress Gardens and trade-show losses, concentrated-portfolio drawdowns, Magic Formula/product underperformance risks, Scion manager-selection structure, and legal/regulatory checks. Preserved caveats around no Gotham partnership letters, no audited position-level P&L, and unnamed trade-show company identification.
 - Backlog added: None
+
+## 2026-06-24T08:03:45Z — T0127 — 016-joel-greenblatt — F-key-writings — DONE
+- Output: investors/016-joel-greenblatt/key-writings.md (~3,200 words, 22-source Task F source map)
+- Notes: Completed Greenblatt key-writings guide covering the 1981 JPM paper, Stock Market Genius, Little Book/Magic Formula, Big Secret/value-weighted indexing, Common Sense, Gotham strategy materials, and ranked secondary/critical works. Preserved caveats around no full book text, reconstructed 1981 paper details, unofficial Columbia class notes, public Magic Formula underperformance, and missing Gotham partnership letters.
+- Backlog added: None
