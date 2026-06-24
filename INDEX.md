@@ -17,7 +17,6 @@
 | 014 | Jesse Livermore | Tape reading; discretionary trend following; pivotal points; pyramiding; short selling; pre-SEC operator markets; bankruptcy-risk case study | Turned price confirmation, leadership, and loss-cutting into an early trading doctrine, while proving that large wins without enforceable risk governance can still end in ruin. | [investors/014-jesse-livermore/](investors/014-jesse-livermore/) |
 | 015 | Jack Bogle | Low-cost indexing; broad market beta; mutual fund structure; fiduciary reform; buy-and-hold behavior; passive stewardship | Converted humble market arithmetic into a fund-owned, low-cost indexing institution that let ordinary investors keep more market return while exposing new stewardship-scale risks. | [investors/015-jack-bogle/](investors/015-jack-bogle/) |
 | 016 | Joel Greenblatt | Special situations; quality-plus-value; Magic Formula; long/short equity; forced-seller investing; investor education | Turned valuation plus structural neglect into a special-situations record, public quality-value rules, VIC's research network, and Gotham's scaled long/short platform. | [investors/016-joel-greenblatt/](investors/016-joel-greenblatt/) |
-
-
+| 017 | Julian Robertson | Fundamental long/short equity; management-quality underwriting; global stock picking; short selling; analyst culture; manager seeding | Built Tiger as a people-driven long/short research machine that bought superior companies, shorted weaker ones, and compounded talent, while exposing the fragility of scale and redeemable capital. | [investors/017-julian-robertson/](investors/017-julian-robertson/) |
 
 (Rows added by each investor's H-synthesis task.)
