@@ -122,7 +122,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-23T21:25:03Z T0115 | 015-jack-bogle | B-philosophy | investors/015-jack-bogle/investment-philosophy.md
 - [x] done:2026-06-23T22:22:43Z T0116 | 015-jack-bogle | C-greatest-trades | investors/015-jack-bogle/greatest-trades.md
 - [x] done:2026-06-24T00:29:36Z T0117 | 015-jack-bogle | D-mistakes | investors/015-jack-bogle/mistakes-and-losses.md
-- [~] claimed:2026-06-24T01:11:42Z T0118 | 015-jack-bogle | E-own-words | investors/015-jack-bogle/in-their-own-words.md
+- [x] done:2026-06-24T01:26:43Z T0118 | 015-jack-bogle | E-own-words | investors/015-jack-bogle/in-their-own-words.md
 - [~] claimed:2026-06-24T01:19:03Z T0119 | 015-jack-bogle | F-key-writings | investors/015-jack-bogle/key-writings.md
 - [ ] T0120 | 015-jack-bogle | G-mental-models | investors/015-jack-bogle/mental-models.md
 - [ ] T0121 | 015-jack-bogle | H-synthesis | investors/015-jack-bogle/synthesis.md

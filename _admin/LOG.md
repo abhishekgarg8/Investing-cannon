@@ -592,3 +592,8 @@
 - Output: investors/015-jack-bogle/mistakes-and-losses.md (~3,136 words, 17 sources)
 - Notes: Stale/unfinished closeout: verified already-present mistakes/losses file and source map; refreshed current Vanguard target-date Fair Fund status from the 2026 SEC order. Preserved caveats that Bogle losses are institutional/product/scale risks, not a personal trading-loss ledger.
 - Backlog added: None
+
+## 2026-06-24T01:26:43Z — T0118 — 015-jack-bogle — E-own-words — DONE
+- Output: investors/015-jack-bogle/in-their-own-words.md (~1,684 words, 16 sources)
+- Notes: Completed Bogle own-words file with 35 short source-visible quotes across cost arithmetic, indexing, stewardship, behavior, and scale; added an annotated primary-materials index and attribution watchlist. Reused primary Bogle speeches, testimony, SEC comments, book excerpts, and interviews; avoided quote aggregators and flagged famous lines needing page-level verification.
+- Backlog added: None
