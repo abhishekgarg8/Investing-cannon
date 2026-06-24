@@ -122,3 +122,42 @@ As of 2026-06-23. This source map starts the Jack Bogle folder for task T0114. P
 15. [Masters in Business / Ritholtz transcript (published 2019)](https://ritholtz.com/2019/01/transcript-jack-bogle-vanguard/) - Podcast transcript used in the annotated index as a conversational source; not used for quote snippets because transcript cleanup requires extra spot-checking.
 16. [Bogle eBlog page for The Little Book (2007)](https://johncbogle.com/wordpress/2007/03/02/john-bogles-newest-book/) - Provenance page for the posted first-chapter excerpt and errata context.
 
+## T0119 F-key-writings source append - 2026-06-24
+
+1. [Bogle eBlog book list](https://johncbogle.com/wordpress/books-2/) - Official Bogle-site bibliography for book titles, publication years, and Bogle-related books.
+2. [Bogle Center archive](https://boglecenter.net/bogle-archive/) - Institutional archive for Bogle books, speeches, memos, testimony, and presentation materials.
+3. [Bogle eBlog speeches archive](https://johncbogle.com/wordpress/bogle-speeches/) - Primary source index for Bogle's speeches and written remarks.
+4. [O'Reilly/Wiley, The Little Book of Common Sense Investing, updated 2017](https://www.oreilly.com/library/view/the-little-book/9781119404507/) - Publisher/table-of-contents evidence for the updated edition, core index-fund thesis, ETF and asset-allocation chapters.
+5. [Amazon/Wiley, The Little Book of Common Sense Investing, updated 2017](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509) - Supplemental catalog source for edition and publisher metadata.
+6. [Google Books, Common Sense on Mutual Funds (1999)](https://books.google.com/books/about/Common_Sense_on_Mutual_Funds.html?id=vGk00l8PqeMC) - Catalog and contents evidence for the long-form investment manual.
+7. [O'Reilly/Wiley, Common Sense on Mutual Funds, updated 2009](https://www.oreilly.com/library/view/common-sense-on/9780470138137/) - Publisher/table-of-contents evidence for the updated edition.
+8. [Amazon/Wiley, Stay the Course (2018)](https://www.amazon.com/Stay-Course-Story-Vanguard-Revolution/dp/1119404304) - Catalog source for Bogle's Vanguard/index-revolution memoir.
+9. [Bogle, "The Vanguard Story: Luck, Leadership, and Strategy" (NYU, 2000)](https://johncbogle.com/speeches/JCB_NYU_10-19-00.pdf) - Primary speech for Vanguard's founding, Wellington firing, mutual structure, and index-fund history.
+10. [Bogle, "Bogle Sounds a Warning on Index Funds" (WSJ, 2018)](https://www.wsj.com/articles/bogle-sounds-a-warning-on-index-funds-1543504551) - Primary late-career warning on index-manager concentration and stewardship scale.
+11. [Google Books, Bogle on Mutual Funds](https://books.google.com/books/about/Bogle_on_Mutual_Funds.html?id=il3_T8XlRwEC) - Catalog evidence for Bogle's first mutual-fund manual and its stock/bond/money-market scope.
+12. [Bogle eBlog biography](https://johncbogle.com/wordpress/about/) - Official biography source for Bogle's first book and career chronology.
+13. [Google Books, John Bogle on Investing: The First 50 Years](https://books.google.com/books/about/John_Bogle_on_Investing.html?id=zcC-AAAAIAAJ) - Catalog source for the Princeton thesis and collected speeches.
+14. [Bogle, American Philosophical Society remarks (2012)](https://johncbogle.com/wordpress/wp-content/uploads/2012/11/APS_11-10-12.pdf) - Primary source for Bogle's return-source framework and thesis-origin reflections.
+15. [Yale University Press, The Battle for the Soul of Capitalism](https://yalebooks.yale.edu/book/9780300119718/the-battle-for-the-soul-of-capitalism/) - Publisher source for Bogle's corporate, investment, and mutual-fund reform argument.
+16. [Financial Times Business Book Award page, The Battle for the Soul of Capitalism](https://ig.ft.com/sites/business-book-award/books/2005/longlist/the-battle-for-the-soul-of-capitalism-by-john-bogle/) - Independent book-award description of the capitalism/fund-industry critique.
+17. [Bogle, "The Fiduciary Principle" (2009)](https://johncbogle.com/wordpress/wp-content/uploads/2010/04/JPM-Fid-Principle-Fall-2009.pdf) - Primary essay for stewardship, agency conflicts, and fiduciary-duty framing.
+18. [Google Books, Enough (2008)](https://books.google.com/books/about/Enough.html?id=bOPtAAAAMAAJ) - Catalog source for Bogle's values and "enough" book.
+19. [CFA Institute review, Enough (2009)](https://rpc.cfainstitute.org/research/financial-analysts-journal/2009/enough-true-measures-of-money) - Review source for the values/temperament framing of Enough.
+20. [Wiley-VCH, Don't Count on It! (2010)](https://www.wiley-vch.de/de/fachgebiete/finanzen-wirtschaft-recht/don-39-t-count-on-it-978-0-470-64396-9) - Publisher source for the essay/speech anthology and subtitle scope.
+21. [Princeton Alumni Weekly, Don't Count on It!](https://paw.princeton.edu/new-books/dont-count-it-reflections-investment-illusions-capitalism-mutual-funds-indexing) - Alumni/catalog source for the anthology's capitalism and investor-duty themes.
+22. [Bogle excerpts from Don't Count on It!](https://johncbogle.com/wordpress/wp-content/uploads/2013/09/DCOI_Excerpts_Princeton_51.pdf) - Bogle-hosted excerpts for thesis-origin and stewardship themes.
+23. [John Wiley & Sons press release, The Clash of the Cultures (2012)](https://johnwiley2020news.q4web.com/press-releases/press-release-details/2012/The-Clash-of-the-Cultures/default.aspx) - Publisher release for the investment-versus-speculation thesis and retirement/fiduciary scope.
+24. [Google Books, The Clash of the Cultures](https://books.google.com/books/about/The_Clash_of_the_Cultures.html?id=9WmHM2y8AEEC) - Catalog source for the book's subtitle and themes.
+25. [Open Library, The Clash of the Cultures](https://openlibrary.org/books/OL25372474M/The_clash_of_the_cultures) - Table-of-contents source for chapter-level reading guidance.
+26. [Bogle SEC fiduciary-duty comment (2013)](https://www.sec.gov/comments/4-606/4606-3097.pdf) - Primary regulatory source for Bogle's "two masters" agency critique and fiduciary standard.
+27. [Bogle, "The First Index Mutual Fund" (1997)](https://johncbogle.com/speeches/JCB_first_index_mf.pdf) - Primary account of the index fund's early reception, cost arithmetic, and growth.
+28. [Bogle, "Investing with Simplicity" (1999)](https://johncbogle.com/wordpress/wp-content/uploads/2019/08/Investing-with-Simplicity-1-30-99.pdf) - Primary speech for simplicity, expectations, asset allocation, and costs.
+29. [Simon & Schuster/Matt Holt, The Bogle Effect](https://www.simonandschuster.com/books/The-Bogle-Effect/Eric-Balchunas/9781637740712) - Publisher source for Eric Balchunas's modern Bogle/Vanguard impact book.
+30. [Penguin Random House, Trillions](https://www.penguinrandomhouse.com/books/622819/trillions-by-robin-wigglesworth/) - Publisher source for Robin Wigglesworth's broader index-fund history.
+31. [Barnes & Noble/McGraw Hill, The House That Bogle Built](https://www.barnesandnoble.com/w/the-house-that-bogle-built-lewis-braham/1103373526) - Publisher/retailer source for Lewis Braham's Bogle/Vanguard biography.
+32. [Google Books, The House That Bogle Built](https://books.google.com/books/about/The_House_that_Bogle_Built_How_John_Bogl.html?id=BSDLxqoLNmUC) - Supplemental catalog source for the Braham book.
+33. [Google Books, John Bogle and the Vanguard Experiment](https://books.google.com/books/about/John_Bogle_and_the_Vanguard_Experiment.html?id=wrCxAAAAIAAJ) - Catalog source for Robert Slater's early Vanguard/Bogle history.
+34. [CFA Institute review, The Man in the Arena](https://rpc.cfainstitute.org/research/financial-analysts-journal/2014/the-man-in-the-arena) - Review source for Knut Rostad's Bogle essay/forum collection.
+35. [Jason Zweig memorial, "On Jack Bogle" (2019)](https://jasonzweig.com/on-jack-bogle-2/) - High-signal journalistic supplement on Bogle's temperament and reputation.
+36. [ABC News / USA Today interview with Bogle (2012)](https://abcnews.com/Business/vanguards-jack-bogle-financial-train-wreck-looms/story?id=17137130) - Interview source for Bogle's ETF caveats and fiduciary-standard views.
+
