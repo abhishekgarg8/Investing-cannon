@@ -692,3 +692,8 @@
 - Output: investors/018-michael-steinhardt/profile.md (~2,885 words, 18 sources)
 - Notes: Created Steinhardt profile and sources map with reported 24.5% net 1967-1995 return caveat, 1994 drawdown/AUM context, WisdomTree/philanthropy, and legal/reputational record through 2024 antiquities developments. Corrected DOJ/SEC Treasury settlement to $76M from primary source.
 - Backlog added: None
+
+## 2026-06-24T23:27:51Z — T0136 — 017-julian-robertson — G-mental-models — DONE
+- Output: investors/017-julian-robertson/mental-models.md (~2,559 words, 18 sources)
+- Notes: Stale retry closeout: verified already-present mental-models file, appended missing Task G source map, and spot-checked Columbia, SEC U.S. Airways, and NY Supreme Court Hound/Tiger sources. Caveats preserved around no official Tiger risk manual/letter archive, unaudited Tiger ledgers, U.S. Airways final economics, and posthumous seed-platform litigation.
+- Backlog added: None
