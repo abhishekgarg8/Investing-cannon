@@ -602,3 +602,8 @@
 - Output: investors/015-jack-bogle/key-writings.md (~3,106 words, 36 sources)
 - Notes: Completed Bogle key-writings guide across books, speeches/testimony, SEC comments, and ranked secondary works. Treated Bogle's corpus as founder/fiduciary reform material rather than a stock-selection record; preserved caveats around blocked/full-copy book access, chapter-level verification, ETFs, and index ownership concentration.
 - Backlog added: None
+
+## 2026-06-24T02:29:41Z — T0121 — 015-jack-bogle — H-synthesis — DONE
+- Output: investors/015-jack-bogle/synthesis.md (~1,540 words, 18 sources)
+- Notes: Completed Bogle synthesis with executive brief, ranked lessons, taxonomy, regime dependence, peer comparisons, luck-vs-skill framing, unresolved questions, source-map append, and refreshed INDEX row. Preserved caveats around no personal alpha ledger, market-beta attribution, post-Bogle Vanguard regulatory matters, passive stewardship concentration, and non-U.S. adaptation.
+- Backlog added: None
