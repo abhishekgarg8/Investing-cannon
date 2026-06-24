@@ -125,7 +125,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-24T01:26:43Z T0118 | 015-jack-bogle | E-own-words | investors/015-jack-bogle/in-their-own-words.md
 - [x] done:2026-06-24T01:30:36Z T0119 | 015-jack-bogle | F-key-writings | investors/015-jack-bogle/key-writings.md
 - [~] claimed:2026-06-24T01:38:02Z T0120 | 015-jack-bogle | G-mental-models | investors/015-jack-bogle/mental-models.md
-- [ ] T0121 | 015-jack-bogle | H-synthesis | investors/015-jack-bogle/synthesis.md
+- [x] done:2026-06-24T02:29:41Z T0121 | 015-jack-bogle | H-synthesis | investors/015-jack-bogle/synthesis.md
 - [ ] T0122 | 016-joel-greenblatt | A-profile | investors/016-joel-greenblatt/profile.md
 - [ ] T0123 | 016-joel-greenblatt | B-philosophy | investors/016-joel-greenblatt/investment-philosophy.md
 - [ ] T0124 | 016-joel-greenblatt | C-greatest-trades | investors/016-joel-greenblatt/greatest-trades.md
