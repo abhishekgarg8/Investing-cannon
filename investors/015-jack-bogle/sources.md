@@ -83,7 +83,7 @@ As of 2026-06-23. This source map starts the Jack Bogle folder for task T0114. P
 15. [SEC administrative proceeding against Vanguard Advisers (2025)](https://www.sec.gov/enforcement-litigation/administrative-proceedings/ia-6912-s) - Current conflict-disclosure caveat for post-Bogle advisory expansion.
 16. [Texas Attorney General Vanguard settlement press release (2026)](https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-historic-industry-changing-agreement-vanguard-protect-coal-industry) - Current legal/political caveat on passive ownership, ESG, coal, passivity commitments, and proxy voting choice.
 
-## T0117 D-mistakes source append - 2026-06-23
+## T0117 D-mistakes source append - 2026-06-24
 
 1. [Vanguard Announces The Passing Of Founder John C. Bogle (2019)](https://www.prnewswire.com/news-releases/vanguard-announces-the-passing-of-founder-john-c-bogle-300779813.html) - Official source for Bogle's death date and career chronology; used for current status.
 2. [Bogle, "The Vanguard Story: Luck, Leadership, and Strategy" (NYU, 2000)](https://johncbogle.com/speeches/JCB_NYU_10-19-00.pdf) - Primary narrative for the Wellington/Thorndike-Doran merger, 1974 firing, initial one-third Vanguard mandate, 1975 index-fund authorization, and 1977 no-load vote.
@@ -101,3 +101,4 @@ As of 2026-06-23. This source map starts the Jack Bogle folder for task T0114. P
 14. [Bogle testimony before House Financial Services Subcommittee (2003)](https://financialservices.house.gov/media/pdf/031203jb.pdf) - Primary source for Bogle's critique of industry drift from stewardship to salesmanship, rising costs, turnover, and fund failure.
 15. [SEC comment letter, John C. Bogle on fiduciary duty (2013)](https://www.sec.gov/comments/4-606/4606-3097.pdf) - Regulatory comment source for Bogle's late-career fiduciary-duty and "two masters" critique.
 16. [Vanguard corporate history page (current)](https://corporate.vanguard.com/content/corporatesite/us/en/corp/why-vanguard/who-we-are/our-history.html) - Official corporate timeline and structure context for the Vanguard Experiment; used as institutional background, not as independent criticism.
+17. [SEC Fair Fund extension order for Vanguard target-date fund matter (2026)](https://www.sec.gov/files/litigation/admin/2026/34-104993.pdf) - Current Fair Fund status: class-action settlement rejection added $40 million, bringing collected Fair Fund amount to $146.41 million and extending the distribution-plan deadline to July 31, 2026.
