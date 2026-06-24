@@ -126,7 +126,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-24T01:30:36Z T0119 | 015-jack-bogle | F-key-writings | investors/015-jack-bogle/key-writings.md
 - [x] done:2026-06-24T05:24:33Z T0120 | 015-jack-bogle | G-mental-models | investors/015-jack-bogle/mental-models.md
 - [x] done:2026-06-24T02:29:41Z T0121 | 015-jack-bogle | H-synthesis | investors/015-jack-bogle/synthesis.md
-- [~] claimed:2026-06-24T03:16:14Z T0122 | 016-joel-greenblatt | A-profile | investors/016-joel-greenblatt/profile.md
+- [~] claimed:2026-06-24T06:22:23Z T0122 | 016-joel-greenblatt | A-profile | investors/016-joel-greenblatt/profile.md
 - [x] done:2026-06-24T04:22:41Z T0123 | 016-joel-greenblatt | B-philosophy | investors/016-joel-greenblatt/investment-philosophy.md
 - [x] done:2026-06-24T05:25:29Z T0124 | 016-joel-greenblatt | C-greatest-trades | investors/016-joel-greenblatt/greatest-trades.md
 - [ ] T0125 | 016-joel-greenblatt | D-mistakes | investors/016-joel-greenblatt/mistakes-and-losses.md
@@ -819,3 +819,4 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
+
