@@ -758,3 +758,8 @@
 - Output: investors/019-david-tepper/in-their-own-words.md (~2,001 words, 22 sources)
 - Notes: Closeout of already-present output: verified required quote/index sections, Task E source map, and spot-checked CMU commencement, Appaloosa Whirlpool letter, and Business Insider/Markets Insider sources. Preserved caveats around no public Appaloosa letters, CNBC transcript carriers, and institutional/sports-source provenance.
 - Backlog added: None
+
+## 2026-06-25T18:23:02Z — T0152 — 019-david-tepper — G-mental-models — DONE
+- Output: investors/019-david-tepper/mental-models.md (~2,400 words, 18 sources)
+- Notes: Closeout of already-present Task G output: verified required sections, appended missing Task G source map, and spot-checked SEC 13F, Whirlpool 13D/letter, Rule 105, WaMu, and AT1 sources. Preserved caveats around private Appaloosa letters, transcript-carrier CNBC evidence, 13F non-comparability, live Whirlpool activism, and AT1 litigation.
+- Backlog added: None
