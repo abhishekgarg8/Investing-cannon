@@ -114,7 +114,7 @@ The clearest process improvement after Russia is the difference between a hoped-
 
 ### Capacity discipline and capital returns
 
-Appaloosa repeatedly returned capital and eventually moved toward a family-office model. Institutional Investor reported that the firm had returned capital in eight of the prior nine years as of 2019, and Reuters reported the plan to return outside capital and invest Tepper's personal fortune ([Institutional Investor, 2019](https://www.institutionalinvestor.com/article/2bswguw6e4as640zbx8g0/corner-office/david-teppers-appaloosa-will-convert-to-a-family-office-eventually); [Reuters via Investing.com, 2019](https://www.investing.com/news/stock-market-news/hedge-fund-manager-david-tepper-plans-to-send-investors-money-back-1877205)). This is a process response to drawdown and liquidity risk: keep assets small enough that bargains can matter and investors do not force sales at the worst time.
+Appaloosa repeatedly returned capital and eventually moved toward a family-office model. Institutional Investor reported that the firm had returned capital in eight of the prior nine years as of 2019, and Reuters reported the plan to return outside capital and invest Tepper's personal fortune ([Institutional Investor, 2019](https://www.institutionalinvestor.com/article/2bswguw6e4as640zbx8g0/corner-office/david-tepper-will-convert-appaloosa-to-a-family-office-eventually); [Reuters via Investing.com, 2019](https://www.investing.com/news/stock-market-news/hedge-fund-manager-david-tepper-plans-to-send-investors-money-back-1877205)). This is a process response to drawdown and liquidity risk: keep assets small enough that bargains can matter and investors do not force sales at the worst time.
 
 ### Compliance controls after Wells Fargo
 
