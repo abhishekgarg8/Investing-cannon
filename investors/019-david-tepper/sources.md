@@ -74,6 +74,8 @@ Retry verification note (2026-06-25T13:30:43Z): rechecked Bloomberg Markets, New
 
 ## Task D source map
 
+Stale closeout verification note (2026-06-25T14:25:50Z): rechecked the completed Task D output and spot-checked the SEC Rule 105 order, WaMu bankruptcy opinion, Q1 2026 13F, Whirlpool 13D, and current AT1/Whirlpool search results; no duplicate source map added.
+
 1. [SEC Administrative Proceeding, Exchange Act Release No. 62447, Appaloosa Management L.P., 2010](https://www.sec.gov/files/litigation/admin/2010/34-62447.pdf) - Primary source for the Wells Fargo Rule 105 violation, disgorgement/penalty/interest, and required compliance undertakings.
 2. [Delaware Bankruptcy Court opinion in Washington Mutual, 2011](https://www.deb.uscourts.gov/sites/deb/files/opinions/mwf2011091308-12229_0.pdf) - Primary source for the colorable equitable-disallowance/insider-trading ruling, temporary-insider analysis, and ethical-wall/trading-restriction lesson.
 3. [Washington Mutual SEC Form 8-K exhibit confirming the Seventh Amended Plan, 2012](https://www.sec.gov/Archives/edgar/data/933136/000090951812000087/jg02-2712_8ke23.htm) - Primary filing for later WaMu plan confirmation context after the September 2011 opinion and mediation process.
