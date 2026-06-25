@@ -155,7 +155,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-25T13:34:46Z T0148 | 019-david-tepper | C-greatest-trades | investors/019-david-tepper/greatest-trades.md
 - [x] done:2026-06-25T14:25:50Z T0149 | 019-david-tepper | D-mistakes | investors/019-david-tepper/mistakes-and-losses.md
 - [x] done:2026-06-25T16:23:07Z T0150 | 019-david-tepper | E-own-words | investors/019-david-tepper/in-their-own-words.md
-- [~] claimed:2026-06-25T20:21:55Z T0151 | 019-david-tepper | F-key-writings | investors/019-david-tepper/key-writings.md
+- [x] done:2026-06-25T20:29:20Z T0151 | 019-david-tepper | F-key-writings | investors/019-david-tepper/key-writings.md
 - [x] done:2026-06-25T18:23:02Z T0152 | 019-david-tepper | G-mental-models | investors/019-david-tepper/mental-models.md
 - [x] done:2026-06-25T19:23:38Z T0153 | 019-david-tepper | H-synthesis | investors/019-david-tepper/synthesis.md
 - [x] done:2026-06-25T19:30:26Z T0154 | 020-paul-tudor-jones | A-profile | investors/020-paul-tudor-jones/profile.md
