@@ -753,3 +753,8 @@
 - Output: investors/019-david-tepper/mistakes-and-losses.md (~3,594 words, 18 sources)
 - Notes: Stale closeout: verified already-present mistakes/losses file, Task D source map, and sample support from SEC Rule 105, WaMu court, SEC 13F/13D, and current AT1/Whirlpool searches. Preserved caveats around private Appaloosa letters, transcript-carrier CNBC evidence, live AT1 litigation, China/Whirlpool open risks, and 13F non-comparability.
 - Backlog added: None
+
+## 2026-06-25T16:23:07Z — T0150 — 019-david-tepper — E-own-words — DONE
+- Output: investors/019-david-tepper/in-their-own-words.md (~2,001 words, 22 sources)
+- Notes: Closeout of already-present output: verified required quote/index sections, Task E source map, and spot-checked CMU commencement, Appaloosa Whirlpool letter, and Business Insider/Markets Insider sources. Preserved caveats around no public Appaloosa letters, CNBC transcript carriers, and institutional/sports-source provenance.
+- Backlog added: None
