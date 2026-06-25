@@ -176,3 +176,30 @@ Source gaps carried forward from T0143:
 - Locate the original Kirk Report item or speech behind the six-rule list.
 - Locate full Charlie Rose transcripts or video captures for the 2001 and 2006 appearances.
 - Continue searching for original Steinhardt Partners letters and audited partnership records; no task so far has found them.
+
+## Task T0144 - G-mental-models source map (added 2026-06-25)
+
+109. [The Acquirer's Multiple - Michael Steinhardt: Develop A Variant Perception](https://acquirersmultiple.com/2021/12/michael-steinhardt-develop-a-variant-perception/) - *No Bull* excerpt carrier for the definition of variant perception and the consensus-versus-variant framing used in the mental-models file.
+110. [The Acquirer's Multiple - Michael Steinhardt: Being Contrarian Is Not Enough](https://acquirersmultiple.com/2017/10/michael-steinhardt-being-contrarian-is-not-enough-you-have-to-be-right/) - Charlie Rose excerpt carrier for the distinction between contrarianism and being right, plus cross-asset judgment language.
+111. [MicroCapClub - Michael Steinhardt: In His Own Words](https://microcapclub.com/michael-steinhardt-in-his-own-words/) - Long *No Bull* excerpt carrier for the two-minute analyst test, whole-portfolio reset practice, 1974-1975 reversal, 1994 loss, and wind-down context.
+112. [The Big Picture - Six Rules of Michael Steinhardt](https://ritholtz.com/2010/09/six-rules-of-michael-steinhardt/) - Speech-derived rule list used for incomplete-information decision-making, sizing discipline, and intellectual competitiveness. Still derivative until the underlying speech or Kirk Report item is found.
+113. [Morningstar India - Michael Steinhardt: Banking on 'variant perception'](https://www.morningstar.in/posts/35685/banking-on-variant-perception.aspx) - Secondary synthesis of variant perception, sizing, flexibility, and short-selling temperament.
+114. [Fortune - The Great Bond Massacre](https://fortune.com/article/the-great-bond-massacre-fortune-1994/) - Contemporaneous/archived account for the 1994 global bond loss, reported Eurobond exposure, basis-point sensitivity, and AUM drawdown context.
+115. [TIME - A Farewell to Hedges](https://time.com/archive/6728060/a-farewell-to-hedges/) - Contemporary 1995 source corroborating 1994 European-bond losses, 1995 rebound/wind-down context, and hedge-fund closure framing.
+116. [DOJ - Steinhardt and Caxton $76 million settlement announcement](https://www.justice.gov/archive/atr/public/press_releases/1994/211951.htm) - Primary government source for the Treasury-note allegations, alleged combined position size, 160% issue-size comparison, and settlement amount.
+117. [Federal Register - United States v. Steinhardt Management Company and Caxton](https://www.govinfo.gov/content/pkg/FR-1995-01-13/html/95-781.htm) - Primary proposed final judgment and competitive-impact statement for the Treasury-note settlement record.
+118. [Justia - In re Occam Networks, Inc. Stockholder Litigation](https://law.justia.com/cases/delaware/court-of-chancery/2012/ca-5878-vcl.html) - Court source for confidential-information sanctions, dismissal with prejudice, self-reporting to the SEC, and disgorgement.
+119. [Traders Magazine - No Bull review](https://www.tradersmagazine.com/news/no-bull-my-life-in-and-out-of-markets/) - Review source for early block-trading/Penn Central example and memoir context.
+120. [Los Angeles Times - Steinhardt's Bad Bet](https://www.latimes.com/archives/la-xpm-1987-12-06-fi-26826-story.html) - Contemporary 1987 source for the caution-letter-versus-exposure mismatch and crash-loss estimate.
+121. [Los Angeles Times - Funds Legend Calls It Quits, Will Cash In Huge Portfolio](https://www.latimes.com/archives/la-xpm-1995-10-12-fi-56153-story.html) - Contemporary 1995 source for fund liquidation, broad instrument use, 1987 and 1994 loss estimates, and $2.6 billion fund-family context.
+122. [Manhattan DA - Two antiquities seized from Michael Steinhardt returned to the people of Iraq](https://manhattanda.org/d-a-bragg-two-antiquities-seized-from-michael-steinhardt-returned-to-the-people-of-iraq/) - Official post-agreement repatriation update tied to the Steinhardt antiquities seizure and lifetime acquisition ban context.
+123. [ProPublica / New York Times - Women Who Worked With Michael Steinhardt Say He Asked For Sex](https://www.propublica.org/article/women-who-worked-with-billionaire-philanthropist-michael-steinhardt-say-he-repeatedly-asked-for-and-about-sex) - Investigative source for donor-power and personal-conduct risk in philanthropic settings.
+124. [New York Jewish Week/JTA - Hillel Finds Complaints Were Justified](https://www.jta.org/2019/01/13/ny/hillel-finds-complaints-were-justified-on-sexual-harassment-by-donors) - Institutional follow-up source for Hillel findings, apology, and policy revisions.
+125. [WisdomTree - WisdomTree Investments Announces Board of Director Appointments](https://ir.wisdomtree.com/news-events/press-releases/detail/608/wisdomtree-investments-announces-board-of-director) - Issuer source for WisdomTree's fundamentally weighted index framing and Steinhardt's post-fund product-architecture role.
+
+Source gaps carried forward from T0144:
+
+- Page-checked *No Bull* and *Market Wizards* citations remain needed before exact book quotations or page references are treated as final.
+- Original Steinhardt Partners risk memos, position ledgers, and portfolio reports remain missing; sizing and sell-rule reconstruction still relies on public excerpts and contemporaneous reporting.
+- The original Kirk Report item or speech behind the six-rule list remains missing.
+- Full Charlie Rose transcripts or archived video captures for the 2001 and 2006 appearances remain missing.
