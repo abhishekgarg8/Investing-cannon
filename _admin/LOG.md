@@ -707,3 +707,8 @@
 - Output: investors/018-michael-steinhardt/greatest-trades.md (~3,832 words, 18 sources)
 - Notes: Verified and upgraded the existing greatest-trades draft with publisher/book anchors for the 1981 bond trade, a Penn Central block-trade example, and clearer 1990-1995 bond/recovery triangulation. Preserved caveats around private partnership ledgers, memoir/excerpt provenance, and the April 1991 Treasury-note legal boundary.
 - Backlog added: None
+
+## 2026-06-25T01:42:14Z — T0141 — 018-michael-steinhardt — D-mistakes — DONE
+- Output: investors/018-michael-steinhardt/mistakes-and-losses.md (~2,654 words, 18 sources)
+- Notes: Completed Steinhardt mistakes/losses file covering 1987 crash discipline failure, 1994 bond-market liquidity/leverage drawdown, 1995 wind-down, Treasury-note settlement boundary risk, Occam/Calix confidential-information sanctions, antiquities provenance failure, and donor-power harassment allegations. Preserved caveats around private partnership ledgers, memoir/excerpt provenance, press-reported P&L, and externally imposed process changes.
+- Backlog added: None
