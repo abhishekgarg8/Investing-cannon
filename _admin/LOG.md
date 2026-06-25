@@ -738,3 +738,8 @@
 - Output: investors/019-david-tepper/profile.md (~2,385 words, 23 sources)
 - Notes: Stale retry closeout: verified the already-present profile, Task A source map, and sample support from SEC 13F, Whirlpool 13D, Bloomberg Markets, CMU, and SEC settlement sources. Preserved caveats around private-fund return opacity, 13F non-comparability, live Whirlpool activism, and AT1 litigation status.
 - Backlog added: None
+
+## 2026-06-25T12:22:40Z — T0147 — 019-david-tepper — B-philosophy — DONE
+- Output: investors/019-david-tepper/investment-philosophy.md (~2,682 words, 15 sources)
+- Notes: Stale retry closeout: verified already-present philosophy file, required B sections, Task B source map, and sample support from SEC 13F, Whirlpool 13D/letter, and Bloomberg/New York Magazine/MarketWatch sources. Preserved caveats around private-fund return opacity, transcript-carrier evidence, policy-backstop risk, WaMu process risk, and 13F non-comparability.
+- Backlog added: None
