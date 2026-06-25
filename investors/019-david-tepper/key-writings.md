@@ -1,6 +1,6 @@
 # David Tepper - Key Writings
 
-As of 2026-06-25T20:52:00Z, no book-length investing work, public Appaloosa annual-letter archive, or authorized collection of David Tepper writings was found in open sources. This file therefore treats "key writings" as the public record Tepper and Appaloosa actually left: signed activist letters, legal filings, university speeches and statements, long interviews/transcript carriers, and serious reporter reconstructions. That is a narrower and less elegant corpus than Buffett letters or Oaktree memos, but it is the right evidence base for a private distressed-credit hedge-fund manager.
+As of 2026-06-25T20:29:48Z, no book-length investing work, public Appaloosa annual-letter archive, or authorized collection of David Tepper writings was found in open sources. This file therefore treats "key writings" as the public record Tepper and Appaloosa actually left: signed activist letters, legal filings, university speeches and statements, long interviews/transcript carriers, and serious reporter reconstructions. That is a narrower and less elegant corpus than Buffett letters or Oaktree memos, but it is the right evidence base for a private distressed-credit hedge-fund manager.
 
 ## Evidence and Access Notes
 
