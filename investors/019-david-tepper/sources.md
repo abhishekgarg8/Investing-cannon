@@ -48,6 +48,8 @@ Created by T0147 (B-philosophy) on 2026-06-25 because no David Tepper `sources.m
 
 ## Task C source map
 
+Retry verification note (2026-06-25T13:30:43Z): rechecked Bloomberg Markets, New York Magazine, Institutional Investor, SEC Q3/Q4 2024 and Q1 2026 13F tables, the Whirlpool Schedule 13D/letter, and WaMu court/SEC materials; no completed Whirlpool exit or public China realized-P&L bridge was found in current searches.
+
 1. [Richard Teitelbaum, "Bullish at the Brink," Bloomberg Markets, February 2010](https://www.opalesque.com/files/BloombergRichestHedgeFunds.pdf) - Strong secondary profile for 2009 financials trade, fund returns, position types, AIG/WaMu/Wachovia entry prices, and 2008 drawdown.
 2. [Jessica Pressler, "Ready to Be Rich," New York Magazine, 2010](https://nymag.com/news/features/establishments/68513/) - Long-form profile covering Russia 1998, 2002-2003 distressed rebound, 2009 bank trade, and temperament.
 3. [Business Insider, "Hedge Fund Manager Rubs Brass Balls, Makes $7 Billion," 2009](https://www.businessinsider.com/hedge-fund-manager-rubs-brass-balls-makes-7-billion-2009-12) - Contemporaneous secondary account for 2009 financials P&L and nationalization-risk framing.
