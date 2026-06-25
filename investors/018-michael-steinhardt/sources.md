@@ -145,3 +145,34 @@ Source gaps carried forward from T0142:
 - Locate the original Kirk Report item or underlying speech for the "Six Rules" before treating the list as fully primary.
 - Locate full official transcripts or archived video captures for both Charlie Rose appearances, especially the 2001 *No Bull* interview and the 2006 career-reflection segment.
 - Continue searching for Steinhardt Partners letters, investor reports, annual commentary, or internal memos; none were found in this run.
+
+## Task T0143 - F-key-writings source map (added 2026-06-25)
+
+89. [Wiley-VCH - No Bull, 2005 edition](https://www.wiley-vch.de/de/fachgebiete/finanzen-wirtschaft-recht/no-bull-978-0-471-66046-0) - Publisher anchor for *No Bull* edition details, book framing, and chapter-level orientation around variant perception, 1981 bonds, 1987, 1994, and fund wind-down.
+90. [Internet Archive - No Bull: My Life In and Out of Markets](https://archive.org/details/nobull00mich) - Bibliographic archive record for the memoir; useful for provenance, but full page-cited use remains blocked pending legitimate copy access.
+91. [Google Books - No Bull: My Life in and Out of the Markets](https://books.google.com/books/about/No_Bull.html?id=vGYYuAEACAAJ) - Legitimate book metadata anchor used to reduce reliance on excerpt mirrors for publication and topic framing.
+92. [MicroCapClub - Michael Steinhardt: In His Own Words](https://microcapclub.com/michael-steinhardt-in-his-own-words/) - Long *No Bull* excerpt carrier for variant perception, analyst process, 1974-1975 reversal, 1987, 1994, and wind-down material; still not a substitute for page-checked book citations.
+93. [The Acquirer's Multiple - Develop A Variant Perception](https://acquirersmultiple.com/2021/12/michael-steinhardt-develop-a-variant-perception/) - Short *No Bull* excerpt carrier for the definition and discipline of variant perception.
+94. [Internet Archive - Market Wizards: Interviews with Top Traders](https://archive.org/details/marketwizardsint00schw) - Bibliographic anchor for Jack Schwager's Steinhardt interview chapter, the best compact process interview.
+95. [ValuePlays PDF mirror - Market Wizards](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Opened text mirror used cautiously for interview themes; replace with legitimate edition/page references later.
+96. [Charlie Rose - Michael Steinhardt, December 21, 2001](https://charlierose.com/videos/1540) - Original program page for the *No Bull* interview; confirms venue, date, and topic but does not expose a complete transcript.
+97. [The Acquirer's Multiple - Charlie Rose excerpt](https://acquirersmultiple.com/2017/10/michael-steinhardt-being-contrarian-is-not-enough-you-have-to-be-right/) - Opened transcript excerpt for 2001 remarks on contrarianism, being right, hedge-fund scorekeeping, 1994 hubris, and post-fund purpose.
+98. [Charlie Rose - March 9, 2006 program page](https://charlierose.com/videos/22232) - Original program page confirming later career-reflection appearance; full transcript remains missing.
+99. [The Big Picture - Six Rules of Michael Steinhardt](https://ritholtz.com/2010/09/six-rules-of-michael-steinhardt/) - Repost of rule list attributed to The Kirk Report in 2004; useful but derivative until original speech/source is found.
+100. [Advisor Perspectives - Michael Steinhardt on Today's Markets and the Evolution of the Hedge Fund Industry](https://www.advisorperspectives.com/pdfs/Michael_Steinhardt.pdf) - 2008 conference-remarks write-up; best late-career source on hedge-fund industry change, leverage, fees, quants, and stock-picking edge decay.
+101. [WisdomTree - 2007 board appointments release](https://ir.wisdomtree.com/news-events/press-releases/detail/608/wisdomtree-investments-announces-board-of-director) - Issuer source for WisdomTree's fundamentally weighted index framing and Steinhardt's post-fund product-architecture chapter.
+102. [WisdomTree - Michael Steinhardt retires from board](https://ir.wisdomtree.com/news-events/press-releases/detail/134/michael-steinhardt-retires-from-wisdomtrees-board-of) - Issuer source for his 15-year chairman tenure and public retirement statement.
+103. [eJewishPhilanthropy / Knowledge@Wharton - Michael Steinhardt Discusses Israel's Place in the World](https://ejewishphilanthropy.com/michael-steinhardt-discusses-israel%E2%80%99s-place-in-the-world/) - Interview source for philanthropy ROI language, Birthright theory of change, and post-market purpose.
+104. [Publishers Weekly - Birthright Founder Works Toward a Jewish Pride Movement](https://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/89827-birthright-founder-works-toward-a-jewish-pride-movement.html) - Late-career interview source around *Jewish Pride* and American Jewish identity.
+105. [Observer - An Investor's Obsession: Being Right](https://observer.com/2002/01/an-investors-obsession-being-right/) - Review/profile source that helps read *No Bull* critically, especially around temperament, culture, and being-right psychology.
+106. [Traders Magazine - No Bull review](https://www.tradersmagazine.com/news/no-bull-my-life-in-and-out-of-markets/) - Review source useful for early block-trading details and memoir context.
+107. [Commoncog - Michael Steinhardt: The King of Block Trading](https://commoncog.com/c/cases/steinhardt-block-trading/) - Modern secondary case useful for early block-trading mechanics; use as synthesis, not primary proof.
+108. [Commoncog - The Fall of Steinhardt Partners](https://commoncog.com/c/cases/steinhardt-fall/) - Modern secondary case useful for the 1994-1995 collapse/recovery narrative; figures should be checked against Fortune, LA Times, TIME, and memoir sources.
+
+Source gaps carried forward from T0143:
+
+- Acquire a legitimate copy of *No Bull* and add page-cited references for the chapters on variant perception, 1981 bonds, 1987, 1994, and fund closure.
+- Replace the opened *Market Wizards* PDF mirror with a legitimate edition and page references.
+- Locate the original Kirk Report item or speech behind the six-rule list.
+- Locate full Charlie Rose transcripts or video captures for the 2001 and 2006 appearances.
+- Continue searching for original Steinhardt Partners letters and audited partnership records; no task so far has found them.
