@@ -161,7 +161,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-25T19:30:26Z T0154 | 020-paul-tudor-jones | A-profile | investors/020-paul-tudor-jones/profile.md
 - [~] claimed:2026-06-25T22:24:27Z T0155 | 020-paul-tudor-jones | B-philosophy | investors/020-paul-tudor-jones/investment-philosophy.md
 - [~] claimed:2026-06-25T21:11:15Z T0156 | 020-paul-tudor-jones | C-greatest-trades | investors/020-paul-tudor-jones/greatest-trades.md
-- [~] claimed:2026-06-25T22:19:42Z T0157 | 020-paul-tudor-jones | D-mistakes | investors/020-paul-tudor-jones/mistakes-and-losses.md
+- [x] done:2026-06-25T22:34:38Z T0157 | 020-paul-tudor-jones | D-mistakes | investors/020-paul-tudor-jones/mistakes-and-losses.md
 - [ ] T0158 | 020-paul-tudor-jones | E-own-words | investors/020-paul-tudor-jones/in-their-own-words.md
 - [ ] T0159 | 020-paul-tudor-jones | F-key-writings | investors/020-paul-tudor-jones/key-writings.md
 - [ ] T0160 | 020-paul-tudor-jones | G-mental-models | investors/020-paul-tudor-jones/mental-models.md
