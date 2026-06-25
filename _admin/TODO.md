@@ -149,7 +149,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-25T02:32:52Z T0142 | 018-michael-steinhardt | E-own-words | investors/018-michael-steinhardt/in-their-own-words.md
 - [x] done:2026-06-25T03:24:43Z T0143 | 018-michael-steinhardt | F-key-writings | investors/018-michael-steinhardt/key-writings.md
 - [x] done:2026-06-25T05:17:34Z T0144 | 018-michael-steinhardt | G-mental-models | investors/018-michael-steinhardt/mental-models.md
-- [ ] T0145 | 018-michael-steinhardt | H-synthesis | investors/018-michael-steinhardt/synthesis.md
+- [x] done:2026-06-25T05:39:27Z T0145 | 018-michael-steinhardt | H-synthesis | investors/018-michael-steinhardt/synthesis.md
 - [ ] T0146 | 019-david-tepper | A-profile | investors/019-david-tepper/profile.md
 - [ ] T0147 | 019-david-tepper | B-philosophy | investors/019-david-tepper/investment-philosophy.md
 - [ ] T0148 | 019-david-tepper | C-greatest-trades | investors/019-david-tepper/greatest-trades.md
@@ -819,3 +819,4 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
+
