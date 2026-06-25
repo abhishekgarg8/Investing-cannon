@@ -727,3 +727,9 @@
 - Output: investors/018-michael-steinhardt/mental-models.md (~2,725 words, 17 sources)
 - Notes: Closeout of already-present Task G output: verified required sections, T0144 source map, and spot-checked MicroCapClub, DOJ, and Justia citations. Preserved caveats around excerpt-carrier sources, missing partnership records, liquidity/scale limits, and legal-boundary risks.
 - Backlog added: None
+
+
+## 2026-06-25T05:39:27Z — T0145 — 018-michael-steinhardt — H-synthesis — DONE
+- Output: investors/018-michael-steinhardt/synthesis.md (~1,857 words, 15 sources)
+- Notes: Completed Steinhardt synthesis with ranked transferability lessons, taxonomy, regime dependence, repo-relative closest/opposite investor comparisons, evidence caveats, and INDEX row. Preserved caveats around private partnership returns, excerpt-carrier sources, 1994 liquidity/scale risk, Treasury/Occam boundary issues, antiquities, and harassment/governance record.
+- Backlog added: None
