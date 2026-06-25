@@ -712,3 +712,8 @@
 - Output: investors/018-michael-steinhardt/mistakes-and-losses.md (~2,654 words, 18 sources)
 - Notes: Completed Steinhardt mistakes/losses file covering 1987 crash discipline failure, 1994 bond-market liquidity/leverage drawdown, 1995 wind-down, Treasury-note settlement boundary risk, Occam/Calix confidential-information sanctions, antiquities provenance failure, and donor-power harassment allegations. Preserved caveats around private partnership ledgers, memoir/excerpt provenance, press-reported P&L, and externally imposed process changes.
 - Backlog added: None
+
+## 2026-06-25T02:32:52Z — T0142 — 018-michael-steinhardt — E-own-words — DONE
+- Output: investors/018-michael-steinhardt/in-their-own-words.md (~2,001 words, 16 sources)
+- Notes: Completed Steinhardt own-words file with 40 short, provenance-labeled quote snippets and an annotated index of memoir/interview/speech/legal/public-accountability materials. Preserved caveats around excerpt carriers, missing partner letters, missing full Charlie Rose transcripts, and need for page-checked No Bull/Market Wizards citations.
+- Backlog added: None
