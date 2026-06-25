@@ -177,7 +177,7 @@ Run verification note (2026-06-25T19:20:09Z): completed H-synthesis while T0151 
 
 ## Task F source map
 
-Run verification note (2026-06-25T20:52:00Z): completed stale retry for T0151 after confirming no `key-writings.md` existed on main. No public Appaloosa investor-letter archive, Tepper-authored book, or official CNBC transcript archive was found; CNBC materials are therefore labeled as secondary recaps or transcript carriers.
+Run verification note (2026-06-25T20:29:48Z): completed stale retry for T0151 after confirming no `key-writings.md` existed on main. No public Appaloosa investor-letter archive, Tepper-authored book, or official CNBC transcript archive was found; CNBC materials are therefore labeled as secondary recaps or transcript carriers.
 
 1. [Appaloosa letter to Whirlpool board, 2026](https://www.prnewswire.com/news-releases/appaloosa-sends-letter-to-whirlpool-board-of-directors-302697107.html) - First-party signed activist letter; best current example of Tepper/Appaloosa public investment writing.
 2. [SEC Schedule 13D for Whirlpool, filed 2026-03-03](https://www.sec.gov/Archives/edgar/data/106640/000149315226008749/xslSCHEDULE_13D_X01/primary_doc.xml) - Primary filing that contextualizes the Whirlpool letter with ownership, reporting-person chain, source-of-funds language, and Tepper signatures.
