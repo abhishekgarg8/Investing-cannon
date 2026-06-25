@@ -1,6 +1,6 @@
 # David Tepper - Mistakes and Losses
 
-As of 2026-06-25T08:33:29Z, David Tepper is a living, active investor whose public footprint is now best observed through Appaloosa's SEC filings and selected activist situations rather than through a continuously marketed outside-capital hedge fund. This file covers Task D: the major losses, errors of omission, legal/process near-misses, behavioral roots, and process changes visible from public records. Because Appaloosa is private and does not publish an audited investor-letter archive, fund-level return figures below rely on strong secondary reporting unless otherwise noted.
+As of 2026-06-25T09:24:00Z, David Tepper is a living, active investor whose public footprint is now best observed through Appaloosa's SEC filings, selected activist situations, and litigation tied to distressed financial instruments rather than through a continuously marketed outside-capital hedge fund. This file covers Task D: the major losses, errors of omission, legal/process near-misses, behavioral roots, and process changes visible from public records. Because Appaloosa is private and does not publish an audited investor-letter archive, fund-level return figures below rely on strong secondary reporting unless otherwise noted.
 
 ## Major losses, errors of omission, and near-death moments
 
@@ -46,7 +46,15 @@ Jones Day's legal analysis is the cleanest practical takeaway: distressed invest
 
 The WaMu lesson is therefore not "Tepper was found liable." He was not, on the opened record. The lesson is that Appaloosa's edge in distressed credit required being close to negotiations, and closeness itself created legal and process hazards.
 
-### 6. 2018-2019 underexposure, shrinkage, and the cost of risk control
+### 6. Credit Suisse AT1 bonds: loss recovery is not the same as loss prevention
+
+A current legal-development caveat belongs in the mistake file because it involves Appaloosa-managed vehicles pursuing recovery on a distressed-financials loss. In April 2024, Swissinfo, republishing Bloomberg, reported that Appaloosa LP, Palomino Master Ltd., and Azteca Partners LLC sued over Credit Suisse Additional Tier 1 bonds that were written to zero in the UBS rescue. The report says the plaintiffs alleged significant losses after buying AT1 bonds shortly before the wipeout and claimed Credit Suisse misled investors about its health ([Swissinfo/Bloomberg, 2024](https://www.swissinfo.ch/eng/appaloosa-sues-credit-suisse-over-%2417-billion-at1-bond-wipeout/76316361)).
+
+As of March 30, 2026, Bloomberg Law reported that Appaloosa and two managed/advised funds could proceed with securities-fraud claims over the AT1 bonds, while the court said the firms had not sufficiently pleaded New Jersey racketeering claims. This is not a ruling that fraud occurred or that Appaloosa will recover; it is a live litigation status update showing that the securities-law claim survived a threshold challenge ([Bloomberg Law, 2026](https://news.bloomberglaw.com/litigation/ubs-stuck-with-securities-claims-over-credit-suisse-bond-wipeout)).
+
+For Tepper's process record, the AT1 episode is a modern cousin of Russia and 2009 financials: a bank-capital trade can depend on emergency-state action, regulator discretion, instrument hierarchy, and post-crisis litigation. The possible mistake is not that Appaloosa is litigating; suing may be rational recovery work. The risk is that a security whose contractual hierarchy appears analyzable can still be rewritten by emergency public authority before a distressed investor can exit.
+
+### 7. 2018-2019 underexposure, shrinkage, and the cost of risk control
 
 Institutional Investor reported that Appaloosa's assets fell to $11.6 billion at year-end 2018, down from $14.8 billion at the end of August and $16.5 billion about a year earlier. The same account says performance did not drive the whole decline, but Appaloosa was slightly in the red in 2018, ran large cash balances, and was underexposed to the stock market as equities rebounded in early 2019 ([Institutional Investor, 2019](https://www.institutionalinvestor.com/article/2bswhgrmp6rwew6061728/portfolio/david-teppers-appaloosa-sees-steep-decline-in-assets)).
 
@@ -54,7 +62,7 @@ This is a different kind of mistake: omission and opportunity cost. Tepper built
 
 This should not be overread. Returning capital is a strength if the opportunity set cannot absorb size. But it creates a tension: a manager who protects the franchise by shrinking may also miss broad beta rebounds. In the Canon taxonomy, this is a high-quality investor's late-career tradeoff between protecting permanent personal capital and maximizing outside-capital compounding.
 
-### 7. Open live risks: China and Whirlpool are not yet mistakes
+### 8. Open live risks: China and Whirlpool are not yet mistakes
 
 Two current Appaloosa exposures should be monitored but not scored as mistakes yet. Appaloosa publicly embraced Chinese equities after the 2024 stimulus turn, and 13F filings later showed meaningful listed exposure to Chinese ADRs and ETFs. But 13F filings show U.S.-listed long holdings at quarter-end, not total exposure, cost basis, hedges, or realized P&L. The Q1 2026 Appaloosa information table is useful for current portfolio visibility but cannot prove the trade's economics ([SEC Q1 2026 Form 13F information table](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000002/xslForm13F_X02/Form13FInfoTable.xml)).
 
@@ -70,6 +78,8 @@ For Wells Fargo Rule 105, Appaloosa's legal posture was settlement without admit
 
 For WaMu, Appaloosa denied the allegations in strong terms, and the opened court record did not produce a final insider-trading liability finding against Tepper or Appaloosa. But the court and legal commentary made the process risk explicit: negotiation access plus trading can become a dangerous combination even for sophisticated distressed investors ([Business Insider, 2011](https://www.businessinsider.com/david-tepper-insider-trading-wamu-2011-2); [Jones Day, 2011](https://www.jonesday.com/en/insights/2011/12/wamu-confirmation-denied-interest-rates-equitable-disallowance-and-insider-trading)).
 
+For Credit Suisse AT1s, the public posture is litigation rather than a postmortem. Swissinfo/Bloomberg reported the plaintiffs alleged Credit Suisse misled them about its health when they bought the notes, and Bloomberg Law later reported that securities-fraud claims were allowed to proceed while racketeering claims were not sufficiently pleaded ([Swissinfo/Bloomberg, 2024](https://www.swissinfo.ch/eng/appaloosa-sues-credit-suisse-over-%2417-billion-at1-bond-wipeout/76316361); [Bloomberg Law, 2026](https://news.bloomberglaw.com/litigation/ubs-stuck-with-securities-claims-over-credit-suisse-bond-wipeout)). Until the case is resolved, it should be treated as a disputed loss-recovery effort, not as an adjudicated mistake.
+
 ## Behavioral root causes
 
 ### Policy-backstop overconfidence
@@ -83,6 +93,10 @@ Appaloosa's record includes repeated rebounds after drawdowns: Russia, 2002-2003
 ### Boundary-pushing temperament
 
 New York Magazine's profile repeatedly presents Tepper as profane, combative, irreverent, and willing to say what others will not ([New York Magazine, 2010](https://nymag.com/news/features/establishments/68513/)). That temperament fits distressed investing, where the money is often made by entering ugly situations. It also fits the risk profile of legal and process near-misses: capital-markets rules, information barriers, and bankruptcy negotiations reward discipline more than bravado.
+
+### Legal hierarchy and regulator risk
+
+Tepper's best trades often come from reading capital structures under stress. The error mode is that legal priority is not always the same as realized recovery. Russia shows sovereign-payment risk, WaMu shows negotiation-information risk, and Credit Suisse AT1s show that bank-resolution powers can override what a distressed investor believes the loss waterfall should produce. The practical behavioral risk is treating legal architecture as more fixed than it is during crisis.
 
 ### Scale and life-cycle drift
 
@@ -100,7 +114,7 @@ The clearest process improvement after Russia is the difference between a hoped-
 
 ### Capacity discipline and capital returns
 
-Appaloosa repeatedly returned capital and eventually moved toward a family-office model. Institutional Investor reported that the firm had returned capital in eight of the prior nine years as of 2019, and Reuters reported the plan to return outside capital and invest Tepper's personal fortune ([Institutional Investor, 2019](https://www.institutionalinvestor.com/article/2bswguw6e4as640zbx8g0/corner-office/david-tepper-will-convert-appaloosa-to-a-family-office-eventually); [Reuters via Investing.com, 2019](https://www.investing.com/news/stock-market-news/hedge-fund-manager-david-tepper-plans-to-send-investors-money-back-1877205)). This is a process response to drawdown and liquidity risk: keep assets small enough that bargains can matter and investors do not force sales at the worst time.
+Appaloosa repeatedly returned capital and eventually moved toward a family-office model. Institutional Investor reported that the firm had returned capital in eight of the prior nine years as of 2019, and Reuters reported the plan to return outside capital and invest Tepper's personal fortune ([Institutional Investor, 2019](https://www.institutionalinvestor.com/article/2bswguw6e4as640zbx8g0/corner-office/david-teppers-appaloosa-will-convert-to-a-family-office-eventually); [Reuters via Investing.com, 2019](https://www.investing.com/news/stock-market-news/hedge-fund-manager-david-tepper-plans-to-send-investors-money-back-1877205)). This is a process response to drawdown and liquidity risk: keep assets small enough that bargains can matter and investors do not force sales at the worst time.
 
 ### Compliance controls after Wells Fargo
 
@@ -110,14 +124,19 @@ The SEC order lists the control changes Appaloosa undertook after the Wells Farg
 
 The WaMu opinion and Jones Day analysis make the distressed-investor lesson explicit: a creditor receiving material nonpublic information in negotiations should restrict trading or establish an ethical wall. The court itself stated that creditors at the negotiating table can avoid the problem by restricting trading or building an ethical wall ([Delaware Bankruptcy Court opinion, 2011](https://www.deb.uscourts.gov/sites/deb/files/opinions/mwf2011091308-12229_0.pdf); [Jones Day, 2011](https://www.jonesday.com/en/insights/2011/12/wamu-confirmation-denied-interest-rates-equitable-disallowance-and-insider-trading)). For Appaloosa, the practical lesson is that distressed edge must be separated from trading discretion when information status changes.
 
+### Contract-plus-resolution review for bank-capital instruments
+
+The Credit Suisse AT1 case adds a modern checklist item: bank-capital instruments need both contract review and emergency-resolution review. A legal priority claim is not enough if the regulator has crisis powers that can rewrite economics before courts can respond. In practice, the process needs scenario analysis for write-down triggers, governing law, forum, sovereign-immunity defenses, and expected recovery timing, not just spread-to-par math.
+
 ### Distinguishing drawdown from impairment
 
-Tepper's best process habit may be refusing to equate mark-to-market loss with permanent impairment. But the mature version needs a checklist: Is the thesis still true? Is the catalyst closer? Is liquidity sufficient? Are clients stable? Has any legal or information-boundary constraint changed? The Russia and 2002 cases show the upside of staying power; Wells Fargo and WaMu show that not all risks are market risks.
+Tepper's best process habit may be refusing to equate mark-to-market loss with permanent impairment. But the mature version needs a checklist: Is the thesis still true? Is the catalyst closer? Is liquidity sufficient? Are clients stable? Has any legal or information-boundary constraint changed? The Russia and 2002 cases show the upside of staying power; Wells Fargo, WaMu, and Credit Suisse AT1s show that not all risks are market risks.
 
 ## Open questions and caveats for later tasks
 
 - Original Appaloosa investor letters for 1998, 2002, 2008, and 2009 would improve the distinction between realized losses, mark-to-market drawdowns, and end-state P&L.
 - The CNBC transcript used here is an accessible transcript carrier, not an official CNBC archive. Later E/F tasks should replace it if an official transcript or video with stable timestamps is found.
 - The WaMu record should be updated only from primary docket materials or filings; secondary headlines can overstate the allegation as a final finding.
+- Track Palomino Master Ltd. v. Credit Suisse Group AG and related AT1 litigation; the March 2026 ruling is a survival-of-claims event, not a recovery or liability finding.
 - Current China and Whirlpool exposures should be revisited after exits, updated 13Fs, or campaign outcomes. As of this file, they are open risks, not completed mistakes.
 - Appaloosa's private credit, derivative, and short exposures are not visible in 13F filings, so public portfolio inference remains incomplete.
