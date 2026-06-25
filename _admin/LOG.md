@@ -743,3 +743,8 @@
 - Output: investors/019-david-tepper/investment-philosophy.md (~2,682 words, 15 sources)
 - Notes: Stale retry closeout: verified already-present philosophy file, required B sections, Task B source map, and sample support from SEC 13F, Whirlpool 13D/letter, and Bloomberg/New York Magazine/MarketWatch sources. Preserved caveats around private-fund return opacity, transcript-carrier evidence, policy-backstop risk, WaMu process risk, and 13F non-comparability.
 - Backlog added: None
+
+## 2026-06-25T13:31:49Z — T0148 — 019-david-tepper — C-greatest-trades — DONE
+- Output: investors/019-david-tepper/greatest-trades.md (~3,245 words, 21 sources)
+- Notes: Stale retry closeout: updated the already-present greatest-trades file to current as-of framing, verified required C sections, appended Task C retry notes, and spot-checked Bloomberg Markets, SEC 13F, Whirlpool 13D, and WaMu court sources. Preserved caveats around private Appaloosa letters, security-level P&L gaps, recycled California utilities sourcing, transcript-carrier CNBC evidence, open China/Whirlpool exits, and WaMu process-risk limits.
+- Backlog added: None
