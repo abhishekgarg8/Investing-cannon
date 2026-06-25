@@ -61,10 +61,14 @@ Created by T0147 (B-philosophy) on 2026-06-25 because no David Tepper `sources.m
 13. [SEC Form 13F information table for Appaloosa LP, Q1 2026](https://www.sec.gov/Archives/edgar/data/1656456/000165645626000002/xslForm13F_X02/Form13FInfoTable.xml) - Primary current portfolio visibility for open-risk monitoring, with 13F limitations.
 14. [Appaloosa letter to Whirlpool board, 2026-02-25](https://www.prnewswire.com/news-releases/appaloosa-sends-letter-to-whirlpool-board-of-directors-302697107.html) - First-party source for the live Whirlpool activist campaign, treated as open risk rather than completed mistake.
 15. [SEC Schedule 13D for Whirlpool, filed 2026-03-03](https://www.sec.gov/Archives/edgar/data/106640/000149315226008749/xslSCHEDULE_13D_X01/primary_doc.xml) - Primary filing for current reporting-person/beneficial-ownership context in the live Whirlpool campaign.
+16. [Swissinfo/Bloomberg, "Appaloosa Sues Credit Suisse Over $17 Billion AT1 Bond Wipeout," 2024](https://www.swissinfo.ch/eng/appaloosa-sues-credit-suisse-over-%2417-billion-at1-bond-wipeout/76316361) - Strong secondary source for the AT1 lawsuit filing, plaintiffs, claimed losses, alleged misrepresentations, and docket identifier.
+17. [Bloomberg Law, "UBS Stuck With Securities Claims Over Credit Suisse Bond Wipeout," 2026](https://news.bloomberglaw.com/litigation/ubs-stuck-with-securities-claims-over-credit-suisse-bond-wipeout) - Current legal-status source: securities-fraud claims survived at threshold while racketeering claims were not sufficiently pleaded.
+18. [Justia, Palomino Master Ltd. et al. v. Credit Suisse Group AG et al., D.N.J. transfer order, 2025](https://law.justia.com/cases/federal/district-courts/new-jersey/njdce/2%3A2024cv05539/547118/19/) - Court-order source for transfer of the case from New Jersey to the Southern District of New York.
 
 ## Open questions for later Tepper tasks
 
 - Reconstruct Appaloosa's audited annual return series from original investor letters if available; current 25% and 30% compound-return claims are strong secondary but not audited in open sources.
 - Find original Appaloosa investor letters around 1998 Russia, 2001-2003 distressed wins, 2008 drawdown, and 2009 bank purchases.
 - Page-check book treatments of Tepper in hedge-fund histories and compare against Bloomberg/New York Magazine accounts.
+- Track the Palomino/Credit Suisse AT1 litigation outcome and any recovery/liability finding.
 - Follow the 2026 Whirlpool campaign outcome and update legal/governance status in later C/D/G/H tasks.
