@@ -63,3 +63,26 @@ Source gaps carried forward from T0139:
 - Exact page-cited passages from *No Bull* and *Market Wizards* should be captured in later quotation/writings tasks from physical, library, or otherwise authorized full-text access.
 - The 2001 Charlie Rose interview needs a full transcript or archived video review before any long quotation is used.
 - Original Steinhardt investor letters, partnership reports, and audited performance records remain unavailable; philosophy claims relying on returns remain reported/private-fund figures.
+
+## Task T0140 - C-greatest-trades source map (added 2026-06-25)
+
+37. [MicroCapClub - Michael Steinhardt: In His Own Words](https://microcapclub.com/michael-steinhardt-in-his-own-words/) - Excerpt carrier from *No Bull*; best opened source for 1973-1975 bear-market results, the net exposure reversal from short to long, variant perception framing, and portfolio reset practice.
+38. [Scribd mirror - No Bull: My Life In and Out of Markets](https://www.scribd.com/document/773220764/No-Bull-My-Life-in-and-Out-of-the-Markets-Michael-Steinhardt-Z-Library) - Full-text mirror used cautiously for the 1981 Treasury-bond trade size, leverage, client-redemption pressure, paper loss, reported $40 million profit, and 97% year. Needs replacement with a legitimate copy/page check in later E/F tasks.
+39. [Amazon - No Bull: My Life In and Out of Markets](https://www.amazon.com/No-Bull-Life-Out-Markets/dp/0471181528) - Book-commerce and publisher-description carrier confirming *No Bull*'s publication details and that the 1981 bond decision is presented by the book as a major coup.
+40. [Internet Archive - No Bull: My Life In and Out of Markets](https://archive.org/details/nobull00mich) - Bibliographic anchor for the memoir; confirms restricted access and jacket description of 1981 bonds and mid-1990s global macro failure.
+41. [FRED - 10-Year Treasury Constant Maturity Rate (DGS10)](https://fred.stlouisfed.org/series/DGS10) - Federal Reserve/St. Louis Fed source for the interest-rate series context around the 1981 bond pivot; use for macro backdrop, not trade-specific P&L.
+42. [Commoncog - Michael Steinhardt: The King of Block Trading](https://commoncog.com/c/cases/steinhardt-block-trading/) - Secondary case study for early block-trading/go-go market context and first-full-year performance claims; useful but not primary.
+43. [Traders Magazine - No Bull review](https://www.tradersmagazine.com/news/no-bull-my-life-in-and-out-of-markets/) - Contemporary review source highlighting early block-trading edge and memoir treatment; useful as corroborating secondary evidence.
+44. [Fortune - The Great Bond Massacre](https://fortune.com/article/the-great-bond-massacre-fortune-1994/) - Contemporaneous/archived 1994 reporting on the global bond selloff, Steinhardt's reported Eurobond position size, leverage sensitivity, drawdown, and prior 60%+ annual gains.
+45. [Los Angeles Times - Funds Legend Calls It Quits](https://www.latimes.com/archives/la-xpm-1995-10-12-fi-56153-story.html) - Contemporary source for 1995 fund liquidation, $2.6 billion fund-family size, 24.3% compound record claim, 1987 loss estimate, 1994 loss estimate, and Treasury settlement context.
+46. [Commoncog - The Fall of Steinhardt Partners](https://commoncog.com/c/cases/steinhardt-fall/) - Secondary synthesis of the 1994-1995 recovery and wind-down; useful for narrative triangulation but not sufficient for exact P&L.
+47. [DOJ - Steinhardt and Caxton $76 million settlement announcement](https://www.justice.gov/archive/atr/public/press_releases/1994/211951.htm) - Primary source for the April 1991 two-year Treasury note allegations, combined nearly $20 billion position, 160% of issue size, and Steinhardt's $40 million settlement components.
+48. [Federal Register - United States v. Steinhardt Management Company and Caxton](https://www.govinfo.gov/content/pkg/FR-1995-01-13/html/95-781.htm) - Primary proposed final judgment and competitive-impact statement for the Treasury-note case; useful for legal restrictions and complaint framing.
+49. [The Acquirer's Multiple - Steinhardt Charlie Rose excerpt](https://acquirersmultiple.com/2017/10/michael-steinhardt-being-contrarian-is-not-enough-you-have-to-be-right/) - Secondary transcript/excerpt source for Steinhardt's hedge-fund scorekeeping, incomplete-information decision style, and "don't make small investments" rule.
+50. [Observer - An Investor's Obsession: Being Right](https://observer.com/2002/01/an-investors-obsession-being-right/) - Review/profile source for management culture, 1987 and 1994 failure context, and post-fund philanthropy transition; used mainly to downgrade excluded candidates.
+
+Source gaps carried forward from T0140:
+
+- Replace the Scribd mirror with a legitimate page-checked copy of *No Bull* before any exact quotation or page citation enters E/F tasks.
+- Locate original Steinhardt Partners monthly or annual letters for 1973-1975, 1981, 1990-1995, and the April 1991 Treasury-note position.
+- Reconstruct year-by-year gross/net exposure, partner capital, and realized P&L by trade; the public record remains strongest on portfolio-level outcomes rather than position ledgers.
