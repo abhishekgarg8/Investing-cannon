@@ -748,3 +748,8 @@
 - Output: investors/019-david-tepper/greatest-trades.md (~3,245 words, 21 sources)
 - Notes: Stale retry closeout: updated the already-present greatest-trades file to current as-of framing, verified required C sections, appended Task C retry notes, and spot-checked Bloomberg Markets, SEC 13F, Whirlpool 13D, and WaMu court sources. Preserved caveats around private Appaloosa letters, security-level P&L gaps, recycled California utilities sourcing, transcript-carrier CNBC evidence, open China/Whirlpool exits, and WaMu process-risk limits.
 - Backlog added: None
+
+## 2026-06-25T14:25:50Z — T0149 — 019-david-tepper — D-mistakes — DONE
+- Output: investors/019-david-tepper/mistakes-and-losses.md (~3,594 words, 18 sources)
+- Notes: Stale closeout: verified already-present mistakes/losses file, Task D source map, and sample support from SEC Rule 105, WaMu court, SEC 13F/13D, and current AT1/Whirlpool searches. Preserved caveats around private Appaloosa letters, transcript-carrier CNBC evidence, live AT1 litigation, China/Whirlpool open risks, and 13F non-comparability.
+- Backlog added: None
