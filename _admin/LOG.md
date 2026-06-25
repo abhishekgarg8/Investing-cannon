@@ -717,3 +717,9 @@
 - Output: investors/018-michael-steinhardt/in-their-own-words.md (~2,001 words, 16 sources)
 - Notes: Completed Steinhardt own-words file with 40 short, provenance-labeled quote snippets and an annotated index of memoir/interview/speech/legal/public-accountability materials. Preserved caveats around excerpt carriers, missing partner letters, missing full Charlie Rose transcripts, and need for page-checked No Bull/Market Wizards citations.
 - Backlog added: None
+
+## 2026-06-25T03:24:43Z — T0143 — 018-michael-steinhardt — F-key-writings — DONE
+- Output: investors/018-michael-steinhardt/key-writings.md (~2,740 words, 20 sources)
+- Notes: Completed Steinhardt key-writings guide centered on *No Bull*, Schwager/Charlie Rose/speech materials, Advisor Perspectives, WisdomTree, and Jewish Pride/philanthropy sources. Preserved gaps around page-checked *No Bull*/*Market Wizards*, original partnership letters, Kirk speech provenance, full Charlie Rose transcripts, and legal packet completion.
+- Backlog added: None
+
