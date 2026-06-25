@@ -778,3 +778,8 @@
 - Output: investors/019-david-tepper/key-writings.md (~2,483 words, 23 sources)
 - Notes: Stale retry completed the missing Tepper key-writings file; treated the corpus as speeches, signed activist letters, filings, transcript carriers, and serious profiles because no public Appaloosa letter archive or Tepper-authored book was found. Preserved caveats around transcript carriers, 13F limits, Rule 105/WaMu/AT1 legal context, and live Whirlpool/AT1 trails.
 - Backlog added: None
+
+## 2026-06-25T22:34:38Z — T0157 — 020-paul-tudor-jones — D-mistakes — DONE
+- Output: investors/020-paul-tudor-jones/mistakes-and-losses.md (~2,892 words, 15 sources)
+- Notes: Completed Jones mistakes/losses file covering the 1979 cotton near-death loss, 1994 SEC married-put/uptick-rule trade, post-2008 Tudor return decay, Tudor Farms wetlands, UVA comments, and Weinstein-email controversy. Preserved caveats around private Tudor return ledgers, self-reported cotton-loss figures, and the unverified 1994 trading-loss amount.
+- Backlog added: None
