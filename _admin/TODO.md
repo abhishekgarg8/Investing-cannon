@@ -151,7 +151,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-25T05:17:34Z T0144 | 018-michael-steinhardt | G-mental-models | investors/018-michael-steinhardt/mental-models.md
 - [x] done:2026-06-25T05:39:27Z T0145 | 018-michael-steinhardt | H-synthesis | investors/018-michael-steinhardt/synthesis.md
 - [x] done:2026-06-25T11:24:33Z T0146 | 019-david-tepper | A-profile | investors/019-david-tepper/profile.md
-- [~] claimed:2026-06-25T07:11:35Z T0147 | 019-david-tepper | B-philosophy | investors/019-david-tepper/investment-philosophy.md
+- [x] done:2026-06-25T12:22:40Z T0147 | 019-david-tepper | B-philosophy | investors/019-david-tepper/investment-philosophy.md
 - [~] claimed:2026-06-25T07:35:56Z T0148 | 019-david-tepper | C-greatest-trades | investors/019-david-tepper/greatest-trades.md
 - [ ] T0149 | 019-david-tepper | D-mistakes | investors/019-david-tepper/mistakes-and-losses.md
 - [ ] T0150 | 019-david-tepper | E-own-words | investors/019-david-tepper/in-their-own-words.md
