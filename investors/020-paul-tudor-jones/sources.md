@@ -1,0 +1,42 @@
+# Paul Tudor Jones - sources
+
+As of 2026-06-25. Source map started for Task A-profile (T0154). Rankings favor primary/official documents and then strong secondary reporting. Performance and AUM figures remain caveated because Tudor funds are private, 13F is incomplete by design, and regulatory AUM is not the same as investor capital.
+
+## Tier 1 - primary / official
+
+1. [Tudor Investment Corporation - Home](https://www.tudorfunds.com/home) - Official firm description: Tudor was formed by Paul Tudor Jones II in 1980 and trades fixed income, currencies, equities, commodities and related derivatives across discretionary and quantitative strategies.
+2. [Tudor Investment Corporation - Legal and Regulatory Disclosures](https://www.tudorfunds.com/Disclosures) - Current Tudor group entity list, investor privacy notice, and regulatory disclosures; useful for current structure and affiliates.
+3. [SEC 13F-HR cover page, quarter ended 2026-03-31](https://www.sec.gov/Archives/edgar/data/923093/000090266426002516/xslForm13F_X02/primary_doc.xml) - Primary filing showing Tudor Investment Corp et al., CRD 159792, $53.874B information-table value, 3,515 entries, and 2026-05-15 signature.
+4. [SEC 13F-HR information table, quarter ended 2026-03-31](https://www.sec.gov/Archives/edgar/data/923093/000090266426002516/xslForm13F_X02/infotable.xml) - Primary holdings table; useful for later work on current public-equity/options exposures, with 13F limitations.
+5. [SEC-filed final prospectus for a Tudor-advised commodity pool](https://www.sec.gov/Archives/edgar/data/861895/000095013003003882/d424b3.htm) - Rich primary description of Tudor trading methods, conflicts, Jones's role, CFTC/NFA-type termination risks, biography, proprietary trading, and disclosed legal matters.
+6. [9AT Form ADV mirror - Tudor Investment Corporation](https://9at.com/Adviser/801-73474) - Not primary, but mirrors current ADV fields and text; use to extract 2026 regulatory AUM, employees, private funds, relying advisers, ownership and strategy language when the SEC PDF is difficult to fetch.
+7. [UVA Contemplative Sciences Center - Paul Tudor Jones](https://csc.virginia.edu/people/paul-tudor-jones) - Official UVA bio naming him founder, co-chairman, CIO, controlling principal, principal risk taker for Tudor, and primary risk taker for Tudor BVI Global.
+8. [Greenwich Economic Forum - Paul Tudor Jones II](https://www.thegeforum.com/speakers/paul-tudor-jones-ii) - Current public speaker bio; useful for New York Fed Investor Advisory Committee role, UVA 1976 degree, family, and philanthropy.
+9. [Robin Hood - About](https://robinhood.org/about/) - Official history of Robin Hood's 1988 founding by Jones, Borish, Saltzman, Dubin and Chessa; useful for philanthropy and investing-style grantmaking.
+10. [Audubon - 2016 Audubon Medal Awardee: Paul Tudor Jones II](https://www.audubon.org/news/2016-audubon-medal-awardee-paul-tudor-jones-ii) - Official conservation award bio, including Tudor, Cotton Exchange/FINEX, Robin Hood, NFWF, Everglades, JUST Capital and other service roles.
+11. [Colossus / Invest Like the Best - You Retire, You Die](https://colossus.com/episode/you-retire-you-die/) - 2026 episode page and partial transcript; useful for living/current status and recent views, though full transcript requires login.
+12. [Tudor Investments - The Great Monetary Inflation memo mirror](https://www.lopp.net/pdf/BVI-Macro-Outlook.pdf) - Public mirror of the 2020 Tudor BVI macro outlook; use with provenance caveat because it is not hosted on Tudor's site in this source set.
+
+## Tier 2 - strong secondary / contemporary reporting
+
+13. [Financial Advisor / Bloomberg - Tudor Demands Managers Take More Risk in Hedge Fund Shakeup](https://www.fa-mag.com/news/tudor-demands-managers-take-more-risk-in-hedge-fund-shakeup-28576.html?print=) - Strong reporting on 2016 weak-performance regime, staff cuts, risk reset, $11B firm scale, and reported Tudor BVI return split.
+14. [Institutional Investor - Paul Tudor Jones Lowers Fees Again](https://www.institutionalinvestor.com/article/2bsvt5vkd2isw3av2iz28/portfolio/the-morning-brief-paul-tudor-jones-lowers-fees-again) - Useful for 2016/2017 low-return and fee-pressure context.
+15. [CFA Institute linkfest citing NYT DealBook profile](https://blogs.cfainstitute.org/insideinvesting/2014/03/07/linkfest-gross-vs-el-erian-tapering-on-track-after-strong-jobs-housing-recovery-little-benefit-to-hardest-hit/) - Secondary pointer to 2014 NYT profile; captures the $10.3B flagship and near-19.5% long-term annual-return claim. Prefer original NYT if accessible later.
+16. [Washington Post - Tudor Investments Settles with SEC](https://www.washingtonpost.com/archive/business/1996/09/13/tudor-investments-settles-with-sec/c141ddde-c52e-4e28-a3d1-9047fbd4a493/) - Contemporary reporting on the $800,000 SEC settlement, married-put/uptick-rule mechanics, and the SEC's no-intent framing.
+17. [Wall Street Journal - Tudor Settles SEC Case That Caused Dow to Fall](https://www.wsj.com/articles/SB842554460240889500) - Independent contemporary reporting on the same 1996 SEC settlement, including Tudor's reported $3.3M loss on the 1994 trade.
+18. [Washington Post - Trading Whiz Fined for Wetland Damage](https://www.washingtonpost.com/archive/politics/1990/05/26/trading-whiz-fined-for-wetland-damage/57ace2a3-3159-4c5b-8b2f-e39ed8a3199e/) - Contemporary legal/environmental source on the 1990 wetlands plea, fine, restitution, probation and conservation easement.
+19. [Washington Post - Virginia contractor convicted of filling in wetlands](https://www.washingtonpost.com/archive/realestate/1991/01/12/va-contractor-convicted-of-filling-in-wetlands/dd811c23-8315-4516-8fe4-2a78403d2f36/) - Follow-up on the contractor conviction and prosecutors' framing of the Tudor Farms matter.
+20. [National Wildlife Federation - True Tales of Eco-Crimes](https://www.nwf.org/Magazines/National-Wildlife/1993/True-Tales-of-Eco-Crimes) - Conservation-sector narrative of the Tudor Farms case; useful as a critical counterweight to later conservation honors.
+21. [Washington Post - Paul Tudor Jones on mothers as traders](https://www.washingtonpost.com/local/education/paul-tudor-jones-my-remarks-offended-and-i-am-sorry/2013/05/24/6bb3f0c0-c4a9-11e2-9fe2-6ee52d0eb7c1_story.html) - Primary-ish controversy source including his apology statement and context for the UVA women-in-trading remarks.
+22. [UVA Magazine - Teresa Sullivan resignation and reinstatement timeline](https://uvamagazine.org/articles/timeline_teresa_sullivans_resignation_and_reinstatement) - University-adjacent timeline for Jones's op-ed supporting the Board and Sullivan's unanimous reinstatement.
+23. [Business Insider - Jones email to Harvey Weinstein](https://www.businessinsider.com/paul-tudor-jones-says-its-good-news-everyone-will-forget-about-harvey-weinstein-2017-12) - Secondary controversy source summarizing the Weinstein email and Jones's later staff memo.
+24. [Daily Voice - Happy Birthday to Greenwich's Paul Tudor Jones II](https://dailyvoice.com/connecticut/greenwich/neighbors/happy-birthday-to-greenwichs-paul-tudor-jones-ii/494847/) - Local source for birth date/place, early career summary, 1980 Tudor founding, residence and older net-worth estimate.
+25. [MarketWatch - May 2026 AI market interview coverage](https://www.marketwatch.com/story/this-hedge-fund-legend-just-warned-investors-not-to-chase-stocks-higher-why-he-is-investing-in-ai-anyway-1bbad5f1) - Current market-commentary source showing Jones remained active in 2026 and framing AI/bubble views.
+
+## Useful leads for later tasks
+
+- [TurtleTrader - Paul Tudor Jones interview transcript](https://www.turtletrader.com/paul-tudor-jones-interview/) - Good lead for philosophy and risk-control quotes; verify original venue and date before using heavily in Task B/E.
+- [Justia - United States v. William B. Ellen](https://law.justia.com/cases/federal/appellate-courts/F2/961/462/208984/) - Appellate background on Tudor Farms and contractor William Ellen; useful for legal context around the wetlands case.
+- Search target: original 2014 NYT DealBook article "After a Dazzling Early Career, a Star Trader Settles Down" for direct track-record wording.
+- Search target: *Market Wizards* original Paul Tudor Jones chapter for the 1979 cotton loss, discipline reset and quote provenance.
+- Search target: primary Tudor offering memoranda or audited performance tables for Tudor BVI Global and Tudor Futures Fund.
