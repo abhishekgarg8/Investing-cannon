@@ -1,3 +1,3 @@
-Tasks done: 153/812
-Current investor: 019-david-tepper
+Tasks done: 154/812
+Current investor: 020-paul-tudor-jones
 Projected finish date: 2026-07-23
