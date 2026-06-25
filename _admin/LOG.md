@@ -773,3 +773,8 @@
 - Output: investors/020-paul-tudor-jones/profile.md (~1,852 words, 25 sources)
 - Notes: Created Paul Tudor Jones profile and source map with current Tudor/13F/ADV structure, public performance caveats, platform evolution, SEC/wetlands/UVA/Weinstein controversies, and 2026 activity. Preserved caveats around private-fund audited returns, 13F/RAUM comparability, 1987 crash-trade figures, 1979 cotton-loss details, and mirrored ADV/2020 memo provenance.
 - Backlog added: None
+
+## 2026-06-25T20:29:20Z — T0151 — 019-david-tepper — F-key-writings — DONE
+- Output: investors/019-david-tepper/key-writings.md (~2,483 words, 23 sources)
+- Notes: Stale retry completed the missing Tepper key-writings file; treated the corpus as speeches, signed activist letters, filings, transcript carriers, and serious profiles because no public Appaloosa letter archive or Tepper-authored book was found. Preserved caveats around transcript carriers, 13F limits, Rule 105/WaMu/AT1 legal context, and live Whirlpool/AT1 trails.
+- Backlog added: None
