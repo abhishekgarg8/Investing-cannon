@@ -723,3 +723,7 @@
 - Notes: Completed Steinhardt key-writings guide centered on *No Bull*, Schwager/Charlie Rose/speech materials, Advisor Perspectives, WisdomTree, and Jewish Pride/philanthropy sources. Preserved gaps around page-checked *No Bull*/*Market Wizards*, original partnership letters, Kirk speech provenance, full Charlie Rose transcripts, and legal packet completion.
 - Backlog added: None
 
+## 2026-06-25T05:17:34Z — T0144 — 018-michael-steinhardt — G-mental-models — DONE
+- Output: investors/018-michael-steinhardt/mental-models.md (~2,725 words, 17 sources)
+- Notes: Closeout of already-present Task G output: verified required sections, T0144 source map, and spot-checked MicroCapClub, DOJ, and Justia citations. Preserved caveats around excerpt-carrier sources, missing partnership records, liquidity/scale limits, and legal-boundary risks.
+- Backlog added: None
