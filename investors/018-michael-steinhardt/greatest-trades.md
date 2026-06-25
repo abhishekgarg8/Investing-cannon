@@ -1,6 +1,6 @@
 # Michael Steinhardt - Greatest Trades
 
-As of 2026-06-25T00:18:10Z, the public record supports a ranked reconstruction of Steinhardt's major portfolio campaigns better than it supports a clean position-level ledger. This file therefore treats "trade" broadly: a concentrated long/short exposure, macro book, or market-structure position that materially affected Steinhardt Partners' results. Exact position-level P&L remains private unless stated otherwise; figures below are marked when they rest on Steinhardt's memoir or contemporaneous press rather than audited partnership statements.
+As of 2026-06-25T01:33:00Z, the public record supports a ranked reconstruction of Steinhardt's major portfolio campaigns better than it supports a clean position-level ledger. This file therefore treats "trade" broadly: a concentrated long/short exposure, macro book, or market-structure position that materially affected Steinhardt Partners' results. Exact position-level P&L remains private unless stated otherwise; figures below are marked when they rest on Steinhardt's memoir, excerpt carriers, book-jacket descriptions, or contemporaneous press rather than audited partnership statements.
 
 ## Ranking summary
 
@@ -17,7 +17,7 @@ As of 2026-06-25T00:18:10Z, the public record supports a ranked reconstruction o
 
 ### Context & dates
 
-By late 1981, the U.S. bond market sat near the end of a brutal multi-decade bear market. FRED's 10-year Treasury series identifies the data as daily Federal Reserve H.15 yields; the series is the right official context for the rate spike Steinhardt was trying to fade, even though the exact trade was in intermediate Treasuries rather than the generic 10-year constant-maturity series ([FRED DGS10, 2026](https://fred.stlouisfed.org/series/DGS10)). Steinhardt's memoir describes long-term Treasury rates moving from roughly 10% in 1980 toward the mid-teens by September 1981, with Wall Street economists broadly fearful of further inflation and rate increases ([No Bull mirror, 2001](https://www.scribd.com/document/773220764/No-Bull-My-Life-in-and-Out-of-the-Markets-Michael-Steinhardt-Z-Library); [Amazon - No Bull, 2001](https://www.amazon.com/No-Bull-Life-Out-Markets/dp/0471181528)).
+By late 1981, the U.S. bond market sat near the end of a brutal multi-decade bear market. FRED's 10-year Treasury series identifies the data as daily Federal Reserve H.15 yields; the series is the right official context for the rate spike Steinhardt was trying to fade, even though the exact trade was in intermediate Treasuries rather than the generic 10-year constant-maturity series ([FRED DGS10, 2026](https://fred.stlouisfed.org/series/DGS10)). Steinhardt's memoir describes long-term Treasury rates moving from roughly 10% in 1980 toward the mid-teens by September 1981, with Wall Street economists broadly fearful of further inflation and rate increases; legitimate book metadata from Google Books/Wiley also identifies the 1981 bond decision as one of the memoir's major "coups" ([No Bull mirror, 2001](https://www.scribd.com/document/773220764/No-Bull-My-Life-in-and-Out-of-the-Markets-Michael-Steinhardt-Z-Library); [Google Books - No Bull, 2001](https://books.google.com/books/about/No_Bull.html?id=vGYYuAEACAAJ); [Wiley - No Bull, 2005 edition](https://www.wiley-vch.de/de/fachgebiete/finanzen-wirtschaft-recht/no-bull-978-0-471-66046-0)).
 
 ### Thesis & how he found it
 
@@ -33,11 +33,15 @@ The trade moved against him before it worked. Steinhardt says the fund carried a
 
 ### Exit & P&L
 
-The market turn arrived around the start of the new fiscal year. Steinhardt says the bond position made about $40 million on the $250 million notional position and that the funds eventually finished the year up 97%. Because the exact sale dates, realized price, fees, and audited fund statements are unavailable in the open record, the P&L is marked [single-source: memoir mirror]. The claim is directionally supported by the book's public descriptions, which call the 1981 bond decision one of his "most sensational coups" ([Amazon - No Bull, 2001](https://www.amazon.com/No-Bull-Life-Out-Markets/dp/0471181528); [Internet Archive - No Bull, 2001](https://archive.org/details/nobull00mich)).
+The market turn arrived around the start of the new fiscal year. Steinhardt says the bond position made about $40 million on the $250 million notional position and that the funds eventually finished the year up 97%. Because the exact sale dates, realized price, fees, and audited fund statements are unavailable in the open record, the P&L is marked [single-source: memoir mirror]. The claim is directionally supported, but not independently quantified, by publisher and archive descriptions that identify the 1981 bond decision as one of the memoir's major trade narratives ([Google Books - No Bull, 2001](https://books.google.com/books/about/No_Bull.html?id=vGYYuAEACAAJ); [Wiley - No Bull, 2005 edition](https://www.wiley-vch.de/de/fachgebiete/finanzen-wirtschaft-recht/no-bull-978-0-471-66046-0); [Internet Archive - No Bull, 2001](https://archive.org/details/nobull00mich)).
 
 ### What it teaches
 
 This was Steinhardt's highest-quality example of variant perception because the components are visible: consensus was extreme, the trade had a macro trigger, the downside was painful but survivable, and the position was sized large enough to change the year. It also shows the non-transferable part of the model: access to repo financing, willingness to borrow against government bonds, and client tolerance for style drift.
+
+### Sources
+
+Core sources: FRED/Federal Reserve H.15 rate-series context; *No Bull* memoir mirror for trade size and self-reported P&L; Google Books, Wiley, and Internet Archive metadata for legitimate book-level corroboration that the 1981 bond bet is a major memoir case ([FRED DGS10, 2026](https://fred.stlouisfed.org/series/DGS10); [No Bull mirror, 2001](https://www.scribd.com/document/773220764/No-Bull-My-Life-in-and-Out-of-the-Markets-Michael-Steinhardt-Z-Library); [Google Books - No Bull, 2001](https://books.google.com/books/about/No_Bull.html?id=vGYYuAEACAAJ); [Wiley - No Bull, 2005 edition](https://www.wiley-vch.de/de/fachgebiete/finanzen-wirtschaft-recht/no-bull-978-0-471-66046-0); [Internet Archive - No Bull, 2001](https://archive.org/details/nobull00mich)).
 
 ## 2. 1973-1975 bear-market short book and reversal
 
@@ -65,6 +69,10 @@ Steinhardt says the 1975 year produced about a 66% gain, while also admitting th
 
 The teachable part is expectation mapping: Steinhardt did not merely declare stocks cheap; he judged that pessimism itself had become the tradable fact. The risk is that this kind of reversal requires live judgment, liquidity, and psychological authority inside the firm. It is hard to systematize after the fact.
 
+### Sources
+
+Core sources: MicroCapClub's long *No Bull* excerpt carrier for the 1973-1975 return figures, exposure reversal, and variant-perception framing; The Acquirer's Multiple as a secondary variant-perception excerpt/context source ([MicroCapClub excerpting No Bull, 2025](https://microcapclub.com/michael-steinhardt-in-his-own-words/); [The Acquirer's Multiple, 2021](https://acquirersmultiple.com/2021/12/michael-steinhardt-develop-a-variant-perception/)).
+
 ## 3. Early block-trading and go-go stock campaign
 
 ### Context & dates
@@ -77,7 +85,7 @@ The edge appears to have been a combination of stock research and block-market m
 
 ### Size & structure
 
-The opened sources do not provide named securities, share counts, or percentage-of-fund exposure for the campaign. That is a material gap. The position should be treated as an early-career strategy cluster, not as one trade. Hedge Fund Alpha's resource page summarizes his instruments as stocks, bonds, options, currencies, and holding periods as short as intraday to monthly, which fits the image of a trading book rather than a static portfolio ([Hedge Fund Alpha, 2011](https://hedgefundalpha.com/michael-steinhardt-page/?srsltid=AfmBOoqSFdaHjtUrUX513Cyi4lkR424nsjfPL5W27qSFnye-u4HdfW6C)).
+The opened sources do not provide a full list of named securities, share counts, or percentage-of-fund exposure for the campaign. One concrete example does survive through a Traders Magazine review of *No Bull*: in 1969, Steinhardt bought a 700,000-share Penn Central block at 7 and resold it at 7 3/4, making more than $500,000 in about eight minutes. That example should not be extrapolated into a full strategy ledger, but it confirms that early block trading could be highly transactional and spread-driven as well as research-driven ([Traders Magazine, 2001](https://www.tradersmagazine.com/news/no-bull-my-life-in-and-out-of-markets/)). Hedge Fund Alpha's resource page summarizes his instruments as stocks, bonds, options, currencies, and holding periods as short as intraday to monthly, which fits the image of a trading book rather than a static portfolio ([Hedge Fund Alpha, 2011](https://hedgefundalpha.com/michael-steinhardt-page/?srsltid=AfmBOoqSFdaHjtUrUX513Cyi4lkR424nsjfPL5W27qSFnye-u4HdfW6C)).
 
 ### Entry and path
 
@@ -85,11 +93,15 @@ The path risk was timing and crowding. Go-go stocks worked spectacularly until t
 
 ### Exit & P&L
 
-The 84% first-full-year figure is [secondary/excerpted] and lacks audited backup in the opened record. It is still important because it explains how the firm rapidly earned credibility and fee capital. The more durable lesson is the method: an early hedge fund could compound by combining research, trading speed, and willingness to supply liquidity when slower institutions needed immediacy ([Commoncog, 2024](https://commoncog.com/c/cases/steinhardt-block-trading/); [Traders Magazine, 2001](https://www.tradersmagazine.com/news/no-bull-my-life-in-and-out-of-markets/)).
+The 84% first-full-year figure is [secondary/excerpted] and lacks audited backup in the opened record. The Penn Central block example has a clearer trade-level P&L, but it was a liquidity/arbitrage episode rather than a portfolio-defining campaign. Together they explain how the firm rapidly earned credibility and fee capital. The more durable lesson is the method: an early hedge fund could compound by combining research, trading speed, and willingness to supply liquidity when slower institutions needed immediacy ([Commoncog, 2024](https://commoncog.com/c/cases/steinhardt-block-trading/); [Traders Magazine, 2001](https://www.tradersmagazine.com/news/no-bull-my-life-in-and-out-of-markets/)).
 
 ### What it teaches
 
 Edges decay. The block-trading edge was strongest when information and execution were fragmented. Later Steinhardt had to move into broader macro and fixed-income markets partly because the original equity/block edge could not absorb ever-larger capital indefinitely.
+
+### Sources
+
+Core sources: Commoncog for early-fund context and first-full-year return claims; Traders Magazine for the Penn Central block example and *No Bull* review context; Hedge Fund Alpha as a lower-tier resource-page lead on instrument breadth ([Commoncog, 2024](https://commoncog.com/c/cases/steinhardt-block-trading/); [Traders Magazine, 2001](https://www.tradersmagazine.com/news/no-bull-my-life-in-and-out-of-markets/); [Hedge Fund Alpha, 2011](https://hedgefundalpha.com/michael-steinhardt-page/?srsltid=AfmBOoqSFdaHjtUrUX513Cyi4lkR424nsjfPL5W27qSFnye-u4HdfW6C)).
 
 ## 4. 1990-1993 bond carry and European rates boom
 
@@ -103,7 +115,7 @@ Steinhardt extended the 1981 lesson: rates could be a portfolio driver, not just
 
 ### Size & structure
 
-Fortune reports that Steinhardt Partners had amassed about $30 billion in Eurobond positions before the market turned, against about $4.6 billion under management, and was losing about $4 million for each basis-point rise in European rates. Those are press-reported estimates, but they give the scale: this was not a modest bond allocation; it was a levered macro book large enough to dominate the firm ([Fortune, 1994](https://fortune.com/article/the-great-bond-massacre-fortune-1994/)).
+Fortune reports that Steinhardt Partners had amassed about $30 billion in Eurobond positions before the market turned, against about $4.6 billion under management, and was losing about $4 million for each basis-point rise in European rates. The *No Bull* excerpt carrier also says the broader bond portfolio totaled $30 billion by 1993 and that each basis-point move made or lost $10 million. The two basis-point sensitivities likely refer to different scopes of the book or different moments in the liquidation; absent original position sheets, this file treats the $30 billion scale as corroborated and the per-basis-point sensitivity as [scope-dependent / disputed] ([Fortune, 1994](https://fortune.com/article/the-great-bond-massacre-fortune-1994/); [MicroCapClub excerpting No Bull, 2025](https://microcapclub.com/michael-steinhardt-in-his-own-words/)).
 
 ### Entry and path
 
@@ -116,6 +128,10 @@ No opened source provides a clean realized P&L for the 1990-1993 winning portion
 ### What it teaches
 
 Steinhardt's greatest strength was also his danger: he generalized a winning pattern across asset classes. The 1981 bond insight was finite and well timed; the early-1990s carry/convergence book was sprawling and levered. The trade teaches that scaling a valid insight can change its risk more than its expected return.
+
+### Sources
+
+Core sources: Fortune's contemporaneous/archived 1994 article for Eurobond scale, leverage sensitivity, AUM, and drawdown context; MicroCapClub's *No Bull* excerpt carrier for self-reported 1990s performance and liquidity lessons; the Scribd mirror only as a provisional full-text carrier pending legitimate page checks ([Fortune, 1994](https://fortune.com/article/the-great-bond-massacre-fortune-1994/); [MicroCapClub excerpting No Bull, 2025](https://microcapclub.com/michael-steinhardt-in-his-own-words/); [No Bull mirror, 2001](https://www.scribd.com/document/773220764/No-Bull-My-Life-in-and-Out-of-the-Markets-Michael-Steinhardt-Z-Library)).
 
 ## 5. April 1991 two-year Treasury note position - legal-boundary case
 
@@ -143,19 +159,23 @@ Steinhardt agreed to pay $40 million as part of the $76 million combined settlem
 
 Market-structure skill can become market power. This episode belongs in the trade list not as praise, but as a warning: a strategy that depends on size, scarcity, financing, and dealer relationships has to be judged by legality and market integrity as well as profit.
 
+### Sources
+
+Core sources: DOJ's 1994 settlement announcement for official allegations, position size, and settlement amounts; Federal Register settlement materials for proposed judgment and conduct restrictions; Second Circuit/Justia litigation record for pre-settlement SEC investigation and civil-discovery context ([DOJ, 1994](https://www.justice.gov/archive/atr/public/press_releases/1994/211951.htm); [Federal Register, 1995](https://www.govinfo.gov/content/pkg/FR-1995-01-13/html/95-781.htm); [Justia - In re Steinhardt Partners, 1993](https://law.justia.com/cases/federal/appellate-courts/F3/9/230/540834/)).
+
 ## 6. 1995 recovery before liquidation
 
 ### Context & dates
 
-After the 1994 bond-market loss, Steinhardt did not immediately shut down at the bottom. The Los Angeles Times reported in October 1995 that he would liquidate a $2.6 billion family of funds, that Steinhardt Partners had compounded at 24.3% since 1967 excluding management fees, and that the funds had suffered large 1994 bond losses before the closing announcement ([Los Angeles Times, 1995](https://www.latimes.com/archives/la-xpm-1995-10-12-fi-56153-story.html)).
+After the 1994 bond-market loss, Steinhardt did not immediately shut down at the bottom. The Los Angeles Times reported in October 1995 that he would liquidate a $2.6 billion family of funds, that Steinhardt Partners had compounded at 24.3% since 1967 excluding management fees, and that the funds had suffered large 1994 bond losses before the closing announcement. TIME's contemporaneous account says the funds lost 29% in 1994, owing largely to European bonds, but were back around 20% in 1995 before Steinhardt announced the wind-down ([Los Angeles Times, 1995](https://www.latimes.com/archives/la-xpm-1995-10-12-fi-56153-story.html); [TIME, 1995](https://time.com/archive/6728060/a-farewell-to-hedges/)).
 
 ### Thesis & how he found it
 
-The 1995 rebound is not as well documented as a security-selection trade. It appears to have been a broad recovery of the book after a forced-risk year, helped by cutting exposure, surviving redemptions, and catching more favorable markets. Commoncog, drawing on Mallaby and press accounts, says Steinhardt recovered hundreds of millions of dollars and produced a high-20s return before retiring; because this is secondary, the exact figure should remain a guidepost rather than a verified audited result ([Commoncog - Fall of Steinhardt Partners, 2024](https://commoncog.com/c/cases/steinhardt-fall/)).
+The 1995 rebound is not as well documented as a security-selection trade. It appears to have been a broad recovery of the book after a forced-risk year, helped by cutting exposure, surviving redemptions, and catching more favorable markets. The *No Bull* excerpt carrier says the funds were up 22% by September 1995 and had recouped most of the 1994 loss; TIME independently described returns around 20%. Because neither source is an audited partnership statement, the exact figure should remain a guidepost rather than a verified audited result ([MicroCapClub excerpting No Bull, 2025](https://microcapclub.com/michael-steinhardt-in-his-own-words/); [TIME, 1995](https://time.com/archive/6728060/a-farewell-to-hedges/); [Commoncog - Fall of Steinhardt Partners, 2024](https://commoncog.com/c/cases/steinhardt-fall/)).
 
 ### Size & structure
 
-The fund family was reported near $2.6 billion at liquidation. The 1994 loss estimates ranged from $500 million to $1 billion in the LA Times account, so the recovery mattered even if it did not restore the old high-water AUM. No opened source provides the exact long/short/macro mix of the 1995 book ([Los Angeles Times, 1995](https://www.latimes.com/archives/la-xpm-1995-10-12-fi-56153-story.html)).
+The fund family was reported near $2.6 billion at liquidation. The 1994 loss estimates ranged from $500 million to $1 billion in the LA Times account, while TIME reported a 29% 1994 loss. The recovery mattered even if it did not restore the old high-water AUM. No opened source provides the exact long/short/macro mix of the 1995 book ([Los Angeles Times, 1995](https://www.latimes.com/archives/la-xpm-1995-10-12-fi-56153-story.html); [TIME, 1995](https://time.com/archive/6728060/a-farewell-to-hedges/)).
 
 ### Entry and path
 
@@ -168,6 +188,10 @@ The final exit was the fund liquidation announced in October 1995. The strongest
 ### What it teaches
 
 Closing after a rebound is different from closing after a collapse. Steinhardt's decision preserved more franchise dignity than a forced liquidation would have, but it also shows the cumulative psychological cost of a high-leverage, high-pressure style.
+
+### Sources
+
+Core sources: Los Angeles Times and TIME for contemporaneous liquidation, AUM, 1994 loss, and 1995 rebound context; MicroCapClub's *No Bull* excerpt carrier for Steinhardt's own wind-down framing; Commoncog only as a secondary synthesis of the fall/recovery narrative ([Los Angeles Times, 1995](https://www.latimes.com/archives/la-xpm-1995-10-12-fi-56153-story.html); [TIME, 1995](https://time.com/archive/6728060/a-farewell-to-hedges/); [MicroCapClub excerpting No Bull, 2025](https://microcapclub.com/michael-steinhardt-in-his-own-words/); [Commoncog - Fall of Steinhardt Partners, 2024](https://commoncog.com/c/cases/steinhardt-fall/)).
 
 ## Candidates excluded or downgraded
 
