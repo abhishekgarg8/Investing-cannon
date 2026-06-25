@@ -768,3 +768,8 @@
 - Output: investors/019-david-tepper/synthesis.md (~1,574 words, 17 sources)
 - Notes: Completed Tepper synthesis, INDEX row, and Task H source-map append; refreshed current 13F, Whirlpool, AT1, legal, and return-record anchors. Preserved caveats around missing T0151 key-writings output, private Appaloosa letters/audited returns, 13F non-comparability, live Whirlpool activism, and unresolved AT1 litigation.
 - Backlog added: None
+
+## 2026-06-25T19:30:26Z — T0154 — 020-paul-tudor-jones — A-profile — DONE
+- Output: investors/020-paul-tudor-jones/profile.md (~1,852 words, 25 sources)
+- Notes: Created Paul Tudor Jones profile and source map with current Tudor/13F/ADV structure, public performance caveats, platform evolution, SEC/wetlands/UVA/Weinstein controversies, and 2026 activity. Preserved caveats around private-fund audited returns, 13F/RAUM comparability, 1987 crash-trade figures, 1979 cotton-loss details, and mirrored ADV/2020 memo provenance.
+- Backlog added: None
