@@ -763,3 +763,8 @@
 - Output: investors/019-david-tepper/mental-models.md (~2,400 words, 18 sources)
 - Notes: Closeout of already-present Task G output: verified required sections, appended missing Task G source map, and spot-checked SEC 13F, Whirlpool 13D/letter, Rule 105, WaMu, and AT1 sources. Preserved caveats around private Appaloosa letters, transcript-carrier CNBC evidence, 13F non-comparability, live Whirlpool activism, and AT1 litigation.
 - Backlog added: None
+
+## 2026-06-25T19:23:38Z — T0153 — 019-david-tepper — H-synthesis — DONE
+- Output: investors/019-david-tepper/synthesis.md (~1,574 words, 17 sources)
+- Notes: Completed Tepper synthesis, INDEX row, and Task H source-map append; refreshed current 13F, Whirlpool, AT1, legal, and return-record anchors. Preserved caveats around missing T0151 key-writings output, private Appaloosa letters/audited returns, 13F non-comparability, live Whirlpool activism, and unresolved AT1 litigation.
+- Backlog added: None
