@@ -203,3 +203,30 @@ Source gaps carried forward from T0144:
 - Original Steinhardt Partners risk memos, position ledgers, and portfolio reports remain missing; sizing and sell-rule reconstruction still relies on public excerpts and contemporaneous reporting.
 - The original Kirk Report item or speech behind the six-rule list remains missing.
 - Full Charlie Rose transcripts or archived video captures for the 2001 and 2006 appearances remain missing.
+
+
+## Task T0145 - H-synthesis source map (added 2026-06-25)
+
+126. [Steinhardt Foundation for Jewish Life](https://steinhardtfoundation.org/) - Current-status and philanthropy-wind-down source; used for the as-of line, age context, and post-fund philanthropic framing through 2028.
+127. [Wharton News - Investor Michael Steinhardt WG'70 Named Chairman of WisdomTree Investments](https://news.wharton.upenn.edu/investor-michael-steinhardt-wg70-named-chairman-of-wisdomtree-investments/) - Institutional source for the reported 24.5% net private-partnership return, 1967 founding, 1995 closure, and WisdomTree chair context. Still not an audited partnership record.
+128. [MicroCapClub - Michael Steinhardt: In His Own Words](https://microcapclub.com/michael-steinhardt-in-his-own-words/) - Long *No Bull* excerpt carrier for variant perception, two-minute analyst test, portfolio resets, 1974-1975 reversal, 1987/1994 self-reflection, and wind-down context. Treat as carrier pending page-checked memoir access.
+129. [The Acquirer's Multiple - Michael Steinhardt: Develop A Variant Perception](https://acquirersmultiple.com/2021/12/michael-steinhardt-develop-a-variant-perception/) - Short *No Bull* excerpt carrier for the consensus/variant-perception distinction and intellectually advantaged disagreement language.
+130. [Los Angeles Times - Wall Street: Expert Failed to Follow Instincts Before Crash](https://www.latimes.com/archives/la-xpm-1987-12-06-fi-26826-story.html) - Contemporary source for the 1987 caution-letter/exposure reversal and estimated $250 million crash loss.
+131. [Fortune - The Great Bond Massacre](https://fortune.com/article/the-great-bond-massacre-fortune-1994/) - Core source for 1994 regime failure, reported Eurobond position scale, leverage/basis-point sensitivity, derivatives/liquidity context, and the distinction between thesis and exit capacity.
+132. [DOJ - Steinhardt and Caxton $76 million settlement announcement](https://www.justice.gov/archive/atr/public/press_releases/1994/211951.htm) - Primary source for the April 1991 two-year Treasury note allegations, combined position size, settlement amount, and market-power boundary lesson.
+133. [Federal Register - United States v. Steinhardt Management Company and Caxton](https://www.govinfo.gov/content/pkg/FR-1995-01-13/html/95-781.htm) - Primary settlement and competitive-impact record for the Treasury-note matter; used to preserve neither-admit-nor-deny and legal-constraint framing.
+134. [Justia - In re Occam Networks, Inc. Stockholder Litigation](https://law.justia.com/cases/delaware/court-of-chancery/2012/ca-5878-vcl.html) - Court source for the Occam/Calix confidential-information sanctions and later boundary-risk pattern.
+135. [Manhattan DA statement of facts, filed December 2021 (PDF)](https://images.law.com/contrib/content/uploads/documents/292/102693/2021-12-06-Steinhardt-Statement-of-Facts-w-Attachments-Filed.pdf) - Primary factual record for 180 antiquities, approximately $70 million valuation, provenance failures, and the lifetime antiquities-acquisition ban context.
+136. [JTA - Megadonor Michael Steinhardt accused by 7 women](https://www.jta.org/2019/03/21/united-states/megadonor-michael-steinhardt-is-accused-by-six-women-of-a-pattern-of-sexual-harassment) - Opened source summarizing the ProPublica/New York Times allegations and Steinhardt's response; used for governance and donor-power framing.
+137. [New York Jewish Week/JTA - Hillel Finds Complaints Were Justified](https://www.jta.org/2019/01/13/ny/hillel-finds-complaints-were-justified-on-sexual-harassment-by-donors) - Institutional follow-up source for Hillel findings, apology, and policy changes after harassment complaints.
+138. [Advisor Perspectives - Michael Steinhardt on Today's Markets and the Evolution of the Hedge Fund Industry](https://www.advisorperspectives.com/pdfs/Michael_Steinhardt.pdf) - 2008 late-career source for hedge-fund regime-dependence claims around leverage, scale, quant competition, fees, and edge decay.
+139. [WisdomTree - 2007 board appointments release](https://ir.wisdomtree.com/news-events/press-releases/detail/608/wisdomtree-investments-announces-board-of-director) - Issuer source for fundamentally weighted index/product-architecture framing and the post-fund anti-cap-weighting chapter.
+140. [WisdomTree - Michael Steinhardt retires from board](https://ir.wisdomtree.com/news-events/press-releases/detail/134/michael-steinhardt-retires-from-wisdomtrees-board-of) - Issuer source for Steinhardt's 15-year chairman tenure and 2019 retirement from WisdomTree's board.
+
+Source gaps carried forward from T0145:
+
+- The 24.5% net return record still needs original audited partnership statements, return letters, or a year-by-year partner-capital schedule.
+- *No Bull* and *Market Wizards* still need legitimate page-checked citations; excerpt carriers should be replaced when available.
+- Steinhardt Partners entity structure, trade-level ledgers, and exact P&L for the major campaigns remain unresolved.
+- Post-2021 antiquities compliance and item-by-item repatriation should be refreshed in any future profile update.
+- Former analyst, counterparty, and limited-partner accounts would improve the synthesis of firm culture and transferability.
