@@ -702,3 +702,8 @@
 - Output: investors/018-michael-steinhardt/investment-philosophy.md (~2,557 words, 19 sources)
 - Notes: Completed Steinhardt philosophy around variant perception, analyst filtering, macro/fundamental portfolio resets, sizing/sell discipline, 1994 liquidity/leverage limits, and boundary/governance tensions. Caveats preserved around excerpt-carrier sources, private-fund opacity, and regulatory/reputational record.
 - Backlog added: None
+
+## 2026-06-25T01:20:34Z — T0140 — 018-michael-steinhardt — C-greatest-trades — DONE
+- Output: investors/018-michael-steinhardt/greatest-trades.md (~3,832 words, 18 sources)
+- Notes: Verified and upgraded the existing greatest-trades draft with publisher/book anchors for the 1981 bond trade, a Penn Central block-trade example, and clearer 1990-1995 bond/recovery triangulation. Preserved caveats around private partnership ledgers, memoir/excerpt provenance, and the April 1991 Treasury-note legal boundary.
+- Backlog added: None
