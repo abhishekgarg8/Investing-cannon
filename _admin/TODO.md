@@ -145,7 +145,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-24T22:49:11Z T0138 | 018-michael-steinhardt | A-profile | investors/018-michael-steinhardt/profile.md
 - [x] done:2026-06-24T23:24:20Z T0139 | 018-michael-steinhardt | B-philosophy | investors/018-michael-steinhardt/investment-philosophy.md
 - [x] done:2026-06-25T01:20:34Z T0140 | 018-michael-steinhardt | C-greatest-trades | investors/018-michael-steinhardt/greatest-trades.md
-- [ ] T0141 | 018-michael-steinhardt | D-mistakes | investors/018-michael-steinhardt/mistakes-and-losses.md
+- [x] done:2026-06-25T01:42:14Z T0141 | 018-michael-steinhardt | D-mistakes | investors/018-michael-steinhardt/mistakes-and-losses.md
 - [ ] T0142 | 018-michael-steinhardt | E-own-words | investors/018-michael-steinhardt/in-their-own-words.md
 - [ ] T0143 | 018-michael-steinhardt | F-key-writings | investors/018-michael-steinhardt/key-writings.md
 - [ ] T0144 | 018-michael-steinhardt | G-mental-models | investors/018-michael-steinhardt/mental-models.md
