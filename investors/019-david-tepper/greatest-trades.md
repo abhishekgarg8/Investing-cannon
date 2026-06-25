@@ -1,12 +1,14 @@
 # David Tepper - Greatest Trades
 
-As of 2026-06-25T08:14:00Z. This Task C file was researched while the David Tepper A-profile task remained freshly claimed and the B-philosophy task had just landed. The trade write-up therefore leans on public filings, long-form profiles, press reports, court materials, and the existing Task B source map rather than on a completed profile file. David Tepper is treated as living and active: he personally signed Appaloosa's March 2026 Whirlpool Schedule 13D, and that filing reported no recent criminal proceeding or securities-law injunction for the reporting persons.
+As of 2026-06-25T13:30:43Z, David A. Tepper is alive and active. This stale-claim retry was completed after the David Tepper profile and investment-philosophy files had landed on main. The trade write-up therefore leans on public filings, long-form profiles, press reports, court materials, and the Task A/B source maps because Appaloosa's investor letters and full position ledgers are not public. Tepper personally signed Appaloosa's March 2026 Whirlpool Schedule 13D, and that filing reported no recent criminal proceeding or securities-law injunction for the reporting persons.
 
 ## Evidence Notes and Ranking Method
 
 The strongest evidence is for Appaloosa's 2009 financials trade and the 2002-2003 distressed-credit rebound. Those trades are covered by multiple independent sources and have fund-level return figures, even though the underlying investor letters and full position ledgers are not public. Later trades have cleaner SEC position data but weaker realized-P&L evidence because Appaloosa is now largely a family-office-style vehicle and 13F reports reveal only listed long positions after quarter-end.
 
 Ranking below uses: absolute P&L, percentage return, evidence quality, difficulty of the path, and transferability of the lesson. Figures that are not independently triangulated are labeled single-source or press-reported.
+
+Retry verification note: additional searches during this run did not find a completed public exit for the 2026 Whirlpool campaign or a public realized-P&L bridge for the 2024-2026 China basket. Those positions remain filing-backed open evidence rather than completed "greatest trade" wins.
 
 ## Ranked Trade Map
 
@@ -141,4 +143,4 @@ The main trade-adjacent legal caveat is Washington Mutual. In 2011, the Delaware
 - Find original Appaloosa investor letters or audited return sheets for 1998, 2001, 2002, 2003, 2009, and 2010.
 - Page-check contemporaneous WSJ/Bloomberg/Alpha archives for security-level sizes in Conseco, Marconi, Enron, WorldCom, PG&E, Edison, and Bank of America.
 - Reconcile 2009 return figures by vehicle and date: 117.3% through September, 120% through December press reports, 132%-133% in later summaries.
-- Track the 2024-2026 China and Whirlpool exits; current filings prove exposure, not realized P&L.
+- Track the 2024-2026 China and Whirlpool exits; current filings prove exposure, not realized P&L, and no completed Whirlpool exit was found during this retry.
