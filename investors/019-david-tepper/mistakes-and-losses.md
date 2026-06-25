@@ -1,6 +1,6 @@
 # David Tepper - Mistakes and Losses
 
-As of 2026-06-25T09:21:42Z, David Tepper is a living, active investor whose public footprint is now best observed through Appaloosa's SEC filings, selected activist situations, and litigation tied to distressed financial instruments rather than through a continuously marketed outside-capital hedge fund. This file covers Task D: the major losses, errors of omission, legal/process near-misses, behavioral roots, and process changes visible from public records. Because Appaloosa is private and does not publish an audited investor-letter archive, fund-level return figures below rely on strong secondary reporting unless otherwise noted.
+As of 2026-06-25T14:25:50Z, David Tepper is a living, active investor whose public footprint is now best observed through Appaloosa's SEC filings, selected activist situations, and litigation tied to distressed financial instruments rather than through a continuously marketed outside-capital hedge fund. This file covers Task D: the major losses, errors of omission, legal/process near-misses, behavioral roots, and process changes visible from public records. Because Appaloosa is private and does not publish an audited investor-letter archive, fund-level return figures below rely on strong secondary reporting unless otherwise noted.
 
 ## Major losses, errors of omission, and near-death moments
 
