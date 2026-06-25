@@ -80,6 +80,10 @@ Source gaps carried forward from T0139:
 48. [Federal Register - United States v. Steinhardt Management Company and Caxton](https://www.govinfo.gov/content/pkg/FR-1995-01-13/html/95-781.htm) - Primary proposed final judgment and competitive-impact statement for the Treasury-note case; useful for legal restrictions and complaint framing.
 49. [The Acquirer's Multiple - Steinhardt Charlie Rose excerpt](https://acquirersmultiple.com/2017/10/michael-steinhardt-being-contrarian-is-not-enough-you-have-to-be-right/) - Secondary transcript/excerpt source for Steinhardt's hedge-fund scorekeeping, incomplete-information decision style, and "don't make small investments" rule.
 50. [Observer - An Investor's Obsession: Being Right](https://observer.com/2002/01/an-investors-obsession-being-right/) - Review/profile source for management culture, 1987 and 1994 failure context, and post-fund philanthropy transition; used mainly to downgrade excluded candidates.
+51. [Google Books - No Bull: My Life in and Out of the Markets](https://books.google.com/books/about/No_Bull.html?id=vGYYuAEACAAJ) - Legitimate bibliographic/book-jacket source identifying the 1981 bond decision and mid-1990s macro failure as major memoir narratives; useful to reduce reliance on mirrors for book metadata.
+52. [Wiley - No Bull, 2005 edition](https://www.wiley-vch.de/de/fachgebiete/finanzen-wirtschaft-recht/no-bull-978-0-471-66046-0) - Publisher source for edition details, book description, and the 1981 bonds / mid-1990s global macro framing.
+53. [TIME - A Farewell to Hedges](https://time.com/archive/6728060/a-farewell-to-hedges/) - Contemporary 1995 article corroborating 1994 loss magnitude, European-bond exposure, 1995 rebound context, and the decision to wind down.
+54. [Justia - In re Steinhardt Partners / Salomon Brothers Treasury Litigation](https://law.justia.com/cases/federal/appellate-courts/F3/9/230/540834/) - Court source for the pre-settlement civil litigation and SEC investigation context around the 1991 two-year Treasury-note matter.
 
 Source gaps carried forward from T0140:
 
