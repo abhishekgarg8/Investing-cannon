@@ -733,3 +733,8 @@
 - Output: investors/018-michael-steinhardt/synthesis.md (~1,857 words, 15 sources)
 - Notes: Completed Steinhardt synthesis with ranked transferability lessons, taxonomy, regime dependence, repo-relative closest/opposite investor comparisons, evidence caveats, and INDEX row. Preserved caveats around private partnership returns, excerpt-carrier sources, 1994 liquidity/scale risk, Treasury/Occam boundary issues, antiquities, and harassment/governance record.
 - Backlog added: None
+
+## 2026-06-25T11:24:33Z — T0146 — 019-david-tepper — A-profile — DONE
+- Output: investors/019-david-tepper/profile.md (~2,385 words, 23 sources)
+- Notes: Stale retry closeout: verified the already-present profile, Task A source map, and sample support from SEC 13F, Whirlpool 13D, Bloomberg Markets, CMU, and SEC settlement sources. Preserved caveats around private-fund return opacity, 13F non-comparability, live Whirlpool activism, and AT1 litigation status.
+- Backlog added: None
