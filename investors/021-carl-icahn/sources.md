@@ -131,3 +131,27 @@
 - For TWA, build a primary bankruptcy-record chronology separating Icahn's personal economics, TWA stakeholder outcomes, PBGC claims, and the Karabu ticket agreement.
 - Update IEP's pledged-unit and margin-loan disclosures after the 2025 10-K and compare them with post-2023 13D amendments.
 - Reconcile Hindenburg's investment-portfolio loss claims with IEP annual reports and independent market data before upgrading those figures from adversarial-source status.
+
+## Task E source additions - 2026-06-26
+
+94. [Yale Open Courses ECON 252 guest lecture by Carl Icahn](https://oyc.yale.edu/economics/econ-252-08/lecture-15) - Full first-person lecture transcript used for Icahn's governance, accountability, contrarianism, and 1962-wipeout language.
+95. [Dell Schedule 13D/A exhibit, July 2013](https://www.sec.gov/Archives/edgar/data/826083/000092846413000197/dellsch13damd15072913ex2.htm) - Primary SEC-carried letter for Icahn's Dell corporate-democracy rhetoric during the going-private fight.
+96. [Dell Schedule 13D/A exhibit, September 2013](https://www.sec.gov/Archives/edgar/data/826083/000092166913000029/dellexhibit19913.htm) - Additional primary Dell exhibit for campaign chronology and later reconstruction of the fight.
+97. [Icahn letter to Dell DVMT tracking-stock holders, 2018](https://carlicahn.com/carl-c-icahn-releases-open-letter-to-stockholders-of-dells-dvmt-tracking-stock/) - First-party source for modern Dell minority-holder-rights rhetoric and litigation/escalation language.
+98. [Netflix Schedule 13D, October 2012](https://www.sec.gov/Archives/edgar/data/921669/000092846412000262/nflxsc13d103112.htm) - Primary SEC filing used for Icahn's Netflix undervaluation and strategic-value language.
+99. [Icahn Herbalife statement, March 2018](https://carlicahn.com/carl-c-icahn-issues-statement-regarding-herbalife/) - First-party retrospective on the Herbalife long position, board involvement, and Ackman short-seller dispute.
+100. [Cheniere settlement exhibit, August 2015](https://www.sec.gov/Archives/edgar/data/3570/000119312515299622/d28439dex991.htm) - SEC exhibit carrying the Cheniere-Icahn board-seat settlement and cooperative value-enhancement language.
+101. [SandRidge Schedule 13D/A exhibit, June 2018](https://www.sec.gov/Archives/edgar/data/921669/000092846418000112/sdsch13damd18061418ex1.htm) - Primary stockholder letter for Icahn's board-replacement and shareholder-choice language.
+102. [Icahn letter to Occidental stockholders, July 2019](https://carlicahn.com/open-letter-to-occidental-petroleum-stockholders/) - First-party campaign letter for Anadarko-acquisition criticism, Berkshire-financing critique, and checks-and-balances language.
+103. [Icahn letter to Occidental stockholders, August 2019](https://carlicahn.com/open-letter-to-occidental-petroleum-stockholders-2/) - Follow-on first-party letter for board-change, accountability, and oversight framing.
+104. [McDonald's proxy material, April 2022](https://www.sec.gov/Archives/edgar/data/63908/000119312522112997/d354594ddfan14a.htm) - SEC-filed carrier for Icahn's animal-welfare proxy fight and "failed commitment" language.
+105. [Icahn letter to Southwest Gas stockholders, October 2021](https://carlicahn.com/open-letter-to-southwest-gas-stockholders/) - First-party tender/proxy campaign letter for value-destruction and Questar-risk language.
+106. [Icahn letter to Southwest Gas stockholders, 2022](https://carlicahn.com/open-letter-to-southwest-gas-stockholders-11/) - First-party letter for tender-offer choice language and late-campaign stockholder framing.
+107. [IEP lawsuit-dismissal release, September 2024](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-vindicated-dismissal-meritless-lawsuit) - First-party current-controversy source for Icahn's Hindenburg and SEC-settlement rebuttal rhetoric; use alongside court and SEC records.
+108. [The Acquirer's Multiple excerpt of Bloomberg interview, 2021](https://acquirersmultiple.com/2021/05/carl-icahn-what-it-takes-to-be-a-truly-successful-activist/) - Near-primary carrier for the Bloomberg "true activist" interview; useful lead, but replace with Bloomberg original if available.
+
+## Task E open research notes
+
+- Replace the 2021 Bloomberg excerpt with the original Bloomberg transcript or video if accessible.
+- Continue excluding aggregator-only Icahn quotes unless the original interview, letter, filing, or recording can be opened.
+- For campaign letters on CarlIcahn.com, preserve the source as first-party advocacy and triangulate factual claims with SEC filings, company releases, court records, or market data.
