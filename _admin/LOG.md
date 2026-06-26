@@ -848,3 +848,8 @@
 - Output: investors/021-carl-icahn/synthesis.md (~1,609 words, 17 sources)
 - Notes: Completed Icahn synthesis closeout with explicit skill/structure/luck framing, Task H source-map append, and refreshed INDEX row. Preserved caveats around IEP public-vehicle returns, pledged-unit disclosure settlement, early campaign ledgers, and the T0168 queue/file mismatch.
 - Backlog added: None
+
+## 2026-06-26T17:24:21Z — T0168 — 021-carl-icahn — F-key-writings — DONE
+- Output: investors/021-carl-icahn/key-writings.md (~3,196 words, 16 sources)
+- Notes: Stale retry closeout: verified already-present key-writings file, Task F source map, and spot-checked CarlIcahn.com letters, Yale, eBay response, and SEC order support. Preserved caveats around advocacy-source provenance, missing Bloomberg original transcript/video, and page-check needs for King Icahn/Dear Chairman.
+- Backlog added: None
