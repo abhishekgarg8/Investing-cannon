@@ -209,3 +209,29 @@
 - Revisit the mental-model reconstruction after Task F creates `key-writings.md`.
 - Reconstruct base rates for Icahn campaigns by outcome type: control, settlement, board seat, sale/separation, low-support proxy loss, bankruptcy exit, and quiet exit.
 - Build a current IEP risk appendix that reconciles 2025 10-K disclosures, 2026 investor presentation figures, 13D amendments, market unit-price returns, and the 2024 SEC orders.
+
+## Task H source additions - 2026-06-26
+
+145. [Yale Open Courses ECON 252 guest lecture by Carl Icahn](https://oyc.yale.edu/economics/econ-252-08/lecture-15) - First-person anchor for the synthesis's governance-accountability worldview.
+146. [IEP August 2023 Carl C. Icahn unitholder letter](https://www.ielp.com/news-releases/news-release-details/carl-c-icahn) - First-party source for the 1,623% cumulative / 12.8%-13% annualized IEP return claim through July 31, 2023; used with caveats.
+147. [IEP Netflix sale release, 2015](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-announces-sale-netflix-shares) - Primary source for the disclosed Netflix exit and 457% gain.
+148. [Netflix Schedule 13D, October 2012](https://www.sec.gov/Archives/edgar/data/921669/000092846412000262/nflxsc13d103112.htm) - Primary source for original Netflix stake, option structure, and strategic-value thesis.
+149. [CVR Energy 2012 Form 10-K](https://www.sec.gov/Archives/edgar/data/1376139/000137613913000006/cvi-20121231x10k.htm) - Primary source for the CVR tender/control path.
+150. [IEP Q1 2026 presentation](https://www.ielp.com/static-files/bd654974-3dc6-45a6-9f3d-17f79169f6e1) - Current IEP presentation used for distribution, investment-fund interest, and CVR/vehicle framing.
+151. [IEP 2025 Form 10-K](https://www.ielp.com/static-files/f30ae6f0-f17d-4aa6-b000-9affa8788411) - Current primary filing for controlled-company structure, IEP risk factors, pledged-unit risk, and 2023-2025 Investment Funds returns.
+152. [SEC press release on Icahn/IEP settlements, 2024](https://www.sec.gov/newsroom/press-releases/2024-99) - Primary regulator summary for pledged-unit and margin-loan disclosure failures and civil penalties.
+153. [Hindenburg Research report on Icahn Enterprises, 2023](https://hindenburgresearch.com/icahn/) - Adversarial short-seller critique used only as an interested-source risk frame.
+154. [IEP lawsuit-dismissal release, 2024](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-vindicated-dismissal-meritless-lawsuit) - First-party current-status source for the post-Hindenburg class-action dismissal framing.
+155. [Southwest Gas tender/proxy exhibit, 2021](https://www.sec.gov/Archives/edgar/data/1034563/000119312521298785/d153494dex99a5a.htm) - Primary source for the shareholder-choice tender/proxy model.
+156. [Icahn letter to Tim Cook, 2013](https://carlicahn.com/our_letter_to_tim_cook/) - First-party Apple capital-return campaign source.
+157. [eBay Schedule 14A / Icahn letter, March 2014](https://www.sec.gov/Archives/edgar/data/921669/000092846414000031/ebaydfan14a031014.htm) - SEC-filed source for the eBay/PayPal separation campaign.
+158. [The New Yorker, "The Raid," 2006](https://www.newyorker.com/magazine/2006/03/20/the-raid) - Serious secondary source for Time Warner campaign context and counterparty skepticism.
+159. [Hertz Schedule 13D/A, May 2020](https://www.sec.gov/Archives/edgar/data/921669/000092846420000023/htzsch13da05272020.htm) - Primary source for Icahn's Hertz exit and disclosed significant loss.
+160. [IEP Auto Plus Chapter 11 statement, 2023](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-issues-statement-regarding-auto-plus) - Primary source for Auto Plus bankruptcy and continued-loss failure mode.
+161. [Brav, Jiang, Partnoy, and Thomas, The Returns to Hedge Fund Activism](https://scholarship.law.vanderbilt.edu/faculty-publications/1315/) - Academic base-rate source for activism announcement returns and success/partial-success frequency.
+
+## Task H open research notes
+
+- Keep the early campaign ledger caveat open until Tappan, Texaco, TWA, and RJR Nabisco can be rebuilt from primary filings and contemporaneous documents.
+- Recompute IEP total return through a post-2023 endpoint before using any current-return claim; the August 2023 Icahn letter stops at July 31, 2023.
+- Reconcile the queue state for `T0168`: the key-writings file and source map existed during this run, but the task itself remained freshly claimed and was not closed here.
