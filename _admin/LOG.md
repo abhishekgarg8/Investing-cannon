@@ -829,3 +829,8 @@
 - Output: investors/021-carl-icahn/greatest-trades.md (~3,940 words, 64 sources in folder source map)
 - Notes: Completed Icahn greatest-trades retry; replaced the preexisting partial with a source-verified file ranking CVR Energy as the best durable control trade and Netflix as the cleanest realized trade. Preserved caveats around first-party IEP return figures, incomplete campaign ledgers, early-trade press figures, and group-versus-personal P&L.
 - Backlog added: None
+## 2026-06-26T11:22:18Z — T0166 — 021-carl-icahn — D-mistakes — DONE
+- Output: investors/021-carl-icahn/mistakes-and-losses.md (~2,867 words, 29 sources)
+- Notes: Completed Icahn mistakes/losses across IEP hedge/margin disclosure fragility, Hertz/Blockbuster/TWA/Auto Plus losses, weak campaigns, and governance contradictions. Spot-checked Hertz 13D/A, SEC margin-loan order, and Auto Plus Chapter 11 statement; key P&L gaps remain flagged for later ledger reconstruction.
+- Backlog added: None
+
