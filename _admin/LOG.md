@@ -809,3 +809,8 @@
 - Output: investors/020-paul-tudor-jones/mental-models.md (~2,075 words, 20 sources)
 - Notes: Completed Jones mental-model reconstruction around survival-first trading, liquidity, convexity, price confirmation, historical analogy, adaptation, and measurement. Preserved caveats around private Tudor stop rules/returns, mirror and transcript carriers, 13F limits, compliance failure in the 1994 SEC order, and post-2008 regime decay.
 - Backlog added: None
+
+## 2026-06-26T07:38:46Z — T0162 — cohort-02 — X-cohort-synthesis — DONE
+- Output: synthesis/cohort-02.md (~2,897 words, 10 sources)
+- Notes: Completed second cohort synthesis across Fisher through Paul Tudor Jones, with convergent principles, disagreements, sizing/sell table, contradiction analysis, and themes.md append. Jones H-synthesis was still a fresh claim/missing, so Jones was compared from completed A-G files and flagged for refresh.
+- Backlog added: None
