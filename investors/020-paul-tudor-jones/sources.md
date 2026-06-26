@@ -127,3 +127,30 @@ Open follow-up leads:
 - Replace the Zikomo mirror with the original Stephen Taub / Absolute Return interview if accessible.
 - Find Tudor investor letters or audited tables after 2016 to test whether the quantitative/process reset improved net returns.
 - Obtain the underlying documents behind the WSJ/Epstein-Tudor reporting before treating the reported $13.5M transfer as a fully verified Tudor-specific governance finding.
+
+## Task E - in their own words (T0158)
+
+As of 2026-06-26. Added for `in-their-own-words.md`. Exact quote strings were kept deliberately short to respect source limits; longer passages should be page-checked from authorized originals before reuse. The most useful public first-person corpus is *Market Wizards*, transcript carriers, the 2020 Tudor BVI macro memo, CBS/Colossus interview pages, the graduation-speech compilation, and reported apology/staff-memo excerpts.
+
+1. [ValuePlays mirror - *Market Wizards: Interviews with Top Traders*](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Canonical first-person Jones interview for 1979 cotton loss, 1987 crash context, stops, defense, ego control, flexibility and liquidity lessons. Caveat: PDF mirror; replace with authorized page citations before quoting at length.
+2. [Business Insider - Paul Tudor Jones shares trading rules after cotton loss](https://www.businessinsider.com/investing-strategy-paul-tudor-jones-shares-top-markets-trading-rules-2020-8) - Secondary carrier of *Market Wizards* rules and cotton-loss excerpts; useful to corroborate widely repeated short fragments but not a substitute for the book.
+3. [TurtleTrader - Paul Tudor Jones interview transcript](https://www.turtletrader.com/paul-tudor-jones-interview/) - Transcript carrier for conservative self-description, futures/liquidity preference, and skewed reward-risk language. Original venue/date still need verification.
+4. [Tudor BVI macro outlook mirror - The Great Monetary Inflation](https://www.lopp.net/pdf/BVI-Macro-Outlook.pdf) - Primary-ish 2020 memo attributed to Paul Jones and Lorenzo Giorgianni; key source for price-action, P&L, monetary inflation, bitcoin futures, and low-single-digit exposure language. Caveat: mirror-hosted, not Tudor-hosted.
+5. [Colossus / Invest Like the Best - You Retire, You Die](https://colossus.com/episode/you-retire-you-die/) - Official 2026 episode page with public timestamps and partial transcript; useful for current topic map and official date, but full transcript is gated.
+6. [Podscan transcript carrier - Lessons From 50 Years in Markets](https://podscan.fm/podcasts/invest-like-the-best-with-patrick-oshaughnessy/episodes/paul-tudor-jones-lessons-from-50-years-in-markets-invest-like-the-best-ep469) - Full-ish transcript carrier for the 2026 Invest Like the Best interview; used only with provenance caveat and should be checked against official audio/transcript.
+7. [CBS News / 60 Minutes - Modern-day Robin Hood](https://www.cbsnews.com/news/modern-day-robin-hood-60-minutes/) - First-person philanthropy interview on Robin Hood, personal motivation, and the grantmaking model.
+8. [12MV2 - *Dear Graduates* PDF compilation](https://12mv2.com/wp-content/uploads/2020/06/dear-graduates.pdf) - Compilation including a Jones graduation speech on failure, service, and the failed first Bed-Stuy education effort. Caveat: not the original event host.
+9. [Washington Post - Paul Tudor Jones: my remarks offended and I am sorry](https://www.washingtonpost.com/local/education/paul-tudor-jones-my-remarks-offended-and-i-am-sorry/2013/05/24/6bb3f0c0-c4a9-11e2-6ee52d0eb7c1_story.html) - Primary-ish apology statement and context after Jones's UVA women-in-trading remarks.
+10. [Business Insider - Jones email to Harvey Weinstein and later staff memo](https://www.businessinsider.com/paul-tudor-jones-says-its-good-news-everyone-will-forget-about-harvey-weinstein-2017-12) - Secondary report with short excerpts from a private Weinstein email and later employee memo; necessary accountability source.
+11. [Dandelon/Wiley excerpt - *The Alchemy of Finance* table of contents](https://external.dandelon.com/download/attachments/dandelon/ids/CH001B7F602EAAAC273C3C125766900600850.pdf) - Confirms Paul Tudor Jones II wrote the first-edition foreword; full authorized foreword needed before quotation.
+12. [SEC-filed final prospectus for Tudor Fund for Employees L.P.](https://www.sec.gov/Archives/edgar/data/861895/000095013003003882/d424b3.htm) - Primary filing context for Tudor's trading methods, risk controls, conflicts and Jones's role; not mined as first-person quotes.
+13. [Tudor Investment Corporation - Home](https://www.tudorfunds.com/home) - Official current firm context, useful for current-status framing rather than quote extraction.
+14. [UVA Contemplative Sciences Center - Paul Tudor Jones](https://csc.virginia.edu/people/paul-tudor-jones) - Current official role bio; useful for current role language and living/current-status checks.
+15. [SEC administrative order - In the Matter of Tudor Investment Corporation](https://www.sec.gov/files/litigation/admin/3437669.txt) - Primary legal context for the 1994 married-put / uptick-rule settlement; used to keep risk-discipline quotes in tension with documented compliance failure.
+
+Open follow-up leads:
+- Replace the *Market Wizards* and *Alchemy of Finance* mirrors with authorized page citations.
+- Identify the original publication venue and date for the TurtleTrader transcript.
+- Locate the original CME Group "An Anatomy of a Deflation" transcript before using its policy-market-structure language.
+- Verify the Podscan 2026 transcript against official Colossus audio or an unlocked official transcript.
+- Find any private Tudor investor letters or offering-memorandum amendments that can confirm whether a public Tudor letter corpus exists.
