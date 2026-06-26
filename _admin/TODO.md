@@ -159,7 +159,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-25T18:23:02Z T0152 | 019-david-tepper | G-mental-models | investors/019-david-tepper/mental-models.md
 - [x] done:2026-06-25T19:23:38Z T0153 | 019-david-tepper | H-synthesis | investors/019-david-tepper/synthesis.md
 - [x] done:2026-06-25T19:30:26Z T0154 | 020-paul-tudor-jones | A-profile | investors/020-paul-tudor-jones/profile.md
-- [~] claimed:2026-06-26T03:13:12Z T0155 | 020-paul-tudor-jones | B-philosophy | investors/020-paul-tudor-jones/investment-philosophy.md
+- [x] done:2026-06-26T03:19:54Z T0155 | 020-paul-tudor-jones | B-philosophy | investors/020-paul-tudor-jones/investment-philosophy.md
 - [x] done:2026-06-26T01:37:30Z T0156 | 020-paul-tudor-jones | C-greatest-trades | investors/020-paul-tudor-jones/greatest-trades.md
 - [x] done:2026-06-25T22:34:38Z T0157 | 020-paul-tudor-jones | D-mistakes | investors/020-paul-tudor-jones/mistakes-and-losses.md
 - [~] claimed:2026-06-25T23:14:24Z T0158 | 020-paul-tudor-jones | E-own-words | investors/020-paul-tudor-jones/in-their-own-words.md
@@ -819,4 +819,5 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
+
 
