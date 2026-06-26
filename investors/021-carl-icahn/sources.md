@@ -32,3 +32,27 @@
 - The 1968-2011 31% annualized return is not yet primary-verified. Do not upgrade it without finding the source calculation.
 - IEP total return through July 31, 2023 is first-party and arithmetic-specific, but it is stale after the post-Hindenburg repricing. Later tasks should recompute through current date if they use it as a headline result.
 - Hindenburg and IEP are both interested parties. Treat Hindenburg as the key criticism source and IEP as the key rebuttal source, then reconcile with SEC orders, court opinions, and market data.
+
+## Task B source additions - 2026-06-26
+
+24. [The Acquirer's Multiple: Bloomberg interview excerpt on successful activism](https://acquirersmultiple.com/2021/05/carl-icahn-what-it-takes-to-be-a-truly-successful-activist/) - Useful carrier for Icahn's 2021 comments on true activism, undervalued companies, hidden assets, patience, permanent capital, negotiating skill, and management selection. Later E-own-words should seek the original Bloomberg transcript/video if available.
+25. [Conference Board / Director Notes: The Activism of Carl Icahn and Bill Ackman](https://www.shareholderforum.com/access/Library/20140523_ConferenceBoard-Lee%26Schloetzer.pdf) - Strong secondary/academic-style source summarizing activist tactics, 13D announcement effects, and governance failure categories that map closely to Icahn's process.
+26. [Icahn letter to Tim Cook / Apple, October 2013](https://carlicahn.com/our_letter_to_tim_cook/) - Primary campaign source showing friendly activism, valuation plus buyback logic, position disclosure, and explicit support for existing management.
+27. [Apple proxy material with Icahn shareholder letter, January 2014](https://www.sec.gov/Archives/edgar/data/320193/000092846414000003/aaplpx14a6g012314.htm) - Primary SEC-filed campaign material for the Apple "no brainer" thesis, buyback proposal, and Twitter/public-pressure method.
+28. [eBay proxy material with Icahn open letter, March 2014](https://www.sec.gov/Archives/edgar/data/921669/000092846414000031/ebaydfan14a031014.htm) - Primary SEC-filed campaign material for governance/conflict claims, Skype/PayPal separation logic, and public adversarial rhetoric.
+29. [Icahn HP shareholder letter, December 2019](https://carlicahn.com/open-letter-to-hp-inc-shareholders/) - Primary campaign source for merger-synergy thesis, dual ownership disclosure, preference for friendly engagement, and escalation when a board refuses diligence.
+30. [Icahn Illumina shareholder letter, March 2023](https://carlicahn.com/open-letter-to-shareholders-of-illumina-inc/) - Primary campaign source for acquisition/regulatory-risk critique, board accountability theory, and proxy-contest escalation.
+31. [Icahn Illumina shareholder letter, May 2023](https://carlicahn.com/open-letter-to-shareholders-of-illumina-inc-7/) - Primary source for employee-sourced governance complaints and the limits Icahn himself acknowledged around public corroboration.
+32. [Icahn SandRidge board letter, December 2017](https://carlicahn.com/letter-to-the-board-of-directors-of-sandridge-energy/) - Primary source for poison-pill, shareholder-rights, and anti-entrenchment arguments.
+33. [McDonald's definitive proxy/open letter, April 2022](https://carlicahn.com/carl-c-icahn-files-definitive-proxy-statement-and-issues-open-letter-to-shareholders-of-mcdonalds-corporation/) - Primary source showing Icahn's late-career ESG/animal-welfare activism and claim that governance failure can create stakeholder harm.
+34. [Southwest Gas SEC-filed tender/proxy exhibit, October 2021](https://www.sec.gov/Archives/edgar/data/1034563/000119312521298785/d153494dex99a5a.htm) - Primary source for tender offer plus full-slate proxy-contest mechanics and shareholder-choice framing.
+35. [Cheniere settlement release, August 2015](https://lngir.cheniere.com/news-events/press-releases/detail/140/cheniere-reaches-agreement-with-carl-icahn-announces) - Primary company release showing cooperative board-seat outcome after Icahn activism.
+36. [Cheniere share repurchase from Icahn affiliates, June 2022](https://lngir.cheniere.com/news-events/press-releases/detail/250/cheniere-announces-350-million-repurchase-of-shares-from) - Primary source for exit/monetization example after a long campaign.
+37. [Princeton Alumni Weekly: Portrait of a Takeover Artist](https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57) - Contemporary secondary profile useful for TWA-era criticism and the corporate-raider frame. Use carefully and pair with later primary/legal records.
+
+## Task B open research notes
+
+- The 2021 Bloomberg interview should be replaced with a primary Bloomberg transcript or video if one is accessible.
+- Later C/D tasks should separate Icahn's P&L from target-company shareholder outcomes; B-philosophy only uses campaigns to infer process.
+- The TWA criticism needs primary bankruptcy/legal records or high-quality long-form history before being used for precise dollar claims.
+- For current IEP risk framing, use the 2025 10-K and 2024 SEC order before relying on Hindenburg or IEP advocacy alone.
