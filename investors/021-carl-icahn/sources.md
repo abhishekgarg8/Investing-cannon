@@ -92,3 +92,42 @@
 - Reconstruct exact Apple, eBay/PayPal, Cheniere, Forest, and Herbalife P&L from 13D amendments, 13F filings, tender documents, and company repurchase records.
 - Reconcile IEP's CVR Energy 807% return and more than $3.2 billion dividend claim with CVR's full public dividend ledger and IEP's changing ownership percentage.
 - For early trades, especially Texaco, Tappan, RJR Nabisco, and TWA, prefer primary filings, bankruptcy records, and contemporaneous company documents before upgrading press figures to verified P&L.
+
+## Task D source additions - 2026-06-26
+
+65. [IEP 2025 Form 10-K](https://www.ielp.com/static-files/f30ae6f0-f17d-4aa6-b000-9affa8788411) - Reused as the current primary anchor for Investment Funds returns, distribution-risk language, pledged-unit disclosure, and controlled-company risk factors.
+66. [Carl Icahn August 2023 IEP letter](https://www.ielp.com/news-releases/news-release-details/carl-c-icahn) - Primary self-diagnosis that oversized short/hedge positions overwhelmed long-side activism and that IEP had reduced hedges.
+67. [IEP response to Hindenburg](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-responds-self-serving-short-seller-report) - First-party rebuttal to the short report; useful because it admits the large net short position had detracted from investment segment results.
+68. [Hindenburg Research report on Icahn Enterprises](https://hindenburgresearch.com/icahn/) - Adversarial short-seller source for claims about IEP distribution support, investment losses, leverage, and pledged-unit risk; treat as interested and reconcile with filings.
+69. [IEP Q2 2023 results release](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-nasdaq-iep-today-announced-its-second) - Primary source for first-half 2023 IEP losses, hedge-book commentary, distribution cut context, and post-Hindenburg response.
+70. [IEP lawsuit-dismissal release](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-vindicated-dismissal-meritless-lawsuit) - First-party source for the September 2024 dismissal without prejudice of the Hindenburg-based class action and Icahn's rebuttal framing.
+71. [SEC administrative order against IEP, Release No. 34-100755](https://www.sec.gov/files/litigation/admin/2024/34-100755.pdf) - Primary legal source for IEP's 2018-2020 pledged-unit disclosure failure and $1.5 million civil penalty.
+72. [SEC administrative order against Carl Icahn, Release No. 34-100756](https://www.sec.gov/files/litigation/admin/2024/34-100756.pdf) - Primary legal source for Icahn's Schedule 13D failures, personal margin-loan amounts, pledged-unit percentages, and $500,000 civil penalty.
+73. [SEC press release 2024-99](https://www.sec.gov/newsroom/press-releases/2024-99) - Official summary of SEC charges against Icahn and IEP; useful for concise legal status and settlement amounts.
+74. [Hertz Schedule 13D/A, May 2020](https://www.sec.gov/Archives/edgar/data/921669/000092846420000023/htzsch13da05272020.htm) - Primary filing for Icahn's Hertz exit, no remaining beneficial ownership, sale prices, and Icahn's "significant loss" statement.
+75. [Business Insider: Icahn sells Hertz stake at almost $2B loss](https://markets.businessinsider.com/news/stocks/investor-carl-icahn-sells-entire-hertz-stake-2-billion-loss-2020-5-1029240688) - Secondary source quantifying the Hertz loss and share count; use with the SEC filing.
+76. [Harvard Business Review: Blockbuster's former CEO on Icahn](https://hbr.org/2011/04/how-i-did-it-blockbusters-former-ceo-on-sparring-with-an-activist-shareholder) - Management-side account of Icahn's Blockbuster entry and the strategic conflict around digital investment and compensation.
+77. [Fast Company: Icahn calls Blockbuster worst investment](https://www.fastcompany.com/1741855/blockbusters-largest-shareholder-calls-blockbuster-worst-investment-ever-made) - Useful carrier for Icahn's Blockbuster post-mortem on debt, stores, Netflix, Redbox, and digital disruption.
+78. [TheStreet: Icahn and Blockbuster board history](https://www.thestreet.com/investing/stocks/icahn-blockbuster-worst-investment-i-ever-made-11053480) - Secondary chronology for the 2005 proxy fight, board seats, Antioco conflict, 2010 board exit, and bankruptcy setup.
+79. [TWA/Karabu bankruptcy opinion](https://www.deb.uscourts.gov/sites/deb/files/opinions/twa_0.pdf) - Primary court source for TWA's bankruptcy background and Karabu/Icahn/PBGC arrangements.
+80. [PBGC TWA decision letter](https://www.pbgc.gov/Documents/apbletter/Decision--Trans%20World%20Airlines%20Inc%202003-11-19.pdf) - Primary pension source identifying TWA's underfunded pension issue and Icahn's former controlling-shareholder role.
+81. [The New Yorker: The Raid](https://www.newyorker.com/magazine/2006/03/20/the-raid) - Long-form source for Time Warner fight, institutional resistance, greenmail criticism, and Icahn's own combative language.
+82. [Conference Board / Director Notes: The Activism of Carl Icahn and Bill Ackman](https://www.shareholderforum.com/access/Library/20140523_ConferenceBoard-Lee%26Schloetzer.pdf) - Secondary source for failed/low-return campaigns, including Yahoo loss and Motorola context.
+83. [Icahn/Southwest Gas SEC-filed tender letter](https://www.sec.gov/Archives/edgar/data/1034563/000119312521298785/d153494dex99a5a.htm) - Primary source for Icahn's initial Southwest Gas tender/proxy mechanics.
+84. [Southwest Gas rejection of revised Icahn offer](https://investors.swgasholdings.com/news-releases/news-release-details/southwest-gas-board-directors-unanimously-rejects-carl-icahns) - Company-side source for the critique that Icahn's offer was inadequate and structurally coercive.
+85. [Southwest Gas settlement with Icahn](https://www.prnewswire.com/news-releases/southwest-gas-announces-settlement-with-carl-icahn-301542104.html) - Company/PRNewswire source for settlement terms and 24.9% ownership cap.
+86. [Axios: Icahn loses McDonald's proxy battle](https://www.axios.com/2022/05/26/carl-icahn-loses-proxy-battle-with-mcdonalds-pig-welfare) - Secondary source for the low-support 2022 McDonald's animal-welfare proxy fight.
+87. [Harvard Law School Forum: Icahn-Illumina contest](https://corpgov.law.harvard.edu/2023/06/07/icahn-illumina-contest-board-accountability-and-the-upc/) - Governance analysis of the Illumina campaign and universal proxy mechanics; useful contrast to failed campaigns.
+88. [MedTech Dive: Illumina chair loses to Icahn pick](https://www.medtechdive.com/news/illumina-shareholder-vote-icahn-board-ilmn/651306/) - Secondary source for the Illumina proxy result and Andrew Teno board seat.
+89. [IEP Auto Plus Chapter 11 statement](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-issues-statement-regarding-auto-plus) - Primary IEP source for Auto Plus bankruptcy, continued losses, and IEP's disappointment in the investment.
+90. [IEP Q4 2023 investor presentation](https://www.ielp.com/static-files/48cafc38-b2d0-4fd6-a840-eb32e9a52053) - First-party presentation source for Auto Plus deconsolidation and write-down to zero.
+91. [Business Insider: oil crash hurting Icahn portfolio](https://www.businessinsider.com/oil-crash-hurting-icahn-portfolio-2014-12) - Secondary source for 2014 energy/commodity losses across Talisman, Chesapeake, CVR, Transocean, and Seventy Seven Energy.
+92. [Youlu Zheng v. Icahn, 2013](https://law.justia.com/cases/new-york/other-courts/2013/2013-ny-slip-op-50122-u.html) - Court decision preserving XO minority-shareholder claims past summary judgment; useful for governance-risk narrative.
+93. [R2 Investments LDC v. Icahn, 2018](https://www.nycourts.gov/reporter/3dseries/2018/2018_03623.htm) - Appellate decision affirming that the challenged XO transactions were entirely fair and that no fiduciary breach was proven.
+
+## Task D open research notes
+
+- Reconstruct position-level P&L for Blockbuster, Yahoo, Motorola, Talisman, Transocean, and Southwest Gas from filings rather than relying on secondary loss estimates.
+- For TWA, build a primary bankruptcy-record chronology separating Icahn's personal economics, TWA stakeholder outcomes, PBGC claims, and the Karabu ticket agreement.
+- Update IEP's pledged-unit and margin-loan disclosures after the 2025 10-K and compare them with post-2023 13D amendments.
+- Reconcile Hindenburg's investment-portfolio loss claims with IEP annual reports and independent market data before upgrading those figures from adversarial-source status.
