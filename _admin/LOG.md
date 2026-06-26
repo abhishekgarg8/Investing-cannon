@@ -814,3 +814,8 @@
 - Output: synthesis/cohort-02.md (~2,897 words, 10 sources)
 - Notes: Completed second cohort synthesis across Fisher through Paul Tudor Jones, with convergent principles, disagreements, sizing/sell table, contradiction analysis, and themes.md append. Jones H-synthesis was still a fresh claim/missing, so Jones was compared from completed A-G files and flagged for refresh.
 - Backlog added: None
+
+## 2026-06-26T08:32:52Z — T0161 — 020-paul-tudor-jones — H-synthesis — DONE
+- Output: investors/020-paul-tudor-jones/synthesis.md (~1,557 words, 18 sources)
+- Notes: Completed Jones synthesis with ranked lessons, taxonomy, regime dependence, repo peer comparisons, INDEX row, and Task H source-map append. Preserved caveats around private Tudor ledgers, 13F/ADV non-comparability, mirrored/transcript-carrier sources, post-2008 regime decay, legal/reputational risk, and repaired a mechanical TODO typo while closing T0161.
+- Backlog added: None
