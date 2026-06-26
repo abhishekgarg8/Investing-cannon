@@ -834,3 +834,8 @@
 - Notes: Completed Icahn mistakes/losses across IEP hedge/margin disclosure fragility, Hertz/Blockbuster/TWA/Auto Plus losses, weak campaigns, and governance contradictions. Spot-checked Hertz 13D/A, SEC margin-loan order, and Auto Plus Chapter 11 statement; key P&L gaps remain flagged for later ledger reconstruction.
 - Backlog added: None
 
+## 2026-06-26T12:31:29Z — T0167 — 021-carl-icahn — E-own-words — DONE
+- Output: investors/021-carl-icahn/in-their-own-words.md (~1,651 words, 26 distinct cited URLs)
+- Notes: Closeout of already-present own-words output: verified 37 short quotes, required thematic organization, primary-materials index, and attribution watchlist; added the missing Task E source-map append. Spot-checked Yale, Dell SEC exhibit, IEP unitholder letter, and Dell DVMT sources. Preserved caveats around Bloomberg carrier evidence, first-party campaign advocacy, aggregator-only quotes, and IEP/Hindenburg legal-current context.
+- Backlog added: None
+
