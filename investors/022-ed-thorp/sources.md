@@ -30,3 +30,29 @@
 - PNP and Ridgeline performance numbers remain [private-record, secondary-verified] until original partnership statements are found.
 - The official EdwardOThorp.com book page appears to contain unrelated advertising text in the captured page; use the About page and publisher pages for current biography instead.
 - The PNP legal history should distinguish Thorp personally from the partnership and other partners: opened sources found no indictment of Thorp, but PNP itself closed under investigation pressure.
+
+## Task C source map
+
+1. [Beat the Market - Edward O. Thorp and Sheen T. Kassouf, 1967](https://www.economics.uci.edu/files/kassouf/pdfs/beatthemarket.pdf) - Primary source for the Molybdenum, Sperry Rand, Collins Radio, and Holly Sugar examples, including dates, structures, hedge ratios, and reported or modeled P&L.
+2. [The Work and Insights of Edward O. Thorp - UCI Career Exhibit](https://exhibits.lib.uci.edu/thorp/career) - Best compact institutional source for PNP launch/growth, AT&T trade context, Berkshire entry, Ridgeline dates, and Thorp career chronology.
+3. [The Work and Insights of Edward O. Thorp - UCI Libraries exhibit checklist](https://www.lib.uci.edu/sites/default/files/2022-03/Thorp-checklist.pdf) - Supporting UCI source for PNP and Ridgeline capital/performance claims.
+4. [Words From the Wise - Ed Thorp - AQR, 2018](https://www.aqr.com/-/media/AQR/Documents/Insights/Interviews/AQR-Words-from-the-Wise-Ed-Thorp.pdf) - Interview package used for the 1966-2002 profitable-every-year claim and Berkshire compounding discussion.
+5. [What I Knew and When I Knew It, Part 2 - Wilmott, 2018](https://www.wilmott.com/what-i-knew-and-when-i-knew-it-part-2/) - Thorp-authored account of CHA/PNP strategy mechanics and the relationship between derivatives pricing and later quantitative investing.
+6. [Statistical Arbitrage, Part I - Edward O. Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part1.pdf) - Primary/stat-arb paper used for portfolio turnover, long/short structure, and scale estimates.
+7. [Statistical Arbitrage, Part II - Edward O. Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part2.pdf) - Primary/stat-arb paper used for the MUD model, simulated return discussion, and card-counting analogy.
+8. [From Blackjack to the Market, He Mainly Loves the Challenge - Los Angeles Times, 1988](https://www.latimes.com/archives/la-xpm-1988-03-11-li-1398-story.html) - Contemporaneous source for PNP's 219-month/four-losing-month record, just-under-20% annual return summary, and 1987 crash performance.
+9. [Princeton/Newport, Target of U.S. Probe Linked to Drexel, Will Close - Los Angeles Times, 1988](https://www.latimes.com/archives/la-xpm-1988-12-09-fi-1503-story.html) - Contemporaneous source for PNP closure context and AUM growth.
+10. [United States v. Regan, 706 F. Supp. 1102 - Justia, 1989](https://law.justia.com/cases/federal/district-courts/FSupp/706/1102/1589061/) - Primary court record describing PNP's partnership structure and arbitrage activities.
+11. [United States v. Regan, 937 F.2d 823 - Justia, 1991](https://law.justia.com/cases/federal/appellate-courts/F2/937/823/192707/) - Primary appellate record for the later legal outcome of the PNP-related prosecution.
+12. [My Encounters With Madoff's Scheme and Other Swindles - Edward O. Thorp, 2009](https://novelinvestor.com/wp-content/uploads/2021/04/Thorp-My-Encounters-With-Madoffs-Scheme-And-Other-Swindles-2009.pdf) - Primary first-person source for the 1991 Madoff due-diligence/avoidance decision.
+13. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - SEC OIG, 2009](https://www.sec.gov/files/oig-5090.pdf) - Official regulatory source used to corroborate Madoff chronology and the importance of independent trade verification.
+14. [The Riveting Story of Edward Thorp - Motley Fool, 2017](https://www.fool.com/investing/2017/01/26/the-riveting-story-of-edward-thorp.aspx) - Secondary source for Berkshire entry framing and 2017 implied multiple; used with discrepancy note against UCI's 1982 date.
+15. [Eunuchs of the Universe - Tom Wolfe / Newsweek, 2013](https://www.newsweek.com/eunuchs-universe-tom-wolfe-wall-street-today-63127) - Secondary source for AT&T divestiture arbitrage notional and roughly $2.5 million profit; marked [single-source] in the document until primary PNP or exchange records are found.
+16. [Putting the Cards on the Table: A Talk with Edward O. Thorp - Journal of Investment Consulting / SSRN, 2011](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1896627) - Professional interview lead for Thorp's quantitative-investing framing; not a main numeric source for Task C.
+
+## Task C source-quality notes
+
+- AT&T trade size and P&L are supported by UCI for historical occurrence and Newsweek/Tom Wolfe for notional/profit. Because no original PNP letter, exchange record, or Thorp primary text was found, those exact figures remain [single-source, secondary].
+- PNP and Ridgeline aggregate returns remain [private-record, secondary-verified] pending original audited statements or partnership letters.
+- *Beat the Market* examples are primary for the early warrant/convertible trades, but some figures are book examples or combined totals rather than standalone account-level realized P&L.
+- Madoff is treated as an avoidance decision, not a profitable trade; avoided loss remains [unquantified] without client account size.
