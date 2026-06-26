@@ -235,3 +235,8 @@
 - Keep the early campaign ledger caveat open until Tappan, Texaco, TWA, and RJR Nabisco can be rebuilt from primary filings and contemporaneous documents.
 - Recompute IEP total return through a post-2023 endpoint before using any current-return claim; the August 2023 Icahn letter stops at July 31, 2023.
 - Reconcile the queue state for `T0168`: the key-writings file and source map existed during this run, but the task itself remained freshly claimed and was not closed here.
+
+## Task F stale retry QA - 2026-06-26
+
+- Verified the already-present `key-writings.md` against the Task F template and spot-checked the CarlIcahn.com letters index, Yale transcript, eBay counterletter, and SEC Icahn order.
+- No new source items added; prior Task F source additions 109-124 remain the source map for this file.
