@@ -180,3 +180,32 @@
 - Page-check *King Icahn* and *Dear Chairman* before using exact chapter claims or quotations.
 - Replace the Bloomberg excerpt with the original Bloomberg transcript/video if available.
 - Build campaign packets from initial 13D, exhibits, target responses, settlements/transactions, and final P&L reconstruction.
+
+## Task G source additions - 2026-06-26
+
+125. [IEP 2025 Form 10-K](https://www.ielp.com/static-files/f30ae6f0-f17d-4aa6-b000-9affa8788411) - Reused as the current primary anchor for IEP's investment strategy, controlled-company structure, public-unitholder limitations, leverage/derivative risks, pledged-unit risk, and Investment Funds return disclosures.
+126. [SEC administrative order against Carl Icahn, Release No. 34-100756](https://www.sec.gov/files/litigation/admin/2024/34-100756.pdf) - Primary legal source for Icahn's personal Schedule 13D pledged-unit/margin-loan disclosure settlement.
+127. [SEC administrative order against IEP, Release No. 34-100755](https://www.sec.gov/files/litigation/admin/2024/34-100755.pdf) - Primary legal source for IEP's public-company disclosure settlement around Icahn pledged units and margin loans.
+128. [Yale Open Courses ECON 252 guest lecture by Carl Icahn](https://oyc.yale.edu/economics/econ-252-08/lecture-15) - First-person source for Icahn's corporate-democracy, accountability, contrarianism, and thick-skin framing.
+129. [Netflix Schedule 13D, October 2012](https://www.sec.gov/Archives/edgar/data/921669/000092846412000262/nflxsc13d103112.htm) - Primary SEC source for the Netflix stake, call-option structure, strategic-value thesis, and security-design example.
+130. [IEP Netflix final sale release, 2015](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-announces-sale-netflix-shares) - Primary IEP source for the Netflix exit, gross proceeds, total gain, and realized-return framing.
+131. [CVR Energy 2012 Form 10-K](https://www.sec.gov/Archives/edgar/data/1376139/000137613913000006/cvi-20121231x10k.htm) - Primary SEC source for Icahn's tender-offer path from minority activism toward control.
+132. [Southwest Gas SEC-filed tender/proxy exhibit](https://www.sec.gov/Archives/edgar/data/1034563/000119312521298785/d153494dex99a5a.htm) - Primary source for the tender-offer plus proxy-contest shareholder-choice model.
+133. [Cheniere board-seat settlement release](https://lngir.cheniere.com/news-events/press-releases/detail/140/cheniere-reaches-agreement-with-carl-icahn-announces) - Primary company source for cooperative settlement and board-representation mechanics.
+134. [Icahn Occidental letter, July 2019](https://carlicahn.com/open-letter-to-occidental-petroleum-stockholders/) - First-party campaign letter used for the adversarial-diligence model around the Anadarko acquisition and Berkshire financing.
+135. [Hertz Schedule 13D/A, May 2020](https://www.sec.gov/Archives/edgar/data/921669/000092846420000023/htzsch13da05272020.htm) - Primary filing for the bankruptcy-era exit and "significant loss" source anchor.
+136. [McDonald's proxy material, April 2022](https://www.sec.gov/Archives/edgar/data/63908/000119312522112997/d354594ddfan14a.htm) - Primary SEC-carried source for the animal-welfare proxy fight and a low-transferability/low-support failure mode.
+137. [Axios: Icahn loses McDonald's proxy battle](https://www.axios.com/2022/05/26/carl-icahn-loses-proxy-battle-with-mcdonalds-pig-welfare) - Secondary source for shareholder-vote context in the McDonald's campaign.
+138. [Fast Company: Icahn calls Blockbuster worst investment](https://www.fastcompany.com/1741855/blockbusters-largest-shareholder-calls-blockbuster-worst-investment-ever-made) - Secondary source for Icahn's Blockbuster post-mortem and secular-disruption failure mode.
+139. [IEP Auto Plus Chapter 11 statement](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-issues-statement-regarding-auto-plus) - Primary IEP source for the Auto Plus bankruptcy and continued-loss failure mode.
+140. [Hindenburg Research report on Icahn Enterprises](https://hindenburgresearch.com/icahn/) - Adversarial short-seller source used only as an interested criticism source for distribution, leverage, collateral, and investment-loss questions.
+141. [IEP lawsuit-dismissal release, September 2024](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-vindicated-dismissal-meritless-lawsuit) - First-party IEP source for the post-Hindenburg class-action dismissal framing; use with SEC orders and court records.
+142. [SEC press release on Icahn/IEP settlements, August 2024](https://www.sec.gov/newsroom/press-releases/2024-99) - SEC summary source for penalties and no-admit/no-deny settlement framing.
+143. [Conference Board: The Activism of Carl Icahn and Bill Ackman](https://www.conference-board.org/topics/board-practices-compensation/the-activism-of-Carl-Icahn-and-Bill-Ackman) - Secondary governance-context source for activist tactics and perceived governance failures across Icahn/Ackman campaigns.
+144. [Brav, Jiang, Partnoy, and Thomas, The Returns to Hedge Fund Activism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1111778) - Academic context source for hedge-fund activism returns and outcomes; used as background, not as Icahn-specific proof.
+
+## Task G open research notes
+
+- Revisit the mental-model reconstruction after Task F creates `key-writings.md`.
+- Reconstruct base rates for Icahn campaigns by outcome type: control, settlement, board seat, sale/separation, low-support proxy loss, bankruptcy exit, and quiet exit.
+- Build a current IEP risk appendix that reconciles 2025 10-K disclosures, 2026 investor presentation figures, 13D amendments, market unit-price returns, and the 2024 SEC orders.
