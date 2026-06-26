@@ -119,9 +119,11 @@ As of 2026-06-26. Added for `investment-philosophy.md`. The core evidence is the
 17. [National Wildlife Federation - True Tales of Eco-Crimes](https://www.nwf.org/Magazines/National-Wildlife/1993/True-Tales-of-Eco-Crimes) - Critical source used to separate market risk skill from supervision/legal judgment in the Tudor Farms wetlands case.
 18. [Washington Post - Paul Tudor Jones on mothers as traders](https://www.washingtonpost.com/local/education/paul-tudor-jones-my-remarks-offended-and-i-am-sorry/2013/05/24/6bb3f0c0-c4a9-11e2-6ee52d0eb7c1_story.html) - Primary-ish source for UVA comments and apology, used in the philosophy tension section.
 19. [Financial Advisor / Bloomberg - Paul Tudor Jones Told Weinstein Sex Allegations Would 'Go Away'](https://www.fa-mag.com/news/paul-tudor-jones-told-weinstein-sex-allegations-would--go-away-36051.html) - Secondary controversy source used to preserve the reputational-judgment caveat.
+20. [Wall Street Journal - The Wall Street Firms That Kept Ties With Jeffrey Epstein Until the End](https://www.wsj.com/finance/jeffrey-epstein-wealth-89bf772f) and [InfluenceWatch - Paul Tudor Jones](https://www.influencewatch.org/person/paul-tudor-jones/) - 2025 reputational-governance lead alleging Epstein received $13.5M from a hedge fund managed by Jones; preserve as caveated until primary transaction records or fuller WSJ access are obtained.
 
 Open follow-up leads:
 - Page-check an authorized *Market Wizards* edition before Task E uses exact Jones quotes.
 - Locate the original venue for the TurtleTrader interview transcript.
 - Replace the Zikomo mirror with the original Stephen Taub / Absolute Return interview if accessible.
 - Find Tudor investor letters or audited tables after 2016 to test whether the quantitative/process reset improved net returns.
+- Obtain the underlying documents behind the WSJ/Epstein-Tudor reporting before treating the reported $13.5M transfer as a fully verified Tudor-specific governance finding.
