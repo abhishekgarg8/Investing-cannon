@@ -799,3 +799,8 @@
 - Output: investors/020-paul-tudor-jones/in-their-own-words.md (~2,294 words, 15 sources)
 - Notes: Stale retry closeout: verified already-present own-words file, Task E source map, and spot-checked SEC order, CBS Robin Hood transcript, and Tudor BVI 2020 macro memo. Preserved caveats around mirror/transcript carriers, gated Colossus transcript, and page-check needs for Market Wizards/Alchemy.
 - Backlog added: None
+
+## 2026-06-26T04:28:37Z — T0159 — 020-paul-tudor-jones — F-key-writings — DONE
+- Output: investors/020-paul-tudor-jones/key-writings.md (~2,670 words, 23 sources)
+- Notes: Completed Jones key-writings guide across first-person interviews, foreword/speeches, Fed decks, Tudor BVI memo, TED/JUST Capital, and ranked secondary/legal sources. Spot-checked New York Fed 2019 deck, Tudor BVI 2020 memo, and SEC prospectus; preserved caveats around mirrors, transcript carriers, and missing Tudor letter archive.
+- Backlog added: None
