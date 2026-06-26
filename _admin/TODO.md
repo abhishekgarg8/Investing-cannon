@@ -173,7 +173,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-26T11:22:18Z T0166 | 021-carl-icahn | D-mistakes | investors/021-carl-icahn/mistakes-and-losses.md
 - [x] done:2026-06-26T12:31:29Z T0167 | 021-carl-icahn | E-own-words | investors/021-carl-icahn/in-their-own-words.md
 - [~] claimed:2026-06-26T13:14:06Z T0168 | 021-carl-icahn | F-key-writings | investors/021-carl-icahn/key-writings.md
-- [ ] T0169 | 021-carl-icahn | G-mental-models | investors/021-carl-icahn/mental-models.md
+- [~] claimed:2026-06-26T13:21:26Z T0169 | 021-carl-icahn | G-mental-models | investors/021-carl-icahn/mental-models.md
 - [ ] T0170 | 021-carl-icahn | H-synthesis | investors/021-carl-icahn/synthesis.md
 - [ ] T0171 | 022-ed-thorp | A-profile | investors/022-ed-thorp/profile.md
 - [ ] T0172 | 022-ed-thorp | B-philosophy | investors/022-ed-thorp/investment-philosophy.md
