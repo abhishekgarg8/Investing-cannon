@@ -220,3 +220,33 @@ Open follow-up leads:
 - Find audited Tudor Futures Fund / Tudor BVI Global return tables and post-2016 performance evidence before upgrading public return statements.
 - Build a separate compliance-risk appendix if later tasks compare market-risk discipline with legal/reputational failures across investors.
 - Revisit the 2026 yen, AI, and related late-career theses after enough time has passed to judge outcome rather than intention.
+
+## Task H - synthesis (T0161)
+
+As of 2026-06-26. Added for `synthesis.md`. This synthesis used the completed Paul Tudor Jones A-G files plus fresh checks of official Tudor/UVA/current interview materials, SEC filings, performance-regime reporting, legal records, and peer synthesis files already in the repo. The core caveat remains unchanged: Tudor private-fund ledgers, trade-level P&L, and Jones-versus-platform attribution are not public.
+
+1. [Tudor Investment Corporation - Home](https://www.tudorfunds.com/home) - Official current firm description and 1980 founding anchor; used for current status and strategy/asset-class framing.
+2. [UVA Contemplative Sciences Center - Paul Tudor Jones](https://www.csc.virginia.edu/people/paul-tudor-jones) - Current official bio identifying Jones as founder, co-chairman, CIO, controlling principal, principal risk taker, primary risk taker for Tudor BVI Global and sole risk taker for Tudor Futures Fund.
+3. [SEC 13F-HR cover page, quarter ended 2026-03-31](https://www.sec.gov/Archives/edgar/data/923093/000090266426002516/xslForm13F_X02/primary_doc.xml) - Primary current filing showing $53.874B information-table value and 3,515 reportable entries; used only to explain 13F scope and limitations.
+4. [9AT Form ADV mirror - Tudor Investment Corporation](https://9at.com/Adviser/801-73474) - Current ADV mirror used for 2026 regulatory AUM, employees, private funds and platform-scale caveats; not treated as a primary audited performance source.
+5. [SEC-filed final prospectus for Tudor Fund for Employees L.P.](https://www.sec.gov/Archives/edgar/data/861895/000095013003003882/d424b3.htm) - Primary operating source for Tudor's fundamental/technical/trend-following mix and formal risk-management disclosures.
+6. [ValuePlays mirror - *Market Wizards: Interviews with Top Traders*](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - First-person source for Jones's risk-first trading doctrine and no-averaging-losers discipline. Caveat: mirror; upgrade to authorized page citations later.
+7. [TurtleTrader - Paul Tudor Jones interview transcript](https://www.turtletrader.com/paul-tudor-jones-interview/) - Transcript carrier for liquidity preference and skewed reward-risk framing; original venue/date still need verification.
+8. [Zikomo Letter mirror - Interviews with Paul Tudor Jones, Louis Bacon, Bruce Kovner](https://thezikomoletter.wordpress.com/2012/04/29/interviews-with-paul-tudor-jones-louis-bacon-bruce-kovner/) - Mirror source for the 1990 Japan put trade and historical-analogue method; used with provenance caveat.
+9. [Tudor BVI macro outlook mirror - The Great Monetary Inflation](https://www.lopp.net/pdf/BVI-Macro-Outlook.pdf) - 2020 Jones/Giorgianni memo mirror used for bitcoin-futures permission, store-of-value scoring, price-action/P&L discipline and low-single-digit exposure framing.
+10. [Financial Advisor / Bloomberg - Tudor demands managers take more risk](https://www.fa-mag.com/news/tudor-demands-managers-take-more-risk-in-hedge-fund-shakeup-28576.html?print=) - Critical performance-regime source for 1987-2007 versus 2008-2015 return split, 2008 loss, 2016 withdrawals, staff cuts, risk reset and quant/process overhaul.
+11. [Institutional Investor - Paul Tudor Jones lowers fees again](https://www.institutionalinvestor.com/article/2bsvt5vkd2isw3av2iz28/portfolio/the-morning-brief-paul-tudor-jones-lowers-fees-again) - Independent 2017 evidence of fee pressure and low-return context.
+12. [SEC administrative order - In the Matter of Tudor Investment Corporation](https://www.sec.gov/files/litigation/admin/3437669.txt) - Primary legal source for the 1994 married-put / uptick-rule settlement and $800,000 civil penalty.
+13. [Washington Post - Trading Whiz Fined for Wetland Damage](https://www.washingtonpost.com/archive/politics/1990/05/26/trading-whiz-fined-for-wetland-damage/57ace2a3-3159-4c5b-8b2f-e39ed8a3199e/) - Contemporary legal/environmental source for the Tudor Farms plea, fine, restitution, probation and conservation easement.
+14. [Ritholtz - Transcript: Peter Borish](https://ritholtz.com/2023/06/transcript-peter-borish/) - Attribution source for Tudor's 1987 historical-analogue work and Peter Borish's role.
+15. [Investing.com/Bloomberg - Druckenmiller, Tudor Jones, Michael Lewis Remember Black Monday](https://www.investing.com/news/stock-market-news/druckenmiller-tudor-jones-michael-lewis-remember-black-monday-542099) - Bloomberg oral-history carrier for Black Monday context and reported Tudor Futures Fund 1987/October returns.
+16. [Colossus / Invest Like the Best - You Retire, You Die](https://colossus.com/episode/you-retire-you-die/) - Official 2026 episode page for current-status and live-theme context; full transcript remains gated.
+17. [Business Insider - Jones eyes next big bet in Japan yen](https://www.businessinsider.com/paul-tudor-jones-investing-opportunities-japan-yen-sanae-takaichi-2026-4) - Current 2026 interview coverage used to classify yen/AI and related comments as live theses, not completed trades.
+18. [Robin Hood - About](https://robinhood.org/about/) and [TED - Why we need to rethink capitalism](https://www.ted.com/talks/paul_tudor_jones_ii_why_we_need_to_rethink_capitalism) - Official philanthropy/measurement sources used for transferability beyond markets.
+
+Open follow-up leads:
+- Reconstruct audited Tudor BVI Global and Tudor Futures Fund return tables; do not upgrade reported returns without primary records.
+- Replace mirror/transcript-carrier sources with authorized *Market Wizards*, original TurtleTrader, original Stephen Taub/Japan, original Burton, and Tudor-hosted memo copies where possible.
+- Track 2026 yen, AI and other current themes as outcomes develop; keep them out of greatest-trade rankings until realized and sourced.
+- Separate Jones's personal risk book from Tudor platform, quant, equity and manager-sleeve returns in any future performance analysis.
+- Continue monitoring legal/reputational leads, including Epstein-related reporting, with primary documents before turning leads into settled findings.
