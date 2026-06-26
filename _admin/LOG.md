@@ -819,3 +819,8 @@
 - Output: investors/020-paul-tudor-jones/synthesis.md (~1,557 words, 18 sources)
 - Notes: Completed Jones synthesis with ranked lessons, taxonomy, regime dependence, repo peer comparisons, INDEX row, and Task H source-map append. Preserved caveats around private Tudor ledgers, 13F/ADV non-comparability, mirrored/transcript-carrier sources, post-2008 regime decay, legal/reputational risk, and repaired a mechanical TODO typo while closing T0161.
 - Backlog added: None
+
+## 2026-06-26T09:22:07Z — T0164 — 021-carl-icahn — B-philosophy — DONE
+- Output: investors/021-carl-icahn/investment-philosophy.md (~2,510 words, 23 sources)
+- Notes: Closeout of already-present philosophy file; verified required sections and spot-checked IEP letter, SEC margin-loan settlement, Icahn campaign letters, and Harvard/Conference Board source support. Preserved tensions around IEP controlled-company governance, margin-loan disclosure, public holding-company risk, and activist transferability.
+- Backlog added: None
