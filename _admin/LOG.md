@@ -863,3 +863,8 @@
 - Output: investors/022-ed-thorp/greatest-trades.md (~3,167 words, 16 sources)
 - Notes: Closed the already-present greatest-trades draft after Task C QA; required nine trade sections, inline citations, and Task C source map verified. Preserved caveats around AT&T single-source secondary P&L, private PNP/Ridgeline ledgers, book-example P&L isolation, Berkshire share-count uncertainty, and Madoff as avoided-loss not trade.
 - Backlog added: None
+
+## 2026-06-26T23:15:44Z — T0172 — 022-ed-thorp — B-philosophy — DONE
+- Output: investors/022-ed-thorp/investment-philosophy.md (~2,513 words, 18 sources)
+- Notes: Stale retry closeout: verified already-present investment-philosophy file, Task B source map, and required B sections. Spot-checked EdwardOThorp.com About, AQR interview, Thorp 2003 Wilmott paper, and Justia appellate source; preserved caveats around private PNP/Ridgeline ledgers, edge decay/capacity, and PNP legal/organizational risk.
+- Backlog added: None
