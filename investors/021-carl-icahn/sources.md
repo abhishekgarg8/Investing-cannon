@@ -155,3 +155,28 @@
 - Replace the 2021 Bloomberg excerpt with the original Bloomberg transcript or video if accessible.
 - Continue excluding aggregator-only Icahn quotes unless the original interview, letter, filing, or recording can be opened.
 - For campaign letters on CarlIcahn.com, preserve the source as first-party advocacy and triangulate factual claims with SEC filings, company releases, court records, or market data.
+
+## Task F source additions - 2026-06-26
+
+109. [CarlIcahn.com letters index](https://carlicahn.com/letters/) - Primary landing page for Icahn's campaign-letter corpus and chronology.
+110. [CarlIcahn.com front-page disclaimer](https://carlicahn.com/front-page/) - First-party disclaimer for interpreting Icahn letters as public-information-based advocacy.
+111. [eBay response to Icahn, February 2014](https://www.ebayinc.com/stories/news/ebay-inc-responds-carl-icahns-feb-24-open-letter-stockholders/) - Counterparty response that should be paired with Icahn's eBay/PayPal letters.
+112. [SandRidge SEC-filed Icahn exhibit, November 2017](https://www.sec.gov/Archives/edgar/data/921669/000081376217000054/sdexhibit01113017.htm) - Primary poison-pill/shareholder-rights letter.
+113. [SandRidge stockholder letter, 2018](https://carlicahn.com/open-letter-to-sandridge-energy-stockholders-3/) - Campaign escalation from legal process to stockholder vote.
+114. [Kahan & Rock, Anti-Activist Poison Pills, 2019](https://www.bu.edu/bulawreview/files/2019/06/KAHAN-ROCK.pdf) - Academic context on poison pills that helps interpret SandRidge.
+115. [Illumina response to Icahn, 2023](https://investor.illumina.com/news/press-release-details/2023/Illumina-Sends-Letter-to-Shareholders-Highlighting-Board-Strength-Weakness-of-Icahns-Plan/default.aspx) - Counterparty response for the GRAIL campaign.
+116. [Icahn December 2023 Illumina letter](https://carlicahn.com/open-letter-to-shareholders-of-illumina-inc-13/) - Later campaign/accountability extension after the announced GRAIL divestiture.
+117. [Occidental SEC filing, 2019](https://www.sec.gov/Archives/edgar/data/797468/000114420419035084/tv525218_defc14a.htm) - Transaction/proxy context for Icahn's Occidental critique.
+118. [Southwest Gas rejection of Icahn offer, 2022](https://investors.swgasholdings.com/news-releases/news-release-details/southwest-gas-board-directors-unanimously-rejects-carl-icahns) - Counterparty response for tender/proxy campaign.
+119. [Google Books: King Icahn](https://books.google.com/books/about/King_Icahn.html?hl=en&id=lGMPAQAAMAAJ) - Book-level source for the principal Icahn biography; page-check before quoting.
+120. [Dear Chairman official site](https://dearchairman.com/new-page) - Context for shareholder letters as a genre including Icahn.
+121. [New Yorker review of Dear Chairman](https://www.newyorker.com/magazine/2016/09/05/jeff-gramms-dear-chairman-boardroom-battles-and-the-rise-of-shareholder-activism) - Secondary context on Icahn's Phillips Petroleum battle and activism history.
+122. [IEP SEC filings page](https://www.ielp.com/financial-information/sec-filings) - Current primary filing gateway for IEP structure and risk.
+123. [IEP 2025 Form 10-K, SEC archive](https://www.sec.gov/Archives/edgar/data/813762/000110465926019821/tmb-20251231x10k.htm) - Current filing anchor for IEP control, risk, pledged units, and segment exposure.
+124. [Xerox response to Icahn/Deason, 2018](https://www.news.xerox.com/news/Xerox-responds-to-Carl-Icahn-and-Darwin-Deason) - Counterparty response example for reading activist letters in pairs.
+
+## Task F open research notes
+
+- Page-check *King Icahn* and *Dear Chairman* before using exact chapter claims or quotations.
+- Replace the Bloomberg excerpt with the original Bloomberg transcript/video if available.
+- Build campaign packets from initial 13D, exhibits, target responses, settlements/transactions, and final P&L reconstruction.
