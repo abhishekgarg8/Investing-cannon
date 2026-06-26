@@ -839,3 +839,7 @@
 - Notes: Closeout of already-present own-words output: verified 37 short quotes, required thematic organization, primary-materials index, and attribution watchlist; added the missing Task E source-map append. Spot-checked Yale, Dell SEC exhibit, IEP unitholder letter, and Dell DVMT sources. Preserved caveats around Bloomberg carrier evidence, first-party campaign advocacy, aggregator-only quotes, and IEP/Hindenburg legal-current context.
 - Backlog added: None
 
+## 2026-06-26T13:36:34Z — T0169 — 021-carl-icahn — G-mental-models — DONE
+- Output: investors/021-carl-icahn/mental-models.md (~3,049 words, 19 distinct cited URLs)
+- Notes: Completed Icahn mental-models reconstruction across governance optionality, control-rights ladder, shareholder-choice forcing functions, catalyst design, sizing/structure, escalation, sell rules, risk limits, failure modes, and transferability. Spot-checked IEP 2025 10-K, Southwest Gas tender/proxy exhibit, Hertz 13D/A, Netflix 13D, Yale lecture, and SEC pledged-unit orders. Preserved caveat that Task F key-writings was still freshly claimed and unavailable during this run.
+- Backlog added: None
