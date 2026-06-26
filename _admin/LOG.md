@@ -824,3 +824,8 @@
 - Output: investors/021-carl-icahn/investment-philosophy.md (~2,510 words, 23 sources)
 - Notes: Closeout of already-present philosophy file; verified required sections and spot-checked IEP letter, SEC margin-loan settlement, Icahn campaign letters, and Harvard/Conference Board source support. Preserved tensions around IEP controlled-company governance, margin-loan disclosure, public holding-company risk, and activist transferability.
 - Backlog added: None
+
+## 2026-06-26T10:41:47Z — T0165 — 021-carl-icahn — C-greatest-trades — DONE
+- Output: investors/021-carl-icahn/greatest-trades.md (~3,940 words, 64 sources in folder source map)
+- Notes: Completed Icahn greatest-trades retry; replaced the preexisting partial with a source-verified file ranking CVR Energy as the best durable control trade and Netflix as the cleanest realized trade. Preserved caveats around first-party IEP return figures, incomplete campaign ledgers, early-trade press figures, and group-versus-personal P&L.
+- Backlog added: None
