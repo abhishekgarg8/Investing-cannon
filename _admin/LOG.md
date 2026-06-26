@@ -783,3 +783,8 @@
 - Output: investors/020-paul-tudor-jones/mistakes-and-losses.md (~2,892 words, 15 sources)
 - Notes: Completed Jones mistakes/losses file covering the 1979 cotton near-death loss, 1994 SEC married-put/uptick-rule trade, post-2008 Tudor return decay, Tudor Farms wetlands, UVA comments, and Weinstein-email controversy. Preserved caveats around private Tudor return ledgers, self-reported cotton-loss figures, and the unverified 1994 trading-loss amount.
 - Backlog added: None
+
+## 2026-06-26T01:37:30Z — T0156 — 020-paul-tudor-jones — C-greatest-trades — DONE
+- Output: investors/020-paul-tudor-jones/greatest-trades.md (~2,713 words, 18 sources)
+- Notes: Stale retry completed Jones greatest-trades file; ranked the 1990 Japanese equity puts as Jones's self-identified single best trade, documented the 1987 crash book separately, and caveated private Tudor trade sizes/P&L where no primary ledger was available.
+- Backlog added: None
