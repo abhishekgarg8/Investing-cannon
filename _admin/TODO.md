@@ -166,7 +166,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-26T04:28:37Z T0159 | 020-paul-tudor-jones | F-key-writings | investors/020-paul-tudor-jones/key-writings.md
 - [x] done:2026-06-26T05:23:42Z T0160 | 020-paul-tudor-jones | G-mental-models | investors/020-paul-tudor-jones/mental-models.md
 - [~] claimed:2026-06-26T07:10:00Z T0161 | 020-paul-tudor-jones | H-synthesis | investors/020-paul-tudor-jones/synthesis.md
-- [ ] T0162 | cohort-02 | X-cohort-synthesis | synthesis/cohort-02.md
+- [~] claimed:2026-06-26T07:15:09Z T0162 | cohort-02 | X-cohort-synthesis | synthesis/cohort-02.md
 - [ ] T0163 | 021-carl-icahn | A-profile | investors/021-carl-icahn/profile.md
 - [ ] T0164 | 021-carl-icahn | B-philosophy | investors/021-carl-icahn/investment-philosophy.md
 - [ ] T0165 | 021-carl-icahn | C-greatest-trades | investors/021-carl-icahn/greatest-trades.md
