@@ -56,3 +56,31 @@
 - PNP and Ridgeline aggregate returns remain [private-record, secondary-verified] pending original audited statements or partnership letters.
 - *Beat the Market* examples are primary for the early warrant/convertible trades, but some figures are book examples or combined totals rather than standalone account-level realized P&L.
 - Madoff is treated as an avoidance decision, not a profitable trade; avoided loss remains [unquantified] without client account size.
+
+## Task B source map
+
+1. [EdwardOThorp.com - About](https://www.edwardothorp.com/about/) - Current first-party biography used for as-of living/status context and official high-level identity.
+2. [A Perspective on Quantitative Finance: Models for Beating the Market - Edward O. Thorp, 2003](https://www.edwardothorp.com/wp-content/uploads/2016/11/thorpwilmottqfinrev2003.pdf) - Core primary source for Thorp's philosophy: model-building, risk-adjusted excess returns, extreme-risk questions, statistical arbitrage origins, and factor exposure discipline.
+3. [Beat the Market - Edward O. Thorp and Sheen T. Kassouf, 1967](https://www.economics.uci.edu/files/kassouf/pdfs/beatthemarket.pdf) - Primary source for warrant/convertible hedging, zero-profit-line thinking, short-sale mechanics, margin constraints, and capacity warnings.
+4. [Words From the Wise - Ed Thorp - AQR, 2018](https://www.aqr.com/-/media/AQR/Documents/Insights/Interviews/AQR-Words-from-the-Wise-Ed-Thorp.pdf) - Main interview source for EMH nuance, Kelly sizing, factor/stat-arb evolution, indexing advice for nonprofessionals, leverage criticism, and temperament.
+5. [The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market - RePEc / World Scientific, 2011](https://ideas.repec.org/h/wsi/wschap/9789814293501_0054.html) - Bibliographic/abstract source for the positive-expectation-plus-sizing framework and capital-growth criterion.
+6. [What I Knew And When I Knew It: Part I - Wilmott, 2018 repost](https://www.wilmott.com/i-knew-i-knew-part-i/) - Thorp-authored historical account of arriving at warrant/option pricing from a blackjack-influenced perspective before Black-Scholes.
+7. [What I Knew and When I Knew It - Part 2 - Wilmott, 2018 repost](https://www.wilmott.com/what-i-knew-and-when-i-knew-it-part-2/) - Thorp-authored account of CHA/PNP launch, delta-neutral hedging, model filters, and pre-listed-options implementation.
+8. [Statistical Arbitrage, Part I - Edward O. Thorp](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part1.pdf) - Primary/stat-arb paper for the large-number-of-small-bets mindset, long/short construction, and market-neutral framing.
+9. [Statistical Arbitrage, Part II - Edward O. Thorp](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part2.pdf) - Primary/stat-arb paper for average bet size, high-frequency repetition, and the explicit analogy to card counting.
+10. [My Encounters With Madoff's Scheme and Other Swindles - Edward O. Thorp, 2009](https://novelinvestor.com/wp-content/uploads/2021/04/Thorp-My-Encounters-With-Madoffs-Scheme-And-Other-Swindles-2009.pdf) - Primary due-diligence source for Thorp's fraud-detection process, independent verification standard, and skepticism toward smooth returns.
+11. [SEC OIG - Investigation of Failure to Uncover Bernard Madoff's Ponzi Scheme, 2009](https://www.sec.gov/files/oig-5090.pdf) - Official regulatory corroboration of Madoff red flags and the SEC's repeated failure to verify independent evidence.
+12. [Edward O. Thorp papers, 1946-2023 - OAC / UC Irvine Libraries](https://oac.cdlib.org/findaid/ark%3A/13030/c8cn79mx/) - Archive guide supporting the bridge from probability work to hedged investment theory and PNP.
+13. [The Work and Insights of Edward O. Thorp - UCI Libraries exhibit checklist](https://www.lib.uci.edu/sites/default/files/2022-03/Thorp-checklist.pdf) - Institutional source for career evolution, PNP/Ridgeline chronology, Berkshire context, and Kelly framing.
+14. [Putting the Cards on the Table: A Talk with Edward O. Thorp - Journal of Investment Consulting / SSRN, 2011](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1896627) - Professional interview source for Thorp's quants/market-neutral identity and gambling-to-investing bridge.
+15. [United States v. Regan, 706 F. Supp. 1102 - Justia, 1989](https://law.justia.com/cases/federal/district-courts/FSupp/706/1102/1589061/) - Primary court source for PNP's arbitrage business and defendants, used for legal/organizational-risk tension.
+16. [6 Found Guilty of Racketeering and Securities Fraud - Los Angeles Times, 1989](https://www.latimes.com/archives/la-xpm-1989-08-01-fi-622-story.html) - Contemporaneous source for PNP verdict, closure context, approximately 20% investor-return framing, and explicit note that Thorp was not charged.
+17. [United States v. Regan, 937 F.2d 823 - Justia, 1991](https://law.justia.com/cases/federal/appellate-courts/F2/937/823/192707/) - Primary appellate source for vacated tax/RICO counts and affirmed conspiracy/securities-fraud counts.
+18. [Tim Ferriss Show 596 - Edward O. Thorp, 2022](https://tim.blog/2022/05/24/ed-thorp/) - Interview landing page used cautiously for later-life framing around independent thinking, investing lessons, and knowing when enough is enough.
+
+## Task B source-quality notes
+
+- The strongest Task B sources are Thorp-authored papers/books and the AQR interview. Blog summaries, quote aggregators, Reddit, and social posts were used only as leads and were not cited in the philosophy file.
+- Search for current legal developments found no new credible 2026 legal proceeding involving Edward O. Thorp; unrelated results for other people named Thorp were ignored.
+- PNP legal discussion distinguishes the investment philosophy from organizational/legal risk: opened sources found Thorp not charged, but PNP itself was exposed to the investigation and closure.
+- Exact PNP/Ridgeline performance attribution remains outside this task's scope and is still [private-record, secondary-verified] until original fund statements are found.
