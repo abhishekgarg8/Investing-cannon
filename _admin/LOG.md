@@ -794,3 +794,8 @@
 - Output: investors/020-paul-tudor-jones/investment-philosophy.md (~2,586 words, 20 sources)
 - Notes: Stale retry completed and QA'd the existing philosophy draft; added a caveated 2025 WSJ/Epstein governance lead and spot-checked SEC prospectus, SEC order, Financial Advisor/Bloomberg, BVI memo, and 2026 interview support.
 - Backlog added: None
+
+## 2026-06-26T04:18:28Z — T0158 — 020-paul-tudor-jones — E-own-words — DONE
+- Output: investors/020-paul-tudor-jones/in-their-own-words.md (~2,294 words, 15 sources)
+- Notes: Stale retry closeout: verified already-present own-words file, Task E source map, and spot-checked SEC order, CBS Robin Hood transcript, and Tudor BVI 2020 macro memo. Preserved caveats around mirror/transcript carriers, gated Colossus transcript, and page-check needs for Market Wizards/Alchemy.
+- Backlog added: None
