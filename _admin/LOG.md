@@ -858,3 +858,8 @@
 - Output: investors/022-ed-thorp/profile.md (~1,889 words, 21 sources)
 - Notes: Closed the already-present Ed Thorp profile and Task A source map after verifying required sections, inline citations, and current living-status sourcing. Spot-checked EdwardOThorp.com About, Penguin Random House author bio, Justia appellate opinion, and UCI exhibit checklist; preserved caveats around private PNP/Ridgeline ledgers, gross/net return reconciliation, and post-remand legal chronology.
 - Backlog added: None
+
+## 2026-06-26T21:21:35Z — T0173 — 022-ed-thorp — C-greatest-trades — DONE
+- Output: investors/022-ed-thorp/greatest-trades.md (~3,167 words, 16 sources)
+- Notes: Closed the already-present greatest-trades draft after Task C QA; required nine trade sections, inline citations, and Task C source map verified. Preserved caveats around AT&T single-source secondary P&L, private PNP/Ridgeline ledgers, book-example P&L isolation, Berkshire share-count uncertainty, and Madoff as avoided-loss not trade.
+- Backlog added: None
