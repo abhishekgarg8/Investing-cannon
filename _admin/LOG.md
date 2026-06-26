@@ -788,3 +788,9 @@
 - Output: investors/020-paul-tudor-jones/greatest-trades.md (~2,713 words, 18 sources)
 - Notes: Stale retry completed Jones greatest-trades file; ranked the 1990 Japanese equity puts as Jones's self-identified single best trade, documented the 1987 crash book separately, and caveated private Tudor trade sizes/P&L where no primary ledger was available.
 - Backlog added: None
+
+
+## 2026-06-26T03:19:54Z — T0155 — 020-paul-tudor-jones — B-philosophy — DONE
+- Output: investors/020-paul-tudor-jones/investment-philosophy.md (~2,586 words, 20 sources)
+- Notes: Stale retry completed and QA'd the existing philosophy draft; added a caveated 2025 WSJ/Epstein governance lead and spot-checked SEC prospectus, SEC order, Financial Advisor/Bloomberg, BVI memo, and 2026 interview support.
+- Backlog added: None
