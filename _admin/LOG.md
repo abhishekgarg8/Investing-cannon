@@ -804,3 +804,8 @@
 - Output: investors/020-paul-tudor-jones/key-writings.md (~2,670 words, 23 sources)
 - Notes: Completed Jones key-writings guide across first-person interviews, foreword/speeches, Fed decks, Tudor BVI memo, TED/JUST Capital, and ranked secondary/legal sources. Spot-checked New York Fed 2019 deck, Tudor BVI 2020 memo, and SEC prospectus; preserved caveats around mirrors, transcript carriers, and missing Tudor letter archive.
 - Backlog added: None
+
+## 2026-06-26T05:23:42Z — T0160 — 020-paul-tudor-jones — G-mental-models — DONE
+- Output: investors/020-paul-tudor-jones/mental-models.md (~2,075 words, 20 sources)
+- Notes: Completed Jones mental-model reconstruction around survival-first trading, liquidity, convexity, price confirmation, historical analogy, adaptation, and measurement. Preserved caveats around private Tudor stop rules/returns, mirror and transcript carriers, 13F limits, compliance failure in the 1994 SEC order, and post-2008 regime decay.
+- Backlog added: None
