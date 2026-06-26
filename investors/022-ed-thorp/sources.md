@@ -84,3 +84,28 @@
 - Search for current legal developments found no new credible 2026 legal proceeding involving Edward O. Thorp; unrelated results for other people named Thorp were ignored.
 - PNP legal discussion distinguishes the investment philosophy from organizational/legal risk: opened sources found Thorp not charged, but PNP itself was exposed to the investigation and closure.
 - Exact PNP/Ridgeline performance attribution remains outside this task's scope and is still [private-record, secondary-verified] until original fund statements are found.
+
+## Task D source map
+
+1. [EdwardOThorp.com - About](https://www.edwardothorp.com/about/) - Current first-party source for living/status and Newport Beach as-of framing.
+2. [Beat the Market - Edward O. Thorp and Sheen T. Kassouf, 1967](https://www.economics.uci.edu/files/kassouf/pdfs/beatthemarket.pdf) - Primary source for early ordinary-stock/process errors, warrant-hedge hazards, capacity limits, and publication/crowding risk.
+3. [A Perspective on Quantitative Finance: Models for Beating the Market - Edward O. Thorp, 2003](https://www.edwardothorp.com/wp-content/uploads/2016/11/thorpwilmottqfinrev2003.pdf) - Primary source for global/local risk, stress testing, overbetting, 1987-crash framing, and LTCM/lognormal-tail lessons.
+4. [From Blackjack to the Market, He Mainly Loves the Challenge - Los Angeles Times, 1988](https://www.latimes.com/archives/la-xpm-1988-03-11-li-1398-story.html) - Contemporaneous source for PNP's 219-month/four-losing-month record, approximate 20% annual return, and 1987 crash drawdown context.
+5. [Princeton/Newport, Target of U.S. Probe Linked to Drexel, Will Close - Los Angeles Times, 1988](https://www.latimes.com/archives/la-xpm-1988-12-09-fi-1503-story.html) - Contemporaneous source for PNP closure, Thorp not among indicted partners, AUM growth, and his planned separate firm.
+6. [United States v. Regan, 706 F. Supp. 1102 - Justia, 1989](https://law.justia.com/cases/federal/district-courts/FSupp/706/1102/1589061/) - Primary court source for PNP's business description, defendants, and legal facts around the prosecution.
+7. [6 Found Guilty of Racketeering and Securities Fraud - Los Angeles Times, 1989](https://www.latimes.com/archives/la-xpm-1989-08-01-fi-622-story.html) - Contemporaneous source for trial conviction, RICO context, and closure pressure.
+8. [United States v. Regan, 937 F.2d 823 - Justia, 1991](https://law.justia.com/cases/federal/appellate-courts/F2/937/823/192707/) - Primary appellate source for the mixed/vacated legal outcome and the distinction between tax/RICO and securities-fraud counts.
+9. [The Work and Insights of Edward O. Thorp - UCI Career Exhibit](https://exhibits.lib.uci.edu/thorp/career) - Institutional source for PNP closure, PNP capital growth, Ridgeline launch, and Ridgeline return caveat.
+10. [Statistical Arbitrage, Part I - Edward O. Thorp](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part1.pdf) - Primary source for stat-arb turnover, costs, diversification limits, and single-stock event-risk discussion.
+11. [Statistical Arbitrage, Part II - Edward O. Thorp](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part2.pdf) - Primary source for the MUD model, simulated return, random fluctuation, and omission/deferral decision.
+12. [Words From the Wise - Ed Thorp - AQR, 2018](https://www.aqr.com/-/media/AQR/Documents/Insights/Interviews/AQR-Words-from-the-Wise-Ed-Thorp.pdf) - Interview package used for career-level framing around PNP/Ridgeline, quant-investing identity, and edge migration.
+13. [My Encounters With Madoff's Scheme and Other Swindles - Edward O. Thorp, 2009](https://novelinvestor.com/wp-content/uploads/2021/04/Thorp-My-Encounters-With-Madoffs-Scheme-And-Other-Swindles-2009.pdf) - Primary first-person source for the 1991 Madoff due-diligence process and avoided-loss lesson.
+14. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - SEC OIG, 2009](https://www.sec.gov/files/oig-5090.pdf) - Official source for the broader regulatory failure around Madoff red flags.
+
+## Task D source-quality notes
+
+- The D-file deliberately separates investment losses from organizational/legal risk. PNP's closure was the largest public damage event, but opened sources do not show Thorp personally charged.
+- PNP and Ridgeline return data remain [private-record, secondary-verified]; no original monthly statements or audited partnership letters were found in this run.
+- The early stock and warrant examples come from *Beat the Market*, which is primary but mixes realized examples, system exposition, and illustrative economics.
+- Madoff is treated as an avoided-loss and due-diligence process case, not as a profitable trade. The client's avoided dollar loss remains [unquantified].
+- Search for current legal developments found no new credible 2026 proceeding involving Edward O. Thorp; unrelated people named Thorp were ignored.
