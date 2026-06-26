@@ -1,139 +1,298 @@
 # Carl Icahn - Greatest Trades
 
-## Ranking logic and caveats
+As of: 2026-06-26
 
-Icahn's greatest trades are unusually hard to rank because the evidence mixes four different scoreboards: his realized P&L, the market value created for all target-company shareholders, distributions paid to Icahn Enterprises ("IEP"), and still-owned positions whose economics remain open. I rank **CVR Energy** as the single best overall Icahn trade because it combined control, cash extraction through dividends, long-lived strategic value for IEP, and a continuing large ownership stake. That ranking is caveated: the position is not fully realized, and the best cumulative dividend figure is a Financial Times analysis rather than a primary Icahn ledger. The cleanest fully realized public-equity winner remains **Netflix**, where the public record shows a roughly $58 cost basis, a partial sale after a 457% stock-price gain, and press-reported total profit near $2 billion.
+## Selection standard
 
-## 1. CVR Energy - the best overall control/cash-yielding trade
+This file ranks Icahn trades by a mix of observable profit, repeatability of the underlying method, strategic importance to Icahn's career, and quality of source evidence. Icahn is hard to reduce to a clean trade ledger: many wins were run through partnerships, public funds, Icahn Enterprises L.P. (IEP), affiliates, or tender-offer vehicles; some were never fully exited; and many press reports blend Icahn's own P&L, his affiliates' P&L, and target-company shareholder outcomes. Where a campaign lacks a full position ledger, the file says so rather than pretending precision.
 
-**Context and dates.** In February 2012, Icahn launched a tender offer for all outstanding CVR Energy shares at $30 per share in cash plus a contingent value right. The campaign was framed as a sale-or-control fight: Icahn argued CVR should be sold, nominated a full nine-director slate, and said tendering holders would receive upside if the company were sold above $30 within nine months ([IEP CVR tender release, 2012](https://www.ielp.com/news-releases/news-release-details/icahn-announces-tender-offer-all-outstanding-shares-cvr-energy)). CVR's board negotiated a transaction agreement in April 2012 that allowed shareholders to decide whether to tender, while still saying the company's long-term value exceeded $30 per share ([CVR SEC exhibit, 2012](https://www.sec.gov/Archives/edgar/data/1376139/000119312512169607/d337418dex991.htm)).
+The single best trade by durable public evidence is **CVR Energy**: it combined a control acquisition, long-lived cash generation, and an IEP-stated 807% gain with more than $3.2 billion of dividends by 2023. The cleanest realized trade is **Netflix**, where IEP itself disclosed approximately $2.0 billion of total gain and a 457% return in under three years.
 
-**Thesis and how he found it.** CVR was a refiner/fertilizer-linked special situation with hidden strategic value. Icahn's offer document argued that a strategic buyer could pay at least $37 per share, compared with the $27.60 closing price before the offer, by valuing the refinery assets at a modest multiple and recognizing potential synergies ([IEP CVR tender release, 2012](https://www.ielp.com/news-releases/news-release-details/icahn-announces-tender-offer-all-outstanding-shares-cvr-energy)). The original thesis was not "own this forever"; it was force a sale or own enough to control the board and economics.
+## 1. CVR Energy, 2012 to present - best control trade
 
-**Size and structure.** The transaction became a control position. After the May 2012 tender, 48.1 million shares had been tendered; Icahn's group owned about 69% of CVR, and seven of nine board seats were to be replaced by Icahn nominees ([PRNewswire tender close, 2012](https://www.prnewswire.com/news-releases/icahn-accepts-tendered-cvr-energy-shares-and-subsequent-offering-period-commences-150401105.html)). By May 2013, IEP owned about 82% of CVR and received $462.8 million from a $6.50 special dividend, bringing cumulative CVR dividends to IEP to $907.8 million since the beginning of 2013 ([IEP CVR dividend release, 2013](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-announces-receipt-special-dividend-cvr-energy)).
+### Context and dates
 
-**Entry, path, and drawdown endured.** The early path was spectacularly cash-generative, but it later became cyclical and messy. The 2024-2025 tender materials show the other side of a control trade: IEP was still increasing its stake more than a decade later, offering $18.25 per share for up to 17.8 million shares when the market price was well below the original $30 tender price ([IEP CVR tender release, 2024](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-and-icahn-enterprises-holdings-lp-announce)). In other words, CVR was not a simple mark-to-market win. The win came from control, dividends, and remaining strategic value rather than a clean exit at a higher share price.
+CVR Energy was a refining and nitrogen-fertilizer business whose equity traded through a volatile post-crisis energy cycle. Icahn moved from a public-market activist posture into effective control in 2012. CVR's 2012 Form 10-K says an Icahn tender offer closed on May 7, 2012, acquiring about 69% of the outstanding shares at $30 per share, followed by a second tender offer that closed on July 24, 2012 and added about 14% more at the same price ([CVR 2012 Form 10-K](https://www.sec.gov/Archives/edgar/data/1376139/000137613913000006/cvi-20121231x10k.htm)).
 
-**Exit and P&L.** There has been no full exit. A 2024 Financial Times analysis reported that since the 2012 acquisition IEP had collected $3.2 billion of CVR dividends and still owned 66% of the company; it also called CVR the most valuable asset inside Icahn's public empire and quoted an observer calling it possibly Icahn's greatest trade ([Financial Times, 2024](https://www.ft.com/content/a8f233e0-fd84-4c27-8df9-f416b6c2f340)) [single-source for cumulative dividend total]. Primary evidence supports at least the first $907.8 million of dividends in early 2013, but a complete dividend ledger should be reconstructed from CVR and IEP filings before treating the $3.2 billion as audited canon math ([IEP CVR dividend release, 2013](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-announces-receipt-special-dividend-cvr-energy)).
+### Thesis and how found
 
-**What it teaches.** CVR is Icahn's activist method in control form: if a sale does not happen, own enough to change the board, capture cash flows, and keep optionality. The downside is that the target's cyclicality and the holding company's need for cash become part of the trade. This is a great Icahn trade, but not a simple public-stock compounding story.
+The thesis was classic Icahn: a publicly traded company with valuable assets, a capital structure and governance path that allowed pressure, and a realistic route from minority ownership to control. Unlike many Icahn trades, CVR was not merely a board-seat or buyback campaign. It became an operating-company compounder inside IEP, and therefore a test of whether activism could graduate into ownership.
 
-## 2. Netflix - the cleanest realized public-equity win
+### Size and structure
 
-**Context and dates.** Icahn disclosed a near-10% Netflix position in October 2012, after Netflix had fallen from its 2011 highs and was still being repriced after the Qwikster/pricing debacle. The October 2012 Schedule 13D showed the position included common shares and call options across Icahn funds and affiliates ([SEC Netflix Schedule 13D, 2012](https://www.sec.gov/Archives/edgar/data/921669/000092846412000262/nflxsc13d103112.htm)).
+This was a tender-offer control position, not a small minority campaign. By early 2025, CVR still disclosed that IEP owned about 66% of the company and that CVR was controlled by IEP, which is indirectly controlled by Carl Icahn ([CVR 2024 Form 10-K](https://www.sec.gov/Archives/edgar/data/1376139/000137613925000025/cvi-20241231.htm)).
 
-**Thesis and how he found it.** The original thesis was partly strategic optionality and partly operating leverage. In the 2013 sale release, Brett Icahn and David Schechter described Netflix as a subscription service with fixed-content-cost leverage, pricing power, domestic subscriber runway, and a much larger international opportunity ([IEP Netflix sale release, 2013](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-announces-sale-netflix-shares)).
+### Entry and path, including drawdown endured
 
-**Size and structure.** Netflix was held in the Sargon Portfolio within IEP's Investment segment, with Schechter and Brett Icahn as co-managers. The October 2013 13D amendment sale covered 2,989,000 shares, and the release says the original cost basis was approximately $58 per share ([IEP Netflix sale release, 2013](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-announces-sale-netflix-shares)).
+The entry price was $30 per share in the tender offers. The position then moved through commodity, crack-spread, refining-margin, and fertilizer cycles. CVR also paid large early dividends: in October 2012 the company announced a $5.50 special dividend and said 2012 dividends would total $6.50 per share when combined with an earlier special dividend ([CVR Q3 2012 release](https://investors.cvrenergy.com/2012-10-23-CVR-Energy-Announces-2012-Third-Quarter-Results-Special-Dividend)). The long path mattered because CVR's value was not just mark-to-market appreciation; it was cash extraction plus continuing control economics.
 
-**Entry, path, and drawdown endured.** The path after entry was fast. Netflix rose to $323 by October 2013, a 457% increase from the approximate $58 cost basis. The drawdown issue here is mostly pre-entry: Icahn bought after the company had already been publicly damaged. The risk was that streaming economics and international losses could prove structurally worse than expected; instead, subscriber growth and sentiment turned sharply.
+### Exit and P&L
 
-**Exit and P&L.** Icahn sold roughly half the stake in October 2013 after the 457% appreciation and later exited the rest by mid-2015. Forbes reported that Icahn made nearly $2 billion in less than three years on Netflix ([Forbes, 2015](https://www.forbes.com/sites/steveschaefer/2015/07/16/carl-icahn-has-no-regrets-about-selling-netflix-even-as-it-jets-to-record-highs/)) [secondary-reported]. The most precise primary evidence opened this run is the cost basis and 457% gain at the 2013 partial sale, not a full realized profit ledger ([IEP Netflix sale release, 2013](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-announces-sale-netflix-shares)).
+There has been no full exit as of the latest sources reviewed. IEP's August 2023 letter said CVR was "up 807% since acquisition" and had produced more than $3.2 billion in dividends ([IEP 2023 letter](https://www.ielp.com/news-releases/news-release-details/carl-c-icahn)). Treat that as first-party but not independent: it is the best available summary of IEP's economics, while the exact calculation, tax treatment, distributions to IEP unitholders, and mark-to-market timing are not independently reconstructed here.
 
-**What it teaches.** This was not classical boardroom activism. It was a concentrated, option-inflected public-equity bet in a fallen growth company where Icahn's name also created an "Icahn lift." It shows that Icahn's best trades sometimes came from recognizing a market overreaction and letting a business inflect, not only from forcing governance change.
+### What it teaches
 
-## 3. Apple - buyback activism at mega-cap scale
+CVR is Icahn's model in its most complete form: buy a security with governance optionality, pressure the system, convert a mispriced minority stake into control, then let cash flows and capital allocation do the compounding. The caveat is equally important. This required permanent capital, legal firepower, tender-offer capability, and tolerance for commodity volatility. It is not transferable to ordinary investors except as a pattern of looking for control optionality hidden inside public securities.
 
-**Context and dates.** Icahn announced a "large position" in Apple in August 2013 and then campaigned for a larger buyback. By January 2014, SEC-filed Apple proxy material recorded Icahn tweets saying he had bought another $500 million of Apple, taking the position to $3.6 billion; the filing also quoted his argument that the stock was a "no brainer" and that the buyback should be markedly increased ([Apple SEC proxy material, 2014](https://www.sec.gov/Archives/edgar/data/320193/000092846414000003/aaplpx14a6g012314.htm)).
+### Sources
 
-**Thesis and how he found it.** Icahn's Apple thesis was valuation plus capital return. He argued that Apple's P/E multiple was too low relative to the S&P 500, that Tim Cook also believed the stock was undervalued, and that the existing buyback authorization should be larger ([Apple SEC proxy material, 2014](https://www.sec.gov/Archives/edgar/data/320193/000092846414000003/aaplpx14a6g012314.htm)). His 2013 letter to Tim Cook said Apple was his "most compelling investment," disclosed 3,448,663 shares at the time of the first Twitter announcement, and urged a larger immediate buyback ([Icahn letter to Tim Cook, 2013](https://carlicahn.com/our_letter_to_tim_cook/)).
+Primary: CVR 2012 Form 10-K, CVR dividend release, CVR 2024 Form 10-K, IEP 2023 letter. Secondary/interpretive: none needed for the core facts.
 
-**Size and structure.** This was a large minority public-equity position, not a control fight. Icahn's public materials put the position above $3 billion in early 2014, and later press reports described a 53 million-share position before exit ([Apple SEC proxy material, 2014](https://www.sec.gov/Archives/edgar/data/320193/000092846414000003/aaplpx14a6g012314.htm); [CBS/AP, 2016](https://www.cbsnews.com/news/carl-icahn-unloads-his-53-million-apple-shares/)).
+## 2. Netflix, 2012-2015 - cleanest realized multibagger
 
-**Entry, path, and drawdown endured.** Apple initially rewarded the campaign through continued buybacks and market re-rating, but the exit came after disappointing 2016 results and concerns about China. The trade endured the normal volatility of a mega-cap technology position, but the larger question is counterfactual: Apple was already repurchasing shares, so Icahn's incremental causal impact is debatable.
+### Context and dates
 
-**Exit and P&L.** Icahn said in April 2016 that he had sold the Apple position, citing China concerns; CBS/AP reported he unloaded 53 million shares and had a $2 billion profit ([CBS/AP, 2016](https://www.cbsnews.com/news/carl-icahn-unloads-his-53-million-apple-shares/)). The $2 billion profit is secondary-reported; the campaign materials themselves support the position size and buyback thesis, not the final realized P&L ([Apple SEC proxy material, 2014](https://www.sec.gov/Archives/edgar/data/320193/000092846414000003/aaplpx14a6g012314.htm)).
+Netflix entered 2012 wounded by the Qwikster reversal, pricing backlash, heavy content spending, and skepticism about streaming economics. Icahn disclosed a major position in October 2012. The Schedule 13D reported beneficial ownership of 5,541,066 shares, or 9.98%, including 4,435,772 shares underlying American-style call options, with an aggregate purchase price of about $168.9 million for the reporting persons ([Netflix Schedule 13D](https://www.sec.gov/Archives/edgar/data/1065280/000092846412000207/nflxsch13d103112.htm)).
 
-**What it teaches.** Apple shows Icahn adapting activism to companies he could not control. The lever was public pressure around capital allocation, not replacing management. It also shows the limitation: in a business this large, it is hard to separate activist alpha from owning a great company during a favorable repurchase cycle.
+### Thesis and how found
 
-## 4. Forest Laboratories - board pressure into a strategic sale
+The filing said Icahn believed Netflix shares were undervalued and that the company was an attractive takeover candidate. That framing was not a full fundamental streaming manifesto; it was a security-level diagnosis. The stock had collapsed, sentiment was poor, strategic buyers could plausibly value Netflix differently from public markets, and options gave Icahn asymmetric exposure.
 
-**Context and dates.** Icahn first made Forest Laboratories public as a position in November 2009, then fought multiple proxy contests over governance, capital allocation, and succession. By 2012 he was still pushing board nominees and criticizing the company's spending, cash use, and Lexapro/Namenda patent-expiration gap ([IEP Forest letter, 2012](https://www.ielp.com/news-releases/news-release-details/carl-icahn-responds-forest-labs-board)).
+### Size and structure
 
-**Thesis and how he found it.** The thesis was that Forest needed either scale or a buyer. Icahn argued that Forest faced a major revenue cliff, had too much cash to waste, and needed directors with M&A, cost, and drug-commercialization discipline ([IEP Forest letter, 2012](https://www.ielp.com/news-releases/news-release-details/carl-icahn-responds-forest-labs-board)).
+The structure blended common stock and call options. The options mattered because they allowed a larger economic interest than a plain cash equity stake at the same capital outlay. Later reporting put the original investment cost at about $321 million, while the SEC filing's reporting-person purchase price was about $168.9 million; the difference likely reflects vehicle and basis definitions, so both figures should be kept as source-specific rather than merged ([Business Insider](https://www.businessinsider.com/carl-icahn-sells-netflix-shares-2015-6)).
 
-**Size and structure.** Icahn's group became the second-largest shareholder; Fierce Pharma, citing Bloomberg/Reuters, put the stake at 11.3% around the Actavis transaction ([Fierce Pharma, 2014](https://www.fiercepharma.com/m-a/icahn-activist-investing-works-and-forest-deal-shows-it)). His campaign eventually produced board representation and helped bring Brent Saunders into the CEO role.
+### Entry and path, including drawdown endured
 
-**Entry, path, and drawdown endured.** The path required years of friction. Icahn said the stock traded around $29 when he got involved, and the Actavis transaction valued Forest at about $89.48 per share. That implies a 209% total return for shareholders who bought on the November 16, 2009 public-disclosure date and held to the deal announcement, versus 84% for the S&P 500 ([Icahn Forest acquisition statement via Fierce Pharma, 2014](https://www.fiercepharma.com/m-a/carl-icahn-on-forest-labs-acquisition-another-victory-for-activism)).
+Icahn entered when the market was still debating whether Netflix's streaming pivot would justify its spending and subscriber-reset pain. No source reviewed for this task provided a precise maximum drawdown from Icahn's entry price. The important path feature was not a long drawdown but a rapid rerating as Netflix execution, subscriber growth, and strategic scarcity returned to the center of the story.
 
-**Exit and P&L.** Actavis agreed to buy Forest in a cash-and-stock deal valued at roughly $25 billion; SEC deal materials describe the merger structure, antitrust review, and post-merger board/management plan ([Actavis/Forest SEC prospectus, 2014](https://www.sec.gov/Archives/edgar/data/1578845/000119312514182855/d686059d424b3.htm)). Reuters, as relayed by Fierce Pharma, estimated Icahn's profit at about $1.7 billion on the news; the Wall Street Journal later described the sale as creating roughly a $2 billion gain for Icahn according to filings ([Fierce Pharma, 2014](https://www.fiercepharma.com/m-a/icahn-activist-investing-works-and-forest-deal-shows-it); [WSJ, 2015](https://www.wsj.com/articles/icahn-vs-forest-a-lesson-in-activism-1444070113)) [secondary-reported range].
+### Exit and P&L
 
-**What it teaches.** Forest is a cleaner activist case than Apple: Icahn identified a governance and strategic gap, kept pressure on through multiple proxy seasons, got representation, and the company sold at a much higher price. The caveat is that the final deal was also shaped by industry consolidation and a new CEO, not by Icahn alone.
+IEP sold roughly half the position in October 2013 and the remainder on June 24, 2015. IEP's own release said the final sale generated gross proceeds of $1.306 billion and, when combined with the earlier sale, represented a total gain of approximately $2.0 billion, a 457% return in less than three years ([IEP Netflix sale release](https://www.ielp.com/news-releases/news-release-details/icahn-enterprises-lp-announces-sale-netflix-shares)). This is the strongest closed-trade P&L evidence found for Icahn in this task.
 
-## 5. Herbalife - the public fight against Ackman
+### What it teaches
 
-**Context and dates.** Herbalife became one of the most public long/short battles in hedge-fund history after Bill Ackman attacked the company as a pyramid scheme and Icahn took the other side. Icahn's stake grew over time, and by 2020 he was still a major holder with board representation.
+Netflix shows Icahn at his best as a buyer of public-market panic where strategic value, optionality, and capital-market mechanics intersect. Unlike a pure activism win, the boardroom campaign was not the core source of alpha. The edge was recognizing that public pessimism had overshot the private-market value of a scarce media platform and using options to magnify the payoff.
 
-**Thesis and how he found it.** The thesis was partly contrarian and partly anti-catalyst: Icahn believed Ackman's short campaign and regulatory thesis were overdone, while Herbalife had enough cash flow and buyback capacity to survive. The broader 2014 Harvard/Conference Board discussion of Icahn and Ackman highlights how the Herbalife fight mixed activism, lobbying, regulatory catalysts, and public letters ([Harvard Law School Forum, 2014](https://corpgov.law.harvard.edu/2014/05/29/the-activism-of-carl-icahn-and-bill-ackman/)).
+### Sources
 
-**Size and structure.** Icahn held a large common-stock stake with board rights. In November 2020, Herbalife announced a $600 million repurchase of shares from Icahn Enterprises; after closing, IEP would hold about 8 million Herbalife shares, or roughly 6% of shares outstanding ([Herbalife repurchase release, 2020](https://ir.herbalife.com/news-events/press-releases/detail/745/herbalife-nutrition-announces-600-million-repurchase-of)). The Wall Street Journal reported that the transaction cut a 16% stake by more than half and caused Icahn to relinquish five board seats ([WSJ, 2021](https://www.wsj.com/business/deals/carl-icahn-sells-more-than-half-of-his-herbalife-stake-11609723221)).
+Primary: Netflix Schedule 13D, IEP Netflix sale release. Secondary: Business Insider basis and cost discussion.
 
-**Entry, path, and drawdown endured.** The drawdown was reputational and regulatory as much as price-based. Herbalife faced FTC scrutiny and extreme public pressure, and Icahn endured the risk that Ackman's thesis would be validated. Instead, Ackman exited first, while Icahn monetized through company repurchases and later open-market/block sales.
+## 3. Apple, 2013-2016 - mega-cap buyback activism
 
-**Exit and P&L.** Axios reported in May 2021 that Icahn sold his remaining 5 million Herbalife shares for about $248 million and earned around $1.3 billion from the Herbalife bet ([Axios, 2021](https://www.axios.com/2021/05/07/carl-icahn-herbalife)). This is a secondary-reported total P&L; the primary company release supports the $600 million partial repurchase and post-sale 6% holding, not the full trade ledger ([Herbalife repurchase release, 2020](https://ir.herbalife.com/news-events/press-releases/detail/745/herbalife-nutrition-announces-600-million-repurchase-of)).
+### Context and dates
 
-**What it teaches.** Herbalife shows Icahn using activism defensively: board seats, public pressure, and capital return helped protect a long position under attack. It is also a caution against moral simplification. Icahn won the trade; that does not settle every question about Herbalife's business model or distribution practices.
+Icahn bought Apple in 2013, after the stock had derated despite enormous cash balances, dominant iPhone economics, and a fast-growing capital-return capacity. In his October 2013 letter to Tim Cook, Icahn disclosed that he had bought about 3.9 million shares at an average price of $468 and had not sold despite the stock reaching $525 ([Icahn letter to Tim Cook](https://carlicahn.com/our_letter_to_tim_cook/)).
 
-## 6. Cheniere Energy - board seats plus LNG infrastructure upside
+### Thesis and how found
 
-**Context and dates.** Icahn disclosed an 8.18% Cheniere stake in August 2015, saying the shares were undervalued and that he wanted discussions on operations, capital spending, financing, and executive compensation. Cheniere soon reached an agreement appointing two Icahn Capital executives to the board ([Cheniere agreement release, 2015](https://lngir.cheniere.com/news-events/press-releases/detail/140/cheniere-reaches-agreement-with-carl-icahn-announces)).
+The thesis was unusually friendly for Icahn. He was not attacking management; he praised Apple while arguing that the stock was dramatically undervalued and that a larger buyback would transfer value to remaining owners. The letter proposed a $150 billion tender offer financed with debt and cash, and argued that the program could be highly accretive to earnings per share.
 
-**Thesis and how he found it.** The thesis was that Cheniere's LNG export franchise had enormous asset value but needed sharper governance and capital discipline. Icahn's representatives were put inside the boardroom rather than fighting a long public proxy war.
+### Size and structure
 
-**Size and structure.** The opened Cheniere release documents the board-seat outcome, while press reports at the time put the initial stake at 19.4 million shares, or 8.18%, and later increases above 11% ([Cheniere agreement release, 2015](https://lngir.cheniere.com/news-events/press-releases/detail/140/cheniere-reaches-agreement-with-carl-icahn-announces); [WSJ, 2015](https://www.wsj.com/articles/carl-icahn-group-holds-8-18-of-cheniere-energy-seeks-talks-about-range-of-issues-1438898287)).
+Apple became a multi-billion-dollar common-stock position. When Icahn disclosed in April 2016 that he had exited, Business Insider reported that he had owned 45.8 million shares, or about 0.82% of Apple, worth roughly $4.8 billion before the sale ([Business Insider Apple exit](https://www.businessinsider.com/carl-icahn-exits-apple-stake-2016-4)). The position was not a control stake; it was voice, public persuasion, and alignment with a management team already inclined toward repurchases.
 
-**Entry, path, and drawdown endured.** The path was volatile because Cheniere was building capital-intensive LNG infrastructure and was exposed to energy-market financing cycles. Icahn remained involved for years, and his board rights persisted until the ownership threshold was breached.
+### Entry and path, including drawdown endured
 
-**Exit and P&L.** In June 2022, Cheniere agreed to repurchase about $350 million of shares from Icahn Enterprises at $130.52 per share; the sale dropped IEP below the board-seat threshold, and its remaining designee was to resign ([Cheniere repurchase release, 2022](https://lngir.cheniere.com/news-events/press-releases/detail/250/cheniere-announces-350-million-repurchase-of-shares-from)). MarketWatch reported, citing Icahn's prepared statement, that he had made more than $1.3 billion in realized and unrealized gains on Cheniere while still owning a sizable stake ([MarketWatch, 2022](https://www.marketwatch.com/story/carl-icahn-reduces-stake-in-cheniere-energy-after-booking-realized-and-unrealized-gains-of-13-bln-2022-06-15)) [secondary-reported].
+The public pressure campaign peaked in 2013-2014. In January 2014, Icahn withdrew his shareholder proposal after Apple increased its buyback pace, saying the company was already buying back stock aggressively and that Apple would not be ignored by investors forever ([SEC-filed Apple material](https://www.sec.gov/Archives/edgar/data/320193/000092846414000003/aaplpx14a6g012314.htm)). The trade still required tolerance for mega-cap volatility and political risk, especially China exposure.
 
-**What it teaches.** Cheniere is a modern infrastructure version of Icahn's style: buy a large undervalued stake, get board representation quickly, push capital discipline, and monetize partly through issuer repurchases. The final P&L should still be treated as partly unrealized until the whole Cheniere position is reconstructed.
+### Exit and P&L
 
-## 7. Texaco - classic 1980s pressure trade
+Icahn exited in 2016, citing concern about China's stance toward Apple. Business Insider wrote that he "likely made a few billion dollars" and cited a Fortune estimate of about $2 billion of profit. That figure is useful but secondary; without the full trade ledger and split-adjusted transactions, it should be treated as an estimate rather than a verified P&L.
 
-**Context and dates.** Icahn accumulated a large Texaco position while the company was emerging from the Pennzoil litigation and restructuring overhang. The campaign used classic 1980s pressure: threaten or imply a more aggressive restructuring, force management to respond, and sell into the value created.
+### What it teaches
 
-**Thesis and how he found it.** Texaco had assets, litigation-driven distress, and restructuring capacity. The thesis was that the company could be pushed to unlock value through asset sales, dividends, and balance-sheet changes.
+Apple shows Icahn's method adapting to mega-cap quality. Instead of threatening a takeover, he framed himself as a capital-allocation catalyst in a great business. It also shows the limit of public activism: Apple's intrinsic business performance and management's own buyback decisions mattered more than Icahn's stake alone.
 
-**Size and structure.** Icahn's position reached a 42.3 million-share block. The Washington Post reported that the June 1989 block sale was handled by Goldman Sachs, Salomon Brothers, and Shearson Lehman Hutton ([Washington Post, 1989](https://www.washingtonpost.com/archive/business/1989/06/02/icahn-sells-big-stake-in-texaco/09c05fd4-f13a-407b-bc41-b1455a8612d6/)).
+### Sources
 
-**Entry, path, and drawdown endured.** Icahn paid an average of $36.60 per share and sold at $49. The drawdown risk was Texaco's post-bankruptcy litigation and restructuring complexity; the trade worked as that uncertainty cleared and pressure mounted.
+Primary: Icahn's Apple letter, SEC-filed Apple material. Secondary: Business Insider/Fortune exit and P&L estimate.
 
-**Exit and P&L.** The Washington Post calculated an apparent profit of $524.5 million on the block sale ([Washington Post, 1989](https://www.washingtonpost.com/archive/business/1989/06/02/icahn-sells-big-stake-in-texaco/09c05fd4-f13a-407b-bc41-b1455a8612d6/)). Other summaries sometimes cite $700 million, but the opened contemporaneous article supports $524.5 million; use the higher figure only if later tasks trace its components.
+## 4. Herbalife, 2013-2021 - contrarian combat against a famous short
 
-**What it teaches.** Texaco is the archetypal "Icahn lift" trade: buy during distress, become impossible for management to ignore, and exit after the market capitalizes the pressure. It also shows why critics called the model greenmail: the investor's outcome can be clearer than the target's long-term operating improvement.
+### Context and dates
 
-## 8. TWA - financially successful, operationally destructive
+Herbalife was already the center of a public battle when Icahn entered: Bill Ackman had announced a large short position and alleged that the company was a pyramid scheme. Icahn disclosed his long position in February 2013. The Schedule 13D reported beneficial ownership of 14,015,151 shares, or 12.98%, with an aggregate purchase price of approximately $214.3 million ([Herbalife Schedule 13D](https://www.sec.gov/Archives/edgar/data/1180262/000092846413000041/hlfschedule13d021413.htm)).
 
-**Context and dates.** Icahn gained control of Trans World Airlines in the mid-1980s and took it private in 1988. The trade is one of the reasons "corporate raider" stuck to him.
+### Thesis and how found
 
-**Thesis and how he found it.** The thesis was asset value: aircraft, routes, and a capital structure that could be reshaped. The Heathrow routes were especially valuable. Later court materials show that TWA's restructuring involved Karabu, Icahn affiliates, the Pension Benefit Guaranty Corporation, and bankruptcy proceedings beginning with TWA's first Chapter 11 case in January 1992 ([TWA bankruptcy opinion, 2001](https://www.deb.uscourts.gov/sites/deb/files/opinions/twa_0.pdf)).
+The filing said Icahn believed Herbalife was undervalued and referred to the company's January 2013 management presentation and response to Federal Trade Commission-related claims. The trade was partly value investing, partly governance, and partly a direct bet that a high-profile short thesis had overreached.
 
-**Size and structure.** This was a control/LBO transaction, not a minority activist campaign. It relied on leverage, asset sales, and post-bankruptcy contractual rights.
+### Size and structure
 
-**Entry, path, and drawdown endured.** The target outcome was poor. TWA carried heavy debt, sold key London routes, filed for bankruptcy, and later became entangled in the Karabu ticket agreement. The bankruptcy opinion describes the 1995 second-bankruptcy agreement as a restructuring of financial arrangements among TWA, Karabu, Icahn, Icahn affiliates, and PBGC ([TWA bankruptcy opinion, 2001](https://www.deb.uscourts.gov/sites/deb/files/opinions/twa_0.pdf)).
+Icahn built a large minority position with board influence and eventually multiple board designees. The position was large enough to shape both the shareholder base and the public narrative, but not to eliminate the legal, regulatory, and reputational risk inherent in the business model debate.
 
-**Exit and P&L.** CNN/KBZK's Icahn fast-facts chronology says Icahn earned $469 million in the 1988 take-private while TWA remained $540 million in debt; it also records the 1991 sale of half of TWA's London routes to American Airlines for $445 million and the 1992 bankruptcy ([CNN/KBZK, 2019](https://www.kbzk.com/cnn-national/2019/03/13/carl-icahn-fast-facts/)). Treat the $469 million as a secondary-reported P&L figure, but the bankruptcy and Karabu records confirm the operational aftermath.
+### Entry and path, including drawdown endured
 
-**What it teaches.** TWA belongs in a "greatest trades" file only with a warning label. It may have been great for Icahn's personal economics, but it was a destructive owner case study for the company. The trade teaches that control rights can extract value without building a durable enterprise.
+The trade required unusually high headline-risk tolerance. Herbalife shares were repeatedly affected by regulatory news, short-seller claims, company rebuttals, and the Ackman-Icahn media fight. The exact maximum drawdown from Icahn's basis was not reconstructed in the sources reviewed, but this was not a quiet compounder; it was an eight-year public brawl.
 
-## Honorable mentions and near-misses
+### Exit and P&L
 
-- **Tappan (1978-1979).** Icahn's first major activist success: he pushed Tappan toward a sale to Electrolux and reportedly made $2.7 million on a $1.4 million investment ([Princeton Alumni Weekly, 1985](https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57)). It is historically important but too small to rank against the later billion-dollar trades.
-- **eBay / PayPal (2014-2018).** Icahn disclosed an economic interest of about 0.82%, demanded a PayPal separation, settled the proxy fight, and eBay later spun off PayPal ([eBay statement, 2014](https://www.ebayinc.com/stories/news/ebay-incs-statement-carl-icahns-investment-and-related-proposals/); [PayPal SEC separation release, 2015](https://www.sec.gov/Archives/edgar/data/1633917/000119312515237232/d877527dex991.htm)). The strategic call was right, but opened sources did not provide a reliable Icahn-specific P&L.
-- **Motorola Mobility (2007-2011).** Icahn pushed Motorola to separate businesses and later benefited from Google's $12.5 billion Motorola Mobility deal; Fortune reported the Google deal put Icahn's stake at about $1.07 billion and validated his patent-value agitation ([Fortune, 2011](https://fortune.com/2011/08/15/google-saves-carl-icahn/)). The source trail opened this run was thinner than for the ranked trades, so it remains an honorable mention.
+In January 2021, Herbalife announced it would repurchase about $600 million of shares from Icahn at $48.05, that Icahn would tender the remaining shares into the self-tender, and that after the tender he would own no Herbalife shares ([Herbalife 2021 repurchase release](https://ir.herbalife.com/2021-01-03-Herbalife-Nutrition-to-Repurchase-Approximately-600-Million-of-Its-Shares-Held-by-Carl-C-Icahn-and-Affiliates-and-Announces-Preliminary-Unaudited-Full-Year-2020-Volume-Point-Results-Reflecting-Year-Over-Year-Growth-of-Approximately-12-3)). IEP's 2023 letter later listed Herbalife as a 181% return ([IEP 2023 letter](https://www.ielp.com/news-releases/news-release-details/carl-c-icahn)). The exact realized dollar profit was not fully reconstructed here because buybacks, partial sales, tender participation, and vehicle-level costs require a position ledger.
+
+### What it teaches
+
+Herbalife demonstrates Icahn's appetite for adversarial situations where the market may have become reflexively one-sided. It is not a clean moral or regulatory template. The lesson is narrower: in a crowded short controversy, a long investor with capital, patience, board influence, and reputational willingness can create a powerful squeeze on pessimism.
+
+### Sources
+
+Primary: Herbalife Schedule 13D, Herbalife 2021 repurchase release, IEP 2023 letter.
+
+## 5. Cheniere Energy, 2015-2022 - board influence plus LNG cycle
+
+### Context and dates
+
+Icahn entered Cheniere in 2015, as the company was developing into a central U.S. LNG export platform. The Schedule 13D reported beneficial ownership of 19,353,530 shares, or 8.18%, with an aggregate purchase price of approximately $1.286 billion ([Cheniere Schedule 13D](https://www.sec.gov/Archives/edgar/data/3570/000092846415000041/lngsch13d080615.htm)).
+
+### Thesis and how found
+
+The filing said Icahn believed the shares were undervalued and expected to discuss operations, governance, capitalization, executive compensation, and board composition. That was a broad activist mandate, but the underlying asset was very specific: a scarce LNG infrastructure platform exposed to global gas demand and long-cycle energy infrastructure value.
+
+### Size and structure
+
+This was a large minority stake with board-seat leverage. In August 2015, Cheniere announced that two Icahn Capital executives would join the board and that Icahn owned about 19.4 million shares, or 8.2% ([Cheniere settlement release](https://lngir.cheniere.com/news-events/press-releases/detail/140/cheniere-reaches-agreement-with-carl-icahn-announces)).
+
+### Entry and path, including drawdown endured
+
+The implied average cost from the Schedule 13D's aggregate purchase price and share count is about $66.45 per share, before transaction-cost and vehicle nuances. Cheniere shares endured energy-cycle volatility after Icahn entered; the eventual payoff depended on both governance changes and the maturation of the LNG export business.
+
+### Exit and P&L
+
+Cheniere repurchased 2,435,569 shares from Icahn affiliates in June 2022 at $143.50 per share, for about $350 million, leaving Icahn with 4.4 million shares or about 1.8% ([Cheniere 2022 repurchase release](https://lngir.cheniere.com/news-events/press-releases/detail/250/cheniere-announces-350-million-repurchase-of-shares-from)). Cheniere's 2022 Form 10-K later said the Icahn Group had sold all remaining holdings through company repurchases and open-market sales and no longer beneficially owned shares as of January 31, 2023 ([Cheniere 2022 Form 10-K](https://www.sec.gov/Archives/edgar/data/3570/000000357023000029/lng-20221231.htm)). IEP has cited Cheniere as a value-creating activist investment, but no source reviewed gave a single official lifetime P&L number.
+
+### What it teaches
+
+Cheniere is a reminder that activism can amplify a cyclical infrastructure thesis rather than replace it. Icahn's board pressure mattered, but the payoff also depended on LNG fundamentals, execution, and timing. The transferable lesson is to pair governance leverage with a real asset-value catalyst.
+
+### Sources
+
+Primary: Cheniere Schedule 13D, Cheniere board-settlement release, Cheniere 2022 repurchase release, Cheniere 2022 Form 10-K.
+
+## 6. Texaco, 1987-1988 - bankruptcy-exit pressure and preferred-stock monetization
+
+### Context and dates
+
+Texaco had just emerged from bankruptcy when Icahn's group pressured the company. The New York Times reported that Texaco bought 74 million preferred shares from an Icahn-led group for $16.50 per share, ending an attempt to force a breakup ([New York Times, March 1988](https://www.nytimes.com/1988/03/19/business/icahn-stake-in-texaco-is-sold.html)).
+
+### Thesis and how found
+
+The thesis was that Texaco's post-bankruptcy securities and asset base could support a more aggressive value-unlocking transaction. Icahn used a large preferred-stock stake and takeover pressure to force a negotiated repurchase.
+
+### Size and structure
+
+The position was held by an Icahn-led group, not solely by Icahn personally. That distinction matters. The reported transaction involved 74 million preferred shares and a separate agreement to pay accrued dividends.
+
+### Entry and path, including drawdown endured
+
+The New York Times said Icahn's group had paid about $14.50 per preferred share in December 1987 and sold at $16.50 about three months later. This was a compressed campaign, with the main risk being legal, financing, and negotiation risk rather than years of market drawdown.
+
+### Exit and P&L
+
+The Times reported an apparent profit of $148 million on the share price spread plus $338 million of accrued dividends, or $486 million of visible economics to the group. Because this was a group transaction, the figure should not be quoted as Icahn's personal profit.
+
+### What it teaches
+
+Texaco is a high-octane version of Icahn's early method: buy a security with blocking or pressure value, threaten a more disruptive transaction, and accept a negotiated premium. It also shows why the "greenmail" criticism attached to his name: target shareholders may get a catalyst, but the activist's negotiated exit can become the center of the value transfer.
+
+### Sources
+
+Secondary contemporaneous: New York Times. Primary company filings were not reconstructed in this task.
+
+## 7. Forest Laboratories, 2011-2014 - management pressure into strategic sale
+
+### Context and dates
+
+Icahn began pressing Forest Laboratories after concluding that the company had valuable products but weak governance, excessive spending, and succession problems. In a 2014 statement after Actavis agreed to buy Forest, Icahn said he first bought Forest stock "in the low 30s" and viewed it as a good company with a great asset but underperforming management ([Icahn statement via BusinessWire](https://www.businesswire.com/news/home/20140218005706/en/Carl-C.-Icahn-Issues-Statement-on-Actavis-Agreement-to-Buy-Forest-Labs)).
+
+### Thesis and how found
+
+Icahn's own 2013 letter to Forest shareholders laid out the operating thesis: reduce excessive spending, improve capital allocation, address management succession, consider licensing and acquisitions, and refresh the board ([Icahn Forest letter](https://carlicahn.com/letter-to-the-shareholders-of-forest-laboratories/)).
+
+### Size and structure
+
+The precise position ledger was not reconstructed here. The structure was a public activist equity position with board pressure, not a control acquisition. Icahn's influence came from public pressure, shareholder support, and a multi-year campaign.
+
+### Entry and path, including drawdown endured
+
+Icahn's reported low-$30s entry gave him a large margin if the operating and governance thesis proved right. The path required a multi-year fight over board composition and strategy, followed by a strategic acquirer willing to pay for Forest's assets and cost-synergy potential.
+
+### Exit and P&L
+
+Actavis agreed in February 2014 to acquire Forest for cash and stock valued at about $25 billion, or $89.48 per Forest share, a 25% premium to the prior close ([Actavis-Forest deal release](https://www.prnewswire.com/news-releases/actavis-to-acquire-forest-laboratories-inc-for-2500-billion-in-equity-and-cash-245925511.html)). Icahn said the stock had returned 209% from the first year he invested through the Actavis purchase price. Dollar P&L is not calculated because the full share count, trades, and derivative exposure were not found in the sources reviewed.
+
+### What it teaches
+
+Forest is the clean activist archetype: identify an underperforming company with real assets, turn governance pressure into operational change, and eventually monetize through a strategic transaction. It also highlights a limit: without the acquirer's willingness to pay a control premium, the activist campaign might have looked far less spectacular.
+
+### Sources
+
+Primary/first-party: Icahn Forest letter, Icahn BusinessWire statement. Company transaction source: Actavis-Forest deal release.
+
+## 8. eBay and PayPal, 2014-2015 - separation thesis
+
+### Context and dates
+
+In 2014, Icahn pushed eBay to separate PayPal, arguing that governance conflicts and strategic mismatch were suppressing value. His SEC-filed letter attacked board conflicts and argued that PayPal should be separated from the marketplace business ([eBay SEC-filed Icahn letter](https://www.sec.gov/Archives/edgar/data/921669/000092846414000031/ebaydfan14a031014.htm)).
+
+### Thesis and how found
+
+The thesis was simple and powerful: PayPal was a high-quality payments platform whose value and strategic freedom were obscured inside eBay. Icahn's campaign combined governance criticism with a structural remedy that other shareholders could understand.
+
+### Size and structure
+
+TheStreet reported that Icahn held 46.3 million eBay shares in the first quarter of 2014, though that figure is a secondary source and should be checked against filings before being used as a definitive position ledger ([TheStreet](https://www.thestreet.com/investing/stocks/carl-icahn-took-millions-from-ebay-and-paypal-13227823)).
+
+### Entry and path, including drawdown endured
+
+The campaign moved quickly relative to older Icahn fights. eBay initially resisted, but the separation logic gained shareholder and strategic momentum. The primary risk was that eBay could maintain the status quo or that the separated companies would not receive the hoped-for market valuation.
+
+### Exit and P&L
+
+eBay completed the PayPal separation in July 2015, distributing one PayPal share for each eBay share held as of the record date ([eBay separation release](https://www.ebayinc.com/stories/news/ebay-inc-completes-previously-announced-separation-of-ebay-and-paypal/)). IEP's 2023 letter listed eBay/PayPal as a 136% return. TheStreet estimated that Icahn's post-split holdings were worth roughly $1.89 billion in PayPal stock plus $1.22 billion in eBay stock shortly after the split, but exact profit depends on basis and sales.
+
+### What it teaches
+
+This was a governance campaign where the demanded action was easily legible: split the company. Icahn did not need control; he needed a clear structural argument and enough pressure to make the board accept that PayPal's standalone value was too visible to ignore.
+
+### Sources
+
+Primary: eBay SEC-filed Icahn letter, eBay separation release, IEP 2023 letter. Secondary: TheStreet value estimate.
+
+## 9. Tappan, 1978-1979 - foundational proof of concept
+
+### Context and dates
+
+Tappan was not Icahn's largest dollar win, but it belongs in a greatest-trades file because it was an early proof of the method. Fortune's 2007 profile reported that Icahn bought Tappan at $7.50 in 1978, started a proxy fight, and saw the company sold to Electrolux for $18 per share in 1979 ([Fortune archive](https://archive.fortune.com/magazines/fortune/fortune_archive/2007/02/05/8399126/index.htm)).
+
+### Thesis and how found
+
+The thesis was that a neglected public company could be pressured into a sale at a value much higher than the market price. It was the small-cap ancestor of Icahn's later, much larger campaigns.
+
+### Size and structure
+
+The exact stake size and dollar P&L were not reconstructed. The important structure was a public-equity stake plus proxy pressure, not a passive value investment.
+
+### Entry and path, including drawdown endured
+
+The reported entry at $7.50 and sale at $18 imply a 140% gross price increase before expenses and position-size effects. The campaign moved within about a year, so the main risk was campaign failure rather than a long earnings cycle.
+
+### Exit and P&L
+
+Electrolux acquired Tappan in 1979. The OTA/Princeton acquisition review confirms the Tappan/Electrolux transaction in the broader context of horizontal appliance-industry expansion, though it does not reconstruct Icahn's economics ([OTA/Princeton PDF](https://www.princeton.edu/~ota/disk3/1985/8527/852708.PDF)). Exact Icahn profit is therefore [unverified].
+
+### What it teaches
+
+Tappan is the seed crystal. It shows that the later Icahn pattern - buy an underpriced company, pressure governance, force strategic alternatives - was present before the billion-dollar era. The trade is included for method importance, not absolute dollar size.
+
+### Sources
+
+Secondary: Fortune profile. Transaction context: OTA/Princeton acquisition review.
+
+## Honorable mention: RJR Nabisco, 1990-1991
+
+The New York Times reported that an Icahn group made roughly $300 million when RJR Nabisco bought back shares and bonds at negotiated prices in 1991, after the group disclosed a 10.8% stock position ([New York Times, January 1991](https://www.nytimes.com/1991/01/29/business/icahn-group-sells-rjr-stake.html)). It is omitted from the top nine because the available source is a contemporary press account rather than a full position ledger, and because it looks more like a negotiated securities exit than a durable company-level transformation. It still reinforces the early Icahn pattern: acquire leverage in a stressed or controversial security, create strategic pressure, and monetize through a negotiated exit.
 
 ## Cross-trade lessons
 
-1. **The best Icahn trades have a forcing mechanism.** CVR had a tender offer and board turnover; Forest had proxy fights and CEO change; Cheniere had board seats; Apple had public buyback pressure.
-2. **Icahn's P&L and target-company value creation are not the same thing.** Netflix, Forest, Apple, and Cheniere look broadly aligned with other shareholders; TWA is the negative counterexample.
-3. **Cash extraction can beat mark-to-market optics.** CVR's stock later traded below Icahn's 2012 tender price, but dividends and control economics still made it central to IEP.
-4. **Press-reported P&L needs labels.** Opened primary sources often support position size, cost basis, tender price, or transaction value, while final Icahn-specific P&L frequently comes from Reuters, Forbes, Axios, MarketWatch, WSJ, or FT.
-5. **Activism scales differently by target.** At Apple, Icahn could influence capital allocation but not control strategy. At CVR and TWA, control created much sharper outcomes, for better and worse.
+1. **Governance is an option.** In CVR, Forest, eBay, Cheniere, and Tappan, the stock was only one instrument. The more important instrument was the right to pressure boards, run proxy fights, demand transactions, or seek control.
+2. **The best Icahn trades had multiple exits.** Netflix could be sold to a strategic buyer, rerate as a public company, or recover through execution. CVR could be a sale candidate, dividend machine, or controlled operating company. Apple could rerate, buy back stock, or both.
+3. **Position structure mattered.** Netflix used options. CVR used tender offers. Cheniere and Forest used minority activism. Apple used public persuasion without control. The trade design matched the catalyst.
+4. **P&L and social value are different questions.** Texaco, Herbalife, and early greenmail-style wins can be excellent trades for the activist while remaining controversial for other stakeholders. The canon should not confuse profit evidence with a blanket endorsement of method.
+5. **Source humility is mandatory.** The strongest disclosed P&L is Netflix. CVR's economics are first-party and ongoing. Apple, eBay/PayPal, Cheniere, Forest, and early trades require basis assumptions or partial ledgers. Future work should improve these with original 13D amendments, 13F filings, tender documents, and contemporaneous annual reports.
 
-## Open questions
+## Open questions for later tasks
 
-- Reconstruct a full CVR Energy dividend ledger from 2012 through 2026 and separate dividends received by IEP from dividends economically attributable to Carl Icahn personally.
-- Verify Icahn's full Netflix exit with 2015 13D/13F amendments and calculate realized gains from split-adjusted share counts.
-- Rebuild Apple cost basis and sale proceeds from 13F filings and contemporaneous trade reports rather than relying on the press-reported $2 billion profit.
-- Find primary records for the TWA $469 million profit figure and reconcile it with debt, route-sale proceeds, Karabu economics, and post-bankruptcy recoveries.
-- Build an eBay/PayPal and Motorola Mobility P&L ledger; both were strategically successful but not ranked because opened sources did not support a clean Icahn-specific profit number.
+- Reconstruct a campaign-by-campaign Icahn position ledger from 13D/13F amendments for Apple, eBay, Forest, Cheniere, and Herbalife.
+- Separate Icahn personal/fund/IEP economics from target-company shareholder returns in every campaign.
+- For early trades such as Tappan, Texaco, RJR Nabisco, and TWA, find primary filings or court/bankruptcy records before upgrading press-reported P&L to verified status.
+- For CVR, reconcile IEP's stated 807% gain and $3.2 billion dividends with public CVR distributions, IEP ownership percentages, and retained mark-to-market value.
