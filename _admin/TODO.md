@@ -165,7 +165,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-26T04:18:28Z T0158 | 020-paul-tudor-jones | E-own-words | investors/020-paul-tudor-jones/in-their-own-words.md
 - [x] done:2026-06-26T04:28:37Z T0159 | 020-paul-tudor-jones | F-key-writings | investors/020-paul-tudor-jones/key-writings.md
 - [x] done:2026-06-26T05:23:42Z T0160 | 020-paul-tudor-jones | G-mental-models | investors/020-paul-tudor-jones/mental-models.md
-- [~] claimed:2026-06-26T07:10:00Z T0161 | 020-paul-tudor-jones | H-synthesis | investors/020-paul-tudor-jones/synthesis.md
+- [x] done:2026-06-26T08:18:34Z T0161 | 020-paul-tudor-jones | H-synthesis | investors/020-paul-tudor-jones/synthesis.md
 - [x] done:2026-06-26T07:38:46Z T0162 | cohort-02 | X-cohort-synthesis | synthesis/cohort-02.md
 - [x] done:2026-06-26T07:43:20Z T0163 | 021-carl-icahn | A-profile | investors/021-carl-icahn/profile.md
 - [ ] T0164 | 021-carl-icahn | B-philosophy | investors/021-carl-icahn/investment-philosophy.md
@@ -508,7 +508,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0501 | 062-andre-kostolany | G-mental-models | investors/062-andre-kostolany/mental-models.md
 - [ ] T0502 | 062-andre-kostolany | H-synthesis | investors/062-andre-kostolany/synthesis.md
 - [ ] T0503 | 063-rakesh-jhunjhunwala | A-profile | investors/063-rakesh-jhunjhunwala/profile.md
-- [ ] T0504 | 063-rakesh-jhunjwala | B-philosophy | investors/063-rakesh-jhunjhunwala/investment-philosophy.md
+- [ ] T0504 | 063-rakesh-jhunjhunwala | B-philosophy | investors/063-rakesh-jhunjhunwala/investment-philosophy.md
 - [ ] T0505 | 063-rakesh-jhunjhunwala | C-greatest-trades | investors/063-rakesh-jhunjhunwala/greatest-trades.md
 - [ ] T0506 | 063-rakesh-jhunjhunwala | D-mistakes | investors/063-rakesh-jhunjhunwala/mistakes-and-losses.md
 - [ ] T0507 | 063-rakesh-jhunjhunwala | E-own-words | investors/063-rakesh-jhunjhunwala/in-their-own-words.md
