@@ -853,3 +853,8 @@
 - Output: investors/021-carl-icahn/key-writings.md (~3,196 words, 16 sources)
 - Notes: Stale retry closeout: verified already-present key-writings file, Task F source map, and spot-checked CarlIcahn.com letters, Yale, eBay response, and SEC order support. Preserved caveats around advocacy-source provenance, missing Bloomberg original transcript/video, and page-check needs for King Icahn/Dear Chairman.
 - Backlog added: None
+
+## 2026-06-26T18:30:54Z — T0171 — 022-ed-thorp — A-profile — DONE
+- Output: investors/022-ed-thorp/profile.md (~1,889 words, 21 sources)
+- Notes: Closed the already-present Ed Thorp profile and Task A source map after verifying required sections, inline citations, and current living-status sourcing. Spot-checked EdwardOThorp.com About, Penguin Random House author bio, Justia appellate opinion, and UCI exhibit checklist; preserved caveats around private PNP/Ridgeline ledgers, gross/net return reconciliation, and post-remand legal chronology.
+- Backlog added: None
