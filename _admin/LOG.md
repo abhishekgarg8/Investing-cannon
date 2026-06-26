@@ -843,3 +843,8 @@
 - Output: investors/021-carl-icahn/mental-models.md (~3,049 words, 19 distinct cited URLs)
 - Notes: Completed Icahn mental-models reconstruction across governance optionality, control-rights ladder, shareholder-choice forcing functions, catalyst design, sizing/structure, escalation, sell rules, risk limits, failure modes, and transferability. Spot-checked IEP 2025 10-K, Southwest Gas tender/proxy exhibit, Hertz 13D/A, Netflix 13D, Yale lecture, and SEC pledged-unit orders. Preserved caveat that Task F key-writings was still freshly claimed and unavailable during this run.
 - Backlog added: None
+
+## 2026-06-26T15:17:31Z — T0170 — 021-carl-icahn — H-synthesis — DONE
+- Output: investors/021-carl-icahn/synthesis.md (~1,609 words, 17 sources)
+- Notes: Completed Icahn synthesis closeout with explicit skill/structure/luck framing, Task H source-map append, and refreshed INDEX row. Preserved caveats around IEP public-vehicle returns, pledged-unit disclosure settlement, early campaign ledgers, and the T0168 queue/file mismatch.
+- Backlog added: None
