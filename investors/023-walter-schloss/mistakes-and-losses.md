@@ -1,6 +1,6 @@
 # Walter Schloss - Mistakes and Losses
 
-_As of 2026-06-27T11:30:28Z. Walter Schloss died in 2012; this memo reflects public materials, regulatory/legal records, and source checks available during this run. It should be read alongside the prior Task A-C and G files for profile, philosophy, trades, and mental-model context._
+_As of 2026-06-27T15:16:28Z. Walter Schloss died in 2012; this memo reflects public materials, regulatory/legal records, and source checks available during this run. It should be read alongside the prior Task A-C and G files for profile, philosophy, trades, and mental-model context._
 
 ## Research Positioning
 
