@@ -883,3 +883,7 @@
 - Output: investors/022-ed-thorp/mental-models.md (~2,422 words, 18 sources)
 - Notes: Completed Thorp mental-models reconstruction across edge proof, joint efficiency, Kelly/fractional sizing, hedged relationships, many-small-bet stat arb, factor/tail audits, capacity decay, fraud verification, and transferability limits. Preserved caveats around mirror-hosted stat-arb/Madoff carriers, private PNP/Ridgeline ledgers, non-transferable institutional infrastructure, and no-new-2026-legal-development search results.
 - Backlog added: None
+## 2026-06-27T03:28:49Z — T0178 — 022-ed-thorp — H-synthesis — DONE
+- Output: investors/022-ed-thorp/synthesis.md (~1,751 words, 15 sources)
+- Notes: Completed Thorp synthesis from completed A-D/F/G files plus current-status and primary-source refresh; added INDEX row and Task H source map. Caveats preserved around missing T0175 own-words, private PNP/Ridgeline ledgers, mirror-hosted stat-arb/Madoff carriers, and PNP legal perimeter risk.
+- Backlog added: None
