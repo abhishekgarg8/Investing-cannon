@@ -69,3 +69,49 @@ Task: T0188 | 024-bill-miller | B-philosophy
 - Primary sources dominate the document: Miller's own letters, SEC fund reports, SEC prospectus material, and Form ADV disclosures.
 - Criticism and failure coverage centered on 2006 streak-ending commentary, Value Trust's 2008 underperformance, Opportunity Trust's 2008 drawdown and leverage, and post-crisis trailing returns.
 - Legal/regulatory check refreshed through targeted web searches and the 2026 Patient Capital ADV; no new personal enforcement issue was found during this run, but this is not a substitute for a future direct IAPD database check.
+
+---
+
+As of: 2026-06-27T20:47:00Z
+Task: T0191 | 024-bill-miller | E-own-words
+
+## Task E Source Additions
+
+1. [1991 Q1 Market Commentary](https://millervalue.com/letters/first-quarter-report-march-31-1991/) - Early Value Trust letter showing Miller's probabilistic, history-minded style before the famous streak became the story.
+2. [1997 Q4 Market Commentary](https://millervalue.com/letters/1997-q4-market-commentary/) - Late-1990s bull-market caution; useful for how Miller separated high returns from reasonable forward expectations.
+3. [1998 Q4 Market Commentary](https://millervalue.com/letters/1998-q4-market-commentary/) - Best source for Miller's view of indexing, market efficiency, active management, winner retention, and low turnover.
+4. [2005 Q4 Market Commentary](https://millervalue.com/letters/515/) - Core self-description after the 15-year streak; contains the calendar-streak caveat, contrarian-stock warning, averaging-down rule, and low-turnover process.
+5. [2006 Q4 Market Commentary](https://millervalue.com/letters/2006-q4-market-commentary/) - The most important philosophy letter: post-streak accountability, skill-versus-luck discussion, intrinsic value, expectations, behavioral edge, factor diversification, and concentration caveats.
+6. [Legg Mason Value Trust 2008 N-CSR](https://www.sec.gov/Archives/edgar/data/357235/000119312508129538/dncsr.htm) - SEC-filed shareholder report signed by Miller; primary source for Value Trust's financials/homebuilders damage and Bear Stearns/Countrywide hit.
+7. [Legg Mason Opportunity Trust 2008 N-CSR](https://www.sec.gov/Archives/edgar/data/1096338/000119312509046308/dncsr.htm) - SEC-filed crisis report signed by Miller; primary source for Opportunity Trust's 65.49% 2008 loss and underperformance language.
+8. [Disconnected Fundamentals](https://millervalue.com/disconnected-fundamentals/) - Edited 2016 client-call remarks from Bill Miller, Bill Miller IV, and Samantha McLemore; useful for post-crisis value/opportunity framing.
+9. [The Investor's Podcast Network, TIP117](https://www.theinvestorspodcast.com/episodes/bill-miller-legg-mason/) - 2016 interview page with partial AI transcript; useful for Miller's eclectic and volatility-tolerant self-description, but exact wording should be audio-checked.
+10. [2018 Q2 Market Letter](https://millervalue.com/bill-miller-2q-2018-market-letter/) - Primary letter arguing that short-horizon market forecasts are usually unknowable and useful commentary should begin with present conditions.
+11. [2019 Q3 Market Letter](https://millervalue.com/bill-miller-3q-2019-market-letter/) - Primary letter on news-cycle risk, narrative economics, and the gap between newsworthiness and investment relevance.
+12. [Ritholtz Masters in Business transcript](https://ritholtz.com/2020/07/transcript-bill-miller/) - Full 2020 transcript; useful for active share, free-cash-flow/ROIC focus, March 2020 buying context, and Bitcoin framing.
+13. [2020 Q4 Market Letter](https://millervalue.com/bill-miller-4q-2020-market-letter/) - Primary letter with Miller's short Bitcoin-as-digital-gold argument and inflation/cash comparison.
+14. [2021 Q2 Market Letter](https://millervalue.com/bill-miller-2q-2021-market-letter/) - Primary letter on inflation humility, priced-in worries, Bitcoin as an open store-of-value question, and investor-return expectations.
+15. [2021 Q3 Market Letter](https://millervalue.com/bill-miller-3q-2021-market-letter/) - Miller's farewell-to-quarterly-letter-writing note; central for time-not-timing, market worry, and succession to McLemore/Bill IV.
+16. [Bill Miller's Market Observations, March 2022](https://millervalue.com/bill-millers-market-observations-march-2022/) - Primary post-retirement note on irreducible uncertainty, information processing, regime change, and value opportunities after the 2022 selloff.
+17. [Richer, Wiser, Happier interview page](https://www.theinvestorspodcast.com/richer-wiser-happier/investing-legend-bill-miller-on-amazon-bitcoin-buffett/) - 2022 long-form interview with AI transcript; best source for late-career reflections, Amazon/Bitcoin concentration, retirement, and self-criticism, but exact quotes require audio verification.
+18. [Miller Value summary of Richer, Wiser, Happier interview](https://millervalue.com/bill-millers-interview-with-richer-wiser-happier-podcast-host-william-green/) - Firm-hosted summary and topic index for the 2022 William Green conversation; supports episode provenance and timestamps.
+19. [Johns Hopkins philosophy gift announcement](https://giving.jhu.edu/story/bill-miller-philosophy-gift/) - Institution-hosted source for Miller's own comments about philosophy, analytical training, and gratitude to Johns Hopkins.
+20. [WealthTrack Bitcoin episode page](https://wealthtrack.com/bitcoin-currency-of-the-future-or-investment-mania-bill-millers-transformative-innovation-case/) - Confirms Miller's 2017 Bitcoin interview and reading-list context; transcript is paywalled, so this run used it as a source-map lead rather than a quote authority.
+21. [Patient Capital bio](https://patientcapitalmanagement.com/bio/bill-miller) - Current successor-firm biography; supports current role, official streak language, and links to Miller's historical letters.
+22. [Santa Fe Institute profile](https://www.santafe.edu/people/profile/bill-miller) - Current institutional profile; supports Miller Family Office, SFI role, complex-systems context, and living/current status.
+23. [Patient Capital 2026 Form ADV](https://www.morganstanley.com/content/dam/msdotcom/en/wealth-investmentsolutions/pdfs/adv/Patient-ADV.pdf) - Current regulatory source for successor-firm ownership, AUM, concentration/risk disclosures, and disciplinary-information check.
+
+## Search Coverage Notes - Task E
+
+- Ran broad and targeted searches for Bill Miller letters, historical market commentaries, interview transcripts, Richer Wiser Happier, Masters in Business, WealthTrack, Investor's Podcast, Bitcoin interviews, criticism, SEC enforcement, lawsuits, and underperformance.
+- Quote authority came from opened source pages only; quote aggregators were not used.
+- Primary and near-primary sources used include Miller's own letters, SEC-filed shareholder reports, full/partial interview transcripts, Johns Hopkins institutional quote material, and current successor-firm regulatory/biographical pages.
+- The 2016 and 2022 Investor's Podcast transcripts disclose AI generation; exact snippets are flagged in the output for future audio verification.
+- Legal/current-status coverage was refreshed through current Patient Capital ADV, current biographies, and targeted SEC/lawsuit searches; no new personal enforcement issue surfaced during this run.
+
+## Caveats For Future Tasks - Task E
+
+- Audio-check all Investor's Podcast Network transcript snippets before using them as definitive exact wording in later quote-heavy work.
+- WealthTrack interviews remain useful source leads, but paywalled transcripts were not used as quote authorities.
+- Keep Bill Miller III and Bill Miller IV separate in future Bitcoin/ETF materials; 2025-2026 Miller Value Funds Bitcoin commentary is mostly Bill IV.
+- Page-check Janet Lowe's book and any archived Barron's/Fortune/NYT profiles before adding longer biographical or career-reflection quotes.
