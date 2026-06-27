@@ -184,7 +184,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-27T02:27:55Z T0177 | 022-ed-thorp | G-mental-models | investors/022-ed-thorp/mental-models.md
 - [x] done:2026-06-27T03:28:49Z T0178 | 022-ed-thorp | H-synthesis | investors/022-ed-thorp/synthesis.md
 - [x] done:2026-06-27T05:35:16Z T0179 | 023-walter-schloss | A-profile | investors/023-walter-schloss/profile.md
-- [ ] T0180 | 023-walter-schloss | B-philosophy | investors/023-walter-schloss/investment-philosophy.md
+- [~] claimed:2026-06-27T06:19:40Z T0180 | 023-walter-schloss | B-philosophy | investors/023-walter-schloss/investment-philosophy.md
 - [ ] T0181 | 023-walter-schloss | C-greatest-trades | investors/023-walter-schloss/greatest-trades.md
 - [ ] T0182 | 023-walter-schloss | D-mistakes | investors/023-walter-schloss/mistakes-and-losses.md
 - [ ] T0183 | 023-walter-schloss | E-own-words | investors/023-walter-schloss/in-their-own-words.md
