@@ -902,3 +902,8 @@
 - Output: investors/023-walter-schloss/investment-philosophy.md (~2,930 words, 12 distinct cited sources; 15-item Task B source map)
 - Notes: Completed Schloss philosophy file covering Graham-style price/value discipline, balance-sheet process, diversification, sell discipline, risk controls, temperament, evolution, rejected methods, regimes, and tensions. Preserved caveats around public return-ledger reconstruction, book-value value traps, passive-versus-rights-enforcement tension, and no-new-personal-enforcement search results.
 - Backlog added: None
+
+## 2026-06-27T09:19:47Z — T0185 — 023-walter-schloss — G-mental-models — DONE
+- Output: investors/023-walter-schloss/mental-models.md (~2,479 words, 13 sources)
+- Notes: Completed Schloss mental-model reconstruction from A/B files plus fresh primary/near-primary research, covering heuristics, operational checklist, failure modes, and transferability. C-F task files were still fresh claims/missing on main, so the output flags a future refresh dependency; no new personal legal/regulatory development found.
+- Backlog added: None
