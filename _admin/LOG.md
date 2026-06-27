@@ -873,3 +873,8 @@
 - Output: investors/022-ed-thorp/mistakes-and-losses.md (~2,694 words, 14 sources)
 - Notes: Closed the already-present mistakes/losses file after Task D QA; refreshed the as-of line to 2026-06-27, added current legal-status wording, and spot-checked Thorp/PNP/stat-arb/Madoff sources. Preserved caveats around private PNP/Ridgeline ledgers, post-remand docket reconstruction, and unquantified Madoff avoided-loss sizing.
 - Backlog added: None
+
+## 2026-06-27T01:33:26Z — T0176 — 022-ed-thorp — F-key-writings — DONE
+- Output: investors/022-ed-thorp/key-writings.md (3,021 words; 29-source Task F source map)
+- Notes: Created Thorp key-writings guide across memoir, Beat the Market, quant/stat-arb, Kelly, Madoff, gambling, and ranked secondary works; preserved mirror/page-check caveats and no-new-2026-legal-development finding.
+- Backlog added: None
