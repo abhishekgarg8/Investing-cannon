@@ -215,3 +215,38 @@ _As of 2026-06-27. Task A source map for Walter Schloss. Ranked by expected usef
 14. [Boston Globe / Bloomberg obituary - "Walter Schloss, 'superinvestor' praised by Warren Buffett" (2012)](https://www.bostonglobe.com/metro/obituaries/2012/02/21/walter-schloss-superinvestor-praised-warren-buffett/bt5oEjoHJcoc0DrCPuBfeP/story.html) - Secondary source for deceased/current-status context, death date, and public reputation.
 
 15. Search checks completed for `Walter Schloss legal developments 2026 Walter Edwin Schloss Associates`, `Walter Schloss SEC enforcement Walter J. Schloss Associates 2026`, `Walter Schloss investment record 1956 2000 15.3% S&P 500 Ivey`, `Walter Schloss Outstanding Investor Digest 1989 PDF`, `Walter Schloss Factors Needed to Make Money in the Stock Market 1994`, `Schloss Associates Chesapeake Ohio Railway 1988 Justia`, `Scan-Optics Walter Schloss Schedule 13D 2003 SEC`, and `Walter Schloss value trap book value intangible assets criticism` - No new posthumous personal enforcement or legal development found; synthesis caveats focus on source gaps, task-state gaps, and modern transferability rather than discovered misconduct.
+
+## Task E - Own Words Sources (2026-06-27)
+
+1. [Outstanding Investor Digest - Walter & Edwin Schloss interview, March 6, 1989](https://static1.squarespace.com/static/5886cbc4a5790a5c18741c5a/t/5a82161e9140b7fe8b250bf3/1518474785579/Schloss%2B-%2BOID%2B1989.pdf) - Richest long-form first-person/near-primary interview opened for this task; used for quote snippets on assets, downside/upside risk shape, peace of mind, management-contact limits, and process humility.
+
+2. [Redfield, Blonsky & Starinsky mirror - Walter Schloss, "Factors Needed To Make Money In The Stock Market" (1994)](https://www.rbcpa.com/commentary-archive/factors-needed-to-make-money-in-the-stock-market-walter-schloss/) - Readable text carrier for Schloss's 16-point checklist; used for short snippets on price, patience, tips, philosophy, and leverage.
+
+3. [Bottom Line / Heilbrunn Center - "Going Out on Top: Walter & Edwin Schloss" (April 17, 2003)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Bottom%20Line%20April%2017%20-%20Walter%20Schloss.pdf) - Short interview with Walter and Edwin; used for snippets on liking numbers, looking at numbers, buying down/selling up, fee alignment, and greed control.
+
+4. [Forbes / Graham & Doddsville mirror - "Experience" (February 11, 2008)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Experience%20-%20Forbes%20-%202-11-2008.pdf) - Late-career profile with direct quotes and stock examples; used for snippets on assets, thrift, loss avoidance, self-effacement, and downside framing.
+
+5. [Ivey Ben Graham Centre - Athanassakos discussion notes with Walter Schloss (May 8, 2008)](https://www.ivey.uwo.ca/media/2809324/schloss-2008.pdf) - Institutional dinner notes; used sparingly for direct phrases and late-life process context. Most of this source should be treated as notes/paraphrase rather than transcript.
+
+6. [Bishop Rock / John Huber - "Video of 92-Year Old Walter Schloss" transcript carrier (video 2008, article/PDF 2013)](https://www.bishoprockcap.com/assets/cdn.prod.website-files.com/5b7c186c36ef662dc0a4b05a/67893fe308f8fbdd57521283_Video%20of%2092-Year%20Old%20Walter%20Schloss.pdf) - Transcript-like carrier of a Ben Graham Centre Q&A; used for brief snippets on downside protection, discounts, no forecasting, and stocks over bonds, with a caveat to verify longer quotes against original video/audio.
+
+7. [Walter Schloss Archive](https://www.walterschloss.com/) - Source hub confirming and linking the archive-hosted OID interview, 1996 lecture, Grant's remarks, Forbes material, checklist, and related Schloss writings; used for provenance, not as the main quote origin.
+
+8. [Walter Schloss - "Why We Invest The Way We Do" (May 1996)](https://www.walterschloss.com/s/Schloss-Why-We-Invest-the-Way-We-Do-May-1996.pdf) - First-person lecture/essay hosted by the Schloss Archive; opened and indexed as primary/near-primary material, but not used for direct snippets because browser text extraction did not expose reliable lines in this run.
+
+9. [Walter Schloss - "Sixty-Five Years on Wall Street" / Grant's Conference PDF](https://www.walterschloss.com/s/Schloss-Sixty-Five-Years-on-Wall-Street-Grants-Conference.pdf) - Late-career reflective source opened for indexing; browser text extraction did not expose usable text, so future agents should page-check before quoting.
+
+10. [Graham & Doddsville Issue 1 - Winter 2006](https://www.grahamanddoddsville.net/wordpress/Files/GrahamAndDoddsvilleNewsletter/Graham%20and%20Doddsville%20-%20Issue%201%20-%20Winter%202006.pdf) - Near-primary/context carrier for Columbia value-investing materials and Schloss/Buffett framing; indexed but not used as the main quote source.
+
+11. [Columbia Business School - Warren Buffett, "The Superinvestors of Graham-and-Doddsville"](https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville) - Essential external validation and return-table context; not Schloss's own words, but important for why the quoted process mattered.
+
+12. [Berkshire Hathaway 2006 annual report letter](https://www.berkshirehathaway.com/letters/2006ltr.pdf) - Buffett's later retrospective on Schloss's fee alignment, statistical method, no-inside-information process, and Edwin's 1989 summary; used as reputation/context rather than Walter's own voice.
+
+13. [Kelly/Fordham Gabelli Center - "Walter J. Schloss" (Financial History, Fall 2021)](https://www.fordhamgabellicenter.org/wp-content/uploads/2021/12/Walter-Schloss.pdf) - Later historical profile with family/archive context and quoted recollections; used carefully for two short Graham-era snippets and bibliographic context.
+
+14. [Boston Globe / Bloomberg obituary - "Walter Schloss, 'superinvestor' praised by Warren Buffett" (2012)](https://www.bostonglobe.com/metro/obituaries/2012/02/21/walter-schloss-superinvestor-praised-warren-buffett/bt5oEjoHJcoc0DrCPuBfeP/story.html) - Current-status anchor for death date, cause, and reputation; not an own-words source.
+
+15. Legal/regulatory context opened or rechecked: [Scan-Optics Schedule 13D/A (2003)](https://www.sec.gov/Archives/edgar/data/87086/000095011703005252/a36685.txt), [SEC News Digest Baltek item (1981)](https://www.sec.gov/news/digest/1981/dig041481.pdf), and [Schloss Associates v. Chesapeake & Ohio Railway Co. (1988)](https://law.justia.com/cases/maryland/court-of-special-appeals/1988/710-september-term-1987-0.html) - Not quote sources; used to preserve the boundary between ownership/shareholder-rights records and misconduct claims.
+
+16. Search checks completed for `Walter Schloss interview transcript`, `Walter Schloss Why We Invest The Way We Do PDF`, `Walter Schloss Factors Needed to Make Money in the Stock Market`, `Walter Schloss Outstanding Investor Digest 1989 PDF`, `Walter Schloss Forbes Experience 2008 PDF`, `Walter Schloss Bottom Line 2003 interview`, `Walter Schloss video transcript`, `Walter Schloss SEC enforcement lawsuit`, `Walter J. Schloss Associates SEC enforcement lawsuit`, `Walter Schloss criticism underperformance`, and `Walter Schloss obituary Bloomberg leukemia` - No new posthumous personal enforcement/legal development found; quote origins concentrated in the documents above.
+
