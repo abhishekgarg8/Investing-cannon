@@ -912,3 +912,7 @@
 - Output: investors/023-walter-schloss/greatest-trades.md (~4,350 words, 15 sources)
 - Notes: Stale retry closeout: verified already-present greatest-trades file, Task C source map, and sampled support from Columbia, OID, SEC/Justia sources. Preserved caveats around private partnership ledgers, secondary/single-source trade economics, unknown position sizes, and no-new-personal-enforcement search results.
 - Backlog added: None
+## 2026-06-27T15:16:28Z — T0182 — 023-walter-schloss — D-mistakes — DONE
+- Output: investors/023-walter-schloss/mistakes-and-losses.md (~2,787 words, 16 sources)
+- Notes: Stale retry closeout: verified the completed mistakes/losses file, Task D source map, required sections, current-status/legal-search framing, and sample citations from Columbia, Berkshire, Justia, Forbes, and Boston Globe. Preserved caveats around missing position-level loss ledgers, annual partnership statements, Scan-Optics/Baltek cost basis, and modern book-value transferability.
+- Backlog added: None
