@@ -183,3 +183,35 @@ _As of 2026-06-27. Task A source map for Walter Schloss. Ranked by expected usef
 15. [Walter Schloss Archive](https://www.walterschloss.com/) - Used as source provenance and archive map for OID, Forbes, checklist, and other Schloss materials; future agents should use it to locate primary letters or position records.
 
 16. Search checks completed for `Walter Schloss mistakes losses underperformance biggest mistake not buying Buffett businesses`, `Walter Schloss lawsuit SEC enforcement Schloss Associates Scan-Optics Baltek Chesapeake Ohio`, `Walter Schloss annual returns negative years 1956 2000 table`, `Walter & Edwin Schloss Associates 1956 2000 annual returns table`, `Walter Schloss 1990s underperformance value stocks cheap list dried up 2000`, `site:sec.gov Walter J. Schloss SEC enforcement litigation release`, `"Walter J. Schloss Associates" lawsuit mistake loss`, `"Chicago Northwestern" "Chicago Milwaukee" "Walter Schloss"`, `"Walter Schloss" "Superior Industries" "down a third"`, and `"Walter Schloss" "too aggressive initially"` - Found no new personal enforcement action or public catastrophic fund loss; strongest evidence centered on first-person process mistakes, omission costs, ordinary drawdown examples, and filing-only leads without complete P&L.
+
+## Task H - Synthesis Sources (2026-06-27)
+
+1. [Columbia Business School / Warren Buffett - "The Superinvestors of Graham-and-Doddsville" (1984)](https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville) - Primary framing source for Schloss's Graham-and-Dodd lineage, 1956-1984 return table, enormous diversification, and the price-versus-value intellectual origin.
+
+2. [Berkshire Hathaway 2006 Annual Report](https://www.berkshirehathaway.com/2006ar/2006ar.pdf) - Near-primary Buffett retrospective on Schloss's 47 partnership years, tiny office, no-inside-information process, approximately 1,000 securities, fee alignment, and permanent-loss risk framing.
+
+3. [Ivey Ben Graham Centre - Walter J. Schloss profile/interview page](https://www.ivey.uwo.ca/bengrahaminvesting/resources/interviews-notes/walter-j-schloss/) - Institutional source for 1956-2000 reported 15.3% compound return versus 11.5% for the S&P 500, career dates, and Edwin Schloss's role.
+
+4. [Outstanding Investor Digest - Walter & Edwin Schloss interview, March 6, 1989](https://static1.squarespace.com/static/5886cbc4a5790a5c18741c5a/t/5a82161e9140b7fe8b250bf3/1518474785579/Schloss%2B-%2BOID%2B1989.pdf) - First-person/near-primary source for process evolution from net working capital to book-value discounts, examples behind greatest-trades and mistakes synthesis, and the 1956-1988 return evidence.
+
+5. [Walter Schloss - "Factors Needed to Make Money in the Stock Market" (1994 PDF)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Factors%2520needed%2520to%2520make%2520money%2520in%2520stocks%2520-%2520Schloss.pdf) - Core checklist source used for the ranked transferable lessons: price/value first, book value, debt caution, patience, scaling, emotional discipline, and leverage avoidance.
+
+6. [Bottom Line / Heilbrunn Center - "Walter & Edwin Schloss: A Rare Interview with Two Generations of Value Investors" (2003)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Bottom%20Line%20April%2017%20-%20Walter%20Schloss.pdf) - Used for the 100-plus-stock portfolio logic, buying/selling on a scale, fee discipline, and wind-down rationale after bargains became scarce.
+
+7. [Forbes / Graham & Doddsville mirror - "Experience" / "The Walter Schloss Experience" (2008)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Experience%20-%20Forbes%20-%202-11-2008.pdf) - Used for late-career public framing, examples such as Fownes, Lehman, late-cycle shorts, and the ordinary pain/omission costs around the method.
+
+8. [Walter Schloss Archive](https://www.walterschloss.com/) - Source provenance hub and current-status support, including archive pointers and the note that Schloss closed his fund in 2000, stopped managing outside money in 2003, and died in 2012.
+
+9. [SEC Schedule 13D/A - Scan-Optics / Walter & Edwin Schloss Associates (2003)](https://www.sec.gov/Archives/edgar/data/87086/000095011703005252/a36685.txt) - Primary filing used for shareholder-rights / public-filing footprint and evidence of a small-company holding and disposition trail.
+
+10. [Justia - _Schloss Associates v. Chesapeake & Ohio Railway Co._ (1988)](https://law.justia.com/cases/maryland/court-of-special-appeals/1988/710-september-term-1987-0.html) - Primary legal record used to support the rights-awareness caveat and to distinguish shareholder-remedy litigation from misconduct.
+
+11. [SEC News Digest - Baltek / Walter J. Schloss Associates (April 14, 1981)](https://www.sec.gov/news/digest/1981/dig041481.pdf) - Primary acquisition-report lead for old public-company ownership work; used as context for future holdings reconstruction rather than as a quantified trade result.
+
+12. [Fordham Gabelli Center / James Russell Kelly - "Walter J. Schloss: A Superinvestor of Graham-and-Doddsville" (2021 PDF)](https://www.fordhamgabellicenter.org/wp-content/uploads/2021/12/Walter-Schloss.pdf) - Secondary historical synthesis used for archive/bibliographic context and modern caveats on applying simple book-value investing in an intangible-heavy economy.
+
+13. [Alpha Architect - "Improving the Performance of Deep Value Strategies" (2019)](https://alphaarchitect.com/improving-the-performance-of-deep-value-strategies/) - Modern deep-value research summary used only to frame value-trap/accounting-noise risk, not for Schloss-specific historical claims.
+
+14. [Boston Globe / Bloomberg obituary - "Walter Schloss, 'superinvestor' praised by Warren Buffett" (2012)](https://www.bostonglobe.com/metro/obituaries/2012/02/21/walter-schloss-superinvestor-praised-warren-buffett/bt5oEjoHJcoc0DrCPuBfeP/story.html) - Secondary source for deceased/current-status context, death date, and public reputation.
+
+15. Search checks completed for `Walter Schloss legal developments 2026 Walter Edwin Schloss Associates`, `Walter Schloss SEC enforcement Walter J. Schloss Associates 2026`, `Walter Schloss investment record 1956 2000 15.3% S&P 500 Ivey`, `Walter Schloss Outstanding Investor Digest 1989 PDF`, `Walter Schloss Factors Needed to Make Money in the Stock Market 1994`, `Schloss Associates Chesapeake Ohio Railway 1988 Justia`, `Scan-Optics Walter Schloss Schedule 13D 2003 SEC`, and `Walter Schloss value trap book value intangible assets criticism` - No new posthumous personal enforcement or legal development found; synthesis caveats focus on source gaps, task-state gaps, and modern transferability rather than discovered misconduct.
