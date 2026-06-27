@@ -926,3 +926,8 @@
 - Output: investors/024-bill-miller/profile.md (~3,305 words, 21 sources)
 - Notes: Created Bill Miller profile and Task A source map covering the Legg Mason Value Trust streak, post-2005 drawdown, Opportunity/Patient succession, current Miller Value/Patient structures, SEC 13F/ADV checks, and legal/regulatory negative search framing. Preserved caveats around firm-reported long-run returns, exact birth date/place, peak AUM definitions, and private/family-office assets.
 - Backlog added: None
+
+## 2026-06-27T18:35:17Z — T0188 — 024-bill-miller — B-philosophy — DONE
+- Output: investors/024-bill-miller/investment-philosophy.md (~3,243 words, 13 sources)
+- Notes: Completed Miller philosophy around flexible intrinsic-value investing, expectations/behavioral edge, process, risk controls, regime fit, and post-2008 tensions. Preserved caveats around affiliated performance figures, public-fund liquidity/leverage, hidden crisis correlations, and successor-led implementation.
+- Backlog added: None
