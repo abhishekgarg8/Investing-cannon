@@ -936,3 +936,8 @@
 - Output: investors/024-bill-miller/key-writings.md (~2,900 words, 21-source Task F source map)
 - Notes: Completed Bill Miller key-writings guide after T0191 was claimed and then closed by another run; ranked the primary letter/filing/interview corpus, mapped best works about Miller, and preserved caveats around no investor-authored book, AI transcript carriers, affiliated performance interpretation, Patient ADV/current-status checks, and Bill Miller III versus Bill Miller IV attribution.
 - Backlog added: None
+
+## 2026-06-27T22:36:50Z — T0189 — 024-bill-miller — C-greatest-trades — DONE
+- Output: investors/024-bill-miller/greatest-trades.md (~3,955 words, 14 Task C source entries)
+- Notes: Stale retry completed Miller greatest-trades file across Amazon, Bitcoin/GBTC, late-1990s technology leaders, Opportunity Trust recovery, Google/new-business-model value, and Tyco/scandal value. Preserved caveats around interview-reported personal holdings, missing security-level lifetime P&L, and vehicle separation across Value Trust, Opportunity Trust, hedge-fund, personal, and successor-firm exposures.
+- Backlog added: None
