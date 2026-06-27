@@ -897,3 +897,8 @@
 - Output: investors/023-walter-schloss/profile.md (~2,224 words, 20 sources)
 - Notes: Closeout of already-present profile and Task A source map; verified required sections, inline citations, current deceased/status wording, legal/regulatory negative check, and source-map coverage. Preserved caveats around private partnership ledgers, return/AUM reconstruction, archive/page-check needs, and legal/regulatory search limits.
 - Backlog added: None
+
+## 2026-06-27T06:31:24Z — T0180 — 023-walter-schloss — B-philosophy — DONE
+- Output: investors/023-walter-schloss/investment-philosophy.md (~2,930 words, 12 distinct cited sources; 15-item Task B source map)
+- Notes: Completed Schloss philosophy file covering Graham-style price/value discipline, balance-sheet process, diversification, sell discipline, risk controls, temperament, evolution, rejected methods, regimes, and tensions. Preserved caveats around public return-ledger reconstruction, book-value value traps, passive-versus-rights-enforcement tension, and no-new-personal-enforcement search results.
+- Backlog added: None
