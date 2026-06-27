@@ -868,3 +868,8 @@
 - Output: investors/022-ed-thorp/investment-philosophy.md (~2,513 words, 18 sources)
 - Notes: Stale retry closeout: verified already-present investment-philosophy file, Task B source map, and required B sections. Spot-checked EdwardOThorp.com About, AQR interview, Thorp 2003 Wilmott paper, and Justia appellate source; preserved caveats around private PNP/Ridgeline ledgers, edge decay/capacity, and PNP legal/organizational risk.
 - Backlog added: None
+
+## 2026-06-27T00:49:56Z — T0174 — 022-ed-thorp — D-mistakes — DONE
+- Output: investors/022-ed-thorp/mistakes-and-losses.md (~2,694 words, 14 sources)
+- Notes: Closed the already-present mistakes/losses file after Task D QA; refreshed the as-of line to 2026-06-27, added current legal-status wording, and spot-checked Thorp/PNP/stat-arb/Madoff sources. Preserved caveats around private PNP/Ridgeline ledgers, post-remand docket reconstruction, and unquantified Madoff avoided-loss sizing.
+- Backlog added: None
