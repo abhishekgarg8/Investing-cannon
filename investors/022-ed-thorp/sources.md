@@ -207,3 +207,33 @@
 - PNP and Ridgeline return data remain [private-record, secondary-verified] pending original statements.
 - Statistical-arbitrage and Madoff PDFs remain mirror-hosted text carriers; future runs should keep searching for original publication copies.
 - Fresh current-status research found a 2026 Society for Science public appearance and no credible new Edward O. Thorp-specific legal development beyond the historical PNP record.
+
+## Task E source map
+
+1. [EdwardOThorp.com - About](https://www.edwardothorp.com/about/) - First-party current biography used for living/current-status context and official identity.
+2. [EdwardOThorp.com - Books](https://www.edwardothorp.com/books/) - First-party bibliography of Thorp's books; useful for title verification and corpus mapping, but individual pages contain some unrelated ad contamination.
+3. [EdwardOThorp.com - Articles](https://www.edwardothorp.com/articles/) - First-party article index across mathematics, gambling, Kelly, blackjack, and finance; best launchpad for future page-level quote upgrades.
+4. [Beat the Market - Edward O. Thorp and Sheen T. Kassouf, 1967](https://www.economics.uci.edu/files/kassouf/pdfs/beatthemarket.pdf) - Primary full-text book source for warrant/convertible hedging language and early scientific stock-market method.
+5. [A Perspective on Quantitative Finance - Edward O. Thorp, 2003](https://www.edwardothorp.com/wp-content/uploads/2016/11/thorpwilmottqfinrev2003.pdf) - Primary retrospective for Thorp's "risk-adjusted excess returns" framing and model-building arc.
+6. [Words From the Wise - Ed Thorp - AQR, 2018](https://www.aqr.com/-/media/AQR/Documents/Insights/Interviews/AQR-Words-from-the-Wise-Ed-Thorp.pdf) - Best polished interview source for EMH nuance, edge definition, retirement advice, Kelly, and leverage risk.
+7. [Tim Ferriss Show transcript #596 - Edward O. Thorp, 2022](https://tim.blog/2022/05/28/ed-thorp-transcript/) - Long transcript carrier for early life, blackjack, investing transition, Madoff, long-term investing, and independence; use with transcript-typo caveat.
+8. [Tim Ferriss Show transcript #604 - Edward O. Thorp, 2022](https://tim.blog/2022/06/30/edward-o-thorp-2-transcript/) - Follow-up transcript carrier for numeracy, independent thinking, crowd madness, crypto/fads, and later-life philosophy.
+9. [My Encounters With Madoff's Scheme and Other Swindles - Edward O. Thorp, 2009](https://novelinvestor.com/wp-content/uploads/2021/04/Thorp-My-Encounters-With-Madoffs-Scheme-And-Other-Swindles-2009.pdf) - First-person due-diligence essay; strongest source for Madoff quotes and fraud-verification standards, though mirror-hosted.
+10. [Statistical Arbitrage Part I - Edward O. Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part1.pdf) - Thorp-authored mirror for stat-arb diversification, position limits, and operational risk-control language.
+11. [Statistical Arbitrage Part II - Edward O. Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part2.pdf) - Thorp-authored mirror for the card-counting analogy and many-small-bets framing.
+12. [Good and Bad Properties of the Kelly Criterion - MacLean, Thorp & Ziemba, 2010](https://www.stat.berkeley.edu/~aldous/157/Papers/Good_Bad_Kelly.pdf) - Co-authored technical source for Kelly/fractional-Kelly caveats, finite-sequence risk, and estimation-error sensitivity.
+13. [The Invention of the First Wearable Computer - Edward O. Thorp, 1998](https://www.cs.virginia.edu/~evans/thorp.pdf) - Thorp-authored account of the roulette wearable computer and the measurement/feedback process.
+14. [What I Knew and When I Knew It - Part 2 - Wilmott, 2018](https://www.wilmott.com/what-i-knew-and-when-i-knew-it-part-2/) - Thorp-authored web excerpt on CHA/PNP, market-neutral hedging, and pre-Black-Scholes derivative screens.
+15. [UCI Libraries exhibit checklist, 2019](https://www.lib.uci.edu/sites/default/files/2022-03/Thorp-checklist.pdf) - Archive/exhibit source with page-referenced *A Man for All Markets* excerpts; useful but should be upgraded to direct book page checks later.
+16. [UCI Newport Life & Philanthropy exhibit page](https://exhibits.lib.uci.edu/thorp/life) - Source for philanthropy quotes and UCI archival context.
+17. [Society for Science 2026 STS conversation](https://www.societyforscience.org/blog/ed-thorp-sts-2026-conversation/) - Fresh 2026 public-appearance/current-status source with a short blackjack-edge quote.
+18. [Value Investing World excerpt of WSJ "Old Pros Size Up the Game", 2008](https://www.valueinvestingworld.com/2008/03/old-pros-size-up-game.html) - Useful carrier for the WSJ over-betting/leverage quote; upgrade to original WSJ if accessible.
+19. [Putting the Cards on the Table - Journal of Investment Consulting / SSRN, 2011](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1896627) - Bibliographic anchor for the interview and "biggest casino" phrase; full journal PDF remains preferable if accessible.
+20. [Edward O. Thorp papers, 1946-2023 - OAC / UC Irvine Libraries](https://oac.cdlib.org/findaid/ark%3A/13030/c8cn79mx/) - Archive guide for manuscripts, drafts, correspondence, and source provenance.
+
+## Task E source-quality notes
+
+- Quote aggregators were used only as leads and were not cited as authority.
+- *A Man for All Markets* quotes are included only from UCI's page-referenced exhibit excerpts; future work should page-check the Random House text directly.
+- The stat-arb and Madoff PDFs remain mirror-hosted carriers attributed to Thorp; future runs should seek original publication scans or first-party archived copies.
+- Current legal/status searches on 2026-06-27 found no credible new Edward O. Thorp-specific legal development; unrelated people named Thorp/Thorpe were ignored.
