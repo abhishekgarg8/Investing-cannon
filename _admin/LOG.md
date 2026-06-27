@@ -931,3 +931,8 @@
 - Output: investors/024-bill-miller/investment-philosophy.md (~3,243 words, 13 sources)
 - Notes: Completed Miller philosophy around flexible intrinsic-value investing, expectations/behavioral edge, process, risk controls, regime fit, and post-2008 tensions. Preserved caveats around affiliated performance figures, public-fund liquidity/leverage, hidden crisis correlations, and successor-led implementation.
 - Backlog added: None
+
+## 2026-06-27T21:59:14Z — T0192 — 024-bill-miller — F-key-writings — DONE
+- Output: investors/024-bill-miller/key-writings.md (~2,900 words, 21-source Task F source map)
+- Notes: Completed Bill Miller key-writings guide after T0191 was claimed and then closed by another run; ranked the primary letter/filing/interview corpus, mapped best works about Miller, and preserved caveats around no investor-authored book, AI transcript carriers, affiliated performance interpretation, Patient ADV/current-status checks, and Bill Miller III versus Bill Miller IV attribution.
+- Backlog added: None
