@@ -109,3 +109,9 @@
 - The early stock and warrant examples come from *Beat the Market*, which is primary but mixes realized examples, system exposition, and illustrative economics.
 - Madoff is treated as an avoided-loss and due-diligence process case, not as a profitable trade. The client's avoided dollar loss remains [unquantified].
 - Search for current legal developments found no new credible 2026 proceeding involving Edward O. Thorp; unrelated people named Thorp were ignored.
+
+## Task D closeout QA addendum - 2026-06-27
+
+- Re-opened and spot-checked the required support set: official Thorp About page, *Beat the Market*, Thorp's 2003 Quantitative Finance Review retrospective, Los Angeles Times 1988/1989 PNP coverage, Justia 1989 district and 1991 appellate opinions, UCI career exhibit/checklist, Statistical Arbitrage Part I/II, Thorp's Madoff paper, SEC OIG Madoff report, and AQR interview package.
+- Fresh criticism/legal/current-status searches on 2026-06-27 did not surface a credible new Edward O. Thorp-specific legal development. Results involving unrelated people named Thorp or derivative blog/listicle retellings were ignored.
+- The document remains limited by the same primary gaps: no original PNP monthly statements, no audited Ridgeline statements, no complete post-remand docket reconstruction, and no client-size disclosure for the Madoff avoided-loss case.
