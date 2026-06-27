@@ -117,3 +117,35 @@ _As of 2026-06-27. Task A source map for Walter Schloss. Ranked by expected usef
 15. [Edwin Schloss Associates - 2007 historical stock list PDF](https://static1.squarespace.com/static/5886cbc4a5790a5c18741c5a/t/669f37b82eb5af1a35bfa05f/1721710521163/schloss%2B-%2Blist%2Bof%2Bstocks%2B-%2Bjanuary%2B2007.pdf) - Opened as a holdings-map lead; browser text extraction was unavailable, so it was treated as future evidence rather than a basis for detailed claims.
 
 16. Search checks completed for `Walter Schloss legal developments 2026 Walter Edwin Schloss Associates`, `Walter Schloss SEC enforcement Walter J. Schloss Associates 2026`, and `Walter Schloss criticism book value value trap intangible assets` - Found no new personal enforcement development; added modern value-trap/intangible-asset cautions and confirmed existing archive/secondary leads rather than new task-changing facts.
+
+## Task C - Greatest Trades Sources (2026-06-27)
+
+1. [Outstanding Investor Digest - Walter & Edwin Schloss interview, March 6, 1989](https://static1.squarespace.com/static/5886cbc4a5790a5c18741c5a/t/5a82161e9140b7fe8b250bf3/1518474785579/Schloss%2B-%2BOID%2B1989.pdf) - Core source for Penn Central bankruptcy securities, the 1962 Buffett package, Londontown/London Fog, Cleveland-Cliffs, portfolio disclosure limits, 1956-1988 before-fee return table, and process caveats.
+
+2. [Forbes / Graham & Doddsville mirror - "Experience" / "The Walter Schloss Experience" (February 11, 2008)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Experience%20-%20Forbes%20-%202-11-2008.pdf) - Used for Fownes Brothers, Lehman Brothers post-IPO, Yahoo/Amazon shorts, 2000-2001 returns, fund wind-down, and late-career public framing.
+
+3. [Bottom Line / Heilbrunn Center - "Going Out on Top: Walter & Edwin Schloss" (April 17, 2003)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Bottom%20Line%20April%2017%20-%20Walter%20Schloss.pdf) - Used for Standard Gas & Electric preferred, buy/sell process, 1955-2000 partnership return framing, and the cheap-stock-list rationale for liquidating outside capital.
+
+4. [Columbia Business School / Warren Buffett - "The Superinvestors of Graham-and-Doddsville"](https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville) - Used for Schloss's early return record, Buffett's description of obscure holdings and price/value discipline, and context on low portfolio overlap among Graham-and-Dodd investors.
+
+5. [Ivey Ben Graham Centre - Walter J. Schloss profile/interview page](https://www.ivey.uwo.ca/bengrahaminvesting/resources/interviews-notes/walter-j-schloss/) - Used to corroborate career dates, Edwin's joining, and 1956-2000 15.3% vs. 11.5% S&P 500 comparison.
+
+6. [Ivey Ben Graham Centre - Athanassakos dinner notes with Walter Schloss (2008 PDF)](https://www.ivey.uwo.ca/media/2809324/schloss-2008.pdf) - Used for process guardrails: Value Line sourcing, balance-sheet/book-value focus, low debt, selling difficulty, and the "do not lose money" lesson.
+
+7. [RBCPA mirror - Walter Schloss, "Factors Needed to Make Money in the Stock Market" (1994)](https://www.rbcpa.com/commentary-archive/factors-needed-to-make-money-in-the-stock-market-walter-schloss/) - Used for the explicit checklist behind the trade lessons: price versus value, book value, low debt, patience, buying/selling on a scale, asset focus, and leverage caution.
+
+8. [Walter Schloss Archive](https://www.walterschloss.com/) - Used as source provenance and an archive map for the Forbes PDF, OID interview, Grant's remarks, and other historical Schloss material; also flagged for future primary-letter work.
+
+9. [Morningstar India - "Walter Schloss: A maverick on Wall Street" (2015)](https://www.morningstar.in/posts/31470/1/learn-from-the-masters-a-maverick-on-wall-street.aspx) - Secondary source for Boston & Providence Railroad guaranteed stock economics and reported share count/check amount. Marked [single-source] in the output because the original cited link could not be independently opened in this run.
+
+10. [SEC News Digest - Baltek / Walter J. Schloss Associates (April 14, 1981)](https://www.sec.gov/news/digest/1981/dig041481.pdf) - Primary filing lead for Baltek, showing Walter J. Schloss Associates/Walter/Edwin Schloss and 95,450 common shares in a Schedule 13D acquisition report.
+
+11. [SEC Schedule 13D/A - Scan-Optics / Walter & Edwin Schloss Associates (2003)](https://www.sec.gov/Archives/edgar/data/87086/000095011703005252/a36685.txt) - Primary filing for Scan-Optics, documenting the 1989 original 13D trail, later amendments, and late-2003 disposition of all partnership-held shares at $0.40-$0.48 per share.
+
+12. [Justia - _Schloss Associates v. Chesapeake & Ohio Railway Co._ (1988)](https://law.justia.com/cases/maryland/court-of-special-appeals/1988/710-september-term-1987-0.html) - Primary legal record for the B&O/C&O appraisal-rights episode; used only as an evidence-frontier item because it does not establish a positive trade P&L.
+
+13. [Fordham Gabelli Center / James Russell Kelly - "Walter J. Schloss: A Superinvestor of Graham-and-Doddsville" (2021 PDF)](https://www.fordhamgabellicenter.org/wp-content/uploads/2021/12/Walter-Schloss.pdf) - Bibliographic and historical context for Schloss sources, including references to "Making Money out of Junk," NYSSA materials, and archival writings.
+
+14. [Net Net Hunter - Walter Schloss investing guide](https://www.netnethunter.com/your-essential-guide-to-walter-schloss-investing/) - Secondary support for the Penn Central rail-bond anecdote and general deep-value framing; not used as primary evidence where OID text was available.
+
+15. Search checks completed for `Walter Schloss greatest trades Baltek Scan-Optics Chesapeake Ohio Schloss Associates`, `Walter Schloss biggest holdings list of stocks January 2007 Edwin Schloss Associates`, `Walter Schloss Outstanding Investor Digest 1989 Baltek Dempster Mill Warren Buffett Schloss`, `Walter Schloss Forbes 2008 The Walter Schloss Experience trades holdings`, `Walter Schloss Penn Central bonds`, `Walter Schloss Fownes Lehman Forbes Experience PDF`, `Walter Schloss Londontown Schenley`, `Walter Schloss Yahoo Amazon short`, `Making Money Out of Junk Walter Schloss`, `Boston & Providence Railroad Walter Schloss 1800`, `Walter Schloss SEC enforcement lawsuit Walter J. Schloss Associates`, and `Walter Schloss criticism book value value trap` - Found no new personal enforcement/legal development; surfaced the highest-confidence trade examples plus several filing-only leads that were kept out of the ranked greatest-trades list.
