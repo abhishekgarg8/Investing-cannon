@@ -154,3 +154,31 @@
 - The statistical-arbitrage and Madoff PDFs opened in this run are mirror-hosted text carriers; future work should try to locate original Wilmott/Thorp-hosted issue PDFs or archived first-party copies.
 - Secondary books about Thorp should be page-checked before exact quotes enter Task E or synthesis: *Fortune's Formula*, *The Quants*, *The Physics of Wall Street*, and *Hedge Fund Market Wizards*.
 - No new 2026 legal development specific to Edward O. Thorp surfaced in final legal/criticism searches; current legal caveats remain the PNP historical record and source-access limitations.
+
+## Task G source map
+
+1. [EdwardOThorp.com - About](https://www.edwardothorp.com/about/) - Current first-party biography used for as-of living/current public-figure framing.
+2. [A man for all markets returns to the Regeneron Science Talent Search - Society for Science, 2026](https://www.societyforscience.org/blog/ed-thorp-sts-2026-conversation/) - Fresh 2026 public-appearance source; useful for current-status corroboration and the blackjack-to-warrant mental model.
+3. [A Perspective on Quantitative Finance: Models for Beating the Market - Edward O. Thorp, 2003](https://www.edwardothorp.com/wp-content/uploads/2016/11/thorpwilmottqfinrev2003.pdf) - Core primary source for factor-exposure questions, extreme-event stress testing, statistical-arbitrage evolution, and leverage/tail-risk warnings.
+4. [Beat the Market - Edward O. Thorp and Sheen T. Kassouf, 1967](https://www.economics.uci.edu/files/kassouf/pdfs/beatthemarket.pdf) - Primary full-text source for relationship-first warrant/convertible analysis, margin and short-sale mechanics, portfolio management, data-mining warnings, and capacity limits.
+5. [Words From the Wise - Ed Thorp - AQR, 2018](https://www.aqr.com/-/media/AQR/Documents/Insights/Interviews/AQR-Words-from-the-Wise-Ed-Thorp.pdf) - Main interview source for joint market efficiency, devil's-advocate edge test, stat-arb position construction, factor-neutral evolution, passive-equity advice, and Berkshire framing.
+6. [The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market - RePEc / World Scientific, 2011](https://ideas.repec.org/h/wsi/wschap/9789814293501_0054.html) - Bibliographic/abstract source for Kelly as expected-log-wealth maximization and securities-market bet-sizing framework.
+7. [Medium Term Simulations of the Full Kelly and Fractional Kelly Investment Strategies - MacLean, Thorp, Zhao & Ziemba, 2010](https://www.edwardothorp.com/wp-content/uploads/2016/11/KellySimulationsNew.pdf) - Primary/co-authored technical source for full-vs-fractional Kelly tradeoffs, drawdown risk, estimation-error caveats, and over-leverage warnings.
+8. [What I Knew and When I Knew It - Part 2 - Wilmott, 2018](https://www.wilmott.com/what-i-knew-and-when-i-knew-it-part-2/) - Thorp-authored account of CHA/PNP, delta-neutral hedging, pre-Black-Scholes implementation, and derivative screens.
+9. [Statistical Arbitrage, Part I - Edward O. Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part1.pdf) - Thorp-authored mirror used for liquid-universe selection, model fair values, market neutrality, and market-impact constraints.
+10. [Statistical Arbitrage, Part II - Edward O. Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part2.pdf) - Thorp-authored mirror used for arbitrage-vs-stat-arb distinction, many-small-bets framing, and deal-failure/tail-risk example.
+11. [My Encounters With Madoff's Scheme and Other Swindles - Edward O. Thorp, 2009](https://novelinvestor.com/wp-content/uploads/2021/04/Thorp-My-Encounters-With-Madoffs-Scheme-And-Other-Swindles-2009.pdf) - Primary first-person due-diligence source for fraud-as-data-problem model, trade/volume verification, and withdrawal decision.
+12. [SEC OIG - Investigation of Failure to Uncover Bernard Madoff's Ponzi Scheme, 2009](https://www.sec.gov/files/oig-5090.pdf) - Official regulatory source used to corroborate the Madoff verification-failure theme.
+13. [The Work and Insights of Edward O. Thorp - UCI Libraries exhibit checklist](https://www.lib.uci.edu/sites/default/files/2022-03/Thorp-checklist.pdf) - Institutional timeline source for PNP capital/positions, Ridgeline, Kelly framing, and summarized Thorp investing tips.
+14. [Edward O. Thorp papers, 1946-2023 - OAC / UC Irvine Libraries](https://oac.cdlib.org/findaid/ark%3A/13030/c8cn79mx/) - Archive guide supporting career chronology, document scope, and PNP/Ridgeline context.
+15. [United States v. Regan, 706 F. Supp. 1102 - Justia, 1989](https://law.justia.com/cases/federal/district-courts/FSupp/706/1102/1589061/) - Primary district-court source for PNP business/legal context and organizational-risk framing.
+16. [United States v. Regan, 937 F.2d 823 - Justia, 1991](https://law.justia.com/cases/federal/appellate-courts/F2/937/823/192707/) - Primary appellate source for the mixed legal outcome and limits of the PNP legal caveat.
+17. [Tim Ferriss Show transcript #596 - Edward O. Thorp, 2022](https://tim.blog/2022/05/28/ed-thorp-transcript/) - Transcript carrier used cautiously for thinking-for-yourself framing.
+18. [Tim Ferriss Show transcript #604 - Edward O. Thorp, 2022](https://tim.blog/2022/06/30/edward-o-thorp-2-transcript/) - Transcript carrier used cautiously for numeracy, fads, and inner-directed psychology.
+
+## Task G source-quality notes
+
+- Strongest Task G sources are Thorp-authored or co-authored materials: *Beat the Market*, the 2003 quantitative-finance retrospective, the 2010 Kelly simulations paper, the stat-arb papers, the Wilmott account, and the Madoff essay.
+- The statistical-arbitrage Part I/II and Madoff PDFs remain mirror-hosted carriers; the text is attributed to Thorp but future runs should continue looking for original issue scans or first-party archived copies.
+- Fresh 2026 searches found a June 2026 Society for Science public appearance by Thorp and did not surface a credible new Edward O. Thorp-specific legal development. SEC results for unrelated people named Thorp/Thorpe were ignored.
+- The file deliberately distinguishes transferable mental models from non-transferable implementation infrastructure: private PNP/Ridgeline ledgers, original stat-arb code/data, and trade-level cost records remain unavailable.
