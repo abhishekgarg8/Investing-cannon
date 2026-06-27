@@ -196,3 +196,43 @@ Task: T0189 | 024-bill-miller | C-greatest-trades
 - Audio-check 2022 Richer, Wiser, Happier transcript snippets before using exact language in quote-heavy materials.
 - Keep Bill Miller III personal/family-office Bitcoin exposure separate from Miller Value Partners, Patient Capital, Opportunity Trust, and Bill Miller IV vehicle exposure.
 - Treat Tyco as a documented process case until original purchase/sale weights and proceeds are reconstructed.
+
+---
+
+As of: 2026-06-27T23:24:42Z
+Task: T0190 | 024-bill-miller | D-mistakes
+
+## Task D Source Additions
+
+1. [SEC N-CSR - Legg Mason Value Trust, year ended March 31, 2008](https://www.sec.gov/Archives/edgar/data/357235/000119312508129538/dncsr.htm) - Primary SEC evidence for Value Trust's 23.86% one-year Primary Class loss versus the S&P 500's 5.08% loss, homebuilder/financial exposure, Bear Stearns plus Countrywide 480 bps detraction, Sprint Nextel 290 bps detraction, Amazon's offsetting 79.2% gain/280 bps contribution, and net-asset decline from roughly $20.1 billion to $12.2 billion.
+2. [SEC N-CSR - Legg Mason Opportunity Trust, year ended Dec. 31, 2008](https://www.sec.gov/Archives/edgar/data/1096338/000119312509046308/dncsr.htm) - Primary SEC evidence for Opportunity Trust's 65.49% 2008 Primary Class loss, leverage disclosure, $600 million credit facilities, approximately $412.8 million average daily borrowings, and $180 million year-end borrowings.
+3. [Miller Value Partners - 2005 Q4 market commentary](https://millervalue.com/letters/515/) - Primary Miller source for the pre-crisis warning that the streak was a calendar artifact, the controversial-stock fit warning, Tyco/Enron contrast, and the explicit averaging-down/low-turnover process that later became a risk amplifier.
+4. [Miller Value Partners - 2006 Q4 market commentary](https://millervalue.com/letters/2006-q4-market-commentary/) - Primary Miller source for the end-of-streak accountability, skill-versus-luck framing, concentration admission, factor-diversification logic, and the statement that 2006 underperformance failed to add value for clients.
+5. [Miller Value Partners - 2008 Q3 market commentary](https://millervalue.com/letters/2008-3q-market-commentary/) - Primary Miller source for contemporaneous crisis self-criticism: poor relative performance, apology to shareholders, too-late recognition of crisis severity, and long-term optimism failing in that market.
+6. [SEC N-CSR - Legg Mason Value Trust, year ended Oct. 31, 2011](https://www.sec.gov/Archives/edgar/data/357235/000119312511353697/d254713dncsr.htm) - Primary SEC evidence for the Sam Peters sole-manager transition announcement and Miller's continuing LMCM chairman role.
+7. [SEC 497K - Legg Mason Capital Management Value Trust, Feb. 2012](https://www.sec.gov/Archives/edgar/data/1474103/000119312512085225/d282019d497k.htm) - Primary SEC evidence for weak trailing Class C returns through 2011 and the April 30, 2012 end of Miller's Value Trust portfolio-manager role.
+8. [Patient Capital - A Look at Bill's Record](https://patientcapitalmanagement.com/articles/a_look_at_bills_record) - Affiliated performance essay that treats 2008 as Miller's admitted large error and gives successor-team context. Useful, but performance claims remain firm-reported.
+9. [WealthTrack - 2017 Bill Miller episode page](https://wealthtrack.com/miller-independent-investor/) - Secondary/interview-context source for post-crisis underperformance periods, 100% active share framing, controversial holdings including Valeant, and Opportunity Trust's five-year rebound context.
+10. [Miller Value Partners - 2020 Q4 market letter](https://millervalue.com/bill-miller-4q-2020-market-letter/) - Primary late-career source for Miller's Bitcoin/digital-gold thesis, useful as a volatility and sizing comparison rather than a documented mistake.
+11. [SEC N-CSRS - Miller Opportunity Trust, June 30, 2021](https://www.sec.gov/Archives/edgar/data/1261788/000110465921112833/tm2125486d1_ncsrs.htm) - Primary SEC evidence for Opportunity Trust's 2021 rebound, Class I one-year return of 87.35%, and the tension between volatile recoveries and volatile drawdowns.
+12. [The Investor's Podcast Network - Richer, Wiser, Happier interview page](https://www.theinvestorspodcast.com/richer-wiser-happier/investing-legend-bill-miller-on-amazon-bitcoin-buffett/) - Long-form interview source for Miller's later reflections on Amazon drawdowns and selling Amazon as his worst investment decision. Transcript-carrier wording should be audio-checked before exact quote reuse.
+13. [Patient Capital 2026 Form ADV Part 2A](https://www.morganstanley.com/content/dam/msdotcom/en/wealth-investmentsolutions/pdfs/adv/Patient-ADV.pdf) - Current regulatory source for Patient Capital ownership, $2.5 billion discretionary AUM as of Dec. 31, 2025, concentration/risk disclosures, and no material legal/disciplinary events for firm/personnel.
+14. [Miller Value Partners 2023 Form ADV Part 2A](https://www.morganstanley.com/wealth-investmentsolutions/pdfs/adv/miller_value_ADV.pdf) - Regulatory source for flexible mandates, leverage/derivatives/private-placement/crypto exposure, concentrated Value Strategy accounts, and no material legal/disciplinary events for MVP/personnel at that time.
+15. [Patient Capital - Finalizes Bill Miller succession planning deal](https://patientcapitalmanagement.com/articles/patient_capital_finalizes_bill_millers_succession_planning_deal) - Primary successor-firm release for Opportunity Equity acquisition, Samantha McLemore continuity, and Miller's minority-owner/investor role.
+16. [PR Newswire / Miller Value Partners - Bill Miller IV acquires majority stake](https://www.prnewswire.com/news-releases/bill-miller-iv-acquires-majority-stake-in-miller-value-partners-301837221.html) - Firm-issued 2023 release for Bill Miller IV's 80% majority ownership, Bill Miller III's 20% stake, and Bill III's general-adviser role.
+17. [Darden / SSRN - Bill Miller and Value Trust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1279934) - Academic-style secondary source for the pre-crisis sustainability/skill-versus-luck setup and 2005 concentration context.
+
+## Search Coverage Notes - Task D
+
+- Guiding questions covered worst loss/year, crisis mechanics, Miller's contemporaneous versus later explanations, behavioral causes, process changes, current legal/regulatory status, and unresolved single-name P&L gaps.
+- Ran targeted searches across SEC filings, Miller's own letter archive, Patient Capital/Miller Value successor materials, WealthTrack, Ritholtz, Investor's Podcast, SSRN/Darden, Valeant, Bear Stearns, Countrywide, Enron, lawsuits, SEC enforcement, and Form ADV disciplinary language.
+- Primary sources dominate the written file: SEC N-CSR/497K filings, Miller letters, Form ADV brochures, and successor-firm releases.
+- Legal/regulatory searches did not surface a personal enforcement action for William H. Miller III; current Patient Capital ADV and 2023 Miller Value ADV state no material legal or disciplinary events for firm/personnel. This remains a disclosure-based check, not a complete court-docket audit.
+- The last searches mostly recycled already-known crisis, Valeant, succession, and ADV materials; no new material loss episode displaced the 2008 Value Trust/Opportunity Trust evidence.
+
+## Caveats For Future Tasks - Task D
+
+- Exact Miller-specific P&L on Enron, Bear Stearns personal holdings, Countrywide, Valeant, and other single names was not found in primary documents during this run.
+- Reconstruct Value Equity returns directly from annual reports before treating Patient Capital's affiliated 30-year performance figures as final.
+- Audio-check Richer, Wiser, Happier transcript snippets before using exact wording in quote-focused work.
+- A future H-synthesis should treat the Opportunity Trust post-2008 recovery as both comeback evidence and survivorship/risk evidence.
