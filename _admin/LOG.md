@@ -887,3 +887,8 @@
 - Output: investors/022-ed-thorp/synthesis.md (~1,751 words, 15 sources)
 - Notes: Completed Thorp synthesis from completed A-D/F/G files plus current-status and primary-source refresh; added INDEX row and Task H source map. Caveats preserved around missing T0175 own-words, private PNP/Ridgeline ledgers, mirror-hosted stat-arb/Madoff carriers, and PNP legal perimeter risk.
 - Backlog added: None
+
+## 2026-06-27T04:38:10Z — T0175 — 022-ed-thorp — E-own-words — DONE
+- Output: investors/022-ed-thorp/in-their-own-words.md (~1,572 words, 20 sources)
+- Notes: Stale retry completed the missing own-words file with 25 short source-visible quotes and a 20-item annotated primary-materials index. Preserved caveats around UCI excerpt carriers, mirror-hosted stat-arb/Madoff texts, WSJ excerpt provenance, and no-new-2026-legal-development searches.
+- Backlog added: None
