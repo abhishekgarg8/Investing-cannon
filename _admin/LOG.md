@@ -907,3 +907,8 @@
 - Output: investors/023-walter-schloss/mental-models.md (~2,479 words, 13 sources)
 - Notes: Completed Schloss mental-model reconstruction from A/B files plus fresh primary/near-primary research, covering heuristics, operational checklist, failure modes, and transferability. C-F task files were still fresh claims/missing on main, so the output flags a future refresh dependency; no new personal legal/regulatory development found.
 - Backlog added: None
+
+## 2026-06-27T14:28:12Z — T0181 — 023-walter-schloss — C-greatest-trades — DONE
+- Output: investors/023-walter-schloss/greatest-trades.md (~4,350 words, 15 sources)
+- Notes: Stale retry closeout: verified already-present greatest-trades file, Task C source map, and sampled support from Columbia, OID, SEC/Justia sources. Preserved caveats around private partnership ledgers, secondary/single-source trade economics, unknown position sizes, and no-new-personal-enforcement search results.
+- Backlog added: None
