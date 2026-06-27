@@ -250,3 +250,52 @@ _As of 2026-06-27. Task A source map for Walter Schloss. Ranked by expected usef
 
 16. Search checks completed for `Walter Schloss interview transcript`, `Walter Schloss Why We Invest The Way We Do PDF`, `Walter Schloss Factors Needed to Make Money in the Stock Market`, `Walter Schloss Outstanding Investor Digest 1989 PDF`, `Walter Schloss Forbes Experience 2008 PDF`, `Walter Schloss Bottom Line 2003 interview`, `Walter Schloss video transcript`, `Walter Schloss SEC enforcement lawsuit`, `Walter J. Schloss Associates SEC enforcement lawsuit`, `Walter Schloss criticism underperformance`, and `Walter Schloss obituary Bloomberg leukemia` - No new posthumous personal enforcement/legal development found; quote origins concentrated in the documents above.
 
+## Task F - Key Writings Sources (2026-06-27)
+
+1. [Walter Schloss Archive](https://www.walterschloss.com/) - Source hub used to map Schloss's compact corpus of checklists, speeches, interviews, and scanned archive materials; also used for current-status and provenance context.
+
+2. [Walter Schloss - "Factors Needed to Make Money in the Stock Market" (archive PDF)](https://www.walterschloss.com/s/Walter-Schloss-Factors-needed-to-Make-Money-in-the-Stock-Market.pdf) - Primary checklist source for the key-writings reading order, price/value discipline, book-value guardrails, patience, leverage avoidance, and sell discipline.
+
+3. [Redfield, Blonsky & Starinsky mirror - "Factors Needed to Make Money in the Stock Market"](https://www.rbcpa.com/commentary-archive/factors-needed-to-make-money-in-the-stock-market-walter-schloss/) - Readable text mirror used to corroborate the archive checklist and support future quote/page checks.
+
+4. [Walter Schloss - "Why We Invest the Way We Do" (May 1996)](https://www.walterschloss.com/s/Schloss-Why-We-Invest-the-Way-We-Do-May-1996.pdf) - Primary first-person lecture/essay source for temperament fit, asset-based investing, diversification, low debt, management-contact skepticism, and why Schloss did not imitate Buffett's later quality-compounding style.
+
+5. [Walter Schloss - "Sixty-Five Years on Wall Street" / Grant's Conference PDF](https://www.walterschloss.com/s/Schloss-Sixty-Five-Years-on-Wall-Street-Grants-Conference.pdf) - Late-career reflective speech used for career chronology, Graham-Newman apprenticeship, partnership operating model, and process continuity.
+
+6. [Walter Schloss - Columbia Business School Upper-Level Seminar in Value Investing](https://www.walterschloss.com/s/Schloss-Columbia-Business-School-Upper-Level-Seminar-In-Value-Investing.pdf) - Primary/near-primary teaching transcript used for implementation details, book-value discussion, diversification, staging purchases/sales, and Q&A-driven limits of the method.
+
+7. [Walter Schloss - "Intrinsic Value Is Key Factor In Valuing Stocks"](https://www.walterschloss.com/s/Schloss-Intrinsic-Value-is-Key-Factor-In-Valuing-Stocks.pdf) - Short primary article/letter used for the intrinsic-value versus market-price bridge between Graham doctrine and Schloss's practical balance-sheet process.
+
+8. [Walter Schloss - "Criteria for Liquidations Where Money Is Held By The Company"](https://www.walterschloss.com/s/Schloss-Criteria-for-Liquidations-where-Money-is-Held-by-the-Company.pdf) - Primary special-situations source used for liquidations, control, liabilities, taxes, timing, claims, and distributable-value caveats.
+
+9. [Walter Schloss - "Benjamin Graham and Security Analysis: A Reminiscence"](https://www.walterschloss.com/s/Schloss-Benjamin-Graham-and-Security-Analysis-a-Reminiscence-Financial-Analysts-Journal.pdf) - Primary/near-primary reminiscence used for Graham lineage, margin-of-safety inheritance, and Schloss's self-placement inside the Graham school.
+
+10. [Benjamin Graham and Walter Schloss - "Three Industrial Stock Averages Contrasted"](https://www.walterschloss.com/s/Three-Industrial-Stock-Averages-Contrasted-Benjamin-Graham-and-Walter-Schloss.pdf) - Coauthored technical article used as evidence of Schloss's analytical formation and attention to measurement/index-construction issues.
+
+11. [Outstanding Investor Digest - Walter & Edwin Schloss interview, March 6, 1989](https://static1.squarespace.com/static/5886cbc4a5790a5c18741c5a/t/5a82161e9140b7fe8b250bf3/1518474785579/Schloss%2B-%2BOID%2B1989.pdf) - Best first-person interview source for active-manager process, portfolio construction, valuation, return evidence, and implementation details not present in the short essays.
+
+12. [Bottom Line / Heilbrunn Center - "Walter & Edwin Schloss: A Rare Interview with Two Generations of Value Investors" (2003)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Bottom%20Line%20April%2017%20-%20Walter%20Schloss.pdf) - Retirement-era interview used for wind-down rationale, late-career reflection, fee/portfolio discipline, and the decision not to continue outside money under reduced opportunity sets.
+
+13. [Forbes / Graham & Doddsville mirror - "Experience" / "The Walter Schloss Experience" (2008)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Experience%20-%20Forbes%20-%202-11-2008.pdf) - Late profile used for examples, public framing, and late-life process color; treated as secondary/profile evidence rather than a substitute for Schloss's own essays.
+
+14. [Ivey Ben Graham Centre - Athanassakos discussion notes with Walter Schloss (2008 PDF)](https://www.ivey.uwo.ca/media/2809324/schloss-2008.pdf) - Late-career institutional notes used for process confirmation around Value Line, low debt, book value, management avoidance, and emotional discipline.
+
+15. [Walter Schloss - "The Ben Graham School of Value Investing" (April 2008)](https://www.walterschloss.com/s/Schloss-Ben-Graham-School-of-Value-Investing-April-2008.pdf) - Late teaching/presentation source used as a distilled Graham-school framing and evidence of how little Schloss's stated method changed by 2008.
+
+16. [Columbia Business School / Warren Buffett - "The Superinvestors of Graham-and-Doddsville"](https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville) - Canonical secondary/near-primary validation source for why Schloss's compact writings matter and how Buffett framed the record.
+
+17. [Berkshire Hathaway 2006 Annual Report](https://www.berkshirehathaway.com/2006ar/2006ar.pdf) - Buffett retrospective used for late external validation of Schloss's small-office, no-inside-information, statistical, diversified method.
+
+18. [Fordham Gabelli Center / James Russell Kelly - "Walter J. Schloss: A Superinvestor of Graham-and-Doddsville" (2021 PDF)](https://www.fordhamgabellicenter.org/wp-content/uploads/2021/12/Walter-Schloss.pdf) - Best modern overview located for chronology, archive-aware context, and modern transferability caveats.
+
+19. [Boston Globe / Bloomberg obituary - "Walter Schloss, 'superinvestor' praised by Warren Buffett" (2012)](https://www.bostonglobe.com/metro/obituaries/2012/02/21/walter-schloss-superinvestor-praised-warren-buffett/bt5oEjoHJcoc0DrCPuBfeP/story.html) - Used for death/current-status verification and reputation context.
+
+20. [SEC Schedule 13D/A - Scan-Optics / Walter & Edwin Schloss Associates (2003)](https://www.sec.gov/Archives/edgar/data/87086/000095011703005252/a36685.txt) - Historical public filing used for legal/regulatory context and to distinguish ownership/shareholder records from personal misconduct.
+
+21. [SEC News Digest - Baltek / Walter J. Schloss Associates (April 14, 1981)](https://www.sec.gov/news/digest/1981/dig041481.pdf) - Historical SEC digest item used for legal/regulatory context and public ownership trail.
+
+22. [Justia - _Schloss Associates v. Chesapeake & Ohio Railway Co._ (1988)](https://law.justia.com/cases/maryland/court-of-special-appeals/1988/710-september-term-1987-0.html) - Primary legal record used for shareholder-rights/appraisal context and to avoid overstating legal controversy.
+
+23. [Alpha Architect - "Improving the Performance of Deep Value Strategies" (2019)](https://alphaarchitect.com/improving-the-performance-of-deep-value-strategies/) - Modern deep-value context used for transferability and value-trap caveats; not used for Schloss-specific history.
+
+24. Search checks completed for `Walter Schloss key writings Factors Needed to Make Money in the Stock Market 1994 PDF`, `Walter Schloss Why We Invest The Way We Do May 1996 PDF`, `Walter Schloss Sixty-Five Years on Wall Street Grant's Conference PDF`, `Walter Schloss Outstanding Investor Digest 1989 interview PDF`, `Walter Schloss Bottom Line 2003 Going Out on Top interview`, `Walter Schloss Forbes Experience 2008 PDF`, `Walter Schloss Ivey 2008 interview notes PDF`, `Walter Schloss Columbia Upper-Level Seminar Value Investing November 17 1993`, `Walter Schloss Benjamin Graham and Security Analysis A Reminiscence PDF`, `Walter Schloss Intrinsic Value is Key to Valuing Stocks letter to editor 1974`, `Walter Schloss On Liquidations article PDF`, `Walter Schloss The Ben Graham School of Value Investing 2008 presentation`, `Walter Schloss The Right Stuff Kathryn Welling Barron's 1985`, `Walter Schloss Walter J Schloss Financial History 2021 James Russell Kelly PDF`, `Walter Schloss legal developments 2026 SEC enforcement`, `Walter J. Schloss Associates litigation 2026`, and `Walter Schloss SEC enforcement Walter Edwin Schloss Associates` - No posthumous personal enforcement/legal development found; task output treats the corpus as essays, speeches, notes, coauthored articles, and first-person interviews rather than a conventional book/letter archive.
