@@ -182,3 +182,28 @@
 - The statistical-arbitrage Part I/II and Madoff PDFs remain mirror-hosted carriers; the text is attributed to Thorp but future runs should continue looking for original issue scans or first-party archived copies.
 - Fresh 2026 searches found a June 2026 Society for Science public appearance by Thorp and did not surface a credible new Edward O. Thorp-specific legal development. SEC results for unrelated people named Thorp/Thorpe were ignored.
 - The file deliberately distinguishes transferable mental models from non-transferable implementation infrastructure: private PNP/Ridgeline ledgers, original stat-arb code/data, and trade-level cost records remain unavailable.
+
+## Task H source map
+
+1. [EdwardOThorp.com - About](https://www.edwardothorp.com/about/) - Current first-party biography for living status, Newport Beach residence, and official role summary.
+2. [Penguin Random House - Edward O. Thorp author page](https://www.penguinrandomhouse.com/authors/31046/edward-o-thorp/) - Publisher corroboration for current biography and book list.
+3. [Society for Science - 2026 STS conversation](https://www.societyforscience.org/blog/ed-thorp-sts-2026-conversation/) - Fresh 2026 public-appearance source used to corroborate continuing public activity.
+4. [A Perspective on Quantitative Finance - Thorp, 2003](https://www.edwardothorp.com/wp-content/uploads/2016/11/thorpwilmottqfinrev2003.pdf) - Core primary source for the model-building arc, risk-adjusted excess return framing, local/global risk, and edge decay.
+5. [Beat the Market - Thorp and Kassouf, 1967](https://www.economics.uci.edu/files/kassouf/pdfs/beatthemarket.pdf) - Primary source for warrant/convertible relationship pricing, hedging, short-sale mechanics, and capacity limits.
+6. [Words From the Wise - Ed Thorp - AQR, 2018](https://www.aqr.com/-/media/AQR/Documents/Insights/Interviews/AQR-Words-from-the-Wise-Ed-Thorp.pdf) - Interview package used for EMH nuance, passive advice, stat-arb evolution, and high-level career record.
+7. [UCI Career Exhibit](https://exhibits.lib.uci.edu/thorp/career) - Institutional source for PNP growth, AT&T trade context, Edward O. Thorp & Associates, and Ridgeline chronology.
+8. [UCI Exhibit Checklist](https://www.lib.uci.edu/sites/default/files/2022-03/Thorp-checklist.pdf) - Archive/exhibit guide used for PNP/Ridgeline figures, career chronology, and source provenance.
+9. [Statistical Arbitrage Part I - Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part1.pdf) - Thorp-authored mirror for market-neutral portfolio construction, turnover, cost, and event-risk texture.
+10. [Statistical Arbitrage Part II - Thorp, 2004](https://www.ntuzov.com/Nik_Site/Niks_files/Research/papers/stat_arb/Thorp_Part2.pdf) - Thorp-authored mirror for many-small-bets framing and card-counting analogy.
+11. [My Encounters With Madoff's Scheme and Other Swindles - Thorp, 2009](https://novelinvestor.com/wp-content/uploads/2021/04/Thorp-My-Encounters-With-Madoffs-Scheme-And-Other-Swindles-2009.pdf) - Primary first-person source for fraud diligence and the Madoff avoided-loss case.
+12. [SEC OIG Madoff report, 2009](https://www.sec.gov/files/oig-5090.pdf) - Official regulatory source for independent-trade-verification failure around Madoff.
+13. [United States v. Regan, 706 F. Supp. 1102 - Justia, 1989](https://law.justia.com/cases/federal/district-courts/FSupp/706/1102/1589061/) - Primary court source for PNP business/legal context.
+14. [United States v. Regan, 937 F.2d 823 - Justia, 1991](https://law.justia.com/cases/federal/appellate-courts/F2/937/823/192707/) - Primary appellate source for the mixed PNP legal outcome.
+15. [Los Angeles Times - PNP verdict, 1989](https://www.latimes.com/archives/la-xpm-1989-08-01-fi-622-story.html) - Contemporaneous source for PNP return framing, convictions, closure pressure, and the note that Thorp was not charged.
+
+## Task H source-quality notes
+
+- This synthesis is limited by the missing `T0175` own-words file; it should be refreshed after the quote corpus lands.
+- PNP and Ridgeline return data remain [private-record, secondary-verified] pending original statements.
+- Statistical-arbitrage and Madoff PDFs remain mirror-hosted text carriers; future runs should keep searching for original publication copies.
+- Fresh current-status research found a 2026 Society for Science public appearance and no credible new Edward O. Thorp-specific legal development beyond the historical PNP record.
