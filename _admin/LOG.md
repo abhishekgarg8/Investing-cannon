@@ -921,3 +921,8 @@
 - Output: investors/023-walter-schloss/in-their-own-words.md (~1,979 words, 15 source entries)
 - Notes: Stale retry completed Schloss own-words file with 27 tightly sourced quote snippets and an annotated primary/near-primary materials index. Direct excerpts kept intentionally short across copyrighted interview/profile sources; caveats preserved for source hubs, video transcript carriers, page-check needs for 1996/Grant's materials, and no-new-personal-enforcement search results.
 - Backlog added: None
+
+## 2026-06-27T17:30:35Z — T0187 — 024-bill-miller — A-profile — DONE
+- Output: investors/024-bill-miller/profile.md (~3,305 words, 21 sources)
+- Notes: Created Bill Miller profile and Task A source map covering the Legg Mason Value Trust streak, post-2005 drawdown, Opportunity/Patient succession, current Miller Value/Patient structures, SEC 13F/ADV checks, and legal/regulatory negative search framing. Preserved caveats around firm-reported long-run returns, exact birth date/place, peak AUM definitions, and private/family-office assets.
+- Backlog added: None

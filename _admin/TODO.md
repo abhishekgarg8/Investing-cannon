@@ -191,7 +191,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-27T16:24:50Z T0184 | 023-walter-schloss | F-key-writings | investors/023-walter-schloss/key-writings.md
 - [x] done:2026-06-27T09:19:47Z T0185 | 023-walter-schloss | G-mental-models | investors/023-walter-schloss/mental-models.md
 - [x] done:2026-06-27T13:42:55Z T0186 | 023-walter-schloss | H-synthesis | investors/023-walter-schloss/synthesis.md
-- [~] claimed:2026-06-27T17:09:30Z T0187 | 024-bill-miller | A-profile | investors/024-bill-miller/profile.md
+- [x] done:2026-06-27T17:30:35Z T0187 | 024-bill-miller | A-profile | investors/024-bill-miller/profile.md
 - [ ] T0188 | 024-bill-miller | B-philosophy | investors/024-bill-miller/investment-philosophy.md
 - [ ] T0189 | 024-bill-miller | C-greatest-trades | investors/024-bill-miller/greatest-trades.md
 - [ ] T0190 | 024-bill-miller | D-mistakes | investors/024-bill-miller/mistakes-and-losses.md
