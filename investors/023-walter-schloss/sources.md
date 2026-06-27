@@ -83,3 +83,37 @@ _As of 2026-06-27. Task A source map for Walter Schloss. Ranked by expected usef
 14. [Boston Globe / Bloomberg obituary - "Walter Schloss, 'superinvestor' praised by Warren Buffett" (2012)](https://www.bostonglobe.com/metro/obituaries/2012/02/21/walter-schloss-superinvestor-praised-warren-buffett/bt5oEjoHJcoc0DrCPuBfeP/story.html) - Secondary source for death/current-status context, fund dates, reported after-fee return, and Edwin Schloss's summary of fundamental analysis and margin of safety.
 
 15. Search checks completed for `Walter Schloss SEC enforcement lawsuit Walter Edwin Schloss Associates`, `Walter Schloss Associates lawsuit regulatory complaint SEC Walter J. Schloss`, `Walter Schloss legal developments 2026`, and `Walter Edwin Schloss Associates 13D Scan-Optics Baltek Chesapeake Ohio` - No new personal enforcement action found; results surfaced unrelated Marcus Schloss litigation and historical Schloss Associates ownership/shareholder records rather than Walter Schloss personal misconduct.
+
+## Task G - Mental Models Sources (2026-06-27)
+
+1. [Columbia Business School / Warren Buffett - "The Superinvestors of Graham-and-Doddsville" (1984)](https://business.columbia.edu/insights/chazen-global-insights/superinvestors-graham-and-doddsville) - Re-used as the core price-versus-value model and the intellectual frame for Schloss's Graham-and-Dodd lineage.
+
+2. [Berkshire Hathaway 2006 Annual Report](https://www.berkshirehathaway.com/2006ar/2006ar.pdf) - Primary Buffett source for Schloss's small-office operating model, no-inside-information method, permanent-loss risk definition, 47-year record framing, and 1,000-security diversification evidence.
+
+3. [Outstanding Investor Digest - Walter & Edwin Schloss interview, March 6, 1989](https://static1.squarespace.com/static/5886cbc4a5790a5c18741c5a/t/5a82161e9140b7fe8b250bf3/1518474785579/Schloss%2B-%2BOID%2B1989.pdf) - Deep first-person/near-primary source for return table, earnings skepticism, Standard & Poor's manual process, turnover, U.S.-market preference, exclusions, and Graham-Newman apprenticeship.
+
+4. [Bottom Line / Heilbrunn Center - "Walter & Edwin Schloss: A Rare Interview with Two Generations of Value Investors" (2003)](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Bottom%20Line%20April%2017%20-%20Walter%20Schloss.pdf) - Used for the no-forecasting process, numbers-over-fieldwork discipline, 100-plus-position sizing logic, fee structure, and wind-down rationale.
+
+5. [Walter Schloss - "Factors Needed to Make Money in the Stock Market" (1994 checklist mirror)](https://www.rbcpa.com/commentary-archive/factors-needed-to-make-money-in-the-stock-market-walter-schloss/) - Core checklist source for price/value, book value, debt, patience, scaling, emotional discipline, sell discipline, and leverage warnings.
+
+6. [Ivey Ben Graham Centre - Walter J. Schloss profile page](https://www.ivey.uwo.ca/bengrahaminvesting/resources/interviews-notes/walter-j-schloss/) - Institutional source for career dates, Edwin's joining, and 1956-2000 15.3% versus 11.5% S&P 500 return comparison.
+
+7. [Ivey Ben Graham Centre - Athanassakos dinner notes with Walter Schloss (2008 PDF)](https://www.ivey.uwo.ca/media/2809324/schloss-2008.pdf) - Used for new-low sourcing, Value Line checks, debt/history/management filters, emotional control, sell difficulty, low-debt preference, and acknowledged limitations.
+
+8. [Walter Schloss Archive](https://www.walterschloss.com/) - Archive hub used for source provenance, reported peak investor count, 15.3% annualized archive summary, and pointers to primary/near-primary Schloss materials.
+
+9. [Fordham Gabelli Center / James Russell Kelly - "Walter J. Schloss: A Superinvestor of Graham-and-Doddsville" (2021 PDF)](https://www.fordhamgabellicenter.org/wp-content/uploads/2021/12/Walter-Schloss.pdf) - Secondary historical synthesis used for modern caveats around applying simple price/book in an intangible-heavy market.
+
+10. [SEC Schedule 13D/A - Scan-Optics / Walter & Edwin Schloss Associates (2003)](https://www.sec.gov/Archives/edgar/data/87086/000095011703005252/a36685.txt) - Primary filing used to show disclosed ownership footprint and ultimate disposition of a public-equity position.
+
+11. [SEC News Digest - Baltek / Walter J. Schloss Associates (April 14, 1981)](https://www.sec.gov/news/digest/1981/dig041481.pdf) - Primary SEC acquisition-report lead used to document a Baltek Schedule 13D item involving Walter J. Schloss Associates, Walter Schloss, and Edwin Schloss.
+
+12. [Justia - _Schloss Associates v. Chesapeake & Ohio Railway Co._ (1988)](https://law.justia.com/cases/maryland/court-of-special-appeals/1988/710-september-term-1987-0.html) - Primary legal record used for the shareholder-rights and minority-holder remedy caveat.
+
+13. [Alpha Architect - "Improving the Performance of Deep Value Strategies" / Sharma, Si, Smith summary (2019)](https://alphaarchitect.com/improving-the-performance-of-deep-value-strategies/) - Modern deep-value research summary used for value-trap and single-metric accounting-noise caveats.
+
+14. [Graham & Doddsville / Walter Schloss - "Sixty-Five Years on Wall Street" PDF](https://www.grahamanddoddsville.net/wordpress/Files/Gurus/Walter%20Schloss/Schloss-Sixty-Five-Years.pdf) - Opened as a late-career reflective source and archive lead; PDF text extraction was unavailable in the browser, so it was not used for unsupported detailed claims.
+
+15. [Edwin Schloss Associates - 2007 historical stock list PDF](https://static1.squarespace.com/static/5886cbc4a5790a5c18741c5a/t/669f37b82eb5af1a35bfa05f/1721710521163/schloss%2B-%2Blist%2Bof%2Bstocks%2B-%2Bjanuary%2B2007.pdf) - Opened as a holdings-map lead; browser text extraction was unavailable, so it was treated as future evidence rather than a basis for detailed claims.
+
+16. Search checks completed for `Walter Schloss legal developments 2026 Walter Edwin Schloss Associates`, `Walter Schloss SEC enforcement Walter J. Schloss Associates 2026`, and `Walter Schloss criticism book value value trap intangible assets` - Found no new personal enforcement development; added modern value-trap/intangible-asset cautions and confirmed existing archive/secondary leads rather than new task-changing facts.
