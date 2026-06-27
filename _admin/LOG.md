@@ -916,3 +916,8 @@
 - Output: investors/023-walter-schloss/mistakes-and-losses.md (~2,787 words, 16 sources)
 - Notes: Stale retry closeout: verified the completed mistakes/losses file, Task D source map, required sections, current-status/legal-search framing, and sample citations from Columbia, Berkshire, Justia, Forbes, and Boston Globe. Preserved caveats around missing position-level loss ledgers, annual partnership statements, Scan-Optics/Baltek cost basis, and modern book-value transferability.
 - Backlog added: None
+
+## 2026-06-27T15:36:12Z — T0183 — 023-walter-schloss — E-own-words — DONE
+- Output: investors/023-walter-schloss/in-their-own-words.md (~1,979 words, 15 source entries)
+- Notes: Stale retry completed Schloss own-words file with 27 tightly sourced quote snippets and an annotated primary/near-primary materials index. Direct excerpts kept intentionally short across copyrighted interview/profile sources; caveats preserved for source hubs, video transcript carriers, page-check needs for 1996/Grant's materials, and no-new-personal-enforcement search results.
+- Backlog added: None
