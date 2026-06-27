@@ -892,3 +892,8 @@
 - Output: investors/022-ed-thorp/in-their-own-words.md (~1,572 words, 20 sources)
 - Notes: Stale retry completed the missing own-words file with 25 short source-visible quotes and a 20-item annotated primary-materials index. Preserved caveats around UCI excerpt carriers, mirror-hosted stat-arb/Madoff texts, WSJ excerpt provenance, and no-new-2026-legal-development searches.
 - Backlog added: None
+
+## 2026-06-27T05:35:16Z — T0179 — 023-walter-schloss — A-profile — DONE
+- Output: investors/023-walter-schloss/profile.md (~2,224 words, 20 sources)
+- Notes: Closeout of already-present profile and Task A source map; verified required sections, inline citations, current deceased/status wording, legal/regulatory negative check, and source-map coverage. Preserved caveats around private partnership ledgers, return/AUM reconstruction, archive/page-check needs, and legal/regulatory search limits.
+- Backlog added: None
