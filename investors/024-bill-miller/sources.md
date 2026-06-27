@@ -158,3 +158,41 @@ Task: T0192 | 024-bill-miller | F-key-writings
 - Audio-check Investor's Podcast Network snippets before quoting exact language because the page discloses AI-generated transcript text.
 - Treat Patient Capital's performance essay as affiliated and useful, but not independent audited proof.
 - Keep post-2023 Bill Miller III and Bill Miller IV materials separate, especially on Bitcoin and ETFs.
+
+---
+
+As of: 2026-06-27T22:30:44Z
+Task: T0189 | 024-bill-miller | C-greatest-trades
+
+## Task C Source Additions
+
+1. [Legg Mason Value Trust 2008 N-CSR](https://www.sec.gov/Archives/edgar/data/357235/000119312508129538/dncsr.htm) - Primary SEC source for Amazon as a 6.5% top holding at March 31, 2008, Amazon's 79.2% fiscal-year gain and 280 bps contribution, Value Trust's 23.86% one-year loss, and portfolio/net-asset scale.
+2. [Legg Mason Opportunity Trust 2008 N-CSR](https://www.sec.gov/Archives/edgar/data/1096338/000119312509046308/dncsr.htm) - Primary SEC source for the Opportunity Trust 65.49% 2008 Primary Class loss and the drawdown context needed to judge the later comeback trade.
+3. [Miller Opportunity Trust 2021 Semiannual N-CSRS](https://www.sec.gov/Archives/edgar/data/1261788/000110465921112833/tm2125486d1_ncsrs.htm) - Primary SEC source for the 2021 Opportunity Trust rebound metrics, net assets/investments, options/warrants structure, approval to invest in GBTC, and Bitcoin/GBTC commentary.
+4. [Miller Value Partners - 1998 Q4 market commentary](https://millervalue.com/letters/1998-q4-market-commentary/) - Primary Miller letter for low-turnover/winner-retention portfolio construction, 1998 Value Trust return, and AOL/Dell concentration context.
+5. [Patient Capital - Bill Miller historical letters: 4Q 1999](https://patientcapitalmanagement.com/articles/bill_millers_historical_letters_4q_1999) - Firm-hosted historical Miller letter for 1999 technology exposure, AOL/Gateway context, Gateway's 181% 1999 gain, and late-cycle risk warnings.
+6. [Miller Value Partners - 2005 Q4 market commentary](https://millervalue.com/letters/515/) - Primary Miller process letter for expectations-based value, Google/new-business-model analysis, averaging-down posture, low turnover, and Tyco/Enron contrast.
+7. [Miller Value Partners - 2006 Q4 market commentary](https://millervalue.com/letters/2006-q4-market-commentary/) - Primary Miller philosophy letter for intrinsic-value method, expectations revision, Amazon margin misperception, and behavioral edge.
+8. [Miller Value Partners - 2020 Q4 market letter](https://millervalue.com/bill-miller-4q-2020-market-letter/) - Primary late-career source for Miller's Bitcoin/digital-gold framing and monetary-risk context.
+9. [Institutional Investor - Bill Miller in the Wilderness and Loving It](https://www.institutionalinvestor.com/article/2bswi2n30990nntbscc1s/corner-office/bill-miller-in-the-wilderness-and-loving-it) - Long-form secondary source for Amazon since IPO, Amazon drawdown history, Opportunity Trust largest-holding framing, and the 2017 hedge-fund Bitcoin position/spinoff anecdote. Use as profile evidence, not a transaction ledger.
+10. [Business Insider / Markets Insider - Bill Miller lost 90% of wealth, billionaire from Bitcoin and Amazon](https://markets.businessinsider.com/currencies/news/bitcoin-amazon-stock-investor-bill-miller-value-partners-billionaire-2021-4-1030344952) - Secondary source for personal-wealth/Bitcoin/Amazon narrative. Useful for direction, but not a substitute for personal account records.
+11. [Patient Capital - A Look at Bill's Record](https://patientcapitalmanagement.com/articles/a_look_at_bills_record) - Affiliated performance interpretation source for Opportunity Equity and Miller's long-run record. Treat as firm-reported and reconcile against primary reports before using as audited proof.
+12. [Ritholtz Masters in Business transcript](https://ritholtz.com/2020/07/transcript-bill-miller/) - Full transcript source for later-career reflections on time horizon, active management, and Opportunity-style recovery context.
+13. [The Investor's Podcast Network - Richer, Wiser, Happier interview page](https://www.theinvestorspodcast.com/richer-wiser-happier/investing-legend-bill-miller-on-amazon-bitcoin-buffett/) - 2022 long-form interview/topic source for Amazon and Bitcoin themes. Transcript-carrier wording should be audio-checked before exact quotation.
+14. [Patient Capital 2026 Form ADV Part 2A](https://www.morganstanley.com/content/dam/msdotcom/en/wealth-investmentsolutions/pdfs/adv/Patient-ADV.pdf) - Current regulatory anchor for successor-firm ownership, risk disclosures, AUM, and disciplinary-information context already used across Miller tasks.
+
+## Search Coverage Notes - Task C
+
+- Built a query plan around Amazon, Bitcoin/GBTC, late-1990s technology holdings, Google/new-business-model value, Tyco/scandal investing, Opportunity Trust recovery, SEC fund reports, performance claims, and legal/regulatory/current-status checks.
+- Reviewed more than 15 targeted searches and prioritized SEC reports, Miller-authored letters, successor-firm source maps, and long-form interview/profile sources over quote aggregators.
+- Greatest-trades output uses six trade or trade-basket sections because the public record often supports fund-level baskets better than individual realized trade tickets.
+- Exact security-level lifetime P&L was not found for Amazon, Google, the late-1990s basket, Tyco, or personal Bitcoin. The output flags those gaps rather than estimating them.
+- Bitcoin evidence separates personal/hedge-fund profile reporting from public Opportunity Trust GBTC approval and commentary.
+
+## Caveats For Future Tasks - Task C
+
+- Reconstruct Amazon, AOL, Dell, Gateway, Google, and Yahoo year-by-year from Value Trust annual and semiannual reports before quoting lifetime fund-level P&L.
+- Reconcile Patient Capital's affiliated performance figures against official prospectus/N-CSR tables before using them as final audited proof.
+- Audio-check 2022 Richer, Wiser, Happier transcript snippets before using exact language in quote-heavy materials.
+- Keep Bill Miller III personal/family-office Bitcoin exposure separate from Miller Value Partners, Patient Capital, Opportunity Trust, and Bill Miller IV vehicle exposure.
+- Treat Tyco as a documented process case until original purchase/sale weights and proceeds are reconstructed.
