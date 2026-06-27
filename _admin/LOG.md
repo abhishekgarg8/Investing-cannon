@@ -878,3 +878,8 @@
 - Output: investors/022-ed-thorp/key-writings.md (3,021 words; 29-source Task F source map)
 - Notes: Created Thorp key-writings guide across memoir, Beat the Market, quant/stat-arb, Kelly, Madoff, gambling, and ranked secondary works; preserved mirror/page-check caveats and no-new-2026-legal-development finding.
 - Backlog added: None
+
+## 2026-06-27T02:27:55Z — T0177 — 022-ed-thorp — G-mental-models — DONE
+- Output: investors/022-ed-thorp/mental-models.md (~2,422 words, 18 sources)
+- Notes: Completed Thorp mental-models reconstruction across edge proof, joint efficiency, Kelly/fractional sizing, hedged relationships, many-small-bet stat arb, factor/tail audits, capacity decay, fraud verification, and transferability limits. Preserved caveats around mirror-hosted stat-arb/Madoff carriers, private PNP/Ridgeline ledgers, non-transferable institutional infrastructure, and no-new-2026-legal-development search results.
+- Backlog added: None
