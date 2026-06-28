@@ -236,3 +236,42 @@ Task: T0190 | 024-bill-miller | D-mistakes
 - Reconstruct Value Equity returns directly from annual reports before treating Patient Capital's affiliated 30-year performance figures as final.
 - Audio-check Richer, Wiser, Happier transcript snippets before using exact wording in quote-focused work.
 - A future H-synthesis should treat the Opportunity Trust post-2008 recovery as both comeback evidence and survivorship/risk evidence.
+
+---
+
+As of: 2026-06-28T00:34:51Z
+Task: T0193 | 024-bill-miller | G-mental-models
+
+## Task G Source Additions
+
+1. [Miller Value Partners - 2005 Q4 market commentary](https://millervalue.com/letters/515/) - Primary source for expectations-based value, shareholder time horizon, contrarian-position warning, process/outcome distinction, averaging down, and low turnover.
+2. [Miller Value Partners - 2006 Q4 market commentary](https://millervalue.com/letters/2006-q4-market-commentary/) - Primary source for intrinsic value as future free cash flows, behavioral edge, factor diversification, conditional concentration, growth/value rejection, and post-streak accountability.
+3. [Miller Value Partners - 1998 Q4 market commentary](https://millervalue.com/letters/1998-q4-market-commentary/) - Primary source for the S&P 500-as-competitor model, low turnover, winner retention, active management arithmetic, and late-1990s portfolio construction.
+4. [Miller Value Partners - 2008 Q3 market commentary](https://millervalue.com/letters/2008-3q-market-commentary/) - Primary source for crisis self-criticism, too-late recognition, failure of long-term optimism in that market, and rising correlation/volatility in a credit crisis.
+5. [SEC N-CSR - Legg Mason Value Trust, year ended March 31, 2008](https://www.sec.gov/Archives/edgar/data/357235/000119312508129538/dncsr.htm) - Primary SEC evidence for Value Trust's 23.86% one-year Primary Class loss, Bear Stearns/Countrywide 480 bps detraction, and the 2008 stress-test of averaging down and financial/housing exposure.
+6. [SEC N-CSR - Legg Mason Opportunity Trust, year ended Dec. 31, 2008](https://www.sec.gov/Archives/edgar/data/1096338/000119312509046308/dncsr.htm) - Primary SEC evidence for Opportunity Trust's 65.49% 2008 Primary Class loss and leverage/borrowing context, used for the volatility-versus-survivability failure mode.
+7. [SEC 497K - Legg Mason Capital Management Value Trust, Feb. 2012](https://www.sec.gov/Archives/edgar/data/1474103/000119312512085225/d282019d497k.htm) - Primary SEC source for post-crisis trailing-return pressure and manager transition to Sam Peters.
+8. [Ritholtz Masters in Business transcript](https://ritholtz.com/2020/07/transcript-bill-miller/) - Full interview transcript supporting the later statement of free-cash-flow yield, return on invested capital, active share, and through-cycle business analysis.
+9. [Miller Value Partners - 2021 Q3 market letter](https://millervalue.com/bill-miller-3q-2021-market-letter/) - Primary farewell-to-quarterly-letter-writing note; used for time-not-timing, market-worry, and succession to Samantha McLemore and Bill Miller IV.
+10. [Miller Value Partners - Market Observations, March 2022](https://millervalue.com/bill-millers-market-observations-march-2022/) - Primary post-retirement source for irreducible uncertainty, market information processing, and expectations embedded in prices.
+11. [Patient Capital 2026 Form ADV Part 2A](https://www.morganstanley.com/content/dam/msdotcom/en/wealth-investmentsolutions/pdfs/adv/Patient-ADV.pdf) - Current regulatory source for concentration, instrument, derivatives/shorting/Bitcoin-related risk disclosures, ownership/AUM context, and disciplinary-information check.
+12. [Patient Capital - A Look at Bill's Record](https://patientcapitalmanagement.com/articles/a_look_at_bills_record) - Affiliated performance and interpretation source; used only with caveat for the successor-team framing of 2008 as a major admitted error.
+13. [PR Newswire / Miller Value Partners - Bill Miller IV acquires majority stake](https://www.prnewswire.com/news-releases/bill-miller-iv-acquires-majority-stake-in-miller-value-partners-301837221.html) - Primary succession source for Bill Miller IV 80% ownership, Bill Miller III 20% ownership, and Bill III's general-adviser role.
+14. [Patient Capital - Finalizes Bill Miller succession planning deal](https://patientcapitalmanagement.com/articles/patient_capital_finalizes_bill_millers_succession_planning_deal) - Primary succession source for Opportunity Equity moving to Patient Capital, Samantha McLemore's continuity, Bill Miller's minority-owner/investor role, and process-continuity language.
+15. [Bruner and Carr - Bill Miller and Value Trust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1279934) - Darden/SSRN secondary source framing the pre-crisis skill-versus-luck, concentration, and sustainability question.
+16. [Johns Hopkins Giving - Bill Miller philosophy gift](https://giving.jhu.edu/story/bill-miller-philosophy-gift/) - Institutional source connecting Miller's philosophy study to analytical habits and supporting the transferability discussion.
+
+## Search Coverage Notes - Task G
+
+- Structured searches covered Miller's named heuristics, 1998/2005/2006/2008 letters, SEC crisis filings, Opportunity Trust leverage, 2012 transition filings, Ritholtz/late-career interviews, 2021-2022 letters, Form ADV risk disclosures, succession, and current legal/regulatory status.
+- Primary sources dominate the mental-models file: Miller-authored letters, SEC filings, current ADV disclosures, and primary successor-firm releases. Secondary sources were used only for framing or context.
+- The mental-models output uses 16 source families and intentionally separates Bill Miller III's founder-era record from Bill Miller IV's Miller Value Partners role and Samantha McLemore's Patient Capital role.
+- The existing `mistakes-and-losses.md` and Task D source section were visible during this run even though T0190 remained claimed in TODO; this Task G output uses the evidence already present but does not alter T0190's state.
+- Current-status/legal searches and the 2026 Patient Capital ADV did not surface a new personal enforcement action for William H. Miller III; this remains a disclosure/search check, not a complete litigation docket audit.
+
+## Caveats For Future Tasks - Task G
+
+- Reconstruct Value Trust and Opportunity Trust annual holdings/returns directly from SEC filings before using affiliated long-run performance figures as final proof.
+- Treat Bitcoin as a separate mental-model extension because it stretches Miller's free-cash-flow value framework into adoption-curve and monetary-asset reasoning.
+- H-synthesis should combine this mental-models file with the still-claimed T0190 mistakes task once that task is formally closed on main.
+- Do not attribute post-2023 Miller Value Partners or Patient Capital results automatically to Bill Miller III.
