@@ -1027,6 +1027,6 @@
 - Backlog added: None
 
 ## 2026-06-28T23:29:56Z - T0211 - 027-bill-gross - A-profile - DONE
-- Output: investors/027-bill-gross/profile.md (~0 words, 20 sources)
+- Output: investors/027-bill-gross/profile.md (~2,756 words, 20 sources)
 - Notes: Created Gross profile with PIMCO Total Return/firm AUM and return caveats, Janus retirement/current commentary status, SEC/PIMCO ETF order and PIMCO departure/lawsuit context. Preserved caveats around security-level P&L, benchmark/fee/period definitions, Janus performance, and private/foundation ledgers.
 - Backlog added: None
