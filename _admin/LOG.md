@@ -983,6 +983,6 @@
 - Backlog added: None
 
 ## 2026-06-28T13:25:40Z — T0202 — 025-john-neff — H-synthesis — DONE
-- Output: investors/025-john-neff/synthesis.md (~1,673 words, 13 sources)
+- Output: investors/025-john-neff/synthesis.md (~1,681 words, 13 sources)
 - Notes: Completed Neff synthesis, INDEX row, and Task H source-map append from completed A-E plus visible F/G files; preserved the just-finished T0201 source section from remote. Caveats remain around primary Windsor annual reports, 21/22/23 outperformance-count discrepancy, book-page checks, and trade-level P&L reconstruction.
 - Backlog added: None
