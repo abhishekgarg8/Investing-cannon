@@ -946,3 +946,7 @@
 - Output: investors/024-bill-miller/synthesis.md (~1,577 words, 15 sources)
 - Notes: Completed Miller synthesis, INDEX row, and Task H source-map append with emphasis on expectations-based value, 2008 survivability risk, successor-role separation, and transferability limits. T0190 and T0193 remained fresh claims in TODO but their files/source sections were visible and used without changing those task states.
 - Backlog added: None
+## 2026-06-28T03:17:40Z — T0190 — 024-bill-miller — D-mistakes — DONE
+- Output: investors/024-bill-miller/mistakes-and-losses.md (~3,223 words, 17 sources)
+- Notes: Stale retry closeout: verified the already-present mistakes/losses file, Task D source map, and spot-checked SEC Value Trust/Opportunity Trust 2008 filings, Miller's 2008 Q3 commentary, the 2012 Value Trust 497K, and Patient Capital 2026 ADV. Preserved caveats around individual-name P&L, affiliated performance claims, transcript carriers, and legal/regulatory search limits.
+- Backlog added: None
