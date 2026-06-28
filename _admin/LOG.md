@@ -1020,3 +1020,8 @@
 - Output: investors/026-david-swensen/in-their-own-words.md (1768 words, 16 annotated sources)
 - Notes: Stale retry closeout: verified the already-present own-words file, refreshed the As-of/source map, and recovered the direct 2014 climate-manager letter. Preserved caveats around page-level book verification, quote aggregators, and no source-backed personal enforcement issue.
 - Backlog added: None
+
+## 2026-06-28T22:43:46Z — T0210 — 026-david-swensen — H-synthesis — DONE
+- Output: investors/026-david-swensen/synthesis.md (~1,801 words, 17 sources)
+- Notes: Completed Swensen synthesis, INDEX row, and Task H source-map append from completed A-F files; T0209 mental-models remained freshly claimed/missing, so the synthesis flags a refresh dependency. Preserved caveats around Yale Model transferability, post-2008 alternatives crowding, private-equity liquidity pressure, endowment tax, and Yale-level divestment/public-accountability risk.
+- Backlog added: None
