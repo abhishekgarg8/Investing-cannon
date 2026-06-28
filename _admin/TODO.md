@@ -212,7 +212,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-28T19:17:29Z T0205 | 026-david-swensen | C-greatest-trades | investors/026-david-swensen/greatest-trades.md
 - [x] done:2026-06-28T17:27:38Z T0206 | 026-david-swensen | D-mistakes | investors/026-david-swensen/mistakes-and-losses.md
 - [~] claimed:2026-06-28T19:28:39Z T0207 | 026-david-swensen | E-own-words | investors/026-david-swensen/in-their-own-words.md
-- [ ] T0208 | 026-david-swensen | F-key-writings | investors/026-david-swensen/key-writings.md
+- [~] claimed:2026-06-28T21:12:08Z T0208 | 026-david-swensen | F-key-writings | investors/026-david-swensen/key-writings.md
 - [ ] T0209 | 026-david-swensen | G-mental-models | investors/026-david-swensen/mental-models.md
 - [ ] T0210 | 026-david-swensen | H-synthesis | investors/026-david-swensen/synthesis.md
 - [ ] T0211 | 027-bill-gross | A-profile | investors/027-bill-gross/profile.md
