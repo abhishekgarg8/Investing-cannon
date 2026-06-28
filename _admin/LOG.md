@@ -1026,6 +1026,11 @@
 - Notes: Completed Swensen synthesis, INDEX row, and Task H source-map append from completed A-F files; T0209 mental-models remained freshly claimed/missing, so the synthesis flags a refresh dependency. Preserved caveats around Yale Model transferability, post-2008 alternatives crowding, private-equity liquidity pressure, endowment tax, and Yale-level divestment/public-accountability risk.
 - Backlog added: None
 
+## 2026-06-28T23:32:44Z — T0212 — 027-bill-gross — B-philosophy — DONE
+- Output: investors/027-bill-gross/investment-philosophy.md (~2,692 words, 19 sources)
+- Notes: Completed Gross philosophy around total-return bond management, structural alpha, duration/curve/credit/volatility/mortgage premia, PIMCO's forum-driven process, risk controls, and post-2014 tensions. Task A profile/source map landed during this run; preserved it and appended Task B sources.
+- Backlog added: None
+
 ## 2026-06-28T23:29:56Z - T0211 - 027-bill-gross - A-profile - DONE
 - Output: investors/027-bill-gross/profile.md (~2,756 words, 20 sources)
 - Notes: Created Gross profile with PIMCO Total Return/firm AUM and return caveats, Janus retirement/current commentary status, SEC/PIMCO ETF order and PIMCO departure/lawsuit context. Preserved caveats around security-level P&L, benchmark/fee/period definitions, Janus performance, and private/foundation ledgers.
