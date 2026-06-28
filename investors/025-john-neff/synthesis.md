@@ -1,6 +1,6 @@
 # John Neff - Synthesis
 
-As of 2026-06-28 (UTC): John B. Neff is deceased. This synthesis uses the completed A-E files plus the visible F and G files in this folder. At claim time, T0200 and T0201 were still marked as fresh claims in TODO even though their output files were present; future closeout runs should verify and close those task states without treating this H file as a substitute for their queue work.
+As of 2026-06-28 (UTC): John B. Neff is deceased. This synthesis uses the completed A-E files plus the visible F and G files in this folder. At claim time, T0200 and T0201 were still marked as fresh claims in TODO even though their output files were present; during closeout, T0201 had already been closed on remote, while T0200 remained claimed. Future closeout runs should verify T0200 without treating this H file as a substitute for that queue work.
 
 ## Executive Brief
 
@@ -57,4 +57,4 @@ The fairest attribution is mixed but weighted toward skill. A random value manag
 2. Verify *John Neff on Investing* page by page, especially trade examples, quotes, and best/worst decision diary entries.
 3. Rebuild the Ford, financial-intermediary, Tandy, ARCO, HCA, Browning-Ferris, Newmont, and Edison Brothers positions from Windsor holdings or annual reports.
 4. Separate asset growth from investment return in the $75 million to $13.6 billion Windsor AUM figure.
-5. Close T0200 and T0201 in TODO after their owners verify the visible F and G files and append their source sections to `sources.md`.
+5. Close T0200 in TODO after its owner or stale-retry run verifies the visible F file and appends its source section to `sources.md`.
