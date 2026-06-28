@@ -1015,3 +1015,8 @@
 - Output: investors/026-david-swensen/key-writings.md (~2,882 words, 29 sources)
 - Notes: Completed Swensen key-writings guide covering Pioneering Portfolio Management, Unconventional Success, Open Yale/CFR/ProPublica/SEC materials, climate letters, Yale SOM legacy pages, and ranked works about him. Preserved caveats around page-level book verification, unrecovered 2014 climate letter, and no source-backed personal enforcement development.
 - Backlog added: None
+
+## 2026-06-28T22:41:21Z — T0207 — 026-david-swensen — E-own-words — DONE
+- Output: investors/026-david-swensen/in-their-own-words.md (1768 words, 16 annotated sources)
+- Notes: Stale retry closeout: verified the already-present own-words file, refreshed the As-of/source map, and recovered the direct 2014 climate-manager letter. Preserved caveats around page-level book verification, quote aggregators, and no source-backed personal enforcement issue.
+- Backlog added: None
