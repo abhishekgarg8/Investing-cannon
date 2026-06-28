@@ -43,6 +43,11 @@ Annotated source map started in Task A (T0195) on 2026-06-28. Rankings reflect u
 - Return math caveat: 13.7% annualized, 10.6% benchmark, 23/31 years, $75 million starting AUM, $13.6 billion ending AUM, and 5,546% cumulative return are all widely repeated, but exact year-by-year primary tables were not recovered. Later tasks should locate Neff's book tables and historical Windsor annual reports before using exact basis-point precision.
 - Source discrepancy to resolve: Penn Almanac/Penn Gazette report 21 of 31 years of S&P outperformance; CFA Institute, Inquirer, and UToledo report 23 of 31. The profile uses 23/31 as the working figure but flags the discrepancy.
 
+## Task A stale retry QA (2026-06-28)
+
+- Reopened and spot-checked the profile's core support set: CFA Institute's Neff obituary and interview PDF, Dignity Memorial obituary, Penn Almanac, SEC Amkor proxy biography, UToledo naming article, Google Books metadata for *John Neff on Investing*, and the current Vanguard Windsor prospectus.
+- No profile rewrite was needed. The existing profile already contains the required snapshot, timeline, vehicle structure, track-record caveats, significance section, and open questions; caveats around rounded Windsor math, 21-versus-23 outperformance years, missing primary annual reports/Gemini II reconstruction, and no source-backed personal enforcement finding remain appropriate.
+
 ## Task B (T0196) - Philosophy Sources (2026-06-28)
 
 1. [CFA Institute - On Low-P/E Investing / John B. Neff interview (2006 PDF)](https://static1.1.sqspcdn.com/static/f/172986/1283427/1200961476880/John%2BNeff%2Band%2BLow%2BP-E%2Binvesting.pdf?token=7jFoO8zeFqMbWytb0ovDOXHz9BI%3D) - Task B backbone. First-person source for low-P/E principles, new-low/Value Line sourcing, 7% growth preference, debt and EBITDA skepticism, financial-intermediary stress, post-retirement concentration, and fixed-income anchor.
