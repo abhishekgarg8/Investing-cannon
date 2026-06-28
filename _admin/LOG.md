@@ -991,3 +991,8 @@
 - Output: investors/026-david-swensen/profile.md (~2,153 words, 19 sources)
 - Notes: Created Swensen profile and source map with official Yale tenure record, deceased/status check, vehicle/spending structure, current 2025 endowment/tax context, and replication/liquidity caveats. No source-backed personal enforcement action found; current issues are institutional/policy-level.
 - Backlog added: None
+
+## 2026-06-28T14:24:05Z — T0200 — 025-john-neff — F-key-writings — DONE
+- Output: investors/025-john-neff/key-writings.md (~3,600 words, 25 sources)
+- Notes: Stale retry closeout: verified the already-present key-writings file, appended Task F source map, and spot-checked CFA PDF, FAJ review, Inquirer obituary, and Internet Archive/Google Books support. Preserved caveats around page-level book verification, unrecovered original press corpus, and exact Windsor/trade page checks.
+- Backlog added: None
