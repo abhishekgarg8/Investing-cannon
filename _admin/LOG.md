@@ -996,3 +996,8 @@
 - Output: investors/025-john-neff/key-writings.md (~3,600 words, 25 sources)
 - Notes: Stale retry closeout: verified the already-present key-writings file, appended Task F source map, and spot-checked CFA PDF, FAJ review, Inquirer obituary, and Internet Archive/Google Books support. Preserved caveats around page-level book verification, unrecovered original press corpus, and exact Windsor/trade page checks.
 - Backlog added: None
+
+## 2026-06-28T15:18:43Z — T0204 — 026-david-swensen — B-philosophy — DONE
+- Output: investors/026-david-swensen/investment-philosophy.md (~2,757 words, 20 sources)
+- Notes: Completed Swensen philosophy around mission-linked perpetual capital, equity orientation, diversification, manager-selection edge, rebalancing discipline, individual-investor passivity, climate-risk integration, and post-2008 liquidity/fee/crowding critiques. No source-backed personal enforcement issue found; tensions remain Yale-level around private-equity liquidity, endowment tax, divestment pressure, and model replication.
+- Backlog added: None
