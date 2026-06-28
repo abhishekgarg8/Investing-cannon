@@ -941,3 +941,8 @@
 - Output: investors/024-bill-miller/greatest-trades.md (~3,955 words, 14 Task C source entries)
 - Notes: Stale retry completed Miller greatest-trades file across Amazon, Bitcoin/GBTC, late-1990s technology leaders, Opportunity Trust recovery, Google/new-business-model value, and Tyco/scandal value. Preserved caveats around interview-reported personal holdings, missing security-level lifetime P&L, and vehicle separation across Value Trust, Opportunity Trust, hedge-fund, personal, and successor-firm exposures.
 - Backlog added: None
+
+## 2026-06-28T01:22:41Z — T0194 — 024-bill-miller — H-synthesis — DONE
+- Output: investors/024-bill-miller/synthesis.md (~1,577 words, 15 sources)
+- Notes: Completed Miller synthesis, INDEX row, and Task H source-map append with emphasis on expectations-based value, 2008 survivability risk, successor-role separation, and transferability limits. T0190 and T0193 remained fresh claims in TODO but their files/source sections were visible and used without changing those task states.
+- Backlog added: None
