@@ -955,3 +955,9 @@
 - Output: investors/025-john-neff/investment-philosophy.md (~2,900 words, 15 sources)
 - Notes: Closeout of already-present philosophy file and Task B source map; verified required sections, inline citations, and sample support from CFA Institute, Penn Gazette, and SEC proxy sources. Preserved caveats around rounded Windsor return math, missing Neff-era annual-report tables, successor-period Windsor evidence, and no personal enforcement source found.
 - Backlog added: None
+
+
+## 2026-06-28T05:17:34Z — T0195 — 025-john-neff — A-profile — DONE
+- Output: investors/025-john-neff/profile.md (~1,997 words, 25 Task A source-map entries)
+- Notes: Stale retry closeout: verified the already-present profile and source map; spot-checked CFA Institute, Dignity Memorial, Penn Almanac, SEC Amkor proxy, Vanguard prospectus, UToledo, and Google Books support. Preserved caveats around rounded Windsor return math, 21-versus-23 outperformance years, missing primary annual reports/Gemini II reconstruction, and no source-backed personal enforcement found.
+- Backlog added: None
