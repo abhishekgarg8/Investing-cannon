@@ -986,3 +986,8 @@
 - Output: investors/025-john-neff/synthesis.md (~1,681 words, 13 sources)
 - Notes: Completed Neff synthesis, INDEX row, and Task H source-map append from completed A-E plus visible F/G files; preserved the just-finished T0201 source section from remote. Caveats remain around primary Windsor annual reports, 21/22/23 outperformance-count discrepancy, book-page checks, and trade-level P&L reconstruction.
 - Backlog added: None
+
+## 2026-06-28T13:31:11Z — T0203 — 026-david-swensen — A-profile — DONE
+- Output: investors/026-david-swensen/profile.md (~2,153 words, 19 sources)
+- Notes: Created Swensen profile and source map with official Yale tenure record, deceased/status check, vehicle/spending structure, current 2025 endowment/tax context, and replication/liquidity caveats. No source-backed personal enforcement action found; current issues are institutional/policy-level.
+- Backlog added: None
