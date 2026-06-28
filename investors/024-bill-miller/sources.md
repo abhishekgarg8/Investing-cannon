@@ -275,3 +275,37 @@ Task: T0193 | 024-bill-miller | G-mental-models
 - Treat Bitcoin as a separate mental-model extension because it stretches Miller's free-cash-flow value framework into adoption-curve and monetary-asset reasoning.
 - H-synthesis should combine this mental-models file with the still-claimed T0190 mistakes task once that task is formally closed on main.
 - Do not attribute post-2023 Miller Value Partners or Patient Capital results automatically to Bill Miller III.
+
+As of: 2026-06-28T01:20:08Z
+Task: T0194 | 024-bill-miller | H-synthesis
+
+## Task H Source Additions
+
+1. [Santa Fe Institute - Bill Miller profile](https://www.santafe.edu/people/profile/bill-miller) - Current institutional profile confirming Bill Miller III's living/current role as Managing Partner of Miller Family Office and SFI Chair Emeritus.
+2. [Patient Capital - Bill Miller bio](https://patientcapitalmanagement.com/bio/bill-miller) - Current successor-lineage profile identifying Miller as Senior Advisor and minority owner of Patient Capital.
+3. [Miller Value Partners - Bill Miller bio](https://millervalue.com/team/bill-miller-cfa/) - Current founder profile showing Bill III's founder role and noting he served as chairman/CIO until May 2023.
+4. [Miller Value Partners - 2005 Q4 market commentary](https://millervalue.com/letters/515/) - Primary letter for the 15-year streak caveat, three-to-five-year horizon, shareholder expectations, and controversial-stock warning.
+5. [Miller Value Partners - 2006 Q4 market commentary](https://millervalue.com/letters/2006-q4-market-commentary/) - Primary letter for expectations-based value investing, behavioral edge, factor diversification, and post-streak self-assessment.
+6. [SEC - Legg Mason Value Trust 2008 N-CSR](https://www.sec.gov/Archives/edgar/data/357235/000119312508129538/dncsr.htm) - Primary fund report for Value Trust's 2008 fiscal-year loss, homebuilder/financial exposure, Bear Stearns/Countrywide detractors, and net-asset decline.
+7. [SEC - Legg Mason Opportunity Trust 2008 N-CSR](https://www.sec.gov/Archives/edgar/data/1096338/000119312509046308/dncsr.htm) - Primary fund report for Opportunity Trust's 65.49% 2008 loss and leverage/borrowing disclosures.
+8. [SEC - Value Trust 2012 497K](https://www.sec.gov/Archives/edgar/data/1474103/000119312512085225/d282019d497k.htm) - Primary prospectus supplement for weak trailing returns and Miller's April 2012 transition out of portfolio-manager responsibility.
+9. [Patient Capital 2026 Form ADV](https://www.morganstanley.com/content/dam/msdotcom/en/wealth-investmentsolutions/pdfs/adv/Patient-ADV.pdf) - Current regulatory source for Patient Capital AUM, ownership/personnel context, strategy risks, and no material disciplinary disclosures for listed personnel.
+10. [PR Newswire / Miller Value Partners - Bill Miller IV acquisition](https://www.prnewswire.com/news-releases/bill-miller-iv-acquires-majority-stake-in-miller-value-partners-301837221.html) - Primary firm release for 2023 succession: Bill IV acquired 80%, Bill III retained 20%, and Bill IV became chairman/CIO.
+11. [Patient Capital - succession transaction release](https://patientcapitalmanagement.com/articles/patient_capital_finalizes_bill_millers_succession_planning_deal) - Primary firm release for Patient Capital's acquisition of the Opportunity Equity business and McLemore's role.
+12. [Miller Value Partners - 2020 Q4 market letter](https://millervalue.com/bill-miller-4q-2020-market-letter/) - Primary letter for Miller's Bitcoin-as-digital-gold framing and late-career optionality thinking.
+13. [The Investor's Podcast Network - Richer, Wiser, Happier Bill Miller episode](https://www.theinvestorspodcast.com/richer-wiser-happier/investing-legend-bill-miller-on-amazon-bitcoin-buffett/) - Long-form interview carrier for Amazon, Bitcoin, portfolio concentration, and late-career comments; used for themes, not exact quote replication.
+14. [Patient Capital - A Look at Bill's Record](https://patientcapitalmanagement.com/articles/a_look_at_bills_record) - Affiliated performance essay used with caveat for the 30-year record discussion and Miller's self-framing of 2008.
+15. [13F.info - Miller Value Partners 13F filings](https://13f.info/manager/0001135778-miller-value-partners-llc) - Useful current 13F index for 2026 public-equity footprint; not total AUM and not a substitute for SEC primary filings.
+
+## Search Coverage Notes - Task H
+
+- Guiding questions covered current living/status and successor-firm roles, legal/regulatory status, the streak and full-cycle performance record, 2008 loss mechanics, best-trade transferability, peer comparisons, and unresolved source gaps.
+- Searches included current-profile, ADV/disciplinary, SEC filing, 13F, value-letter, Bitcoin, underperformance, criticism, lawsuit/regulatory, succession, philanthropy/current-status, and peer-comparison queries.
+- Three source spot-checks after drafting re-opened Miller's 2006 Q4 letter, SEC Value Trust 2008 N-CSR, and Patient Capital 2026 ADV.
+
+## Caveats For Future Tasks - Task H
+
+- T0190 and T0193 remained claimed in TODO during this run even though their output files and source-map sections were visible on main; this synthesis used those files as available evidence but did not change their task states.
+- The affiliated 30-year Value Equity record remains unreconstructed from annual reports.
+- Current 13F figures are public-equity disclosure only and should not be treated as total firm AUM or Bill Miller III's personal portfolio.
+- No new personal legal/regulatory issue surfaced in this run, but future runs should re-check IAPD/FINRA and court records when directly accessible.
