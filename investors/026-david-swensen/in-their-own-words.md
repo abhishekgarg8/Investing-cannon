@@ -1,6 +1,6 @@
 # David Swensen - In Their Own Words
 
-As of: 2026-06-28T19:42:46Z  
+As of: 2026-06-28T22:37:13Z  
 Task: T0207 | 026-david-swensen | E-own-words
 
 ## Scope And Attribution Rules
@@ -73,6 +73,8 @@ The best primary corpus for Swensen is not annual letters in the Buffett/Marks s
 
 26. "not an easy, straightforward task" - The same 2016 update is careful about implementation difficulty; he did not present climate underwriting as a slogan ([Yale 2016 Climate Update PDF, 2016](https://news.yale.edu/sites/default/files/files/2016-Update-Climate-Change.pdf)).
 
+27. "assess the greenhouse gas footprint" - The 2014 manager letter shows the original operating instruction behind Yale's climate-risk engagement ([Swensen manager letter, 2014](https://d3n8a8pro7vhmx.cloudfront.net/intentionalendowments/pages/446/attachments/original/1433807995/Swensen_Letter_to_Managers.pdf?1433807995=)).
+
 ## Annotated Index Of Primary And Near-Primary Materials
 
 1. [Open Yale Courses - ECON 252 Lecture 9, guest lecture by David Swensen](https://oyc.yale.edu/economics/econ-252-08/lecture-9) - Best single source for first-person investment philosophy: equity bias, diversification, asset allocation, limits of market timing/security selection, and Yale's portfolio logic.
@@ -87,28 +89,30 @@ The best primary corpus for Swensen is not annual letters in the Buffett/Marks s
 
 6. [Yale Investments Office - 2020 Update on Climate Change](https://investments.yale.edu/2020-update-on-climate-change) - First-party letter from Swensen to the Yale community; core source for climate risk, external-manager engagement, fiduciary framing, and portfolio implementation.
 
-7. [Yale 2016 Climate Change Update PDF](https://news.yale.edu/sites/default/files/files/2016-Update-Climate-Change.pdf) - First-party update on the 2014 manager letter; useful for evidence of manager response, fossil-fuel exposure reduction, and climate underwriting in the investment process.
+7. [Swensen letter to Yale external investment managers on climate change](https://d3n8a8pro7vhmx.cloudfront.net/intentionalendowments/pages/446/attachments/original/1433807995/Swensen_Letter_to_Managers.pdf?1433807995=) - Direct 2014 first-party manager letter; source for the original request to assess greenhouse-gas footprint, policy costs, and climate-related investment risk.
 
-8. [Yale News - Swensen reaffirms climate change as a guiding factor in investment policy](https://news.yale.edu/2020/02/20/swensen-reaffirms-climate-change-guiding-factor-investment-policy) - Yale News carrier summarizing and quoting the 2020 letter, plus campus context and divestment debate framing.
+8. [Yale 2016 Climate Change Update PDF](https://news.yale.edu/sites/default/files/files/2016-Update-Climate-Change.pdf) - First-party update on the 2014 manager letter; useful for evidence of manager response, fossil-fuel exposure reduction, and climate underwriting in the investment process.
 
-9. [Yale News - Investment managers heed call, consider economic impact of climate change](https://news.yale.edu/2016/04/12/yale-investment-managers-heed-call-consider-economic-impact-climate-change) - Yale News carrier for the 2016 update; useful when the PDF is hard to parse or when summarizing public reaction.
+9. [Yale News - Swensen reaffirms climate change as a guiding factor in investment policy](https://news.yale.edu/2020/02/20/swensen-reaffirms-climate-change-guiding-factor-investment-policy) - Yale News carrier summarizing and quoting the 2020 letter, plus campus context and divestment debate framing.
 
-10. [Yale Endowment Report - David Swensen Memorial / 2021 Endowment Report](https://swensenmemorial.com/img/2021-Endowment-Report.pdf) - Official memorial/endowment report; important for Swensen phrases embedded in Yale's institutional memory, the Yale Model, spending rule, governance, and tributes.
+10. [Yale News - Investment managers heed call, consider economic impact of climate change](https://news.yale.edu/2016/04/12/yale-investment-managers-heed-call-consider-economic-impact-climate-change) - Yale News carrier for the 2016 update; useful when the PDF is hard to parse or when summarizing public reaction.
 
-11. [Google Books - Pioneering Portfolio Management](https://books.google.com/books/about/Pioneering_Portfolio_Management.html?id=njmgXzFvlYIC) - Metadata and table-of-contents source for Swensen's institutional book; later tasks still need page-level access before using long direct wording.
+11. [Yale Endowment Report - David Swensen Memorial / 2021 Endowment Report](https://swensenmemorial.com/img/2021-Endowment-Report.pdf) - Official memorial/endowment report; important for Swensen phrases embedded in Yale's institutional memory, the Yale Model, spending rule, governance, and tributes.
 
-12. [Simon & Schuster - Unconventional Success](https://www.simonandschuster.com/books/Unconventional-Success/David-F-Swensen/9780743228381) - Official publisher page for Swensen's individual-investor book; confirms publication details and the book's attack on mutual-fund conflicts and high-cost active products.
+12. [Google Books - Pioneering Portfolio Management](https://books.google.com/books/about/Pioneering_Portfolio_Management.html?id=njmgXzFvlYIC) - Metadata and table-of-contents source for Swensen's institutional book; later tasks still need page-level access before using long direct wording.
 
-13. [Yale School of Management - Interview with David Swensen](https://som.yale.edu/blog/interview-with-david-swensen) - Misleading title because the accessible page is primarily an official biography, but it verifies role, assets, staff size, books, Wall Street background, and advisory roles as of 2013.
+13. [Simon & Schuster - Unconventional Success](https://www.simonandschuster.com/books/Unconventional-Success/David-F-Swensen/9780743228381) - Official publisher page for Swensen's individual-investor book; confirms publication details and the book's attack on mutual-fund conflicts and high-cost active products.
 
-14. [Yale News obituary - "Self-confident yet selfless"](https://news.yale.edu/2021/05/06/self-confident-yet-selfless-yales-david-swensen-dies-67) - Official status and career source; not Swensen's own voice, but important for context, ethics, teaching, and talent-tree claims around his statements.
+14. [Yale School of Management - Interview with David Swensen](https://som.yale.edu/blog/interview-with-david-swensen) - Misleading title because the accessible page is primarily an official biography, but it verifies role, assets, staff size, books, Wall Street background, and advisory roles as of 2013.
 
-15. [WealthTrack - David Swensen memorial page](https://wealthtrack.com/david-swensen/) and [AdvisorAnalyst summary of the 2009 WealthTrack interview](https://advisoranalyst.com/2009/05/27/david-swensen-interview-may-22-2009.html/) - Useful video/interview leads, but not used for quote extraction here because an authoritative transcript was not available in the opened pages.
+15. [Yale News obituary - "Self-confident yet selfless"](https://news.yale.edu/2021/05/06/self-confident-yet-selfless-yales-david-swensen-dies-67) - Official status and career source; not Swensen's own voice, but important for context, ethics, teaching, and talent-tree claims around his statements.
+
+16. [WealthTrack - David Swensen memorial page](https://wealthtrack.com/david-swensen/) and [AdvisorAnalyst summary of the 2009 WealthTrack interview](https://advisoranalyst.com/2009/05/27/david-swensen-interview-may-22-2009.html/) - Useful video/interview leads, but not used for quote extraction here because an authoritative transcript was not available in the opened pages.
 
 ## Attribution Watchlist
 
 - Quote aggregators such as Goodreads, Index Fund Advisors, Novel Investor, and quote-of-the-day articles were not used for direct quotes. They recycle Swensen lines but often omit venue, date, page, and context.
-- The 2014 climate letter is linked from Yale's 2020 update, but a direct opened copy was not available in this run. The 2016 and 2020 Yale materials preserve the operative substance and were used instead.
+- The direct 2014 climate-manager letter was recovered during this stale retry and used only for short climate-process phrasing. The 2016 and 2020 Yale materials remain better context for manager response and policy evolution.
 - The books are primary sources, but long quotations from them require page-level access. Later F-key-writings work should page-check *Pioneering Portfolio Management* and *Unconventional Success* before building a fuller quote file from the books themselves.
 - Several popular Swensen lines about "100 percent passive" investing appear through Bloomberg/Bogle Forum references and secondary quote pages. The opened Bogle Forum materials confirmed Swensen's participation, but not a full transcript, so those lines are not included as verified quotes here.
 - Wikipedia and forum reposts were used only as search leads. No claim or quote in this file depends on them.
