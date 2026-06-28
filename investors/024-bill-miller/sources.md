@@ -199,7 +199,7 @@ Task: T0189 | 024-bill-miller | C-greatest-trades
 
 ---
 
-As of: 2026-06-27T23:24:42Z
+As of: 2026-06-28T03:16:39Z
 Task: T0190 | 024-bill-miller | D-mistakes
 
 ## Task D Source Additions
@@ -229,6 +229,7 @@ Task: T0190 | 024-bill-miller | D-mistakes
 - Primary sources dominate the written file: SEC N-CSR/497K filings, Miller letters, Form ADV brochures, and successor-firm releases.
 - Legal/regulatory searches did not surface a personal enforcement action for William H. Miller III; current Patient Capital ADV and 2023 Miller Value ADV state no material legal or disciplinary events for firm/personnel. This remains a disclosure-based check, not a complete court-docket audit.
 - The last searches mostly recycled already-known crisis, Valeant, succession, and ADV materials; no new material loss episode displaced the 2008 Value Trust/Opportunity Trust evidence.
+- Stale-retry QA on 2026-06-28 re-opened the 2008 Value Trust N-CSR, 2008 Opportunity Trust N-CSR, Miller's 2008 Q3 commentary, the 2012 Value Trust 497K, and Patient Capital's 2026 ADV; no contradictory support or new personal enforcement item surfaced.
 
 ## Caveats For Future Tasks - Task D
 
