@@ -1,6 +1,6 @@
 # David Swensen - In Their Own Words
 
-As of: 2026-06-28T18:37:00Z  
+As of: 2026-06-28T19:42:46Z  
 Task: T0207 | 026-david-swensen | E-own-words
 
 ## Scope And Attribution Rules
