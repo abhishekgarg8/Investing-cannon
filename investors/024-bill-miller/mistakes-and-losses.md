@@ -1,13 +1,13 @@
 # Bill Miller - Mistakes and Losses
 
-As of: 2026-06-27T23:19:30Z
+As of: 2026-06-28T03:16:39Z
 Task: T0190 | 024-bill-miller | D-mistakes
 
 ## Scope and Evidence Quality
 
 This note focuses on Bill Miller's documented investment mistakes, losses, and near-death moments as a public-markets investor. The strongest evidence is primary: Miller's own shareholder letters, SEC shareholder reports for Legg Mason Value Trust and Legg Mason Opportunity Trust, prospectus filings that show post-crisis trailing results, and current Form ADV disclosures for the successor firms. Secondary sources are used mainly for context and for questions the primary record leaves open.
 
-The research base is unusually good for the 2006-2012 period and thinner for individual-name P&L outside SEC fund reports. Where a loss is not quantified in the primary record, this file treats it qualitatively and labels the gap rather than guessing. Legal/regulatory searches did not surface a personal SEC or court enforcement action against William H. Miller III; the current Patient Capital Form ADV states that neither the firm nor its personnel have material legal or disciplinary events relevant to evaluating the advisory business or personnel integrity. That disclosure is firm/personnel evidence as of the March 2026 brochure, not a complete life-history litigation search. [Patient Capital 2026 Form ADV](https://www.morganstanley.com/content/dam/msdotcom/en/wealth-investmentsolutions/pdfs/adv/Patient-ADV.pdf)
+The research base is unusually good for the 2006-2012 period and thinner for individual-name P&L outside SEC fund reports. Where a loss is not quantified in the primary record, this file treats it qualitatively and labels the gap rather than guessing. Stale-retry QA on 2026-06-28 rechecked legal/regulatory searches and did not surface a personal SEC or court enforcement action against William H. Miller III; the current Patient Capital Form ADV states that neither the firm nor its personnel have material legal or disciplinary events relevant to evaluating the advisory business or personnel integrity. That disclosure is firm/personnel evidence as of the March 2026 brochure, not a complete life-history litigation search. [Patient Capital 2026 Form ADV](https://www.morganstanley.com/content/dam/msdotcom/en/wealth-investmentsolutions/pdfs/adv/Patient-ADV.pdf)
 
 ## Major Losses, Errors of Omission, and Near-Death Moments
 
