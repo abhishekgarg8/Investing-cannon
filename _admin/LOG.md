@@ -950,3 +950,8 @@
 - Output: investors/024-bill-miller/mistakes-and-losses.md (~3,223 words, 17 sources)
 - Notes: Stale retry closeout: verified the already-present mistakes/losses file, Task D source map, and spot-checked SEC Value Trust/Opportunity Trust 2008 filings, Miller's 2008 Q3 commentary, the 2012 Value Trust 497K, and Patient Capital 2026 ADV. Preserved caveats around individual-name P&L, affiliated performance claims, transcript carriers, and legal/regulatory search limits.
 - Backlog added: None
+
+## 2026-06-28T03:23:31Z — T0196 — 025-john-neff — B-philosophy — DONE
+- Output: investors/025-john-neff/investment-philosophy.md (~2,900 words, 15 sources)
+- Notes: Closeout of already-present philosophy file and Task B source map; verified required sections, inline citations, and sample support from CFA Institute, Penn Gazette, and SEC proxy sources. Preserved caveats around rounded Windsor return math, missing Neff-era annual-report tables, successor-period Windsor evidence, and no personal enforcement source found.
+- Backlog added: None

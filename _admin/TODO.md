@@ -200,7 +200,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [~] claimed:2026-06-28T00:17:12Z T0193 | 024-bill-miller | G-mental-models | investors/024-bill-miller/mental-models.md
 - [x] done:2026-06-28T01:22:41Z T0194 | 024-bill-miller | H-synthesis | investors/024-bill-miller/synthesis.md
 - [~] claimed:2026-06-28T01:18:08Z T0195 | 025-john-neff | A-profile | investors/025-john-neff/profile.md
-- [~] claimed:2026-06-28T03:23:22Z T0196 | 025-john-neff | B-philosophy | investors/025-john-neff/investment-philosophy.md
+- [x] done:2026-06-28T03:23:31Z T0196 | 025-john-neff | B-philosophy | investors/025-john-neff/investment-philosophy.md
 - [ ] T0197 | 025-john-neff | C-greatest-trades | investors/025-john-neff/greatest-trades.md
 - [ ] T0198 | 025-john-neff | D-mistakes | investors/025-john-neff/mistakes-and-losses.md
 - [ ] T0199 | 025-john-neff | E-own-words | investors/025-john-neff/in-their-own-words.md
