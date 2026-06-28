@@ -202,7 +202,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-28T05:17:34Z T0195 | 025-john-neff | A-profile | investors/025-john-neff/profile.md
 - [x] done:2026-06-28T03:23:31Z T0196 | 025-john-neff | B-philosophy | investors/025-john-neff/investment-philosophy.md
 - [x] done:2026-06-28T06:38:36Z T0197 | 025-john-neff | C-greatest-trades | investors/025-john-neff/greatest-trades.md
-- [~] claimed:2026-06-28T07:17:29Z T0198 | 025-john-neff | D-mistakes | investors/025-john-neff/mistakes-and-losses.md
+- [x] done:2026-06-28T07:23:45Z T0198 | 025-john-neff | D-mistakes | investors/025-john-neff/mistakes-and-losses.md
 - [ ] T0199 | 025-john-neff | E-own-words | investors/025-john-neff/in-their-own-words.md
 - [ ] T0200 | 025-john-neff | F-key-writings | investors/025-john-neff/key-writings.md
 - [ ] T0201 | 025-john-neff | G-mental-models | investors/025-john-neff/mental-models.md
