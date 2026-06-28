@@ -1006,3 +1006,7 @@
 - Output: investors/026-david-swensen/mistakes-and-losses.md (~2,793 words, 18 sources)
 - Notes: Completed Swensen mistakes/losses around the FY2009 endowment drawdown, illiquidity/private-equity liquidity pressure, Yale Model replication risk, post-GFC fee/crowding critiques, and climate/divestment/public-accountability tensions. No source-backed personal enforcement action surfaced; current legal/policy developments remain Yale-level.
 - Backlog added: None
+## 2026-06-28T19:17:29Z — T0205 — 026-david-swensen — C-greatest-trades — DONE
+- Output: investors/026-david-swensen/greatest-trades.md (~3,516 words, 20 sources)
+- Notes: Stale retry closeout: QA'd the already-present greatest-trades file, refreshed the As-of line, and added primary support from Cisco's Cerent acquisition notice plus Yale's FY2009 endowment-loss release. Preserved caveats around private-fund ledgers, undisclosed short/credit-trade P&L, and Cerent's Yale proceeds remaining single-source.
+- Backlog added: None
