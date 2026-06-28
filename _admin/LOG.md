@@ -971,3 +971,8 @@
 - Output: investors/025-john-neff/mistakes-and-losses.md (~2,193 words, 16 sources)
 - Notes: Completed Neff mistakes/losses around 1971-1974 drawdown, 1980/1987 style-liquidity lags, early-1990s financial-intermediary concentration, Penn transition friction, and post-Neff Windsor transferability warning. Preserved caveats around missing Windsor annual reports, book page checks, and unverified stock-level loss/P&L.
 - Backlog added: None
+
+## 2026-06-28T09:30:44Z — T0199 — 025-john-neff — E-own-words — DONE
+- Output: investors/025-john-neff/in-their-own-words.md (~1,900 words, 16 sources)
+- Notes: Stale closeout/QA of already-present quote file; verified required quote themes, annotated source index, attribution watchlist, and short source-visible snippets from CFA Institute, Penn Gazette, Washington Post, and Motley Fool. Preserved caveats around page-level book verification and unrecovered Barron's/Kiplinger's/Institutional Investor/NYT/AIMR originals.
+- Backlog added: None
