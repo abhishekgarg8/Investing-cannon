@@ -976,3 +976,8 @@
 - Output: investors/025-john-neff/in-their-own-words.md (~1,900 words, 16 sources)
 - Notes: Stale closeout/QA of already-present quote file; verified required quote themes, annotated source index, attribution watchlist, and short source-visible snippets from CFA Institute, Penn Gazette, Washington Post, and Motley Fool. Preserved caveats around page-level book verification and unrecovered Barron's/Kiplinger's/Institutional Investor/NYT/AIMR originals.
 - Backlog added: None
+
+## 2026-06-28T13:20:31Z — T0201 — 025-john-neff — G-mental-models — DONE
+- Output: investors/025-john-neff/mental-models.md (~1,918 words, 16 sources)
+- Notes: Completed/QA'd Neff mental-models around low-P/E plus business adequacy, total-return/P-E, new-low sourcing, sell-into-recognition, style-cycle endurance, and transferability. Preserved caveats around missing Windsor annual reports, page-level book verification, and security-level P&L.
+- Backlog added: None
