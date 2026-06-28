@@ -961,3 +961,8 @@
 - Output: investors/025-john-neff/profile.md (~1,997 words, 25 Task A source-map entries)
 - Notes: Stale retry closeout: verified the already-present profile and source map; spot-checked CFA Institute, Dignity Memorial, Penn Almanac, SEC Amkor proxy, Vanguard prospectus, UToledo, and Google Books support. Preserved caveats around rounded Windsor return math, 21-versus-23 outperformance years, missing primary annual reports/Gemini II reconstruction, and no source-backed personal enforcement found.
 - Backlog added: None
+
+## 2026-06-28T06:38:36Z — T0197 — 025-john-neff — C-greatest-trades — DONE
+- Output: investors/025-john-neff/greatest-trades.md (~3,671 words, 17 sources)
+- Notes: Stale closeout: verified the already-present greatest-trades file, Task C source map, and sample support from CFA Institute, DOE North Slope, Smithsonian TRS-80, Investment Masters/Ford, and HCA/NCBI sources. Preserved caveats around book-derived Ford/Newmont/Edison figures, missing Windsor annual reports, unknown position sizes, and unverified stock-level P&L.
+- Backlog added: None
