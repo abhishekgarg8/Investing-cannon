@@ -1010,3 +1010,8 @@
 - Output: investors/026-david-swensen/greatest-trades.md (~3,516 words, 20 sources)
 - Notes: Stale retry closeout: QA'd the already-present greatest-trades file, refreshed the As-of line, and added primary support from Cisco's Cerent acquisition notice plus Yale's FY2009 endowment-loss release. Preserved caveats around private-fund ledgers, undisclosed short/credit-trade P&L, and Cerent's Yale proceeds remaining single-source.
 - Backlog added: None
+
+## 2026-06-28T21:25:34Z — T0208 — 026-david-swensen — F-key-writings — DONE
+- Output: investors/026-david-swensen/key-writings.md (~2,882 words, 29 sources)
+- Notes: Completed Swensen key-writings guide covering Pioneering Portfolio Management, Unconventional Success, Open Yale/CFR/ProPublica/SEC materials, climate letters, Yale SOM legacy pages, and ranked works about him. Preserved caveats around page-level book verification, unrecovered 2014 climate letter, and no source-backed personal enforcement development.
+- Backlog added: None
