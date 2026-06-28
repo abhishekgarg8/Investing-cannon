@@ -1001,3 +1001,8 @@
 - Output: investors/026-david-swensen/investment-philosophy.md (~2,757 words, 20 sources)
 - Notes: Completed Swensen philosophy around mission-linked perpetual capital, equity orientation, diversification, manager-selection edge, rebalancing discipline, individual-investor passivity, climate-risk integration, and post-2008 liquidity/fee/crowding critiques. No source-backed personal enforcement issue found; tensions remain Yale-level around private-equity liquidity, endowment tax, divestment pressure, and model replication.
 - Backlog added: None
+
+## 2026-06-28T17:27:38Z — T0206 — 026-david-swensen — D-mistakes — DONE
+- Output: investors/026-david-swensen/mistakes-and-losses.md (~2,793 words, 18 sources)
+- Notes: Completed Swensen mistakes/losses around the FY2009 endowment drawdown, illiquidity/private-equity liquidity pressure, Yale Model replication risk, post-GFC fee/crowding critiques, and climate/divestment/public-accountability tensions. No source-backed personal enforcement action surfaced; current legal/policy developments remain Yale-level.
+- Backlog added: None
