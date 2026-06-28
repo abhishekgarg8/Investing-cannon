@@ -207,7 +207,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [~] claimed:2026-06-28T10:18:18Z T0200 | 025-john-neff | F-key-writings | investors/025-john-neff/key-writings.md
 - [x] done:2026-06-28T13:20:31Z T0201 | 025-john-neff | G-mental-models | investors/025-john-neff/mental-models.md
 - [x] done:2026-06-28T13:25:40Z T0202 | 025-john-neff | H-synthesis | investors/025-john-neff/synthesis.md
-- [~] claimed:2026-06-28T13:20:57Z T0203 | 026-david-swensen | A-profile | investors/026-david-swensen/profile.md
+- [x] done:2026-06-28T13:31:11Z T0203 | 026-david-swensen | A-profile | investors/026-david-swensen/profile.md
 - [ ] T0204 | 026-david-swensen | B-philosophy | investors/026-david-swensen/investment-philosophy.md
 - [ ] T0205 | 026-david-swensen | C-greatest-trades | investors/026-david-swensen/greatest-trades.md
 - [ ] T0206 | 026-david-swensen | D-mistakes | investors/026-david-swensen/mistakes-and-losses.md
