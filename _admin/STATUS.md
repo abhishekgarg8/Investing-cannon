@@ -1,3 +1,3 @@
 Tasks done: 202/812
-Current investor: 025-john-neff
+Current investor: 026-david-swensen
 Projected finish date: 2026-07-23
