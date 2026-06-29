@@ -1,0 +1,41 @@
+{
+  "name": "v0-project",
+  "version": "1.0.0",
+  "description": "An agent-built repository of learnings from the 100 greatest public-markets investors, living and dead. - One research task is executed per hourly run. Queue: `_admin/TODO.md`. History: `_admin/LOG.md`. Standards: `_admin/RESEARCH_SPEC.md`. Procedure: `_admin/HOURLY_RUNBOOK.md`. - Each investor gets a folder under `investors/` with 8 standard documents (see spec). - Cross-investor insights accumulate in `synthesis/`. Master directory: `INDEX.md`.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekgarg8/Investing-cannon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekgarg8/Investing-cannon/issues"
+  },
+  "homepage": "https://github.com/abhishekgarg8/Investing-cannon#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.1",
+    "autoprefixer": "^10.5.2",
+    "gray-matter": "^4.0.3",
+    "next": "^16.2.9",
+    "postcss": "^8.5.16",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "rehype": "^13.0.2",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "tailwindcss": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "26.0.1",
+    "@types/react": "19.2.17",
+    "typescript": "6.0.3"
+  }
+}
