@@ -226,7 +226,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-29T08:25:25Z T0219 | 028-jim-rogers | A-profile | investors/028-jim-rogers/profile.md
 - [x] done:2026-06-29T09:24:42Z T0220 | 028-jim-rogers | B-philosophy | investors/028-jim-rogers/investment-philosophy.md
 - [x] done:2026-06-29T10:40:30Z T0221 | 028-jim-rogers | C-greatest-trades | investors/028-jim-rogers/greatest-trades.md
-- [ ] T0222 | 028-jim-rogers | D-mistakes | investors/028-jim-rogers/mistakes-and-losses.md
+- [~] claimed:2026-06-29T12:24:08Z T0222 | 028-jim-rogers | D-mistakes | investors/028-jim-rogers/mistakes-and-losses.md
 - [ ] T0223 | 028-jim-rogers | E-own-words | investors/028-jim-rogers/in-their-own-words.md
 - [ ] T0224 | 028-jim-rogers | F-key-writings | investors/028-jim-rogers/key-writings.md
 - [ ] T0225 | 028-jim-rogers | G-mental-models | investors/028-jim-rogers/mental-models.md
@@ -819,4 +819,5 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
+
 
