@@ -1035,3 +1035,8 @@
 - Output: investors/027-bill-gross/investment-philosophy.md (~2,692 words, 19 sources)
 - Notes: Completed Gross philosophy around total-return bond management, structural alpha, duration/curve/credit/volatility/mortgage premia, PIMCO's forum-driven process, risk controls, and post-2014 tensions. Task A profile/source map landed during this run; preserved it and appended Task B sources.
 - Backlog added: None
+
+## 2026-06-29T01:33:01Z — T0209 — 026-david-swensen — G-mental-models — DONE
+- Output: investors/026-david-swensen/mental-models.md (~2,738 words, 22 sources)
+- Notes: Stale retry closeout: verified the already-present mental-models file, Task G source map, required sections, and sample citations from Yale Investments, Open Yale, FY2025 Yale News, Institutional Investor, CFA Institute, SSRN, and Yale Alumni Magazine. Preserved caveats around private Yale ledgers, Cerent single-source payoff, post-2021 Yale-level liquidity/tax/divestment risks, and no source-backed personal enforcement issue.
+- Backlog added: None
