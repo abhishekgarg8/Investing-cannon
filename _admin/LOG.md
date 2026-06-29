@@ -1101,3 +1101,8 @@
 - Output: investors/028-jim-rogers/key-writings.md (~3,000 words, 18 sources)
 - Notes: Stale retry closeout: verified the already-present key-writings file, Task F source map, required sections, and spot-checked PRH Investment Biker, SEC RICI ETN, and official Rogers fraud-warning citations. Preserved caveats around publisher/bibliography evidence, page-level book verification, RICI product-risk boundaries, and social-media impersonation risk.
 - Backlog added: None
+
+## 2026-06-29T20:29:40Z — T0229 — 029-bruce-kovner — C-greatest-trades — DONE
+- Output: investors/029-bruce-kovner/greatest-trades.md (~2,854 words, 15 sources)
+- Notes: Closeout/QA of already-present Kovner greatest-trades file; verified required trade sections and spot-checked official bio, Caxton 20th anniversary speech, Three Crown/Justia, and Forbes mirror support. Preserved caveats around single-source ERM/1987 figures, founder-reported Caxton program returns, disputed Treasury litigation allegations, and repaired an accidental transient TODO truncation earlier in this run before closing.
+- Backlog added: None
