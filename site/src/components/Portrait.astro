@@ -1,0 +1,42 @@
+---
+// Renders a duotone investor portrait if site/public/portraits/<num>.<ext> exists,
+// otherwise an intentional placeholder (gradient + serif initials).
+interface Props { num: string; name: string; hasPortrait: boolean; }
+const { num, name, hasPortrait } = Astro.props;
+const initials = name
+  .split(' ')
+  .filter(Boolean)
+  .map((w) => w[0])
+  .slice(0, 2)
+  .join('')
+  .toUpperCase();
+---
+<div class="portrait">
+  {hasPortrait ? (
+    <img src={`/portraits/${num}.jpg`} alt={name} loading="lazy" />
+  ) : (
+    <div class="placeholder">
+      <span class="initials serif">{initials}</span>
+    </div>
+  )}
+  <div class="grain"></div>
+</div>
+
+<style>
+  .portrait { position: absolute; inset: 0; background: #2a2620; }
+  .portrait img {
+    width: 100%; height: 100%; object-fit: cover;
+    /* Duotone wash unifies mismatched source photos into the gallery palette. */
+    filter: grayscale(1) contrast(1.05) brightness(.92) sepia(.28) hue-rotate(-12deg);
+  }
+  .placeholder {
+    position: absolute; inset: 0;
+    background: linear-gradient(160deg, #6b6256, #23201a);
+    display: flex; align-items: center; justify-content: center;
+  }
+  .initials { font-weight: 600; font-size: 120px; color: #fff; opacity: .12; line-height: 1; }
+  .grain {
+    position: absolute; inset: 0; pointer-events: none;
+    background: radial-gradient(circle at 30% 18%, rgba(255,255,255,.06), transparent 42%);
+  }
+</style>

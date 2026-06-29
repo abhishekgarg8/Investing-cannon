@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import Card from '../components/Card.astro';
+import { getInvestors } from '../lib/content';
+
+const investors = getInvestors();
+const count = investors.length;
+---
+<Base title="The Investing Canon">
+  <section class="hero wrap">
+    <h1 class="serif">The Investing Canon</h1>
+    <p>
+      Distilled learnings from the greatest public-markets investors, living and dead —
+      their philosophy, greatest trades, mistakes, and mental models, drawn from primary sources.
+    </p>
+    <div class="meta mono">{count} investors &middot; nine studies each</div>
+  </section>
+
+  <section class="grid wrap">
+    {investors.map((investor) => <Card investor={investor} />)}
+  </section>
+</Base>
+
+<style>
+  .hero { padding: 36px 28px 44px; }
+  .hero h1 { font-weight: 500; font-size: clamp(34px, 6vw, 56px); letter-spacing: -1px; line-height: 1.02; }
+  .hero p { color: var(--muted); font-size: clamp(15px, 2.2vw, 18px); max-width: 640px; margin-top: 16px; line-height: 1.5; }
+  .hero .meta { margin-top: 18px; font-size: 12px; letter-spacing: 1px; color: var(--muted-2); text-transform: uppercase; }
+
+  .grid {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px;
+    padding-bottom: 20px;
+  }
+  @media (max-width: 1080px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 760px)  { .grid { grid-template-columns: repeat(2, 1fr); gap: 18px; } }
+  @media (max-width: 460px)  { .grid { grid-template-columns: 1fr; } }
+</style>

@@ -1,0 +1,38 @@
+---
+import '../styles/global.css';
+interface Props { title: string; description?: string; }
+const { title, description = 'Learnings from the greatest public-markets investors.' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  <header class="site-head">
+    <a class="brand" href="/">The Investing Canon<span class="dot">.</span></a>
+    <nav>
+      <a href="/">Investors</a>
+      <a href="https://github.com/abhishekgarg8/investing-cannon" target="_blank" rel="noopener">Source</a>
+    </nav>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site-foot">
+    <span>The Investing Canon — an agent-built study of the greatest investors.</span>
+    <span class="mono">Built from markdown · {new Date().getFullYear()}</span>
+  </footer>
+</body>
+</html>
