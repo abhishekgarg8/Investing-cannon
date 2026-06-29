@@ -80,4 +80,34 @@ As of 2026-06-28T23:29:56Z. Task A source map for `investors/027-bill-gross/prof
 
 - Security-level P&L for Gross-era positions remains largely unavailable from public sources; this task uses portfolio returns, redemptions, regulatory findings, and contemporaneous reporting instead of unsupported trade-level loss estimates.
 - No source reviewed this run showed an SEC charge against Gross individually; the BOND ETF enforcement record is a PIMCO order tied to a Gross-managed product and disclosed accordingly.
-- The D file was written while T0213 greatest-trades remained a fresh claim, so it does not rely on a completed Gross trade file.
+- The D file was written while T0213 greatest-trades remained a fresh claim, so it does not rely on a completed Gross trade file during ORIENT.
+
+## Task E - Own Words Source Map
+
+1. [Bill Gross, "Consistent Alpha Generation through Structure" (2005)](https://williamhgross.com/consistent-alpha-generation-through-structure/) - Primary source for structural alpha language, including duration, curve, credit, volatility, and persistent portfolio tilts.
+2. [Barry Ritholtz, "Transcript: Bill Gross" (2022)](https://ritholtz.com/2022/04/transcript-bill-gross/) - Full transcript source for Gross on PIMCO's innovation, secular forecasting, and three-to-five-year horizon.
+3. [Bill Gross, "50 Basis Deposit/No Return" (2022)](https://williamhgross.com/50-basis-deposit-no-return/) - Primary source for Gross's late-career critique of total-return bond funds and capital-preservation claims.
+4. [Bill Gross, "They Just Wanna Sell You a Bond Fund" (2024)](https://williamhgross.com/they-just-wanna-sell-you-a-bond-fund/) - Primary source for the "Total Return is dead" formulation and 2024 Treasury-supply warning.
+5. [Bill Gross, "Credit Supernova! (Redux)" (2024)](https://williamhgross.com/credit-supernova-redux/) - Primary source for Gross's credit-system metaphor, duration advice, and risk/return trigger language.
+6. [Bill Gross, "Fundamentally Speaking" (2024)](https://williamhgross.com/fundamentally-speaking/) - Primary source for finance-based-market framing and caution around fundamentals, debt, climate, and geopolitics.
+7. [Bill Gross, "The real bond kings and queens sit on the Federal Reserve throne" (2021)](https://williamhgross.com/the-real-bond-kings-and-queens-sit-on-the-federal-reserve-throne/) - Primary source for Gross's central-bank-dominance view and cash-haven warning.
+8. [Bill Gross, "Game(Stop), Set, Match" (2021)](https://williamhgross.com/bill-gross-releases-investment-outlook-gamestop-set-match/) - Primary source for Gross's meme-stock comments, Main Street sympathy, and regulatory-warning language.
+9. [Bill Gross, "Lessons from my investing career" (2025)](https://williamhgross.com/lessons-from-my-investing-career/) - Primary career-retrospective source for leverage, time, Buffett's architecture, social responsibility, and market psychology.
+10. [Bill Gross Investment Outlook archive](https://williamhgross.com/investment-outlook-archive/) - Primary archive map and Gross's own description of the Outlook corpus as autobiographical.
+11. [Giving Pledge - William Gross](https://www.givingpledge.org/pledger/william-gross/) - Primary first-person pledge letter; useful for philanthropic intent and estate-pledge language.
+12. [Bill Gross official Investment Outlook, "America's Hegemonic Glory is Under Threat" (2026)](https://williamhgross.com/under-threat/) - Current first-party source showing Gross alive, publishing, and focused on U.S. fiscal/geopolitical risk as of 2026.
+13. [Bill Gross official site - home](https://williamhgross.com/) - Current first-party site for book/archive positioning and self-description of Outlook tone.
+14. [Bill Gross/PIMCO, "Mea Culpa" PDF copy (2011)](https://mahonypartners.files.wordpress.com/2011/10/pimco-mea-culpa.pdf) - Best recovered copy of Gross's own 2011 Treasury-mistake language; original PIMCO host not found during this run.
+15. [Financial Advisor/Bloomberg, "Gross Admits Underestimating Slowdown, Calls 2011 A Stinker" (2011)](https://www.fa-mag.com/news/gross-admits-underestimating-slowdown-calls-2011-a-stinker-8646.html) - Secondary carrier for contemporaneous Bloomberg-reported "stinker" language from the Mea Culpa period.
+16. [Chief Investment Officer, "PIMCO's Gross: I Made a Mistake" (2011)](https://www.ai-cio.com/news/pimco39s-gross-i-made-a-mistake/) - Contemporary secondary source for Gross's public acknowledgement and "lost sleep" framing.
+17. [InvestmentNews, "Bill Gross: I bungled 'short of a lifetime' trade on German bund" (2015)](https://www.investmentnews.com/fixed-income/bill-gross-i-bungled-short-of-a-lifetime-trade-on-german-bund/62600) - Secondary carrier of Gross's Janus-era German bund implementation caveat.
+18. [Chief Investment Officer/Bloomberg, "Bill Gross Says He Has Asperger's" (2019)](https://www.ai-cio.com/news/bill-gross-says-aspergers-adopts-liberal-economics-line/) - Secondary carrier of Bloomberg interview language on temperament, focus, and interpersonal costs.
+19. [Vanity Fair/Bloomberg digest of Gross retirement interview (2019)](https://www.vanityfair.com/news/2019/02/kevin-hassett-says-democrats-are-economically-illiterate) - Secondary carrier for Gross's Janus performance self-assessment and constrained-versus-unconstrained lesson.
+20. [Bill Gross, "Winning" (2022)](https://williamhgross.com/winning/) - Primary personal essay tying early leverage mistakes to later volatility-selling and defensive positioning.
+
+### Task E limitations
+
+- Direct quote snippets were kept short by design; this file is an attribution map, not a republication of Gross's Outlooks or interviews.
+- Several older PIMCO-era originals are no longer cleanly available from PIMCO/Gross; secondary carriers are labeled and should be upgraded if original letters or transcripts surface.
+- Quote-aggregation websites were intentionally excluded because they did not provide reliable provenance.
+- Bloomberg/CNBC television wording remains transcript-limited; full transcripts should replace secondary article carriers if available in later tasks.
