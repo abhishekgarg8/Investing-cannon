@@ -1,6 +1,6 @@
 # Bill Gross - In Their Own Words
 
-As of 2026-06-29T02:49:44Z.
+As of 2026-06-29T06:24:42Z.
 
 This file collects source-visible Bill Gross wording that is useful for understanding how he describes his own edge, risk discipline, macro framework, mistakes, and post-PIMCO identity. Direct quotations are deliberately short. Where an older PIMCO-era original was not cleanly recoverable on Gross's current site, the carrier is labeled as a secondary source rather than treated as an original archive.
 
