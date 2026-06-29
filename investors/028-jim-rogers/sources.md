@@ -157,6 +157,25 @@
 24. [Yale News - "Investor, author, adventurer Jim Rogers '64 to speak at Yale"](https://news.yale.edu/2012/05/08/investor-author-adventurer-jim-rogers-64-speak-yale) - Institutional source for Quantum co-founding, 4,200% claim, and retirement-at-37 framing; used with caveats around missing audited ledger.
 25. [Beeland Interests home / Jim Rogers bio](https://www.beelandinterests.com/) - Official/affiliated source for RICI sponsorship, Rogers biography, and the repeated Quantum claim; used with attribution caveats.
 
+
+## Task H source map - synthesis (2026-06-29)
+
+1. [JimRogers.com - 29 June 2026 WhatsApp fraud warning](https://www.jimrogers.com/whatsapp-investor-group-fraud-warning/) - Same-day official authentication/current-status source; used for legal/fraud perimeter and source-provenance warning.
+2. [Yale News - "Investor, author, adventurer Jim Rogers '64 to speak at Yale"](https://news.yale.edu/2012/05/08/investor-author-adventurer-jim-rogers-64-speak-yale) - Institutional source for Yale/Oxford background, Quantum co-founding, 4,200% portfolio claim, retirement-at-37 line, and travel/book chronology.
+3. [Beeland Interests home / Jim Rogers bio](https://www.beelandinterests.com/) - Official/affiliated source for Quantum claim, RICI sponsorship, Columbia/media roles, and field-research/travel biography; used with attribution caveats.
+4. [JimRogers.com - More about Jim](https://www.jimrogers.com/contact-morejim/) - Official source for travel as direct investment research and Investment Biker fieldwork framing.
+5. [Penguin Random House - Street Smarts](https://www.penguinrandomhouse.com/books/217292/street-smarts-by-jim-rogers/) - Publisher source for late memoir scope and author biography.
+6. [RICI Handbook, January 28, 2026 PDF](https://www.beelandinterests.com/wp-content/uploads/2024/02/RICI-Handbook_JAN.28.2026.pdf) - Current primary RICI methodology source: 38 futures contracts, weighting, governance, committee process, Rogers final-arbiter role, and no-performance-guarantee language.
+7. [SEC FWP - RICI Total Return ELEMENTS ETNs, 2007](https://www.sec.gov/Archives/edgar/data/352960/000110465907073158/a07-24898_5fwp.htm) - Primary product filing for RJI ETN structure, 36-contract 2007 index, launch history, annual investor fee, no principal protection, issuer risk, and Rogers committee control.
+8. [SEC S-1/A - Rogers International Raw Materials Fund, 2010](https://www.sec.gov/Archives/edgar/data/1118384/000119312510213098/ds1a.htm) - Primary wrapper-risk and drawdown source for RICI fund economics, 2008 loss, peak-to-valley drawdown, Refco exposure, litigation, fees, conflicts, and disclaimers.
+9. [Illinois Appellate Court opinion, 2014 IL App (1st) 13-3952](https://www.illinoiscourts.gov/files/1133952_R23.pdf/opinion) - Court record for Beeland minority-member/refco-related legal history and governance caveats.
+10. [Jack Schwager, Market Wizards PDF mirror](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Practitioner interview source for patience, catalyst discipline, Memorex shorting lesson, German equities, and Rogers's low-activity style; page-check against authorized edition remains ideal.
+11. [CFA Institute - "Jim Rogers: Bullish on China, Commodities, and Agriculture"](https://blogs.cfainstitute.org/blog/2011/05/12/jim-rogers-bullish-on-china-commodities-and-agriculture/) - Professional conference write-up for commodity supply-demand, China, agriculture, water, and hard-asset worldview.
+12. [Wealthion - "Jim Rogers: I sold almost all my stocks"](https://wealthion.com/news/jim-rogers-i-sold-almost-all-my-stocks-ive-seen-this-party-before) - Current 2025 transcript/article for sold-U.S.-stocks posture, cash/gold/silver, China, Uzbekistan, tariffs, and timing-risk framing.
+13. [Anadolu Agency - 2026 Jim Rogers interview](https://www.aa.com.tr/en/economy/american-investor-jim-rogers-warns-of-major-correction-in-us-global-markets/3792180) - Current 2026 interview for major-correction warning, sold-U.S.-stocks statement, and remaining China/Uzbekistan/silver/cash exposure.
+14. [Gorton and Rouwenhorst - Facts and Fantasies about Commodity Futures, NBER WP 10595](https://www.nber.org/system/files/working_papers/w10595/w10595.pdf) - Independent academic context for commodity futures mechanics and asset-class properties; used as context, not proof of Rogers's timing.
+15. [SEC/Waton 424B4 prospectus, 2025](https://www.sec.gov/Archives/edgar/data/1987363/000114036125011710/ny20017183x17_424b4.htm) - Primary current-public-company context for Rogers's 2025 Waton director/senior-adviser role and surrounding risk disclosures.
+
 ## Search log and gaps
 
 - Search themes run: official biography and books; Quantum Fund return claims; RICI and Beeland methodology; RICI SEC filings and product wrappers; Rogers commodity, China, agriculture, cash, currency, and debt interviews; current 2025-2026 interviews; criticism/underperformance/timing; Refco/Beeland litigation; SEC/CFTC/lawsuit/enforcement checks; fraud/impersonation warnings.
