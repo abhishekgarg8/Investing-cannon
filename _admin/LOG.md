@@ -1111,3 +1111,8 @@
 - Output: investors/029-bruce-kovner/profile.md (~1,932 words, 20 sources)
 - Notes: Stale retry closeout: verified the already-present profile and Task A source map; spot-checked official biography, Caxton 20th anniversary speech, Three Crown/Justia, and 2026 SEC ownership filing. Preserved caveats around founder-reported Caxton returns, private ledgers, Treasury-note litigation allegations, political/philanthropic criticism, and unreconstructed exact birth date.
 - Backlog added: None
+
+## 2026-06-29T23:19:09Z — T0228 — 029-bruce-kovner — B-philosophy — DONE
+- Output: investors/029-bruce-kovner/investment-philosophy.md (~2,400 words, 24 sources)
+- Notes: Stale retry closeout: verified the already-present philosophy file, Task B source map, required sections, and sampled support from BruceKovner.com, the Caxton 20th anniversary speech, Justia, CAM Capital, SEC, and AI-CIO. Preserved caveats around founder-reported Caxton returns, Market Wizards excerpt carriers, Three Crown allegations, political/philanthropic criticism, and transferability limits.
+- Backlog added: None
