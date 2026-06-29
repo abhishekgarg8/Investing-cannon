@@ -1055,3 +1055,8 @@
 - Output: investors/027-bill-gross/greatest-trades.md (~3,400 words, 17 sources)
 - Notes: Stale retry closeout: verified already-present Gross greatest-trades file, added missing Task C source map, and spot-checked FHFA/Gross/SEC support. Preserved caveats around portfolio-level P&L, secondary $1.7B GSE gain, Fortune single-source trade figures, and BOND ETF regulatory taint.
 - Backlog added: None
+
+## 2026-06-29T06:25:03Z — T0215 — 027-bill-gross — E-own-words — DONE
+- Output: investors/027-bill-gross/in-their-own-words.md (~1,812 words, 20 sources)
+- Notes: Stale retry closeout: verified existing own-words file, Task E source map, quote-length limit, and sample support from Gross, Ritholtz, Giving Pledge, Janus/SEC, and current 2026 Outlook sources. Preserved caveats around older PIMCO originals, secondary carriers for Bloomberg/Janus wording, and transcript limits.
+- Backlog added: None
