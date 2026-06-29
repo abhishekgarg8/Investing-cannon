@@ -66,12 +66,30 @@
 21. [JimRogers.com - WhatsApp investor group fraud warning](https://www.jimrogers.com/whatsapp-investor-group-fraud-warning/) - Same-day current-status and fraud boundary source; confirms impersonation warning and supports not treating social-media groups as Rogers activity.
 22. [Illinois Appellate Court opinion, 2014 IL App (1st) 13-3952](https://www.illinoiscourts.gov/files/1133952_R23.pdf/opinion) - Legal context for Beeland/Refco-related minority-member litigation and settlement history, useful caveat for product-wrapper discussions.
 
+## Task D source map - mistakes and losses (2026-06-29)
+
+1. [Jack Schwager, *Market Wizards* PDF mirror](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Primary interview/book source for Rogers's early Memorex short wipeout, later process rules, Quantum-era style, and timing/staying-power lessons.
+2. [SEC S-1/A - Rogers International Raw Materials Fund, 2010](https://www.sec.gov/Archives/edgar/data/1118384/000119312510213098/ds1a.htm) - Primary filing for RICI fund drawdowns, 2008 return, Refco exposure, settlements, product risks, conflicts, and fiduciary/legal disclosures.
+3. [TheStreet - "Jim Rogers' Funds Jammed Up"](https://www.thestreet.com/investing/jim-rogers-funds-jammed-up-10248680) - Contemporaneous reporting on Refco asset freeze, 63% fund assets tied up, blocked redemptions, and unsecured-creditor exposure.
+4. [Yale64/Barron's mirror - "Fabled Jim Rogers has the Last Laugh"](https://www.yale64.org/news/rogers2.htm) - Secondary long-form context for Beeland/Refco excess-margin issue and approximate $370 million trapped-assets framing.
+5. [Wall Street Journal - "Celebrity Investor Jim Rogers Is Sued Over Refco"](https://www.wsj.com/articles/DJFDBR0020080618e21500017) - Paywalled but opened source for reported limited-partner suit over hundreds of millions transferred to Refco Capital Markets; used only as legal-history lead.
+6. [Illinois Appellate Court opinion, 2014 IL App (1st) 13-3952](https://www.illinoiscourts.gov/files/1133952_R23.pdf/opinion) - Court record for Beeland minority-member litigation, allegations involving Rogers/Refco, partial dismissals, and July 2011 settlement/dismissal with prejudice.
+7. [Beeland Interests - Legal Notices](https://www.beelandinterests.com/legal-notices/) - Current official legal/disclaimer source for Beeland control, index data liability limits, absence of investment advice, and product-result disclaimers.
+8. [Market Access - RICI ETF spotlight](https://www.marketaccessetf.com/Spotlight/RICI?cc=gb&clientType=0) - Current product source for RICI ETF structure and 38-commodity futures exposure; used to show ongoing broad beta rather than drawdown-free hedge.
+9. [The Guardian - February 2018 markets live blog](https://www.theguardian.com/business/live/2018/feb/08/markets-fall-back-ftse-dow-jones-bank-of-england-interest-rate-decision-business) - Contemporaneous source for Rogers's severe bear-market warning during a sharp but temporary market selloff.
+10. [Business Insider - 2019 crash-preparation interview](https://www.businessinsider.com/investing-advice-how-to-prepare-for-market-crash-jim-rogers-2019-10) - Secondary interview source for late-cycle "worst crash" positioning and Quantum return framing.
+11. [Wealthion - "Jim Rogers: I sold almost all my stocks"](https://wealthion.com/news/jim-rogers-i-sold-almost-all-my-stocks-ive-seen-this-party-before) - 2025 transcript/article for cash-heavy posture, sold-U.S.-stocks framing, missed India move, and current holdings.
+12. [Anadolu Agency - 2026 Jim Rogers interview](https://www.aa.com.tr/en/economy/american-investor-jim-rogers-warns-of-major-correction-in-us-global-markets/3792180) - Current source for 2026 big-correction warning, sold-U.S.-stocks statement, and stated remaining holdings.
+13. [JimRogers.com - 29 June 2026 WhatsApp fraud warning](https://www.jimrogers.com/whatsapp-investor-group-fraud-warning/) - Official current-status and fraud-boundary source; used to flag impersonation/social-media quote risk.
+
 ## Search log and gaps
 
 - Search themes run: official biography and books; Quantum Fund return claims; RICI and Beeland methodology; RICI SEC filings and product wrappers; Rogers commodity, China, agriculture, cash, currency, and debt interviews; current 2025-2026 interviews; criticism/underperformance/timing; Refco/Beeland litigation; SEC/CFTC/lawsuit/enforcement checks; fraud/impersonation warnings.
 - Task C incremental searches: Rogers greatest trades; Quantum/Soros specific trades; German 1982 equities; Japanese bubble shorts; China B-shares/1999 entry; RICI launch/performance; RICI Raw Materials Fund drawdowns; Citi/Fannie/financial shorts; Barron's/Time/secondary crisis references; FHFA conservatorship; commodity/agriculture thesis; current legal/fraud checks.
+- Task D incremental searches: Jim Rogers mistakes/losses; Refco/Beeland litigation and asset freeze; Rogers International Raw Materials Fund drawdowns; public bear-market/crash-timing criticism; current official fraud warning; SEC/CFTC enforcement checks; RICI product/disclaimer sources.
 - No audited Quantum Fund letters, Rogers-tenure ledgers, or position-level P&L schedules were found in this run.
 - No primary account statement was found for the Citi/Fannie short exits; the Citi target/exit claim remains single-source via Tavakoli.
 - No complete private portfolio record was found for China equities, Japanese shorts, German stocks, or agriculture exposure; those sections are therefore process/evidence studies rather than audited P&L reconstructions.
 - No current personal SEC/CFTC enforcement action against Rogers surfaced; legal context remains Refco/Beeland product litigation plus current impersonation-fraud warnings.
+- No first-person Rogers post-mortem on Refco was found; Task D therefore relies on SEC filings, court records, and contemporaneous press for that episode.
 - Forums, quote aggregators, social-media clips, and AI-generated summaries were treated as leads only and not cited.
