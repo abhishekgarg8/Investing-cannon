@@ -1086,3 +1086,8 @@
 - Output: investors/028-jim-rogers/mistakes-and-losses.md (~2995 words, 13 sources)
 - Notes: Stale-style closeout/QA of already-present mistakes/losses file; spot-checked SEC S-1/A, Illinois appellate, official JimRogers.com fraud warning, and Wealthion citations. Preserved caveats around missing Quantum/private ledgers, Refco/Beeland litigation, RICI drawdowns, and public crash-timing opportunity cost.
 - Backlog added: None
+
+## 2026-06-29T16:32:27Z — T0225 — 028-jim-rogers — G-mental-models — DONE
+- Output: investors/028-jim-rogers/mental-models.md (~2,333 words, 25 sources)
+- Notes: Race/closeout: a complete T0225 output was already present on main, so this run QAed it, appended the Task G source map, and closed TODO/STATUS/LOG without overwriting the output. Preserved caveats around Quantum attribution, RICI/product-wrapper risk, Refco/Beeland litigation, current Waton status, and impersonation fraud warnings.
+- Backlog added: None
