@@ -231,7 +231,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-29T18:24:34Z T0224 | 028-jim-rogers | F-key-writings | investors/028-jim-rogers/key-writings.md
 - [x] done:2026-06-29T16:32:27Z T0225 | 028-jim-rogers | G-mental-models | investors/028-jim-rogers/mental-models.md
 - [x] done:2026-06-29T17:23:05Z T0226 | 028-jim-rogers | H-synthesis | investors/028-jim-rogers/synthesis.md
-- [~] claimed:2026-06-29T17:22:41Z T0227 | 029-bruce-kovner | A-profile | investors/029-bruce-kovner/profile.md
+- [x] done:2026-06-29T22:19:53Z T0227 | 029-bruce-kovner | A-profile | investors/029-bruce-kovner/profile.md
 - [~] claimed:2026-06-29T19:20:40Z T0228 | 029-bruce-kovner | B-philosophy | investors/029-bruce-kovner/investment-philosophy.md
 - [x] done:2026-06-29T20:29:40Z T0229 | 029-bruce-kovner | C-greatest-trades | investors/029-bruce-kovner/greatest-trades.md
 - [ ] T0230 | 029-bruce-kovner | D-mistakes | investors/029-bruce-kovner/mistakes-and-losses.md
