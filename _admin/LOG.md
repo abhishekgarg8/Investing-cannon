@@ -1091,3 +1091,8 @@
 - Output: investors/028-jim-rogers/mental-models.md (~2,333 words, 25 sources)
 - Notes: Race/closeout: a complete T0225 output was already present on main, so this run QAed it, appended the Task G source map, and closed TODO/STATUS/LOG without overwriting the output. Preserved caveats around Quantum attribution, RICI/product-wrapper risk, Refco/Beeland litigation, current Waton status, and impersonation fraud warnings.
 - Backlog added: None
+
+## 2026-06-29T17:23:05Z — T0226 — 028-jim-rogers — H-synthesis — DONE
+- Output: investors/028-jim-rogers/synthesis.md (~2,017 words, 15 sources)
+- Notes: Completed Rogers synthesis and INDEX row around global macro, commodity-cycle edge, field research, and transferability limits. Preserved caveats around Quantum attribution, post-1980 private-ledger opacity, RICI/product-wrapper risk, Refco/Beeland litigation, timing risk, and T0224 remaining separately claimed.
+- Backlog added: None
