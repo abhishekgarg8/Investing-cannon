@@ -1,6 +1,6 @@
 # Bruce Kovner - Profile
 
-As of 2026-06-29T21:15:00Z, Bruce Kovner is living, retired from day-to-day leadership of Caxton Associates, and chairman of CAM Capital and the Kovner Foundation ([BruceKovner.com, 2026](https://www.brucekovner.com/); [Kovner Foundation, 2026](https://www.thekovnerfoundation.org/bruce-kovner-suzie-kovner)). This profile treats his public investing record as a three-part story: founder-era Caxton macro trading, post-2011 private capital at CAM, and a broader civic/philanthropic footprint that also drew political criticism.
+As of 2026-06-29T22:19:53Z, Bruce Kovner is living, retired from day-to-day leadership of Caxton Associates, and chairman of CAM Capital and the Kovner Foundation ([BruceKovner.com, 2026](https://www.brucekovner.com/); [Kovner Foundation, 2026](https://www.thekovnerfoundation.org/bruce-kovner-suzie-kovner)). This profile treats his public investing record as a three-part story: founder-era Caxton macro trading, post-2011 private capital at CAM, and a broader civic/philanthropic footprint that also drew political criticism.
 
 ## Snapshot
 
