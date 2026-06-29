@@ -1040,3 +1040,8 @@
 - Output: investors/026-david-swensen/mental-models.md (~2,738 words, 22 sources)
 - Notes: Stale retry closeout: verified the already-present mental-models file, Task G source map, required sections, and sample citations from Yale Investments, Open Yale, FY2025 Yale News, Institutional Investor, CFA Institute, SSRN, and Yale Alumni Magazine. Preserved caveats around private Yale ledgers, Cerent single-source payoff, post-2021 Yale-level liquidity/tax/divestment risks, and no source-backed personal enforcement issue.
 - Backlog added: None
+
+## 2026-06-29T03:28:07Z — T0216 — 027-bill-gross — F-key-writings — DONE
+- Output: investors/027-bill-gross/key-writings.md (~2,954 words, 28 sources)
+- Notes: Completed Gross key-writings map across books, Outlook anthologies, the structural-alpha essay, retirement-era essays, interviews, and ranked secondary works. Caveats logged for books available only through bibliographic/product records and for legal context limited to the PIMCO ETF order plus the settled Gross-PIMCO civil dispute.
+- Backlog added: None
