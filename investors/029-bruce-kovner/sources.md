@@ -27,9 +27,28 @@
 23. [SourceWatch profile](https://www.sourcewatch.org/index.php/Bruce_Kovner) - Advocacy/criticism source for political-donor and policy-network controversy; use cautiously and triangulate if the claim becomes central.
 24. [Forward, 2016 donor article](https://forward.com/fast-forward/342808/donald-trump-is-losing-jewish-donors-and-intellectuals-but-will-it-impact-h/) - Secondary source for Kovner's political donor visibility and anti-Trump stance; useful for separating policy analysis from political identity.
 
+## Task C source map (created 2026-06-29)
+
+1. [Bruce Kovner official biography](https://www.brucekovner.com/) - First-party support for current status, Caxton founding, 1983-2011 CEO tenure, $12 billion AUM claim, average net annual return claim, and post-Caxton CAM Capital role.
+2. [Caxton 20th Anniversary speech](https://www.brucekovner.com/Caxton20thAnniversary.html) - Core first-party evidence for first-decade Caxton profits/returns, 1994 loss and 60% capital return, 1995-2003 rebuild, risk-budget allocation, and Kovner's declining personal trading share.
+3. [Jack Schwager, Market Wizards PDF](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Main interview source for the 1987 profit claim, October 1987 risk-control episode, early soybean trade, leverage lessons, and currency-trading process.
+4. [Compliance Alert mirror of Forbes 1992 Black Wednesday article](https://calert.info/details.php?id=699) - Secondary/mirror source for Caxton's estimated $300 million ERM/Black Wednesday gain; figure retained as single-source.
+5. [Three Crown Ltd. Partnership v. Caxton Corp., 817 F. Supp. 1033](https://law.justia.com/cases/federal/district-courts/FSupp/817/1033/1459410/) - Primary legal record for 1991 Treasury-note squeeze allegations, alleged position sizes, and motion-to-dismiss posture; used only with legal-allegation caveats.
+6. [Caxton Associates official website](https://www.caxton.com/) - Current firm source for the global macro scope and cross-asset liquid-market process used to frame Caxton's strategy, while avoiding post-Kovner over-attribution.
+7. [AI-CIO, "Caxton Founders Retire, Tap CIO as Successor"](https://www.ai-cio.com/news/caxton-founders-retire-tap-cio-as-successor/) - Secondary source for Kovner's 2011 retirement/succession context and separation between founder-era and Andrew Law-era attribution.
+8. [Institutional Investor, "Caxton Makes Money In May"](https://www.institutionalinvestor.com/article/2btgf1lltec4oskwrwoow/portfolio/caxton-makes-money-in-may) - Secondary source for later Caxton risk-culture context under Law, used cautiously for platform continuity rather than Kovner-personal trade P&L.
+9. [Business Insider / Mercenary Trader, "Trading Wisdom From Retiring Legend Bruce Kovner"](https://www.businessinsider.com/wisdom-from-kovner-2011-9) - Excerpt carrier for Schwager-derived early-trading and risk-control material; used as secondary support, not primary quote authority.
+10. [SEC Schedule 13G, Butler International / Caxton](https://www.sec.gov/Archives/edgar/data/786765/000087257302000005/butler13g021102.txt) - Primary filing support for Caxton/Kovner reporting structure and later public-equity ownership caution.
+11. [SEC/issuer-hosted SCYNEXIS Schedule 13G/A](https://ir.scynexis.com/sec-filings/all-sec-filings/content/0000919574-22-001583/p9177207_13g-a.htm) - Primary filing used to exclude or caveat post-Caxton public-equity holdings as incomplete trade evidence.
+12. [Longevity Health 2026 424B3](https://www.sec.gov/Archives/edgar/data/1620463/000119312526138620/lona_424b3_pipe.htm) - Current primary filing confirming CDK/Third Street/Kovner control context for post-Caxton holdings, not treated as a greatest-trade record.
+13. [Institute for Advanced Study press release](https://www.ias.edu/press-releases/bruce-kovner-appointed-board-institute-advanced-study) - Institutional biography triangulating Kovner's Commodities Corporation background and cross-asset hedge-fund activity.
+14. [CAM Capital About](https://www.camcapital.com/about.html) - First-party context for post-2011 private-office structure and why later CAM/CDK trades are not automatically Caxton/Kovner hedge-fund trades.
+15. [CAM Capital FAQ](https://www.camcapital.com/faq.html) - First-party context on CAM's independence from Caxton, asset sources, and investment discretion.
+
 ## Open questions for later tasks
 
 - Reconstruct a public, year-by-year Caxton return series from investor letters, databases, or contemporaneous press rather than relying on firm/founder-reported averages.
 - Locate the original 2011 Kovner retirement letter rather than relying on Bloomberg/AI-CIO quotations.
 - Page-check the full Market Wizards interview in a lawful copy for quote provenance before Task E.
 - Trace the final procedural history or settlement, if any, of the Three Crown / Treasury-note litigation beyond the 1993 motion decision.
+- Locate a licensed or library copy of the November 1992 Forbes Black Wednesday story for page-level verification of Caxton's reported $300 million gain.
