@@ -111,3 +111,40 @@ As of 2026-06-28T23:29:56Z. Task A source map for `investors/027-bill-gross/prof
 - Several older PIMCO-era originals are no longer cleanly available from PIMCO/Gross; secondary carriers are labeled and should be upgraded if original letters or transcripts surface.
 - Quote-aggregation websites were intentionally excluded because they did not provide reliable provenance.
 - Bloomberg/CNBC television wording remains transcript-limited; full transcripts should replace secondary article carriers if available in later tasks.
+
+## Task F - Key Writings Source Map
+
+1. [Bill Gross official site - home and books section](https://williamhgross.com/) - Primary current source for the 2024 books, "The King and I," "The Bond King's Greatest Hits," "I'm Still Standing," and Gross's current publishing status.
+2. [Bill Gross Investment Outlook Archive](https://williamhgross.com/investment-outlook-archive/) - Primary source for Gross's own framing of the Outlooks as a four-decade autobiographical and philosophical corpus.
+3. [Bill Gross/PR Newswire, "The King and I" announcement (2024)](https://www.prnewswire.com/news-releases/bill-gross-announces-new-book-the-king-and-i-46-years-of-investment-outlooks-musings-and-commonsensical-thoughts-from-bond-king-bill-gross-302150980.html) - Release source for the 1978-forward anthology scope, named favorite Outlooks, charity proceeds, and Buffett endorsement.
+4. [Gross, "Consistent Alpha Generation through Structure" (2005)](https://williamhgross.com/consistent-alpha-generation-through-structure/) - First-party republication of Gross's clearest structural-alpha essay.
+5. [SSRN, "Consistent Alpha Generation Through Structure" (2005)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=827404) - Bibliographic and abstract source for the FAJ publication details and core structural-alpha thesis.
+6. [Google Books, "Bill Gross on Investing" (1998)](https://books.google.com/books/about/Bill_Gross_on_Investing.html?id=cgQQddebU_oC) - Bibliographic source for the Wiley book, author, publisher, length, ISBN, and author blurb.
+7. [SEC PIMCO Funds registration statement (2003)](https://www.sec.gov/Archives/edgar/data/810893/000119312503035764/d485apos.htm) - Primary filing that identifies Gross as author of "Bill Gross on Investing" and documents PIMCO-era credentials.
+8. [Open Library, "Everything you've heard about investing is wrong!" (1997)](https://openlibrary.org/books/OL1010445M/Everything_you%27ve_heard_about_investing_is_wrong%21) - Bibliographic source for edition, publisher, pages, ISBN, and subject classification.
+9. [Barnes & Noble, "Everything You've Heard About Investing Is Wrong!" product page](https://www.barnesandnoble.com/w/everything-youve-heard-about-investing-is-wrong-william-h-gross/1122998925) - Bookseller/product source for current ebook availability and publisher description.
+10. [Better World Books, "Everything You've Heard About Investing Is Wrong!" product page](https://www.betterworldbooks.com/product/detail/everything-you-ve-heard-about-investing-is-wrong-how-to-profit-in-coming-post-bull-markets-9780812928396/ebook) - Bookseller/product source for publication date, publisher, ISBNs, and overview.
+11. [AbeBooks, "PIMCO 30 Years and Counting"](https://www.abebooks.com/PIMCO-Years-Counting-Select-Collection-Bill/31263025954/bd) - Bibliographic source for the PIMCO-published earlier Outlook anthology.
+12. [The Book Escape, "I'm Still Standing" product record](https://thebookescape.com/products/i-m-still-standing-bond-king-bill-gross-and-the-pimco-express) - Bibliographic source for Gross's 2022 memoir, publisher status, year, and ISBN.
+13. [Gross, "50 Basis Deposit/No Return" (2022)](https://williamhgross.com/50-basis-deposit-no-return/) - First-party retirement-era critique of total-return funds and duration/index-plus behavior.
+14. [Gross, "They Just Wanna Sell You a Bond Fund" (2024)](https://williamhgross.com/they-just-wanna-sell-you-a-bond-fund/) - First-party essay saying the total-return strategy was dead under the changed yield/supply setup.
+15. [Gross, "Credit Supernova! (Redux)" (2024)](https://williamhgross.com/credit-supernova-redux/) - First-party late-career credit-system model and duration/asset-allocation implications.
+16. [Gross, "Lessons from my investing career" (2025)](https://williamhgross.com/lessons-from-my-investing-career/) - First-party career retrospective on leverage, time, financial architecture, and social responsibility.
+17. [Gross, "America's Hegemonic Glory is Under Threat" (2026)](https://williamhgross.com/under-threat/) - Current first-party status and market-view source as of this run.
+18. [Ritholtz, "Transcript: Bill Gross" (2022)](https://ritholtz.com/2022/04/transcript-bill-gross/) - Long-form transcript source for PIMCO process, institutional bond-trading innovation, and memoir context.
+19. [Giving Pledge, William Gross letter (2020)](https://www.givingpledge.org/pledger/william-gross/) - First-person philanthropic letter, useful for later-life self-framing but not investment performance.
+20. [Gross Family Foundation page](https://williamhgross.com/gross-family-foundation/) - First-party foundation/current-status source; giving figures still need Form 990 verification.
+21. [Macmillan, Mary Childs, "The Bond King" (2022)](https://us.macmillan.com/books/9781250120854/thebondking/) - Publisher source for the leading book about Gross and PIMCO.
+22. [Fortune, "The bond king" (2002)](https://fortune.com/article/bill-gross-pimco-bond-king/) - Contemporary peak-era profile and original public "bond king" framing.
+23. [Dewey and Brown, "Bill Gross' Alpha: The King Versus the Oracle" (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345604) - Academic performance-attribution source for Gross's alpha versus factor exposure.
+24. [Mary Childs, "Was the Bond King Great?" (2022)](https://williamhgross.com/was-the-bond-king-great/) - Analytical secondary synthesis connecting Gross's structural-alpha claims to factor decomposition.
+25. [Internet Archive, Timothy Middleton, "Investment secrets from PIMCO's Bill Gross" (2004)](https://archive.org/details/investmentsecret0000midd) - Bibliographic source for a pre-collapse secondary book about Gross's method.
+26. [SEC, PIMCO Total Return ETF settlement release (2016)](https://www.sec.gov/newsroom/press-releases/2016-252) - Primary regulatory context to pair against Gross's writings on capital preservation and product clarity.
+27. [Courthouse News, "Founder Sues PIMCO for $200 Million" (2015)](https://www.courthousenews.com/founder-sues-pimco-for-200-million/) - Adversarial civil-dispute context for reading Gross's memoir and post-PIMCO narrative.
+28. [Reuters via ETF.com, "Gross Settles PIMCO Suit For $81 Million" (2017)](https://www.etf.com/sections/news/gross-settles-pimco-suit-81-million) - Settlement context for the post-PIMCO civil dispute and charity-proceeds claim.
+
+### Task F limitations
+
+- Several Gross-authored books were accessible only through bibliographic/product records during this run; future work should page-check physical copies, library scans, or publisher previews before quoting or listing exact chapter titles.
+- The official Gross website is first-party and curated; it is useful for primary writings but should be paired with Childs, Fortune, Dewey/Brown, SEC records, and litigation reporting.
+- No new source-backed personal enforcement matter surfaced during this Task F search. The material legal/regulatory context remains the PIMCO-level ETF order and the settled Gross-PIMCO civil dispute.
