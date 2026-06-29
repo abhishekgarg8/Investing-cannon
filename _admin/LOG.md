@@ -1050,3 +1050,8 @@
 - Output: investors/027-bill-gross/mental-models.md (~2,366 words, 18 sources)
 - Notes: Reconstructed Gross's fixed-income operating model around structural alpha, total-return decomposition, secular forums, factor/risk-budget sizing, public-fund wrapper limits, and transferability. Caveats preserved around missing T0213 greatest-trades, fresh T0216 key-writings, Dewey/Brown page-check needs, and PIMCO-level (not personal) ETF enforcement.
 - Backlog added: None
+
+## 2026-06-29T05:42:13Z — T0213 — 027-bill-gross — C-greatest-trades — DONE
+- Output: investors/027-bill-gross/greatest-trades.md (~3,400 words, 17 sources)
+- Notes: Stale retry closeout: verified already-present Gross greatest-trades file, added missing Task C source map, and spot-checked FHFA/Gross/SEC support. Preserved caveats around portfolio-level P&L, secondary $1.7B GSE gain, Fortune single-source trade figures, and BOND ETF regulatory taint.
+- Backlog added: None
