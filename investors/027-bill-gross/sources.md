@@ -175,3 +175,31 @@ As of 2026-06-28T23:29:56Z. Task A source map for `investors/027-bill-gross/prof
 - T0213 greatest-trades and T0216 key-writings were still fresh claims or absent on `main` during this run; the mental-models file should be refreshed if those tasks recover Gross trade ledgers, position-level P&L, or additional primary writings.
 - The Dewey/Brown factor-attribution paper should be page-checked directly in a later run; this task used its SSRN abstract plus the Childs/QuantPedia source chain.
 - No opened source showed an SEC charge against Gross individually; the ETF enforcement discussion is kept at the PIMCO/product level.
+
+## Task C - Greatest Trades Source Map
+
+1. [Barry Ritholtz, "Transcript: Bill Gross" (2022)](https://ritholtz.com/2022/04/transcript-bill-gross/) - Long-form interview source for Gross's account of pre-crisis mortgage fieldwork, avoiding subprime/high-yield exposure, agency-MBS thesis, Treasury-contact denial, and team attribution.
+2. [Bill Gross, "50 Basis Deposit/No Return" (2022)](https://williamhgross.com/50-basis-deposit-no-return/) - First-party retrospective source for total-return concept, 2007-2009 subprime avoidance, PIMCO asset growth after the crisis, and post-bond-bull-market caveats.
+3. [MarketWatch/Financial Times summary, "Pimco's Gross scoops up mortgage debt" (2008)](https://www.marketwatch.com/story/pimcos-gross-scoops-up-mortgage-debt-ft) - Contemporaneous secondary carrier for the reported tripling of mortgage-debt exposure to more than 60% of PIMCO Total Return, mainly agency debt.
+4. [Business Insider/Financial Times summary, "Pimco's Gross loads boat with mortgage debt" (2008)](https://www.businessinsider.com/2008/5/pimco-s-gross-loads-boat-with-mortgage-debt-says-treasuries-a-lay-up-short) - Alternate carrier of the same FT-reported agency mortgage build; useful corroboration for contemporaneous market framing but not independent of FT.
+5. [HousingWire/Telegraph summary, "We have a winner, and his name is Bill Gross" (2008)](https://www.housingwire.com/articles/we-have-winner-and-his-name-bill-gross/) - Secondary source for the reported 60% mortgage allocation, $132B fund size, and $1.7B one-day Fannie/Freddie takeover gain; original Telegraph report remains unrecovered.
+6. [FHFA, "History of Fannie Mae and Freddie Mac Conservatorships"](https://www.fhfa.gov/conservatorship/history) - Primary government source for the September 6, 2008 conservatorship, the deterioration in housing markets, and FHFA's conservator authority.
+7. [U.S. Treasury, senior preferred stock purchase agreement release/archive](https://home.treasury.gov/news/press-releases/sm1236) - Primary Treasury source for the financial-support commitments that kept each GSE net-worth positive.
+8. [Reuters Graphics, "Bill Gross/PIMCO Total Return" PDF (2012)](https://graphics.thomsonreuters.com/12/02/BillGross.pdf) - Data-rich secondary graphic for 2007 and 2008 fund returns, peer comparison, and 2008-2009 net inflows.
+9. [The Fiscal Times, "Bill Gross: Can Bond King Stop Bleeding?" (2013)](https://www.thefiscaltimes.com/Columns/2013/09/09/Bill-Gross-Can-Bond-King-Stop-Bleeding) - Secondary source for 2008 fund-return comparison, 2012 rebound, 2013 TIPS/emerging-market exposure, and taper-tantrum context.
+10. [Fortune, "The bond king" (2002)](https://fortune.com/article/bill-gross-pimco-bond-king/) - Contemporary profile with the most granular opened P&L map for the 2000-2002 recession/rate-cut complex, early active-bond returns, and emerging-market credit example.
+11. [Bill Gross, "Consistent Alpha Generation through Structure" (2005)](https://williamhgross.com/consistent-alpha-generation-through-structure/) - Primary essay for the structural-alpha framework used to interpret duration, curve, credit, and volatility trades.
+12. [Bill Gross, "They Just Wanna Sell You a Bond Fund" (2024)](https://williamhgross.com/they-just-wanna-sell-you-a-bond-fund/) - First-party late-career source for the high-yield/duration starting-point argument and the post-2021 critique of classic total-return bond funds.
+13. [SEC prospectus, PIMCO Total Return Exchange-Traded Fund (2011)](https://www.sec.gov/Archives/edgar/data/1450011/000119312511103136/d485apos.htm) - Primary fund-disclosure source for BOND's objective, Gross's manager role, permitted fixed-income instruments, and wrapper risks.
+14. [SEC administrative order, Pacific Investment Management Company LLC, IA-4577 (2016)](https://www.sec.gov/files/litigation/admin/2016/ia-4577.pdf) - Primary legal source for BOND ETF launch facts, $102M-to-$1.7B asset growth, 156 odd-lot NA MBS purchases totaling $37M, 43 valuation-problem positions, and early performance comparison.
+15. [SEC press release, "PIMCO Settles Charges of Misleading Investors About ETF Performance" (2016)](https://www.sec.gov/newsroom/press-releases/2016-252) - Primary enforcement summary for misleading performance-source disclosure, inaccurate valuation, compliance consultant, disgorgement/interest, and $18.3M penalty.
+16. [Financial Advisor/Bloomberg, "Bill Gross Sells GameStop, AMC Options to Cash In on Meme Mania" (2024)](https://www.fa-mag.com/news/bill-gross-sells-gamestop--amc-options-to-cash-in-on-meme-mania-78107.html) - Secondary source for the 2024 post-retirement GameStop/AMC short-straddle structures and explicit payoff ranges.
+17. [Bill Gross, "Winning" (2022)](https://williamhgross.com/winning/) - Primary personal essay for Gross's own framing of leverage, diversification, and small-size volatility selling.
+
+### Task C limitations
+
+- Most Gross-era trades remain portfolio-level fixed-income risk clusters, not single-ticket trades with audited security-level P&L.
+- The $1.7B Fannie/Freddie one-day gain is still secondary and should be upgraded by locating the original Telegraph report or by reconstructing from primary fund data.
+- Fortune's 2000-2002 trade P&L figures are the best opened granular figures but remain single-source and PIMCO-wide rather than audited security ledgers.
+- The 2012 BOND odd-lot trade is included as a cautionary trade because it produced early performance and asset gathering but later drew PIMCO-level SEC sanctions.
+- The 2024 meme-stock options trade is personal-capital/post-retirement and not comparable to the PIMCO public-fund record; final realized P&L was not recovered.
