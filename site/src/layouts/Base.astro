@@ -1,7 +1,11 @@
 ---
 import '../styles/global.css';
-interface Props { title: string; description?: string; }
-const { title, description = 'Learnings from the greatest public-markets investors.' } = Astro.props;
+interface Props { title: string; description?: string; showHeader?: boolean; }
+const {
+  title,
+  description = 'Learnings from the greatest public-markets investors.',
+  showHeader = true,
+} = Astro.props;
 ---
 <!doctype html>
 <html lang="en">
@@ -18,13 +22,14 @@ const { title, description = 'Learnings from the greatest public-markets investo
   />
 </head>
 <body>
-  <header class="site-head">
-    <a class="brand" href="/">The Investing Canon<span class="dot">.</span></a>
-    <nav>
-      <a href="/">Investors</a>
-      <a href="https://github.com/abhishekgarg8/investing-cannon" target="_blank" rel="noopener">Source</a>
-    </nav>
-  </header>
+  {showHeader && (
+    <header class="site-head">
+      <a class="brand" href="/">The Investing Canon<span class="dot">.</span></a>
+      <nav>
+        <a href="/">Investors</a>
+      </nav>
+    </header>
+  )}
 
   <main>
     <slot />
