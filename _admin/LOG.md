@@ -1096,3 +1096,8 @@
 - Output: investors/028-jim-rogers/synthesis.md (~2,017 words, 15 sources)
 - Notes: Completed Rogers synthesis and INDEX row around global macro, commodity-cycle edge, field research, and transferability limits. Preserved caveats around Quantum attribution, post-1980 private-ledger opacity, RICI/product-wrapper risk, Refco/Beeland litigation, timing risk, and T0224 remaining separately claimed.
 - Backlog added: None
+
+## 2026-06-29T18:24:34Z — T0224 — 028-jim-rogers — F-key-writings — DONE
+- Output: investors/028-jim-rogers/key-writings.md (~3,000 words, 18 sources)
+- Notes: Stale retry closeout: verified the already-present key-writings file, Task F source map, required sections, and spot-checked PRH Investment Biker, SEC RICI ETN, and official Rogers fraud-warning citations. Preserved caveats around publisher/bibliography evidence, page-level book verification, RICI product-risk boundaries, and social-media impersonation risk.
+- Backlog added: None
