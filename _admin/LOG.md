@@ -1060,3 +1060,8 @@
 - Output: investors/027-bill-gross/in-their-own-words.md (~1,812 words, 20 sources)
 - Notes: Stale retry closeout: verified existing own-words file, Task E source map, quote-length limit, and sample support from Gross, Ritholtz, Giving Pledge, Janus/SEC, and current 2026 Outlook sources. Preserved caveats around older PIMCO originals, secondary carriers for Bloomberg/Janus wording, and transcript limits.
 - Backlog added: None
+
+## 2026-06-29T07:21:12Z — T0218 — 027-bill-gross — H-synthesis — DONE
+- Output: investors/027-bill-gross/synthesis.md (~1,478 words, 18 sources)
+- Notes: Closed the already-present Gross synthesis after QA; refreshed the as-of line and appended the Task H source map. Preserved caveats around factor attribution, agency-MBS P&L, platform/team attribution, Janus portability, and PIMCO/product-level legal boundary.
+- Backlog added: None
