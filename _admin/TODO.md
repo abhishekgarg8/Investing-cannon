@@ -219,7 +219,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-28T23:32:44Z T0212 | 027-bill-gross | B-philosophy | investors/027-bill-gross/investment-philosophy.md
 - [x] done:2026-06-29T05:27:09Z T0213 | 027-bill-gross | C-greatest-trades | investors/027-bill-gross/greatest-trades.md
 - [x] done:2026-06-29T02:51:40Z T0214 | 027-bill-gross | D-mistakes | investors/027-bill-gross/mistakes-and-losses.md
-- [~] claimed:2026-06-29T02:33:55Z T0215 | 027-bill-gross | E-own-words | investors/027-bill-gross/in-their-own-words.md
+- [~] claimed:2026-06-29T06:21:17Z T0215 | 027-bill-gross | E-own-words | investors/027-bill-gross/in-their-own-words.md
 - [x] done:2026-06-29T03:28:07Z T0216 | 027-bill-gross | F-key-writings | investors/027-bill-gross/key-writings.md
 - [x] done:2026-06-29T03:39:20Z T0217 | 027-bill-gross | G-mental-models | investors/027-bill-gross/mental-models.md
 - [ ] T0218 | 027-bill-gross | H-synthesis | investors/027-bill-gross/synthesis.md
