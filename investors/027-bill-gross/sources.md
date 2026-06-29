@@ -80,7 +80,7 @@ As of 2026-06-28T23:29:56Z. Task A source map for `investors/027-bill-gross/prof
 
 - Security-level P&L for Gross-era positions remains largely unavailable from public sources; this task uses portfolio returns, redemptions, regulatory findings, and contemporaneous reporting instead of unsupported trade-level loss estimates.
 - No source reviewed this run showed an SEC charge against Gross individually; the BOND ETF enforcement record is a PIMCO order tied to a Gross-managed product and disclosed accordingly.
-- The D file was written while T0213 greatest-trades remained a fresh claim, so it does not rely on a completed Gross trade file during ORIENT.
+- The D file was written while T0213 greatest-trades remained a fresh claim, so it does not rely on a completed Gross trade file.
 
 ## Task E - Own Words Source Map
 
