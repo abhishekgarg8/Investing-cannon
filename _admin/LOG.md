@@ -1080,3 +1080,9 @@
 - Output: investors/028-jim-rogers/greatest-trades.md (~3,600 words, 22 sources)
 - Notes: Closed Rogers greatest-trades after QA of the main-branch output covering seven documented trade episodes: Quantum, RICI/commodities, China, German equities, financial shorts, Japanese shorts, and agriculture. Preserved caveats around missing audited Quantum/private ledgers, product-vs-personal return boundaries, single-source Citi exit details, and unreconstructed exact P&L/sizing.
 - Backlog added: None
+
+
+## 2026-06-29T12:24:50Z — T0222 — 028-jim-rogers — D-mistakes — DONE
+- Output: investors/028-jim-rogers/mistakes-and-losses.md (~2995 words, 13 sources)
+- Notes: Stale-style closeout/QA of already-present mistakes/losses file; spot-checked SEC S-1/A, Illinois appellate, official JimRogers.com fraud warning, and Wealthion citations. Preserved caveats around missing Quantum/private ledgers, Refco/Beeland litigation, RICI drawdowns, and public crash-timing opportunity cost.
+- Backlog added: None
