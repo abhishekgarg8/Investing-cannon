@@ -203,3 +203,30 @@ As of 2026-06-28T23:29:56Z. Task A source map for `investors/027-bill-gross/prof
 - Fortune's 2000-2002 trade P&L figures are the best opened granular figures but remain single-source and PIMCO-wide rather than audited security ledgers.
 - The 2012 BOND odd-lot trade is included as a cautionary trade because it produced early performance and asset gathering but later drew PIMCO-level SEC sanctions.
 - The 2024 meme-stock options trade is personal-capital/post-retirement and not comparable to the PIMCO public-fund record; final realized P&L was not recovered.
+
+## Task H - Synthesis Source Map
+
+1. [Bill Gross, "Consistent Alpha Generation through Structure" (2005)](https://williamhgross.com/consistent-alpha-generation-through-structure/) - Primary source for Gross's structural-alpha framework and duration/curve/credit/volatility levers.
+2. [PIMCO, "Our Investment Process" (2024)](https://www.pimco.com/us/en/about-us/our-process) - Official source for the forum-driven macro process, risk targets, asset-level research, behavioral science, risk management, quantitative rigor, and portfolio construction language.
+3. [Richard Dewey and Aaron Brown, "Bill Gross' Alpha: The King Versus the Oracle" (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345604) - Academic performance-attribution anchor for the alpha-versus-factor-exposure discussion.
+4. [QuantPedia, "An Analysis of PIMCO's Bill Gross Alpha" (2019)](https://quantpedia.com/an-analysis-of-pimcos-bill-gross-alpha/) - Accessible summary of Dewey/Brown's return, benchmark, factor variance, and alpha figures.
+5. [FHFA, "History of Fannie Mae and Freddie Mac Conservatorships"](https://www.fhfa.gov/conservatorship/history) - Primary government source for the September 2008 GSE conservatorship context behind the agency-MBS trade.
+6. [U.S. Treasury, senior preferred stock purchase agreement archive](https://home.treasury.gov/news/press-releases/sm1236) - Primary Treasury source for the GSE support commitments that protected agency claims.
+7. [Barry Ritholtz, "Transcript: Bill Gross" (2022)](https://ritholtz.com/2022/04/transcript-bill-gross/) - Long-form transcript source for Gross on PIMCO's secular horizon, specialist desks, and crisis-era mortgage work.
+8. [Bill Gross/PIMCO, "Mea Culpa" PDF copy (2011)](https://mahonypartners.files.wordpress.com/2011/10/pimco-mea-culpa.pdf) - Best recovered carrier for Gross's own 2011 Treasury-underweight postmortem.
+9. [InvestmentNews/Bloomberg, "Pimco Total Return suffers worst year for redemptions" (2015)](https://www.investmentnews.com/mutual-funds/pimco-total-return-suffers-worst-year-for-redemptions-with-gross-el-erian-departures/60353) - Source for Total Return peak AUM, year-end 2014 AUM, redemptions, and performance pressure.
+10. [Los Angeles Times, PIMCO fund/outflow reporting (2015)](https://www.latimes.com/business/la-fi-pimco-funds-20150107-story.html) - Secondary source for the post-Gross outflow and fund-franchise stress context.
+11. [SEC, "PIMCO Settles Charges of Misleading Investors About ETF Performance" (2016)](https://www.sec.gov/newsroom/press-releases/2016-252) - Primary regulatory summary for the BOND ETF odd-lot disclosure, valuation, and penalty findings.
+12. [SEC administrative order, Pacific Investment Management Company LLC, IA-4577 (2016)](https://www.sec.gov/files/litigation/admin/2016/ia-4577.pdf) - Primary legal source for detailed BOND ETF facts and remediation terms.
+13. [Janus Henderson, Gross retirement release (2019)](https://ir.janushenderson.com/News--Events/news/news-details/2019/Janus-Henderson-Announces-the-Retirement-of-William-H.-Gross/default.aspx) - Primary source for 2019 active-management retirement and Janus strategy performance caveats.
+14. [Bill Gross, "America's Hegemonic Glory is Under Threat" (2026)](https://williamhgross.com/under-threat/) - Current first-party source confirming Gross is alive and still publishing as a private investor/philanthropist as of this run.
+15. [Bill Gross, "50 Basis Deposit/No Return" (2022)](https://williamhgross.com/50-basis-deposit-no-return/) - First-party retrospective source for total-return bond-fund critique and defensive-label caveats.
+16. [Morningstar/PR Newswire, Fund Manager of the Decade announcement (2010)](https://www.prnewswire.com/news-releases/morningstar-names-bruce-berkowitz-david-herro-and-bill-gross-fund-managers-of-the-decade-81226247.html) - Secondary award source supporting the team/product-context framing of Gross's public record.
+17. [Morningstar Australia, "Retirement of bond king Gross leaves asterisk and towering legacy" (2019)](https://www.morningstar.com.au/funds/retirement-of-bond-king-gross-leaves-asterisk-and-towering-legacy) - Secondary source for portability caveats and Janus asset/performance context.
+18. [Mary Childs, "The Bond King" official page (2022)](https://www.marychilds.com/thebondking) - Major secondary work about Gross/PIMCO, used for key-person and public-persona framing.
+
+### Task H limitations
+
+- This was a closeout/QA run over an already-present synthesis draft; no new trade-level PIMCO ledger was recovered.
+- Dewey/Brown remains cited from its SSRN landing page plus accessible secondary summaries; the full paper still needs page-level verification.
+- The legal boundary remains PIMCO/product-level ETF enforcement and a settled civil dispute, not a source-backed personal SEC enforcement charge against Gross.
