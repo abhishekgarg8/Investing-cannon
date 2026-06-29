@@ -41,10 +41,37 @@
 17. [Market Access - RICI UCITS ETF product page](https://www.marketaccessetf.com/Products/MAETFsDetail?CC=gb&ISIN=LU0249326488&clientType=0) - 2026 product source for ETF structure, TER, AUM, since-launch performance, index facts, and swap/currency/counterparty risks.
 18. [Gorton and Rouwenhorst - Facts and Fantasies about Commodity Futures, NBER WP 10595](https://www.nber.org/system/files/working_papers/w10595/w10595.pdf) - Independent academic context for commodity futures as an asset class; used only as context, not as proof of Rogers's timing.
 
+## Task C source map - greatest trades (2026-06-29)
+
+1. [Yale News - "Investor, author, adventurer Jim Rogers '64 to speak at Yale"](https://news.yale.edu/2012/05/08/investor-author-adventurer-jim-rogers-64-speak-yale) - Institutional support for Quantum co-founding, 4,200% portfolio claim, retirement-at-37 framing, and travel/book chronology.
+2. [Beeland Interests home / Jim Rogers bio](https://www.beelandinterests.com/) - Official/affiliated biography repeating Quantum record, RICI ownership/sponsorship context, and Rogers's travel-as-research framing.
+3. [Jack Schwager, *Market Wizards* PDF mirror](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Major practitioner interview for Rogers's German stock trade, Japanese short thesis, style, catalysts, and timing caveats; used as book/interview evidence, not copied extensively.
+4. [SEC FWP - RICI Total Return ELEMENTS ETNs, 2007](https://www.sec.gov/Archives/edgar/data/352960/000110465907073158/a07-24898_5fwp.htm) - Primary filing for RICI launch date, 36-contract 2007 structure, Rogers committee control, ETN risks, and historical-performance framing.
+5. [SEC S-1/A - Rogers International Raw Materials Fund, 2010](https://www.sec.gov/Archives/edgar/data/1118384/000119312510213098/ds1a.htm) - Primary source for RICI fund structure, 2001 launch, NAV/subscription figures, annual returns, October 2008 drawdown, 59.81% peak-to-valley loss, Refco exposure reductions, and risk disclaimers.
+6. [Beeland Interests - The RICI](https://www.beelandinterests.com/the-rici/) - Official current RICI composition, weights, 38-contract structure, sub-index weights, committee method, calculation symbols, and performance-page context.
+7. [RICI Handbook, January 28, 2026 PDF](https://www.beelandinterests.com/wp-content/uploads/2024/02/RICI-Handbook_JAN.28.2026.pdf) - Current official methodology PDF confirming no 2026 weight changes, 38 contracts, risk disclaimers, and committee process.
+8. [Beeland Interests - Legal Notices](https://www.beelandinterests.com/legal-notices/) - Official legal/disclaimer source for RICI marks, website/index warranty limitations, and product/complex-instrument caution.
+9. [JimRogers.com - "Breakfast of Champions"](https://www.jimrogers.com/breakfast-of-champions/) - Rogers-authored commodity thesis source for post-bust supply/demand, soft-commodity examples, and sell-discipline color.
+10. [JimRogers.com - "The Roaring Dragon"](https://www.jimrogers.com/the-roaring-dragon/) - Rogers-authored 1999 China/B-share thesis source, including B-share eligibility and 85% fall from highs.
+11. [JimRogers.com - More about Jim](https://www.jimrogers.com/contact-morejim/) - Official travel/research source connecting country observation to investment idea sourcing.
+12. [Fortune interview mirror on Yale64 - "Hog wild for China"](https://www.yale64.org/news/rogers4.htm) - Contemporaneous 2007 secondary source for China/commodities focus, Asia move, and bubble caution.
+13. [Yale64 crisis interview mirror](https://www.yale64.org/news/rogers5.htm) - Crisis-era interview source for Rogers's bailout criticism, Citi/Fannie/Freddie comments, and post-2008 agriculture/commodity add framing.
+14. [Meb Faber mirror of December 2007 article](https://mebfaber.com/2008/11/19/you-should-listen-to-jim-rogers/) - Secondary mirror preserving contemporaneous reporting that Rogers was short Fannie Mae and Citigroup before the crisis; used with caveat.
+15. [Tavakoli Structured Finance - Citi/Rogers crisis commentary](https://www.tavakolistructuredfinance.com/fhfa-bank-fraud/) - Secondary source for late-2006 Citi short, target price, and claimed January 2009 profit-taking; flagged as single-source for exit/P&L.
+16. [FHFA - History of Fannie Mae and Freddie Mac Conservatorships](https://www.fhfa.gov/conservatorship/history) - Official primary context for September 2008 conservatorship and why the enterprises were placed under FHFA control.
+17. [FHFA - Conservatorship overview](https://www.fhfa.gov/conservatorship) - Official current context that Fannie/Freddie continue under conservatorship and description of conservator authority.
+18. [CFA Institute - "Jim Rogers: Bullish on China, Commodities, and Agriculture"](https://blogs.cfainstitute.org/blog/2011/05/12/jim-rogers-bullish-on-china-commodities-and-agriculture/) - Conference write-up for 2011 commodity/agriculture thesis, supply/demand argument, China view, and bond skepticism.
+19. [S&P Global - Insight Conversation with Jim Rogers, Beeland Interests Inc.](https://www.spglobal.com/energy/en/news-research/blog/crude-oil/083121-ic-jim-rogers-quantum-beeland) - 2021 interview source for agriculture opportunity, farmer demographics, supply underinvestment, China commodity demand, and current holdings tone.
+20. [People's Daily/Xinhua - More investment in China mulled with an eye on the future](https://en.people.cn/n3/2023/0412/c90000-20004525.html) - 2023 source for Rogers saying he had China investments, was considering more, and had been investing there for over two decades.
+21. [JimRogers.com - WhatsApp investor group fraud warning](https://www.jimrogers.com/whatsapp-investor-group-fraud-warning/) - Same-day current-status and fraud boundary source; confirms impersonation warning and supports not treating social-media groups as Rogers activity.
+22. [Illinois Appellate Court opinion, 2014 IL App (1st) 13-3952](https://www.illinoiscourts.gov/files/1133952_R23.pdf/opinion) - Legal context for Beeland/Refco-related minority-member litigation and settlement history, useful caveat for product-wrapper discussions.
+
 ## Search log and gaps
 
 - Search themes run: official biography and books; Quantum Fund return claims; RICI and Beeland methodology; RICI SEC filings and product wrappers; Rogers commodity, China, agriculture, cash, currency, and debt interviews; current 2025-2026 interviews; criticism/underperformance/timing; Refco/Beeland litigation; SEC/CFTC/lawsuit/enforcement checks; fraud/impersonation warnings.
-- No audited Quantum Fund letters or Rogers-tenure ledgers were found in this run.
+- Task C incremental searches: Rogers greatest trades; Quantum/Soros specific trades; German 1982 equities; Japanese bubble shorts; China B-shares/1999 entry; RICI launch/performance; RICI Raw Materials Fund drawdowns; Citi/Fannie/financial shorts; Barron's/Time/secondary crisis references; FHFA conservatorship; commodity/agriculture thesis; current legal/fraud checks.
+- No audited Quantum Fund letters, Rogers-tenure ledgers, or position-level P&L schedules were found in this run.
+- No primary account statement was found for the Citi/Fannie short exits; the Citi target/exit claim remains single-source via Tavakoli.
+- No complete private portfolio record was found for China equities, Japanese shorts, German stocks, or agriculture exposure; those sections are therefore process/evidence studies rather than audited P&L reconstructions.
 - No current personal SEC/CFTC enforcement action against Rogers surfaced; legal context remains Refco/Beeland product litigation plus current impersonation-fraud warnings.
-- Post-Quantum private portfolio performance remains unreconstructed; public calls should not be treated as audited return evidence.
-- Forums, quote aggregators, and social-media clips were treated as leads only and not cited.
+- Forums, quote aggregators, social-media clips, and AI-generated summaries were treated as leads only and not cited.
