@@ -1106,3 +1106,8 @@
 - Output: investors/029-bruce-kovner/greatest-trades.md (~2,854 words, 15 sources)
 - Notes: Closeout/QA of already-present Kovner greatest-trades file; verified required trade sections and spot-checked official bio, Caxton 20th anniversary speech, Three Crown/Justia, and Forbes mirror support. Preserved caveats around single-source ERM/1987 figures, founder-reported Caxton program returns, disputed Treasury litigation allegations, and repaired an accidental transient TODO truncation earlier in this run before closing.
 - Backlog added: None
+
+## 2026-06-29T22:19:53Z — T0227 — 029-bruce-kovner — A-profile — DONE
+- Output: investors/029-bruce-kovner/profile.md (~1,932 words, 20 sources)
+- Notes: Stale retry closeout: verified the already-present profile and Task A source map; spot-checked official biography, Caxton 20th anniversary speech, Three Crown/Justia, and 2026 SEC ownership filing. Preserved caveats around founder-reported Caxton returns, private ledgers, Treasury-note litigation allegations, political/philanthropic criticism, and unreconstructed exact birth date.
+- Backlog added: None
