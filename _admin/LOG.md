@@ -1116,3 +1116,8 @@
 - Output: investors/029-bruce-kovner/investment-philosophy.md (~2,400 words, 24 sources)
 - Notes: Stale retry closeout: verified the already-present philosophy file, Task B source map, required sections, and sampled support from BruceKovner.com, the Caxton 20th anniversary speech, Justia, CAM Capital, SEC, and AI-CIO. Preserved caveats around founder-reported Caxton returns, Market Wizards excerpt carriers, Three Crown allegations, political/philanthropic criticism, and transferability limits.
 - Backlog added: None
+
+## 2026-06-29T23:37:22Z — T0230 — 029-bruce-kovner — D-mistakes — DONE
+- Output: investors/029-bruce-kovner/mistakes-and-losses.md (~2,229 words, 15 sources)
+- Notes: Completed Kovner mistakes/losses around the soybean near-bust, 1981 correlated-risk loss, 1987 confusion flattening rule, 1994 capacity reset, Treasury-note settlement/litigation, founder-dependence, and political/philanthropic reputational caveats. Preserved legal-admission caveats for DOJ/SEC/Federal Register/Three Crown materials and flagged private-ledger gaps.
+- Backlog added: None
