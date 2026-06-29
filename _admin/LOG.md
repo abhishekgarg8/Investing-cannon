@@ -1065,3 +1065,8 @@
 - Output: investors/027-bill-gross/synthesis.md (~1,478 words, 18 sources)
 - Notes: Closed the already-present Gross synthesis after QA; refreshed the as-of line and appended the Task H source map. Preserved caveats around factor attribution, agency-MBS P&L, platform/team attribution, Janus portability, and PIMCO/product-level legal boundary.
 - Backlog added: None
+
+## 2026-06-29T08:25:25Z — T0219 — 028-jim-rogers — A-profile — DONE
+- Output: investors/028-jim-rogers/profile.md (~2,290 words, 17 sources)
+- Notes: Created Rogers profile/source map with current living-status check, caveated Quantum 4,200% claim, RICI/Beeland product structure, Refco/legal context, and post-Quantum public-call limitations. Preserved caveats around missing audited Quantum ledgers, attribution to Soros/Quantum team, unreconstructed peak AUM, and no current personal enforcement action found.
+- Backlog added: None
