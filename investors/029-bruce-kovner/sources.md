@@ -1,5 +1,28 @@
 # Bruce Kovner - Sources
 
+## Task A source map (created 2026-06-29)
+
+1. [Bruce Kovner official biography](https://www.brucekovner.com/) - First-party biography for current status, Brooklyn/Los Angeles/Harvard background, Caxton founding, 1983-2011 CEO tenure, $12 billion AUM claim, and average net annual return claim.
+2. [Caxton 20th Anniversary speech](https://www.brucekovner.com/Caxton20thAnniversary.html) - Core primary source for founder-reported Caxton returns, first-decade profits, 1994 capital return, platform rebuild, risk allocation, and regime-change philosophy.
+3. [Caxton Associates official website](https://www.caxton.com/) - Current firm source for global macro positioning, liquid asset classes, research inputs, risk discipline, and current office footprint.
+4. [CAM Capital About](https://www.camcapital.com/about.html) - First-party source for post-Caxton family-office structure, 2012 founding, private-asset focus, long-duration opportunistic strategy, and scope across public/private capital structures.
+5. [CAM Capital FAQ](https://www.camcapital.com/faq.html) - First-party detail on CAM's independence from Caxton, asset source, Kovner's ultimate discretion, non-registered-adviser caveat, and investment scope.
+6. [The Kovner Foundation profile](https://www.thekovnerfoundation.org/bruce-kovner-suzie-kovner) - Current status, philanthropy, board roles, Harvard B.A., residence, and Kovner Foundation structure.
+7. [Institute for Advanced Study press release](https://www.ias.edu/press-releases/bruce-kovner-appointed-board-institute-advanced-study) - Institutional biography confirming Harvard B.A. in 1966, Commodities Corporation background, Caxton founding, and cross-asset hedge-fund activity.
+8. [AI-CIO, "Caxton Founders Retire, Tap CIO as Successor"](https://www.ai-cio.com/news/caxton-founders-retire-tap-cio-as-successor/) - Retirement/succession source summarizing Andrew Law transition and Kovner-reported Caxton compounding/returned-profit figures.
+9. [Institutional Investor, "Manna from hedging"](https://www.institutionalinvestor.com/article/2btgiub6qkt47olp4xxj4/home/manna-from-hedging) - Strong secondary source for 2002 Caxton Global Investments return, $10 billion asset context, fee structure, and Kovner compensation estimate.
+10. [SEC Sunesis Schedule 13G/A](https://www.sec.gov/Archives/edgar/data/1061027/000091957421001561/d8800261_13g-a.htm) - Primary filing for Kovner's U.S. citizenship, Caxton/CAM/CDK reporting structure, power-of-attorney structure, and exit from a public-equity holding.
+11. [SEC/issuer-hosted SCYNEXIS Schedule 13G/A](https://www.sec.gov/Archives/edgar/data/1178253/000091957422001583/p9177207_13g-a.htm) - Primary filing showing CDK/Caxton/Kovner beneficial-ownership structure and shared voting/dispositive power.
+12. [Longevity Health 2026 424B3](https://www.sec.gov/Archives/edgar/data/1620463/000119312526138620/lona_424b3_pipe.htm) - Current primary filing confirming 2026 CDK/Third Street ownership, address, and Kovner voting/dispositive power over CDK holdings.
+13. [Three Crown Ltd. Partnership v. Caxton Corp., 817 F. Supp. 1033](https://law.justia.com/cases/federal/district-courts/FSupp/817/1033/1459410/) - Primary legal source for Treasury-note squeeze allegations, procedural posture, partial dismissals, and legal-risk caveats.
+14. [Juilliard Kovner Fellowship page](https://www.juilliard.edu/campus-life/tuition-financial-aid/scholarships-loans-and-grants/kovner-fellowship-program) - Institutional source for Kovner Fellowship structure and philanthropic impact.
+15. [American Academy of Arts and Sciences profile](https://www.amacad.org/person/bruce-kovner) - Current institutional listing for CAM Capital chair role and arts-board leadership.
+16. [Thomas B. Fordham Institute biography](https://fordhaminstitute.org/about/fordham-staff/bruce-kovner) - Institutional biography for Caxton Alternative Management role, former Caxton chairmanship, cross-asset hedge-fund description, board roles, and Harvard degree.
+17. [New York Magazine, "George Soros's Right-Wing Twin"](https://nymag.com/nymetro/news/people/features/12353/) - Long-form critical profile on Kovner's political influence, privacy, arts patronage, and public-accountability questions.
+18. [SourceWatch profile](https://www.sourcewatch.org/index.php?title=Bruce_Kovner) - Advocacy/criticism source for AEI, Manhattan Institute, New York Sun, and policy-network criticisms; use cautiously and triangulate.
+19. [New Yorker, "A Fight at the Opera"](https://www.newyorker.com/magazine/2015/03/23/a-fight-at-the-opera) - Strong secondary source for Kovner's role in Metropolitan Opera governance and fiscal/labor-risk debates.
+20. [Jack Schwager, Market Wizards PDF mirror](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Main source for Kovner's interview-derived early trading narrative and risk-control psychology; should be page-checked in a licensed copy for Task E quotes.
+
 ## Task B source map (created 2026-06-29)
 
 1. [Bruce Kovner official biography](https://www.brucekovner.com/) - First-party biography for Caxton founding, 1983-2011 CEO tenure, $12 billion AUM / 21% average return claim, and current CAM/Kovner Foundation role.
