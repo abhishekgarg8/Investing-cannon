@@ -82,11 +82,38 @@
 12. [Anadolu Agency - 2026 Jim Rogers interview](https://www.aa.com.tr/en/economy/american-investor-jim-rogers-warns-of-major-correction-in-us-global-markets/3792180) - Current source for 2026 big-correction warning, sold-U.S.-stocks statement, and stated remaining holdings.
 13. [JimRogers.com - 29 June 2026 WhatsApp fraud warning](https://www.jimrogers.com/whatsapp-investor-group-fraud-warning/) - Official current-status and fraud-boundary source; used to flag impersonation/social-media quote risk.
 
+## Task E source map - own words (2026-06-29)
+
+1. [Jack Schwager, *Market Wizards* PDF mirror](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Core process interview for patience, catalyst, concentrated opportunity, German equities, and low trading frequency; page-check against an authorized edition before expanding quotes.
+2. [JimRogers.com article archive](https://www.jimrogers.com/articles/) - Official index to first-person travel/market essays used for China, India, war, immigration, currencies, commodities, and Wall Street narrative skepticism.
+3. [JimRogers.com - Breakfast of Champions?](https://www.jimrogers.com/breakfast-of-champions/) - Official commodity-cycle essay and source-visible wording on real assets, cycle recognition, and commodity bull markets.
+4. [JimRogers.com - The Roaring Dragon](https://www.jimrogers.com/the-roaring-dragon/) - Official 1999 China/B-share essay, useful for early China entry logic and market-structure observations.
+5. [JimRogers.com - The Downward Spiral](https://www.jimrogers.com/the-downward-spiral/) - Official dollar/currency article; used for debt, deficits, and reserve-currency language.
+6. [JimRogers.com - Currencies Hard and Soft](https://www.jimrogers.com/currencies-hard-and-soft/) - Official euro/EMU skepticism article; useful but dated and should be framed as historical prediction.
+7. [JimRogers.com - Open the Doors](https://www.jimrogers.com/open-the-doors/) - Official immigration/protectionism article and one of the clearest examples of Rogers's blunt policy voice.
+8. [JimRogers.com - War Is Not a Good Idea](https://www.jimrogers.com/war-is-not-a-good-idea/) - Official Iraq-war/geopolitical-risk article; used for short anti-war language and policy-risk framing.
+9. [JimRogers.com - They Are Lying to Us Again](https://www.jimrogers.com/they-are-lying-to-us-again/) - Official article on late-1990s narrative-making and Wall Street distrust.
+10. [JimRogers.com - Opening or Closing?](https://www.jimrogers.com/opening-or-closing/) - Official article on borders, markets, and globalization reversal.
+11. [JimRogers.com - India](https://www.jimrogers.com/india/) - Official travel-investing article on India contradictions and reform/protectionism tension.
+12. [CFA Institute 2011 conference write-up](https://blogs.cfainstitute.org/blog/2011/05/12/jim-rogers-bullish-on-china-commodities-and-agriculture/) - Event write-up with visible commodities/agriculture quotes; not a full transcript.
+13. [ETF.com 2015 Q&A](https://www.etf.com/sections/news/jim-rogers-i-bought-china-etfs-after-panic) - Direct interview source for buying China during panic and holding existing China exposure.
+14. [MacroVoices episode page and transcript link, 2017](https://www.macrovoices.com/307-macrovoices-141-jim-rogers-on-adventures-in-finance) - Useful index source; transcript did not render cleanly enough for quoting in this run.
+15. [S&P Global Platts interview, 2020](https://www.spglobal.com/energy/en/news-research/blog/crude-oil/052020-insight-conversation-jim-rogers-beeland-interests) - Direct interview source for commodities, low prices, history, COVID-era markets, and cycle language.
+16. [S&P Global Platts interview, 2021](https://www.spglobal.com/energy/en/news-research/blog/crude-oil/083121-ic-jim-rogers-quantum-beeland) - Direct interview source for agriculture, metals, China demand, and bubble contrast.
+17. [Morningstar India interview, 2023](https://www.morningstar.in/posts/76296/jim-rogers-on-learning-from-mistakes-and-loving-his-critics.aspx) - Direct interview for mistakes, critics, market-action temperament, and research discipline.
+18. [Fortune interview mirror/Yale64, 2007](https://www.yale64.org/news/rogers4.htm) - Strong mirror for China/Asia interview; replace with original Fortune archive if accessible.
+19. [Wealthion interview transcript/article, 2025](https://wealthion.com/news/jim-rogers-i-sold-almost-all-my-stocks-ive-seen-this-party-before) - Current transcript-style source for U.S. stocks, cash, gold, silver, China, Uzbekistan, and caution; transcript has minor auto-transcription roughness.
+20. [Anadolu interview, 2026](https://www.aa.com.tr/en/economy/american-investor-jim-rogers-warns-of-major-correction-in-us-global-markets/3792180) - Current interview for correction warning and stated remaining exposures.
+21. [Economic Times/ET Now interview article, 2026](https://economictimes.indiatimes.com/markets/expert-view/jim-rogers-praises-india-us-trade-deal-eyes-long-term-gains-in-gold-silver/articleshow/127884415.cms) - Current source for India, depressed-price discipline, gold, and silver.
+22. [Business Standard interview, 2026](https://www.business-standard.com/markets/news/markets-react-strongly-to-geopolitics-but-eventually-move-on-jim-rogers-126030500454_1.html) - Current interview source for China, India, agriculture, metals, and geopolitics.
+23. [JimRogers.com WhatsApp fraud warning](https://www.jimrogers.com/whatsapp-investor-group-fraud-warning/) - Current official authentication warning; social-media investment group claims rejected.
+
 ## Search log and gaps
 
 - Search themes run: official biography and books; Quantum Fund return claims; RICI and Beeland methodology; RICI SEC filings and product wrappers; Rogers commodity, China, agriculture, cash, currency, and debt interviews; current 2025-2026 interviews; criticism/underperformance/timing; Refco/Beeland litigation; SEC/CFTC/lawsuit/enforcement checks; fraud/impersonation warnings.
 - Task C incremental searches: Rogers greatest trades; Quantum/Soros specific trades; German 1982 equities; Japanese bubble shorts; China B-shares/1999 entry; RICI launch/performance; RICI Raw Materials Fund drawdowns; Citi/Fannie/financial shorts; Barron's/Time/secondary crisis references; FHFA conservatorship; commodity/agriculture thesis; current legal/fraud checks.
 - Task D incremental searches: Jim Rogers mistakes/losses; Refco/Beeland litigation and asset freeze; Rogers International Raw Materials Fund drawdowns; public bear-market/crash-timing criticism; current official fraud warning; SEC/CFTC enforcement checks; RICI product/disclaimer sources.
+- Task E incremental searches: official Rogers article archive and first-person essays; Market Wizards interview provenance; Rogers interview transcript and podcast searches; China/commodities/agriculture direct interviews; current 2025-2026 interview/status checks; quote-aggregator avoidance; social-media impersonation warning.
 - No audited Quantum Fund letters, Rogers-tenure ledgers, or position-level P&L schedules were found in this run.
 - No primary account statement was found for the Citi/Fannie short exits; the Citi target/exit claim remains single-source via Tavakoli.
 - No complete private portfolio record was found for China equities, Japanese shorts, German stocks, or agriculture exposure; those sections are therefore process/evidence studies rather than audited P&L reconstructions.
