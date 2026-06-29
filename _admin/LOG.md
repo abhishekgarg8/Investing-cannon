@@ -1075,3 +1075,8 @@
 - Output: investors/028-jim-rogers/investment-philosophy.md (~3,499 words, 18 sources)
 - Notes: Closed the already-present Rogers philosophy file after QA; verified required sections, Task B source map, and sample support from RICI, SEC, CFA Institute, Market Access, and official Rogers fraud-warning sources. Preserved caveats around unreconstructed Quantum ledgers, post-Quantum private-performance opacity, product/wrapper risks, Refco/Beeland litigation context, and timing/forecast transferability.
 - Backlog added: None
+
+## 2026-06-29T10:40:30Z — T0221 — 028-jim-rogers — C-greatest-trades — DONE
+- Output: investors/028-jim-rogers/greatest-trades.md (~3,600 words, 22 sources)
+- Notes: Closed Rogers greatest-trades after QA of the main-branch output covering seven documented trade episodes: Quantum, RICI/commodities, China, German equities, financial shorts, Japanese shorts, and agriculture. Preserved caveats around missing audited Quantum/private ledgers, product-vs-personal return boundaries, single-source Citi exit details, and unreconstructed exact P&L/sizing.
+- Backlog added: None
