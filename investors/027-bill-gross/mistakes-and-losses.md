@@ -1,6 +1,6 @@
 # Bill Gross - Mistakes and Losses
 
-As of 2026-06-29T02:55:00Z. Bill Gross is alive and still publishing market commentary; his official site carried a May 28, 2026 Investment Outlook identifying him as a philanthropist, private investor, and PIMCO co-founder ([Bill Gross, 2026](https://williamhgross.com/under-threat/)). This Task D was completed while T0213 greatest-trades was still a fresh claim on `main`, so it relies on the completed A-profile and B-philosophy files plus fresh Task D research rather than any completed Gross trade file.
+As of 2026-06-29T02:40:12Z. Bill Gross is alive and still publishing market commentary; his official site carried a May 28, 2026 Investment Outlook identifying him as a philanthropist, private investor, and PIMCO co-founder ([Bill Gross, 2026](https://williamhgross.com/under-threat/)). This Task D was completed while T0213 greatest-trades was still a fresh claim on `main`, so it relies on the completed A-profile and B-philosophy files plus fresh Task D research rather than any completed Gross trade file.
 
 ## Scope and evidence cautions
 
