@@ -148,3 +148,30 @@ As of 2026-06-28T23:29:56Z. Task A source map for `investors/027-bill-gross/prof
 - Several Gross-authored books were accessible only through bibliographic/product records during this run; future work should page-check physical copies, library scans, or publisher previews before quoting or listing exact chapter titles.
 - The official Gross website is first-party and curated; it is useful for primary writings but should be paired with Childs, Fortune, Dewey/Brown, SEC records, and litigation reporting.
 - No new source-backed personal enforcement matter surfaced during this Task F search. The material legal/regulatory context remains the PIMCO-level ETF order and the settled Gross-PIMCO civil dispute.
+
+## Task G - Mental Models Source Map
+
+1. [Bill Gross, "Consistent Alpha Generation through Structure" (2005)](https://williamhgross.com/consistent-alpha-generation-through-structure/) - Primary statement of structural alpha and the duration/curve/credit/volatility framework.
+2. [Bill Gross, "50 Basis Deposit/No Return" (2022)](https://williamhgross.com/50-basis-deposit-no-return/) - Primary retrospective on total-return bond management, capital preservation, and the post-bond-bull-market critique.
+3. [Barry Ritholtz, "Transcript: Bill Gross" (2022)](https://ritholtz.com/2022/04/transcript-bill-gross/) - Long-form interview source for secular forecasting, specialist desks, subprime field research, and team attribution.
+4. [PIMCO, "Our Investment Process" (2024)](https://www.pimco.com/us/en/about-us/our-process) - Official process source for secular/cyclical forums, risk targets, asset-level research, behavioral science, risk management, quantitative rigor, and portfolio construction.
+5. [Richard Dewey and Aaron Brown, "Bill Gross' Alpha: The King Versus the Oracle" (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345604) - Academic source for alpha framing and factor-adjustment questions; full PDF/page checks remain useful later.
+6. [Mary Childs, "Was the Bond King Great?" (2022)](https://williamhgross.com/was-the-bond-king-great/) - Strong secondary synthesis of the Dewey/Brown findings, structural-alpha factors, and transferability caveats.
+7. [SEC, PIMCO Total Return Fund III summary prospectus (2014)](https://www.sec.gov/Archives/edgar/data/810893/000119312514355681/d796888d497k.htm) - Primary fund-disclosure source for objective, turnover, fixed-income instruments, duration guardrail, derivatives, and risk limits.
+8. [SEC, PIMCO Total Return Exchange-Traded Fund prospectus (2011)](https://www.sec.gov/Archives/edgar/data/1450011/000119312511103136/d485apos.htm) - Primary ETF disclosure for objective, fixed-income toolkit, duration/credit/foreign/mortgage permissions, and Gross portfolio-manager role.
+9. [SEC, PIMCO Managed Accounts Trust filing (2014)](https://www.sec.gov/Archives/edgar/data/1098605/000119312514333948/d783037d497.htm) - Primary source for PIMCO AUM, third-party AUM, and Allianz/PIMCO ownership structure near Gross's departure.
+10. [SEC press release, "PIMCO Settles Charges of Misleading Investors About ETF Performance" (2016)](https://www.sec.gov/newsroom/press-releases/2016-252) - Primary enforcement summary for BOND ETF odd-lot performance/disclosure/valuation failures and monetary sanctions.
+11. [SEC administrative order, Pacific Investment Management Company LLC, IA-4577 (2016)](https://www.sec.gov/files/litigation/admin/2016/ia-4577.pdf) - Primary legal source for BOND ETF odd-lot purchases, pricing policy failures, board/investor disclosure failures, and remediation.
+12. [Morningstar, "Morningstar's Analysis of PIMCO: Recap of Developments" (2014 PDF)](https://morningstardirect.morningstar.com/clientcomm/MorningstarPIMCORecapFlowsRatingsFirmLevelViews.pdf) - Detailed source for post-Gross outflow, platform-stability, size, governance, and stewardship analysis.
+13. [InvestmentNews/Bloomberg, "PIMCO Total Return suffers worst year for redemptions" (2015)](https://www.investmentnews.com/mutual-funds/pimco-total-return-suffers-worst-year-for-redemptions-with-gross-el-erian-departures/60353) - Source for Total Return peak AUM, year-end AUM, and 2014 redemptions.
+14. [Janus Henderson retirement release (2019)](https://ir.janushenderson.com/News--Events/news/news-details/2019/Janus-Henderson-Announces-the-Retirement-of-William-H.-Gross/default.aspx) - Primary source for Gross's retirement, Janus Unconstrained underperformance, Total Return strategy outperformance, and transition to the macro fixed-income team.
+15. [Bill Gross/PIMCO, "Mea Culpa" PDF copy (2011)](https://mahonypartners.files.wordpress.com/2011/10/pimco-mea-culpa.pdf) - Best recovered carrier for Gross's own 2011 Treasury-underweight postmortem and "too little risk off" language.
+16. [Bill Gross, "Winning" (2022)](https://williamhgross.com/winning/) - Primary source for leverage/non-diversification lesson and small-size volatility-selling caveat.
+17. [Bill Gross, "Lessons from my investing career" (2025)](https://williamhgross.com/lessons-from-my-investing-career/) - Primary source for leverage plus time, financial architecture, and market psychology lessons.
+18. [Bill Gross, "America's Hegemonic Glory is Under Threat" (2026)](https://williamhgross.com/under-threat/) - Current-status and current-market source showing Gross alive and publishing on fiscal/geopolitical/long-duration risk.
+
+### Task G limitations
+
+- T0213 greatest-trades and T0216 key-writings were still fresh claims or absent on `main` during this run; the mental-models file should be refreshed if those tasks recover Gross trade ledgers, position-level P&L, or additional primary writings.
+- The Dewey/Brown factor-attribution paper should be page-checked directly in a later run; this task used its SSRN abstract plus the Childs/QuantPedia source chain.
+- No opened source showed an SEC charge against Gross individually; the ETF enforcement discussion is kept at the PIMCO/product level.
