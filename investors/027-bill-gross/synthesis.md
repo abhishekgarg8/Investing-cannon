@@ -1,6 +1,6 @@
 # Bill Gross - Synthesis
 
-As of 2026-06-29T06:45:00Z.
+As of 2026-06-29T07:21:12Z.
 
 ## Executive brief
 
