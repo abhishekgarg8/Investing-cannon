@@ -1070,3 +1070,8 @@
 - Output: investors/028-jim-rogers/profile.md (~2,290 words, 17 sources)
 - Notes: Created Rogers profile/source map with current living-status check, caveated Quantum 4,200% claim, RICI/Beeland product structure, Refco/legal context, and post-Quantum public-call limitations. Preserved caveats around missing audited Quantum ledgers, attribution to Soros/Quantum team, unreconstructed peak AUM, and no current personal enforcement action found.
 - Backlog added: None
+
+## 2026-06-29T09:24:42Z — T0220 — 028-jim-rogers — B-philosophy — DONE
+- Output: investors/028-jim-rogers/investment-philosophy.md (~3,499 words, 18 sources)
+- Notes: Closed the already-present Rogers philosophy file after QA; verified required sections, Task B source map, and sample support from RICI, SEC, CFA Institute, Market Access, and official Rogers fraud-warning sources. Preserved caveats around unreconstructed Quantum ledgers, post-Quantum private-performance opacity, product/wrapper risks, Refco/Beeland litigation context, and timing/forecast transferability.
+- Backlog added: None
