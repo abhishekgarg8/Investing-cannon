@@ -75,3 +75,21 @@
 - Page-check the full Market Wizards interview in a lawful copy for quote provenance before Task E.
 - Trace the final procedural history or settlement, if any, of the Three Crown / Treasury-note litigation beyond the 1993 motion decision.
 - Locate a licensed or library copy of the November 1992 Forbes Black Wednesday story for page-level verification of Caxton's reported $300 million gain.
+
+## Task D source map (created 2026-06-29)
+
+1. [Jack Schwager, Market Wizards PDF mirror](https://www.valueplays.net/wp-content/uploads/41775536-Market-Wizards.pdf) - Direct interview source for the soybean near-bust, 1981 loss, correlation lesson, October 1987 confusion rule, position sizing, and risk-control psychology; page-check in a licensed copy before Task E quotes.
+2. [Caxton 20th Anniversary speech](https://www.brucekovner.com/Caxton20thAnniversary.html) - Core first-party source for 1994 loss, 60% capital return, $650 million capital base, multi-strategy rebuild, risk-control ethos, capacity discipline, and founder-to-platform evolution.
+3. [Bruce Kovner official biography](https://www.brucekovner.com/) - First-party status and career source for current CAM/Kovner Foundation role, Caxton founding/CEO tenure, and official long-run return/AUM claims.
+4. [Institutional Investor, "Manna from hedging"](https://www.institutionalinvestor.com/article/2btgiub6qkt47olp4xxj4/home/manna-from-hedging) - Secondary source for 2002 performance, $10 billion AUM context, 1994 down-year context, and fee/scale backdrop.
+5. [Institutional Investor, "Caxton Makes Money In May"](https://www.institutionalinvestor.com/article/2btgf1lltec4oskwrwoow/portfolio/caxton-makes-money-in-may) - Secondary source for Andrew Law-era risk reduction, 2008/2010 context, and key-person/process continuity.
+6. [AI-CIO, "Caxton Founders Retire, Tap CIO as Successor"](https://www.ai-cio.com/news/caxton-founders-retire-tap-cio-as-successor/) - Retirement/succession source for Kovner's 2011 handoff to Andrew Law and key-man risk framing.
+7. [DOJ 1994 Steinhardt/Caxton settlement press release](https://www.justice.gov/archive/atr/public/press_releases/1994/211951.htm) - Primary government source for Treasury-note antitrust/securities settlement, $76 million total, Caxton's $36 million payment components, and injunction summary.
+8. [SEC News Digest, December 19, 1994](https://www.sec.gov/news/digest/1994/dig121994.pdf) - Primary SEC summary of complaint, consent without admitting/denying allegations, permanent injunction, penalties, disgorgement, and asset forfeiture.
+9. [Federal Register Tunney Act notice, United States v. Steinhardt Management Co. and Caxton Corp.](https://www.govinfo.gov/content/pkg/FR-1995-01-13/html/95-781.htm) - Primary record for proposed final judgment, competitive impact statement, settlement posture, injunctive provisions, and civil-vs-criminal enforcement framing.
+10. [Three Crown Ltd. Partnership v. Caxton Corp., 817 F. Supp. 1033](https://law.justia.com/cases/federal/district-courts/FSupp/817/1033/1459410/) - Primary court source for Treasury-note squeeze allegations and early motion rulings; use with allegation caveats.
+11. [Three Crown Ltd. Partnership v. Salomon Bros., 906 F. Supp. 876](https://law.justia.com/cases/federal/district-courts/FSupp/906/876/2126730/) - Later SDNY opinion describing Three Crown's claimed losses, damages limits, and lack of evidence that defendants intended to run Three Crown out of business.
+12. [SEC Schedule 13G, Butler International / Caxton](https://www.sec.gov/Archives/edgar/data/786765/000087257302000005/butler13g021102.txt) - Primary filing support for Caxton/Kovner reporting structure and the limits of public filings as return/risk evidence.
+13. [CAM Capital About](https://www.camcapital.com/about.html) - Current first-party source for CAM's post-2012 private-office structure, patient-capital objective, and separation from founder-era Caxton.
+14. [New York Magazine, "George Soros's Right-Wing Twin"](https://nymag.com/nymetro/news/people/features/12353/) - Long-form critical profile for political/philanthropic reputational context.
+15. [SourceWatch Bruce Kovner profile](https://www.sourcewatch.org/index.php/Bruce_Kovner) - Advocacy/criticism source for policy-network giving; use cautiously and only as reputational context.
