@@ -1121,3 +1121,8 @@
 - Output: investors/029-bruce-kovner/mistakes-and-losses.md (~2,229 words, 15 sources)
 - Notes: Completed Kovner mistakes/losses around the soybean near-bust, 1981 correlated-risk loss, 1987 confusion flattening rule, 1994 capacity reset, Treasury-note settlement/litigation, founder-dependence, and political/philanthropic reputational caveats. Preserved legal-admission caveats for DOJ/SEC/Federal Register/Three Crown materials and flagged private-ledger gaps.
 - Backlog added: None
+
+## 2026-06-30T01:31:29Z — T0233 — 029-bruce-kovner — G-mental-models — DONE
+- Output: investors/029-bruce-kovner/mental-models.md (~2,414 words, 18 sources)
+- Notes: Reconstructed Kovner's macro operating checklist around regime change, market-confirmed scenarios, risk-defined sizing, correlation compression, capacity discipline, confusion kill-switch, and platform-vs-founder transferability. Preserved caveats around missing fresh-claimed E/F files, private Caxton/CAM ledgers, and Treasury-note legal/market-impact boundaries.
+- Backlog added: None
