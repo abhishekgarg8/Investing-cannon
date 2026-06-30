@@ -201,3 +201,29 @@
 - Current Cassandra Unchained material is partly paid/gated and JavaScript-rendered. Cite only visible first-party text or clearly labeled reputable carriers.
 - No source-backed personal enforcement action was found. Legal/regulatory references here are context, not allegations of Burry securities-law violations.
 
+## T0242 - H-synthesis source map
+
+1. [Vanderbilt transcript: "Missteps to Mayhem"](https://news.vanderbilt.edu/2011/04/13/michael-burry-transcript/) - Primary speech transcript for Burry's own account of the subprime trade, CDS structuring, investor pressure, side pocket, and post-crisis interpretation.
+2. [Vanity Fair / Michael Lewis: "Betting on the Blind Side"](https://www.vanityfair.com/news/2010/04/wall-street-excerpt-201004) - Strong secondary/book excerpt for the subprime trade, Scion performance figures, investor conflict, and Burry's process.
+3. [Financial Crisis Inquiry Commission Report](https://fcic-static.law.stanford.edu/cdn_media/fcic-reports/fcic_final_report_full.pdf) - Primary government crisis context for mortgage-credit structure, synthetic-CDO plumbing, and systemic mechanics around the short.
+4. [SEC Schedule 13D: Scion / GameStop](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) - Primary activist filing for GameStop ownership, 5.3% beneficial ownership, transaction schedule, and board letters.
+5. [SEC 13F-HR cover page: Scion Asset Management Q3 2025](https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/xslForm13F_X02/primary_doc.xml) - Primary filing cover page for Scion manager identity, report period, and 2025 public-filing context.
+6. [SEC 13F information table: Scion Asset Management Q3 2025](https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/xslForm13F_X02/infotable.xml) - Primary table for LULU/MOH shares, PLTR/NVDA puts, PFE/HAL calls, and option-notional caveats.
+7. [Sherwood: Scion deregistration and AI-put context](https://sherwood.news/markets/michael-burry-de-registers-his-hedge-fund-scion-asset-management-as-he-warns/) - Current-status source for Scion's terminated registration, ADV-derived RAUM, and disclosure-opacity caveats.
+8. [SEC IAPD firm summary for Scion Asset Management](https://adviserinfo.sec.gov/firm/summary/167772) - Official adviser-status page; search snippet and dynamic page indicate Scion is not currently registered.
+9. [Business Insider: Scion deregistration and Palantir premium clarification](https://www.businessinsider.com/big-short-michael-burry-scion-hedge-fund-sec-palantir-stock-2025-11) - Current-status and option-disclosure interpretation source, including the $9.2 million Palantir premium clarification.
+10. [Business Insider: Nvidia/Palantir AI depreciation critique](https://www.businessinsider.com/big-short-michael-burry-substack-nvidia-memo-depreciation-ai-bubble-2025-11) - Current source for Burry's AI accounting thesis, put disclosure follow-up, and public-response context.
+11. [Cassandra Unchained homepage](https://michaeljburry.substack.com/) - Current first-party publishing venue after Scion deregistration; use visible text only unless paid content is independently verified.
+12. [Cassandra Unchained: Trading Post June 5, 2026](https://michaeljburry.substack.com/p/trading-post-june-5-2026) - Current first-party Lululemon post preview with visible margin, cash, debt, and consensus details.
+13. [Cassandra Unchained: Michael Lewis / Against the Rules podcast note](https://michaeljburry.substack.com/p/michael-lewis-against-the-rules-podcast) - First-party note confirming the 2025 Lewis interview and Burry's post-2012 public-speaking context.
+14. [Hedge Fund Alpha reproduction of Scion Value Fund letters](https://hedgefundalpha.com/investor-letters/a-series-of-michael-burry-scion-value-fund-annual-letters/) - Reproduced primary letters for early Scion structure, early performance, benchmark language, and downside-first value framing; original/PDF page checks remain desirable.
+15. [MSN MoneyCentral / Value Doc archive](https://gist.github.com/vwkd/d1b5839eb8c7d0182f6cd74bdbb65ab3) - Near-primary archive for Burry's early public stock-picking method and "road kill" value phrasing; cite with preservation-wrapper caveat.
+16. [Business Insider / Markets Insider: no longer short Tesla](https://markets.businessinsider.com/news/stocks/big-short-investor-michael-burry-no-longer-short-tesla-tsla-2021-10) - Secondary source for Burry's Tesla-put clarification and 13F-option interpretation problem.
+17. [UNSW critique of Burry's index-fund bubble claim](https://www.unsw.edu.au/newsroom/news/2019/09/vital-signs--overinflated-talk-about-an-index-fund-bubble-is-ver) - Criticism source for non-hagiographic assessment of Burry's later bubble-warning template.
+
+### T0242 Source Notes And Caveats
+
+- The synthesis relies mostly on completed A-G work plus fresh spot checks. It does not solve the largest primary-record gaps: audited Scion Capital returns, full trade blotters, option strikes/expiries, hedge offsets, or realized P&L.
+- SEC 13F option lines are cited only as disclosure of referenced securities and reported underlying values, not premium, AUM, or realized gains/losses.
+- Scion's post-2025 adviser-registration termination reduces future public visibility; current Cassandra Unchained material should be treated as first-party but partly gated and volatile.
+- The synthesis intentionally separates Burry's documented forensic skill from the reputation halo created by one unusually successful crisis trade.

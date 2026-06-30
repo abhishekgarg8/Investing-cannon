@@ -1180,3 +1180,8 @@
 - Output: synthesis/cohort-03.md (~2771 words, 74 cited links)
 - Notes: Completed Cohort 03 comparison across Icahn, Thorp, Schloss, Miller, Neff, Swensen, Gross, Rogers, Kovner, and Burry; appended expression-design patterns to synthesis/themes.md. Burry H-synthesis was freshly claimed, so this version uses his A-G files and logs a refresh dependency.
 - Backlog added: None
+
+## 2026-06-30T13:33:57Z — T0242 — 030-michael-burry — H-synthesis — DONE
+- Output: investors/030-michael-burry/synthesis.md (~1,524 words, 17 sources)
+- Notes: Completed Burry synthesis, INDEX row, and Task H source-map append from completed A-G files plus fresh checks of SEC, Vanderbilt, Sherwood/BI, Substack, and criticism sources. Race note: rebased closeout over already-pushed T0243 and preserved its queue/log/status changes.
+- Backlog added: None
