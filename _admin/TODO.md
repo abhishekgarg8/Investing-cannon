@@ -251,7 +251,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-30T14:13:00Z T0244 | 031-david-einhorn | A-profile | investors/031-david-einhorn/profile.md
 - [x] done:2026-06-30T14:38:24Z T0245 | 031-david-einhorn | B-philosophy | investors/031-david-einhorn/investment-philosophy.md
 - [x] done:2026-06-30T15:32:22Z T0246 | 031-david-einhorn | C-greatest-trades | investors/031-david-einhorn/greatest-trades.md
-- [ ] T0247 | 031-david-einhorn | D-mistakes | investors/031-david-einhorn/mistakes-and-losses.md
+- [~] claimed:2026-06-30T15:43:17Z T0247 | 031-david-einhorn | D-mistakes | investors/031-david-einhorn/mistakes-and-losses.md
 - [ ] T0248 | 031-david-einhorn | E-own-words | investors/031-david-einhorn/in-their-own-words.md
 - [ ] T0249 | 031-david-einhorn | F-key-writings | investors/031-david-einhorn/key-writings.md
 - [ ] T0250 | 031-david-einhorn | G-mental-models | investors/031-david-einhorn/mental-models.md
