@@ -1215,3 +1215,8 @@
 - Output: investors/031-david-einhorn/mental-models.md (~2,344 words, 16 sources)
 - Notes: Stale retry completed Einhorn mental models from A-F cross-read plus fresh checks of Ritholtz, Greenlight letters, FCA notices, Greenlight Re, Fishback docket, and source PDFs. Emphasized narrative-first variant perception, forensic reconciliation, direct macro expression, postmortem discipline, compliance stop rules, and transferability limits.
 - Backlog added: None
+
+## 2026-06-30T22:31:56Z — T0251 — 031-david-einhorn — H-synthesis — DONE
+- Output: investors/031-david-einhorn/synthesis.md (~1,690 words, 17 sources)
+- Notes: Completed Einhorn synthesis, refreshed INDEX row, and verified the already-present Task H source map from A-G plus fresh checks. Preserved caveats around letter-reported returns, Greenlight/DME/Greenlight Re entity boundaries, public-short path risk, Punch Taverns compliance, Fishback docket limits, and transferability boundaries.
+- Backlog added: None
