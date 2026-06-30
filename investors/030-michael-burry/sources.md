@@ -23,6 +23,29 @@
 19. [13F.info Scion manager page](https://13f.info/manager/0001649339-scion-asset-management-llc) - Tier 3. Helpful normalized 13F index across quarters; use as a navigation aid only, then cite SEC primary filings for claims.
 20. [Acquirer's Multiple Michael Burry archive](https://acquirersmultiple.com/category/michael-burry/) - Tier 3. Searchable excerpts from Burry letters and commentary; useful lead source for quote/task F work, but verify against original letters or PDF reproductions.
 
+## T0236 - B-philosophy source map
+
+1. [MSN MoneyCentral / Strategy Lab archive - Michael Burry articles](https://gist.github.com/vwkd/d1b5839eb8c7d0182f6cd74bdbb65ab3) - Primary/near-primary archive of Burry's early public stock-picking philosophy, including unpopular companies, price vs. value, free cash flow, and portfolio comments.
+2. [Vanderbilt transcript: "Missteps to Mayhem"](https://news.vanderbilt.edu/2011/04/13/michael-burry-transcript/) - Primary speech transcript on how he detected subprime excess, used filings, handled CDS marks, and faced investor pressure.
+3. [SEC 13F-HR primary document, Scion Asset Management, 2025 Q3](https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/xslForm13F_X02/primary_doc.xml) - Primary filing showing Scion's last visible 13F manager report, signer, date, entries, and reported table value.
+4. [SEC 13F information table, Scion Asset Management, 2025 Q3](https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/xslForm13F_X02/infotable.xml) - Primary table listing LULU/MOH shares and PLTR/NVDA/PFE/HAL options; useful for current portfolio-construction caveats.
+5. [SEC IAPD firm summary for Scion Asset Management](https://adviserinfo.sec.gov/firm/summary/167772) - Primary/dynamic regulatory status page showing Scion is not currently registered as of research time.
+6. [SEC Schedule 13D exhibit, GameStop letters](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) - Primary activist letters showing Burry's capital-return and governance logic in an undervalued equity.
+7. [SEC Form D/A, Scion Value G7, L.P.](https://www.sec.gov/Archives/edgar/data/1586366/000173377821000004/xslFormDX01/primary_doc.xml) - Primary filing identifying the pooled-fund structure and Burry as CEO of the investment manager.
+8. [Financial Crisis Inquiry Commission Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) - Primary government report placing Burry's CDS purchases inside the broader synthetic CDO/RMBS risk structure.
+9. [FCIC resource library: interviews](https://fcic.law.stanford.edu/resource/interviews) and [Burry audio page](https://fcic.law.stanford.edu/interviews/view/14) - Primary FCIC archive pointers; useful for later profile/mistakes work, though the available page is audio rather than a transcript.
+10. [Vanity Fair excerpt from Michael Lewis, "Betting on the Blind Side"](https://www.vanityfair.com/news/2010/04/wall-street-excerpt-201004) - Strong secondary/book excerpt with detailed reporting on Burry's prospectus reading, CDS structuring, and investor conflict.
+11. [13F.info Scion manager page](https://13f.info/manager/0001649339-scion-asset-management-llc) - Secondary 13F index used only as a navigation and history aid; SEC filings are preferred for primary claims.
+12. [Cassandra Unchained About page](https://michaeljburry.substack.com/about) - Primary current publishing page describing Burry's post-registration focus on analytical efforts, projections, stocks, markets, and bubbles.
+13. [Cassandra Unchained trading posts archive](https://michaeljburry.substack.com/t/trading-posts) - Primary current archive showing recent 2026 trading/analysis posts.
+14. [Trading Post June 5, 2026](https://michaeljburry.substack.com/p/trading-post-june-5-2026) - Primary current post snippet on Lululemon earnings and margin decomposition.
+15. [Business Insider: Burry deregisters hedge fund](https://www.businessinsider.com/big-short-michael-burry-scion-hedge-fund-sec-palantir-stock-2025-11) - Secondary current-status source summarizing deregistration, March 2025 ADV figures, and PLTR put-cost clarification.
+16. [MarketWatch: Burry deregisters hedge fund](https://www.marketwatch.com/story/michael-burry-de-registers-his-hedge-fund-onto-much-better-things-he-says-66825445) - Secondary corroboration of the SEC termination and AUM context.
+17. [Business Insider: Lululemon thesis](https://www.businessinsider.com/big-short-michael-burry-substack-lululemon-atlas-shrugged-bag-stock-2026-6) - Secondary report on Burry's 2026 LULU thesis, useful because Substack full text is partly gated/snippeted.
+18. [Business Insider: Nvidia/Palantir AI-bubble critique](https://www.businessinsider.com/big-short-michael-burry-substack-nvidia-memo-depreciation-ai-bubble-2025-11) - Secondary report on Burry's current AI-accounting/valuation critique and disclosed puts.
+19. [UNSW: critique of Burry's passive-index bubble argument](https://www.unsw.edu.au/newsroom/news/2019/09/vital-signs--overinflated-talk-about-an-index-fund-bubble-is-ver) - Criticism source for non-hagiographic treatment of later market warnings.
+20. [Omny: "Michael Burry Speaks" episode page](https://omny.fm/shows/against-the-rules-with-michael-lewis/michael-burry-speaks) - Secondary podcast page for Burry's 2025 follow-up interview with Michael Lewis; useful lead for future own-words work.
+
 ## Source Notes And Caveats
 
 - The headline Scion Capital performance number, 489.34% net from 2000-11-01 to 2008-06-30, was supported by Lewis/Vanity Fair and repeated by later data sites, but this run did not recover audited partnership statements. Carry it as `[strong secondary; primary statements not yet recovered]`.
@@ -30,3 +53,4 @@
 - Scion Asset Management's adviser registration termination is clear in SEC adviser records and contemporary reporting; whether Burry continued through a family-office/private vehicle needs future verification.
 - Social-media screenshots around the November 2025 closure, AI bubble comments, Palantir/Nvidia puts, and post-Scion plans are volatile. Prefer SEC filings and archived original posts; otherwise mark `[screenshot/source-dependent]`.
 - No source-backed current personal enforcement action surfaced in this run, but later D-mistakes should search SEC litigation releases, FINRA BrokerCheck/IAPD, federal/state dockets, and California medical-license records.
+- T0236-specific caveat: the philosophy file uses current Substack/press reporting only where primary Substack snippets or SEC filings support the point; some full Substack posts may be gated or JavaScript-rendered.
