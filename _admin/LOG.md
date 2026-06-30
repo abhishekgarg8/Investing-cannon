@@ -1185,3 +1185,8 @@
 - Output: investors/030-michael-burry/synthesis.md (~1,524 words, 17 sources)
 - Notes: Completed Burry synthesis, INDEX row, and Task H source-map append from completed A-G files plus fresh checks of SEC, Vanderbilt, Sherwood/BI, Substack, and criticism sources. Race note: rebased closeout over already-pushed T0243 and preserved its queue/log/status changes.
 - Backlog added: None
+
+## 2026-06-30T14:13:00Z — T0244 — 031-david-einhorn — A-profile — DONE
+- Output: investors/031-david-einhorn/profile.md (~2,133 words, 25-source source map)
+- Notes: Created David Einhorn profile and source map from official bios, SEC/IAPD and 13F filings, Greenlight/Greenlight Re/Green Brick materials, public 2025-2026 Greenlight letter reposts, and FCA/FSA Punch Taverns legal sources. Caveats preserved around unaudited public return figures, secondary peak-AUM evidence, 13F-versus-AUM limits, and pending/disputed Fishback litigation.
+- Backlog added: None
