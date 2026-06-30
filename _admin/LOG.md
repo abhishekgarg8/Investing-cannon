@@ -1210,3 +1210,8 @@
 - Output: investors/031-david-einhorn/in-their-own-words.md (~2,300 words, 26 sources)
 - Notes: Stale retry closeout: verified the already-present own-words file with 40 short source-visible quote snippets, annotated materials index, and attribution watchlist; appended the missing Task E source map. Preserved caveats around public Greenlight letter reposts, official PDF access, page-level book checks, and transcript/audio provenance.
 - Backlog added: None
+
+## 2026-06-30T21:30:45Z — T0250 — 031-david-einhorn — G-mental-models — DONE
+- Output: investors/031-david-einhorn/mental-models.md (~2,344 words, 16 sources)
+- Notes: Stale retry completed Einhorn mental models from A-F cross-read plus fresh checks of Ritholtz, Greenlight letters, FCA notices, Greenlight Re, Fishback docket, and source PDFs. Emphasized narrative-first variant perception, forensic reconciliation, direct macro expression, postmortem discipline, compliance stop rules, and transferability limits.
+- Backlog added: None

@@ -186,3 +186,23 @@ As of: 2026-06-30T14:04:53Z
 26. [Justia - Greenlight Capital, Inc. et al v. Fishback, Document 84](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2024cv04832/623847/84/) - Current docket-level source for 2026 litigation status; allegations remain allegations unless docket-supported.
 
 Task E caveats: letter quotations are source-visible in public reposts when official Greenlight PDFs were not extractable in this environment; book-language claims still require page-level checks in the printed/ebook edition; Colossus/Apple podcast materials were used as locators/topic maps rather than exact quote authorities.
+
+## Task G - Mental Models Sources (2026-06-30)
+
+1. [Ritholtz Masters in Business transcript - David Einhorn](https://ritholtz.com/2024/02/transcript-david-einhorn/) - Best current source for narrative-first sourcing, market-structure critique, shorting difficulty, and macro-expression rules.
+2. [Greenlight Capital Q1 2026 letter repost, Hedge Fund Alpha](https://hedgefundalpha.com/investor-letters/greenlight-capital-q1-letter/) - Current process source for bottom-up plus top-down investing, direct macro instruments, exposure, winners/losers, and sell discipline.
+3. [Greenlight Capital Q4 2025 letter repost, Hedge Fund Alpha](https://hedgefundalpha.com/investor-letters/david-einhorn-greenlight-capital-q4-2025-letter/) - Source for modern long/short/macro framework and the cheap/misunderstood versus overvalued/deteriorating screen.
+4. [Accounting Ingenuity, Ira Sohn / FCIC archive, 2008](https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2008-05-21%20Einhorn%20Accounting%20Ingenuity%20Speech.pdf) - Primary speech for forensic reconciliation of Lehman filings, marks, leverage, and management language.
+5. [Fooling Some of the People All of the Time official site](https://foolingsomepeople.com/) - Einhorn-controlled hub for Allied Capital, public short-selling rationale, and source navigation.
+6. [CFA Institute review of *Fooling Some of the People All of the Time*](https://rpc.cfainstitute.org/research/financial-analysts-journal/2009/fooling-some-of-the-people-all-of-the-time) - Reputable secondary review for Allied research depth and self-authored-account caveats.
+7. [Field of Schemes, Value Investing Congress, 2010](https://www.10xebitda.com/wp-content/uploads/2016/11/Greenlight-St.-Joe-Presentation-Oct-2010.pdf) - Public short-thesis deck used to reconstruct field-work and visual-evidence heuristics.
+8. [Greenlight Q4 2015 letter excerpt, Acquirer's Multiple repost](https://acquirersmultiple.com/2017/03/david-einhorn-the-ultimate-shareholder-letter-when-your-fund-underperforms/) - Public hard-year letter carrier for concentration, few-winners, and mistake-classification lessons.
+9. [Greenlight Q4 2018 letter repost, Hedge Fund Alpha](https://hedgefundalpha.com/investor-letters/greenlight-to-reopen-fund-to-investors-full-q4-letter/) - Public hard-year letter carrier for process-versus-outcome, value-regime, and broad-drawdown lessons.
+10. [FCA final notice - David Einhorn](https://www.fca.org.uk/publication/final-notices/david-einhorn.pdf) - Primary regulator source for Punch Taverns information-boundary and compliance lessons.
+11. [FCA final notice - Greenlight Capital](https://www.fca.org.uk/publication/final-notices/greenlight-capital.pdf) - Primary regulator source for firm-level facts in the Punch Taverns matter.
+12. [Justia - Greenlight Capital, Inc. et al v. Fishback, Document 84](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2024cv04832/623847/84/) - Court source for platform/confidentiality risk and 2026 fee/cost order.
+13. [Green Brick Partners 2014 Form 8-K](https://www.sec.gov/Archives/edgar/data/1373670/000114420414064361/v392280_8k.htm) - Primary source for control-adjacent Green Brick structure and Greenlight participation.
+14. [Greenlight Re investor presentation, 2025](https://investors.greenlightre.com/assets/1385613/6b0522ed-74fb-4e30-ad4d-6eb12fad5aab.pdf) - Company source for DME/Solasglas investment approach and platform-transferability limits.
+15. [T-Rex 2X MSTR ETF prospectus](https://www.sec.gov/Archives/edgar/data/1771146/000199937124007880/mstr-485apos_062724.htm) - Primary product source for daily reset, leverage, compounding, and path-risk mechanics.
+16. [SunEdison Chapter 11 release](https://www.prnewswire.com/news-releases/sunedison-undertakes-chapter-11-reorganization-300255363.html) - Company source for SunEdison failure context and long-book forensic-asymmetry lesson.
+
