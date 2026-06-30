@@ -597,7 +597,6 @@
 - Output: investors/015-jack-bogle/in-their-own-words.md (~1,684 words, 16 sources)
 - Notes: Completed Bogle own-words file with 35 short source-visible quotes across cost arithmetic, indexing, stewardship, behavior, and scale; added an annotated primary-materials index and attribution watchlist. Reused primary Bogle speeches, testimony, SEC comments, book excerpts, and interviews; avoided quote aggregators and flagged famous lines needing page-level verification.
 - Backlog added: None
-
 ## 2026-06-24T01:30:36Z — T0119 — 015-jack-bogle — F-key-writings — DONE
 - Output: investors/015-jack-bogle/key-writings.md (~3,106 words, 36 sources)
 - Notes: Completed Bogle key-writings guide across books, speeches/testimony, SEC comments, and ranked secondary works. Treated Bogle's corpus as founder/fiduciary reform material rather than a stock-selection record; preserved caveats around blocked/full-copy book access, chapter-level verification, ETFs, and index ownership concentration.
@@ -1125,4 +1124,9 @@
 ## 2026-06-30T01:31:29Z — T0233 — 029-bruce-kovner — G-mental-models — DONE
 - Output: investors/029-bruce-kovner/mental-models.md (~2,414 words, 18 sources)
 - Notes: Reconstructed Kovner's macro operating checklist around regime change, market-confirmed scenarios, risk-defined sizing, correlation compression, capacity discipline, confusion kill-switch, and platform-vs-founder transferability. Preserved caveats around missing fresh-claimed E/F files, private Caxton/CAM ledgers, and Treasury-note legal/market-impact boundaries.
+- Backlog added: None
+
+## 2026-06-30T02:43:16Z — T0234 — 029-bruce-kovner — H-synthesis — DONE
+- Output: investors/029-bruce-kovner/synthesis.md (~2,350 words, 20 sources)
+- Notes: Completed Kovner synthesis, INDEX row, and Task H source-map append from completed A-D/G files while explicitly flagging fresh-claimed/missing E/F. Preserved caveats around founder-reported Caxton returns, private Caxton/CAM ledgers, single-source ERM evidence, and Treasury-note legal/market-impact boundaries.
 - Backlog added: None
