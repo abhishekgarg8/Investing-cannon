@@ -1175,3 +1175,8 @@
 - Output: investors/030-michael-burry/mental-models.md (~2,435 words, 17 cited URLs)
 - Notes: Stale-style closeout of already-present Burry mental-models file; verified required sections, inline citations, and sample support from MSN/Scion letters, Vanderbilt, SEC GameStop/13F/Form D, Sherwood/Business Insider current-status coverage, and UNSW/Radient caveat sources. Preserved caveats around Scion performance provenance, post-2025 deregistration opacity, 13F option notional versus premium, gated Substack material, and reflexivity risk.
 - Backlog added: None
+
+## 2026-06-30T13:31:55Z — T0243 — cohort-03 — X-cohort-synthesis — DONE
+- Output: synthesis/cohort-03.md (~2771 words, 74 cited links)
+- Notes: Completed Cohort 03 comparison across Icahn, Thorp, Schloss, Miller, Neff, Swensen, Gross, Rogers, Kovner, and Burry; appended expression-design patterns to synthesis/themes.md. Burry H-synthesis was freshly claimed, so this version uses his A-G files and logs a refresh dependency.
+- Backlog added: None
