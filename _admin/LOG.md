@@ -1220,3 +1220,8 @@
 - Output: investors/031-david-einhorn/synthesis.md (~1,690 words, 17 sources)
 - Notes: Completed Einhorn synthesis, refreshed INDEX row, and verified the already-present Task H source map from A-G plus fresh checks. Preserved caveats around letter-reported returns, Greenlight/DME/Greenlight Re entity boundaries, public-short path risk, Punch Taverns compliance, Fishback docket limits, and transferability boundaries.
 - Backlog added: None
+
+## 2026-06-30T23:28:39Z — T0253 — 032-jim-chanos — B-philosophy — DONE
+- Output: investors/032-jim-chanos/investment-philosophy.md (~2,862 words, 17 sources)
+- Notes: Completed Chanos philosophy from SEC/congressional testimony, full interview transcripts, Form ADV, court records, and strong profiles; emphasized forensic short alpha, market bullish bias, accounting/process checks, borrow/collateral risk, and post-2023 business-model strain. T0252 was a fresh claim and no Chanos folder existed at start, so sources.md was initialized with a merge note for the profile run.
+- Backlog added: None
