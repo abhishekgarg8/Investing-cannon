@@ -1135,3 +1135,8 @@
 - Output: investors/030-michael-burry/profile.md (~1,984 words, 20 sources)
 - Notes: Created Burry profile/source map with SEC/IAPD, 13F/Form D, Burry's own 2010/2011 materials, and Lewis/CBS support for the subprime short. Preserved caveats around Scion return/AUM verification, 13F notional vs AUM, and 2025 deregistration/opacity.
 - Backlog added: None
+
+## 2026-06-30T04:21:32Z — T0231 — 029-bruce-kovner — E-own-words — DONE
+- Output: investors/029-bruce-kovner/in-their-own-words.md (~2,351 words, 19 sources)
+- Notes: Stale retry closeout: verified already-present own-words file with 33 short source-visible quotes and annotated primary-materials index; appended missing Task E source map. Caveats preserved around Market Wizards page checks, retirement-letter carrier sources, and legal context boundaries.
+- Backlog added: None
