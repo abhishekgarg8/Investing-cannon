@@ -1155,3 +1155,8 @@
 - Output: investors/030-michael-burry/greatest-trades.md (~3,005 words, 17 sources)
 - Notes: Completed Burry greatest-trades ledger covering subprime CDS, Avanti/early Scion value book, GameStop, 2023 regional banks, and 2025 AI puts; preserved caveats around audited Scion statements, trade-level P&L, 13F-only snapshots, option notional versus premium, and open AI-put status.
 - Backlog added: None
+
+## 2026-06-30T08:31:43Z — T0238 — 030-michael-burry — D-mistakes — DONE
+- Output: investors/030-michael-burry/mistakes-and-losses.md (~2,466 words, 20 sources)
+- Notes: Completed Burry mistakes/losses across the subprime near-death, corporate-CDS fire-sale opportunity cost, early GameStop exit, 2021 Tesla puts, 2023 bank/ETF puts, and post-2008 public-warning timing risk. Preserved caveats around missing Scion ledgers, 13F option notional versus premium, and open 2025 AI-put status.
+- Backlog added: None
