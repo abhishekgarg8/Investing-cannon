@@ -1170,3 +1170,8 @@
 - Output: investors/030-michael-burry/key-writings.md (~2,740 words, 27 sources)
 - Notes: Completed Burry key-writings guide across MSN/Value Doc, reproduced Scion letters, NYT op-ed mirror, Bloomberg/Vanderbilt/UCLA, SEC GameStop letters, FCIC/Against the Rules audio leads, Cassandra Unchained, and ranked works about him. Preserved caveats around carrier sources, inaccessible original Scion/NYT/Bloomberg texts, untranscribed audio, gated Substack, and page-check needs.
 - Backlog added: None
+
+## 2026-06-30T12:40:48Z — T0241 — 030-michael-burry — G-mental-models — DONE
+- Output: investors/030-michael-burry/mental-models.md (~2,435 words, 17 cited URLs)
+- Notes: Stale-style closeout of already-present Burry mental-models file; verified required sections, inline citations, and sample support from MSN/Scion letters, Vanderbilt, SEC GameStop/13F/Form D, Sherwood/Business Insider current-status coverage, and UNSW/Radient caveat sources. Preserved caveats around Scion performance provenance, post-2025 deregistration opacity, 13F option notional versus premium, gated Substack material, and reflexivity risk.
+- Backlog added: None
