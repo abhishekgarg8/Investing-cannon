@@ -1,6 +1,6 @@
 # Bruce Kovner - Key Writings
 
-As of 2026-06-30T04:23:52Z, Bruce Kovner is living and remains publicly associated with CAM Capital and the Kovner Foundation. Kovner did not leave a Buffett-style letter archive or an investor-authored book. His best primary corpus is narrower: one canonical trading interview, three public speeches on his own site, a philanthropy interview, current first-party biography/CAM materials, and a secondary-carried 2011 retirement letter. This file treats those materials as the working Kovner reading list and keeps legal/criticism sources next to the primary texts so the reading order does not become hagiography.
+As of 2026-06-30T07:18:21Z, Bruce Kovner is living and remains publicly associated with CAM Capital and the Kovner Foundation. Kovner did not leave a Buffett-style letter archive or an investor-authored book. His best primary corpus is narrower: one canonical trading interview, three public speeches on his own site, a philanthropy interview, current first-party biography/CAM materials, and a secondary-carried 2011 retirement letter. This file treats those materials as the working Kovner reading list and keeps legal/criticism sources next to the primary texts so the reading order does not become hagiography.
 
 ## Works By Bruce Kovner Or In His Own Voice
 
