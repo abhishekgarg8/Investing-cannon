@@ -1190,3 +1190,8 @@
 - Output: investors/031-david-einhorn/profile.md (~2,133 words, 25-source source map)
 - Notes: Created David Einhorn profile and source map from official bios, SEC/IAPD and 13F filings, Greenlight/Greenlight Re/Green Brick materials, public 2025-2026 Greenlight letter reposts, and FCA/FSA Punch Taverns legal sources. Caveats preserved around unaudited public return figures, secondary peak-AUM evidence, 13F-versus-AUM limits, and pending/disputed Fishback litigation.
 - Backlog added: None
+
+## 2026-06-30T14:38:24Z — T0245 — 031-david-einhorn — B-philosophy — DONE
+- Output: investors/031-david-einhorn/investment-philosophy.md (~2,821 words, 19-source source map append)
+- Notes: Completed Einhorn philosophy around forensic long/short value, misunderstood and misvalued securities, macro overlays, risk controls, market-structure critique, and tensions around macro drift, public short advocacy, compliance, and founder dependence. Preserved caveats around public-letter reposts, Greenlight PDF access, Punch Taverns legal scar, and disputed Fishback litigation.
+- Backlog added: None
