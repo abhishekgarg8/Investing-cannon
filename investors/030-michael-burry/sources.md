@@ -135,3 +135,40 @@
 - No quote aggregators were used. Famous movie/social-media lines were excluded unless source-visible in a primary or reputable carrier.
 - The 2025 Against the Rules interview and FCIC audio deserve future transcription with timestamps; this run indexed them but did not quote from them.
 - Current Cassandra Unchained posts are partly paid/gated and JavaScript-rendered. This file quotes only static visible text or short language carried in reputable contemporary reporting.
+
+## T0240 - F-key-writings source map
+
+1. [MSN MoneyCentral / Strategy Lab archive - Michael Burry articles](https://gist.github.com/vwkd/d1b5839eb8c7d0182f6cd74bdbb65ab3) - Near-primary archive of Burry's early Value Doc public writing; core source for original value framework, strategy, journal entries, and portfolio-management language.
+2. [Hedge Fund Alpha reproduction of Scion Value Fund annual letters](https://hedgefundalpha.com/investor-letters/a-series-of-michael-burry-scion-value-fund-annual-letters/) - Reproduced primary letter set; best accessible map for Scion fund structure, fee alignment, volatility/risk framing, and early value discipline.
+3. [Acquirer's Multiple Burry/Scion letter excerpt archive](https://acquirersmultiple.com/2017/12/michael-burry-dont-be-seduced-by-too-good-to-be-true-higher-yield-investments/) - Excerpt carrier for Scion-letter concepts; useful only with reproduction/original-letter caveat.
+4. [GuruFocus mirror of Burry's NYT op-ed](https://www.gurufocus.com/news/89252/michael-burry-i-saw-the-crisis-coming-why-didnt-the-fed) - Visible carrier for the 2010 New York Times op-ed; used for central thesis and execution-policy ideas while original NYT remains preferred.
+5. [EBSCO research-starter bibliography entry for Burry op-ed](https://www.ebsco.com/research-starters/business-and-management/us-financial-crisis-2007-2010) - Bibliographic support for the NYT op-ed identity/date, not a substitute for original text.
+6. [Scribd carrier: 2010 Bloomberg interview transcript](https://www.scribd.com/doc/37453934/Michael-Burry-Bloomberg-Transcript) - Transcript carrier for post-crisis policy/real-assets interview; replace with Bloomberg original if later recovered.
+7. [Vanderbilt transcript: "Missteps to Mayhem"](https://news.vanderbilt.edu/2011/04/13/michael-burry-transcript/) - Strongest source-visible primary transcript; core source for biography, mortgage-bubble history, CDS mechanics, 2006 stress, and institutional critique.
+8. [NPR commencement archive: UCLA 2012 Burry speech](https://apps.npr.org/commencement/speech/michael-j-burry-university-of-california-los-angeles-2012/) - Event identity and official-ish archive pointer for UCLA speech.
+9. [GuruFocus transcript carrier: UCLA 2012 speech](https://www.gurufocus.com/news/215514/text-of-dr-michael-burrys-2012-ucla-commencement-speech) - Visible speech text carrier; use with provenance caveat.
+10. [SEC Schedule 13D: Scion / GameStop letters](https://www.sec.gov/Archives/edgar/data/1326380/000090514820000491/efc20-335_sc13d.htm) - Primary SEC filing with Burry/Scion's GameStop letters, ownership schedule, and activist capital-allocation case.
+11. [SEC 13F information table: Scion Q3 2025](https://www.sec.gov/Archives/edgar/data/1649339/000164933925000007/xslForm13F_X02/infotable.xml) - Primary current filing context for post-2025 option/AI discussion and 13F-notional caveats.
+12. [FCIC interview page for Michael Burry](https://fcic.law.stanford.edu/interviews/view/14) - Primary government audio metadata; requires transcription before quoting.
+13. [FCIC audio directory](https://fcic-static.law.stanford.edu/cdn_media/fcic-audio/) - Primary directory pointing to Burry's 2010-05-18 audio file; useful for future timestamped transcription.
+14. [FCIC Report PDF](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) - Official crisis context for CDS/synthetic-CDO/RMBS plumbing; used as corroborating context, not Burry-authored text.
+15. [Cassandra Unchained homepage](https://michaeljburry.substack.com/) - Burry's current first-party publishing outlet after Scion deregistration; visible for self-description and archive navigation.
+16. [Cassandra Unchained archive](https://michaeljburry.substack.com/archive) - Current post index for GameStop, AI, trading-post, and market-commentary corpus; many full posts are gated.
+17. [Cassandra Unchained post on Against the Rules interview](https://michaeljburry.substack.com/p/michael-lewis-against-the-rules-podcast) - First-party confirmation of the 2025 Lewis interview and Burry's public-speaking context.
+18. [Omny: "Michael Burry Speaks"](https://omny.fm/shows/against-the-rules-with-michael-lewis/michael-burry-speaks) - Major current spoken primary material; needs full transcript/timestamps for exact quotation.
+19. [Vanity Fair archive: "Betting on the Blind Side"](https://archive.vanityfair.com/article/2010/4/betting-on-the-blind-side) - Best accessible excerpt from Lewis's The Big Short around Burry's process and subprime trade.
+20. [Penguin Random House: The Greatest Trade Ever](https://www.penguinrandomhouse.com/books/196113/the-greatest-trade-ever-by-gregory-zuckerman/) - Publisher source for Zuckerman book used as a comparative secondary work.
+21. [Hedge Fund Law Report review of The Greatest Trade Ever](https://www.hflawreport.com/2539351/-the-greatest-trade-ever-the-behind-the-scenes-story-of-how-john-paulson-defied-wall-street-and-made-financial-history--by-gregory-zuckerman-broadway-books-295-pages.thtml) - Secondary review noting Burry among the subprime traders covered; useful to identify relevance, not for Burry-specific facts.
+22. [CBS / 60 Minutes: Michael Lewis on Wall Street's delusion](https://www.cbsnews.com/news/author-michael-lewis-on-wall-sts-delusion/) - Secondary/broadcast context and independent support for $725 million Scion investor-profit figure.
+23. [WBUR/NPR: How a few made millions betting against the market](https://www.wbur.org/npr/124690424/how-a-few-made-millions-betting-against-the-market) - Contemporary public context for Lewis's book and crisis-short narrative.
+24. [Business Insider: Scion deregistration and Palantir put-premium clarification](https://www.businessinsider.com/big-short-michael-burry-scion-hedge-fund-sec-palantir-stock-2025-11) - Current-status and 13F-option interpretation source.
+25. [Bloomberg Law: Scion hedge fund deregistered, SEC filing shows](https://news.bloomberglaw.com/private-equity/michael-burrys-scion-hedge-fund-deregistered-sec-filing-shows) - Current regulatory-status corroboration for Scion's November 2025 termination.
+26. [Business Insider: Burry's Nvidia/AI depreciation critique](https://www.businessinsider.com/big-short-michael-burry-substack-nvidia-memo-depreciation-ai-bubble-2025-11) - Carrier source for gated current Substack AI-accounting arguments; use after checking visible Substack where possible.
+
+### T0240 Source Notes And Caveats
+
+- Burry has no investor-authored book; the key-writings task is a provenance map across letters, speeches, filings, op-eds, audio, and current Substack.
+- Scion letters and MSN materials are mostly carrier/reproduction sources; page-level verification against stable originals remains open.
+- The 2010 NYT op-ed, 2010 Bloomberg transcript, FCIC audio, and 2025 Against the Rules episode need better original/transcript capture before exact quote work.
+- Current Cassandra Unchained posts are partly gated/JavaScript-rendered; cite only visible first-party text or clearly labeled reputable carriers.
+- 13F option filings must not be read as premium, AUM, or realized P&L evidence.
