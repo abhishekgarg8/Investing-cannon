@@ -156,6 +156,11 @@ As of: 2026-06-30T14:04:53Z
 21. [SunEdison / PR Newswire Chapter 11 release](https://www.prnewswire.com/news-releases/sunedison-undertakes-chapter-11-reorganization-300255363.html) - Company source for SunEdison's April 2016 Chapter 11 filing.
 22. [Justia - Greenlight Capital, Inc. et al v. Fishback, Document 84](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1%3A2024cv04832/623847/84/) - Court source for June 23, 2026 confidentiality/fee/cost order in Greenlight/DME v. Fishback.
 
+### Task H closeout verification (2026-06-30T22:26:19Z)
+
+- Re-opened and re-checked the public Greenlight Q4 2025 letter carrier, Q1 2026 letter carrier, FCIC Lehman speech PDF, FCA Greenlight final notice, Green Brick board bio, Greenlight Re investor presentation, and Justia Fishback order before writing synthesis.md.
+- H-synthesis uses the existing Task H source map above plus completed A-G files; no new backlog item added.
+
 ## Task E - Own Words Sources (2026-06-30)
 
 1. [*Fooling Some of the People All of the Time* official site](https://foolingsomepeople.com/) - Einhorn-controlled hub for the Allied Capital book; primary/near-primary source for his self-authored Allied narrative and short-selling defense.
@@ -205,4 +210,3 @@ Task E caveats: letter quotations are source-visible in public reposts when offi
 14. [Greenlight Re investor presentation, 2025](https://investors.greenlightre.com/assets/1385613/6b0522ed-74fb-4e30-ad4d-6eb12fad5aab.pdf) - Company source for DME/Solasglas investment approach and platform-transferability limits.
 15. [T-Rex 2X MSTR ETF prospectus](https://www.sec.gov/Archives/edgar/data/1771146/000199937124007880/mstr-485apos_062724.htm) - Primary product source for daily reset, leverage, compounding, and path-risk mechanics.
 16. [SunEdison Chapter 11 release](https://www.prnewswire.com/news-releases/sunedison-undertakes-chapter-11-reorganization-300255363.html) - Company source for SunEdison failure context and long-book forensic-asymmetry lesson.
-
