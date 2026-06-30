@@ -1,6 +1,6 @@
 # Michael Burry - Investment Philosophy
 
-As of 2026-06-30, Michael J. Burry appears to be investing and publishing analysis after ending Scion Asset Management's SEC registered-adviser status; the SEC's IAPD page lists Scion as not currently registered, and press reports tie the termination to November 10, 2025 ([SEC IAPD, 2026](https://adviserinfo.sec.gov/firm/summary/167772); [MarketWatch, 2025](https://www.marketwatch.com/story/michael-burry-de-registers-his-hedge-fund-onto-much-better-things-he-says-66825445)). This file focuses on the philosophy, not the full biography or track record.
+As of 2026-06-30T07:22:41Z, Michael J. Burry appears to be investing and publishing analysis after ending Scion Asset Management's SEC registered-adviser status; the SEC's IAPD page lists Scion as not currently registered, and press reports tie the termination to November 10, 2025 ([SEC IAPD, 2026](https://adviserinfo.sec.gov/firm/summary/167772); [MarketWatch, 2025](https://www.marketwatch.com/story/michael-burry-de-registers-his-hedge-fund-onto-much-better-things-he-says-66825445)). This file focuses on the philosophy, not the full biography or track record.
 
 ## Core Worldview
 

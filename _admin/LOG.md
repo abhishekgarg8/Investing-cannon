@@ -1145,3 +1145,8 @@
 - Output: investors/029-bruce-kovner/key-writings.md (~2,270 words, 21 sources)
 - Notes: Stale retry closeout: verified the already-present key-writings file and Task F source map; spot-checked Kovner/Caxton speech, DOJ settlement, AI-CIO succession, and current bio/Foundation/CAM status sources. Preserved caveats around no Kovner-authored book, missing original retirement letter, Market Wizards page checks, and legal-context boundaries.
 - Backlog added: None
+
+## 2026-06-30T07:22:41Z — T0236 — 030-michael-burry — B-philosophy — DONE
+- Output: investors/030-michael-burry/investment-philosophy.md (~2,517 words, 20 sources)
+- Notes: Closed the already-present Burry philosophy file after QA; refreshed the As-of line, verified required sections, and spot-checked Vanderbilt, SEC 13F, GameStop 13D, and FCIC citations. Preserved caveats around Scion performance provenance, 13F option notional versus AUM, post-2025 deregistration opacity, and later public-warning criticism.
+- Backlog added: None
