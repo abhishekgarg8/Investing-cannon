@@ -1195,3 +1195,8 @@
 - Output: investors/031-david-einhorn/investment-philosophy.md (~2,821 words, 19-source source map append)
 - Notes: Completed Einhorn philosophy around forensic long/short value, misunderstood and misvalued securities, macro overlays, risk controls, market-structure critique, and tensions around macro drift, public short advocacy, compliance, and founder dependence. Preserved caveats around public-letter reposts, Greenlight PDF access, Punch Taverns legal scar, and disputed Fishback litigation.
 - Backlog added: None
+
+## 2026-06-30T15:32:22Z — T0246 — 031-david-einhorn — C-greatest-trades — DONE
+- Output: investors/031-david-einhorn/greatest-trades.md (~3,140 words, 15 sources)
+- Notes: Completed Einhorn greatest-trades file across Lehman, Allied, Green Brick, CONSOL/Core, gold, MSTR leveraged-ETF structure, Kyndryl, and Activision. Preserved caveats around missing trade-level P&L/sizing, public-letter repost reliance, ongoing Green Brick/Core/gold positions, and secondary-only MSTR ETF outcome evidence.
+- Backlog added: None
