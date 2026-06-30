@@ -1140,3 +1140,8 @@
 - Output: investors/029-bruce-kovner/in-their-own-words.md (~2,351 words, 19 sources)
 - Notes: Stale retry closeout: verified already-present own-words file with 33 short source-visible quotes and annotated primary-materials index; appended missing Task E source map. Caveats preserved around Market Wizards page checks, retirement-letter carrier sources, and legal context boundaries.
 - Backlog added: None
+
+## 2026-06-30T07:18:21Z — T0232 — 029-bruce-kovner — F-key-writings — DONE
+- Output: investors/029-bruce-kovner/key-writings.md (~2,270 words, 21 sources)
+- Notes: Stale retry closeout: verified the already-present key-writings file and Task F source map; spot-checked Kovner/Caxton speech, DOJ settlement, AI-CIO succession, and current bio/Foundation/CAM status sources. Preserved caveats around no Kovner-authored book, missing original retirement letter, Market Wizards page checks, and legal-context boundaries.
+- Backlog added: None
