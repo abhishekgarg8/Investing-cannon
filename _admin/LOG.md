@@ -1150,3 +1150,8 @@
 - Output: investors/030-michael-burry/investment-philosophy.md (~2,517 words, 20 sources)
 - Notes: Closed the already-present Burry philosophy file after QA; refreshed the As-of line, verified required sections, and spot-checked Vanderbilt, SEC 13F, GameStop 13D, and FCIC citations. Preserved caveats around Scion performance provenance, 13F option notional versus AUM, post-2025 deregistration opacity, and later public-warning criticism.
 - Backlog added: None
+
+## 2026-06-30T07:57:46Z — T0237 — 030-michael-burry — C-greatest-trades — DONE
+- Output: investors/030-michael-burry/greatest-trades.md (~3,005 words, 17 sources)
+- Notes: Completed Burry greatest-trades ledger covering subprime CDS, Avanti/early Scion value book, GameStop, 2023 regional banks, and 2025 AI puts; preserved caveats around audited Scion statements, trade-level P&L, 13F-only snapshots, option notional versus premium, and open AI-put status.
+- Backlog added: None
