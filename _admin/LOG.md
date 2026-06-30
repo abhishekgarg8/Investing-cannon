@@ -1130,3 +1130,8 @@
 - Output: investors/029-bruce-kovner/synthesis.md (~2,350 words, 20 sources)
 - Notes: Completed Kovner synthesis, INDEX row, and Task H source-map append from completed A-D/G files while explicitly flagging fresh-claimed/missing E/F. Preserved caveats around founder-reported Caxton returns, private Caxton/CAM ledgers, single-source ERM evidence, and Treasury-note legal/market-impact boundaries.
 - Backlog added: None
+
+## 2026-06-30T03:23:37Z — T0235 — 030-michael-burry — A-profile — DONE
+- Output: investors/030-michael-burry/profile.md (~1,984 words, 20 sources)
+- Notes: Created Burry profile/source map with SEC/IAPD, 13F/Form D, Burry's own 2010/2011 materials, and Lewis/CBS support for the subprime short. Preserved caveats around Scion return/AUM verification, 13F notional vs AUM, and 2025 deregistration/opacity.
+- Backlog added: None
