@@ -247,7 +247,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-30T10:34:22Z T0240 | 030-michael-burry | F-key-writings | investors/030-michael-burry/key-writings.md
 - [x] done:2026-06-30T12:40:48Z T0241 | 030-michael-burry | G-mental-models | investors/030-michael-burry/mental-models.md
 - [~] claimed:2026-06-30T13:20:30Z T0242 | 030-michael-burry | H-synthesis | investors/030-michael-burry/synthesis.md
-- [~] claimed:2026-06-30T13:22:28Z T0243 | cohort-03 | X-cohort-synthesis | synthesis/cohort-03.md
+- [x] done:2026-06-30T13:31:55Z T0243 | cohort-03 | X-cohort-synthesis | synthesis/cohort-03.md
 - [ ] T0244 | 031-david-einhorn | A-profile | investors/031-david-einhorn/profile.md
 - [ ] T0245 | 031-david-einhorn | B-philosophy | investors/031-david-einhorn/investment-philosophy.md
 - [ ] T0246 | 031-david-einhorn | C-greatest-trades | investors/031-david-einhorn/greatest-trades.md
