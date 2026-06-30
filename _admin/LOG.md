@@ -1160,3 +1160,8 @@
 - Output: investors/030-michael-burry/mistakes-and-losses.md (~2,466 words, 20 sources)
 - Notes: Completed Burry mistakes/losses across the subprime near-death, corporate-CDS fire-sale opportunity cost, early GameStop exit, 2021 Tesla puts, 2023 bank/ETF puts, and post-2008 public-warning timing risk. Preserved caveats around missing Scion ledgers, 13F option notional versus premium, and open 2025 AI-put status.
 - Backlog added: None
+
+## 2026-06-30T09:20:39Z — T0239 — 030-michael-burry — E-own-words — DONE
+- Output: investors/030-michael-burry/in-their-own-words.md (~1,511 words, 20 sources)
+- Notes: Created own-words file with 34 short source-visible quotes and annotated primary-materials index across MSN/Scion, Vanderbilt, SEC GameStop, Bloomberg/FCIC, and Cassandra Unchained. Caveats preserved around reproduced Scion letters, transcript carriers, FCIC/Against the Rules audio needing transcription, and gated Substack snippets.
+- Backlog added: None
