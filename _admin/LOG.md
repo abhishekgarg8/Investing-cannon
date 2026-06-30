@@ -1208,5 +1208,5 @@
 
 ## 2026-06-30T21:23:11Z — T0248 — 031-david-einhorn — E-own-words — DONE
 - Output: investors/031-david-einhorn/in-their-own-words.md (~2,300 words, 26 sources)
-- Notes: Stale retry closeout: verified the already-present own-words file with 34 short source-visible quote snippets, annotated materials index, and attribution watchlist; appended the missing Task E source map. Preserved caveats around public Greenlight letter reposts, official PDF access, page-level book checks, and transcript/audio provenance.
+- Notes: Stale retry closeout: verified the already-present own-words file with 40 short source-visible quote snippets, annotated materials index, and attribution watchlist; appended the missing Task E source map. Preserved caveats around public Greenlight letter reposts, official PDF access, page-level book checks, and transcript/audio provenance.
 - Backlog added: None
