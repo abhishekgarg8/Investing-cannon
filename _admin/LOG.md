@@ -1167,6 +1167,6 @@
 - Backlog added: None
 
 ## 2026-06-30T10:34:22Z - T0240 - 030-michael-burry - F-key-writings - DONE
-- Output: investors/030-michael-burry/key-writings.md (~2,707 words, 27 sources)
+- Output: investors/030-michael-burry/key-writings.md (~2,740 words, 27 sources)
 - Notes: Completed Burry key-writings guide across MSN/Value Doc, reproduced Scion letters, NYT op-ed mirror, Bloomberg/Vanderbilt/UCLA, SEC GameStop letters, FCIC/Against the Rules audio leads, Cassandra Unchained, and ranked works about him. Preserved caveats around carrier sources, inaccessible original Scion/NYT/Bloomberg texts, untranscribed audio, gated Substack, and page-check needs.
 - Backlog added: None
