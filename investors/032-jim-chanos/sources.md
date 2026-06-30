@@ -41,3 +41,19 @@ Source map initialized by T0253 (B-philosophy) because the A-profile task was fr
 - No existing Jim Chanos `profile.md` or prior `sources.md` was present on main at the start of T0253 because T0252 was freshly claimed.
 - Several recent FT/WSJ/Bloomberg items were paywalled; only source-visible snippets were used as leads unless corroborated by accessible primary or transcript sources.
 - The IAPD summary page is dynamic. The SEC ADV PDF is more reliable for line-level evidence, but later profile work should re-check firm status directly.
+
+## T0254 - C-greatest-trades Source Additions
+
+23. [Graham and Doddsville / Jim Chanos: Rooting out Fraud (2012)](https://medium.com/graham-and-doddsville/jim-chanos-rooting-out-fraud-6eca8e6387ad) - Chanos's account of the Baldwin-United short: $24 initial report, stock doubling, regulatory seizure, and bankruptcy.
+24. [Business Insider: Jim Chanos Was Right About Caterpillar And China (2013)](https://www.businessinsider.com/jim-chanos-caterpillar-trade-2013-7) - Contemporaneous report that Chanos pitched Caterpillar as his best 2013 idea and tied it to China/construction-cycle exposure.
+25. [Market Folly: Jim Chanos Short Caterpillar (2013)](https://www.marketfolly.com/2013/07/jim-chanos-short-caterpillar-cat.html) - Practitioner summary of the Delivering Alpha Caterpillar thesis: good company, wrong products, wrong point in the cycle.
+26. [Business Insider / FT: Chanos reportedly made almost $100M on Wirecard (2020)](https://markets.businessinsider.com/news/stocks/billionaire-jim-chanos-made-100-million-betting-against-wirecard-2020-7-1029427984) - Best accessible source for Wirecard trade P&L; figure remains single-source via FT reporting.
+27. [Reuters via WIFC: Kynikos covered Hertz short before bankruptcy (2020)](https://wifc.com/2020/06/22/kynikos-associates-closed-hertz-short-bet-right-before-bankruptcy-chanos/) - Contemporaneous Reuters-syndicated report on Hertz, Wirecard being largest global short position, and Kynikos AUM scale.
+28. [SEC: Luckin Coffee accounting fraud settlement (2020)](https://www.sec.gov/newsroom/press-releases/2020-319) - Primary support for Luckin's fabricated-sales scandal; used as a comparator/lead but not included as a core ranked trade because Chanos position evidence was not accessible enough for task quality.
+29. [Business Insider: Luckin Coffee stock tanks after fabricated sales (2020)](https://markets.businessinsider.com/news/stocks/luckin-coffee-stock-slides-executive-falsified-millions-sales-investigation-finds-2020-4-1029059351) - Secondary support for Luckin price reaction and Muddy Waters context; retained as a lead for later tasks.
+
+## T0254 Source Limitations
+
+- Kynikos trade-level ledgers are private; position size, borrow cost, cover date, and realized P&L are unavailable for nearly all Chanos trades.
+- Wirecard's almost-$100M P&L is explicitly single-source via FT reporting carried by Business Insider.
+- China/Caterpillar is documented as a trade complex and public pitch, but it is not a verified single-ticker home run; future D/G tasks should treat it as mixed attribution.
