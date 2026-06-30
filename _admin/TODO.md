@@ -244,7 +244,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-06-30T07:57:46Z T0237 | 030-michael-burry | C-greatest-trades | investors/030-michael-burry/greatest-trades.md
 - [x] done:2026-06-30T08:31:43Z T0238 | 030-michael-burry | D-mistakes | investors/030-michael-burry/mistakes-and-losses.md
 - [x] done:2026-06-30T09:20:39Z T0239 | 030-michael-burry | E-own-words | investors/030-michael-burry/in-their-own-words.md
-- [ ] T0240 | 030-michael-burry | F-key-writings | investors/030-michael-burry/key-writings.md
+- [~] claimed:2026-06-30T10:22:12Z T0240 | 030-michael-burry | F-key-writings | investors/030-michael-burry/key-writings.md
 - [ ] T0241 | 030-michael-burry | G-mental-models | investors/030-michael-burry/mental-models.md
 - [ ] T0242 | 030-michael-burry | H-synthesis | investors/030-michael-burry/synthesis.md
 - [ ] T0243 | cohort-03 | X-cohort-synthesis | synthesis/cohort-03.md
