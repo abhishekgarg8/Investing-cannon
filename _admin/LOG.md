@@ -1254,3 +1254,8 @@
 - Output: investors/032-jim-chanos/mental-models.md (~3,200 words, 20 sources)
 - Notes: Closeout/QA of already-present mental-models file and Task G source-map append; verified required sections, inline citations, and sample support from SEC, GovInfo, Chicago Booth/Capitalisn't, IAPD, Justia/NY Courts, and 2026 AI/private-credit carrier sources. Preserved caveats around private Kynikos ledgers, dynamic IAPD extraction, unresolved Conlon merits, and carrier-source limits.
 - Backlog added: None
+
+## 2026-07-01T07:40:31Z — T0259 — 032-jim-chanos — H-synthesis — DONE
+- Output: investors/032-jim-chanos/synthesis.md (~2,047 words, 19 sources)
+- Notes: Completed Chanos synthesis, INDEX row, and Task H source-map append; emphasized forensic short alpha, short-trade survival, reflexivity, vehicle failure, and transferability limits. Preserved caveats around private Kynikos ledgers, unaudited returns, dynamic IAPD/current vehicle status, unresolved Conlon merits, and carrier-source limits.
+- Backlog added: None
