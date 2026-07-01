@@ -1289,3 +1289,8 @@
 - Output: investors/033-bill-ackman/in-their-own-words.md (~2,200 words, 31 sources)
 - Notes: Stale retry closeout: QA'd already-present own-words file with 40 short source-visible quote snippets, refreshed PSUS/PS and HHH/Vantage/litigation caveats, and expanded the Task E source map/index. Preserved caveats around Pershing advocacy material, institutional "we" language, rough transcript carriers, and FTC Herbalife wording.
 - Backlog added: None
+
+## 2026-07-01T17:39:36Z — T0266 — 033-bill-ackman — G-mental-models — DONE
+- Output: investors/033-bill-ackman/mental-models.md (~3506 words, 25 Task G sources)
+- Notes: Stale-style closeout/refreshed the already-present Ackman mental-models file after T0264 landed; updated the As-of line, removed stale A-F dependency wording, hardened checklist citations, and added the missing Task G source map. Preserved caveats around public-only evidence, 13F limits, third-party campaign archives, and live HHH governance/litigation risk.
+- Backlog added: None
