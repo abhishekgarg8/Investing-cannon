@@ -1284,3 +1284,8 @@
 - Output: investors/033-bill-ackman/greatest-trades.md (~3,659 words, 48 sources)
 - Notes: Stale retry closeout: verified and tightened the already-present Ackman greatest-trades file, adding per-trade source notes, missing Task C source map, Hilton initial-position evidence, and clearer P&L/drawdown caveats. Preserved caveats around Pershing-reported returns, secondary CP/GGP/MBIA figures, open QSR exposure, and un-reconstructed private-fund ledgers.
 - Backlog added: None
+
+## 2026-07-01T17:26:39Z — T0264 — 033-bill-ackman — E-own-words — DONE
+- Output: investors/033-bill-ackman/in-their-own-words.md (~2,200 words, 31 sources)
+- Notes: Stale retry closeout: QA'd already-present own-words file with 40 short source-visible quote snippets, refreshed PSUS/PS and HHH/Vantage/litigation caveats, and expanded the Task E source map/index. Preserved caveats around Pershing advocacy material, institutional "we" language, rough transcript carriers, and FTC Herbalife wording.
+- Backlog added: None
