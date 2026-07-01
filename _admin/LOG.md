@@ -1259,3 +1259,8 @@
 - Output: investors/032-jim-chanos/synthesis.md (~2,047 words, 19 sources)
 - Notes: Completed Chanos synthesis, INDEX row, and Task H source-map append; emphasized forensic short alpha, short-trade survival, reflexivity, vehicle failure, and transferability limits. Preserved caveats around private Kynikos ledgers, unaudited returns, dynamic IAPD/current vehicle status, unresolved Conlon merits, and carrier-source limits.
 - Backlog added: None
+
+## 2026-07-01T07:58:00Z — T0260 — 033-bill-ackman — A-profile — DONE
+- Output: investors/033-bill-ackman/profile.md (~2,365 words, 25 sources)
+- Notes: Created Ackman profile/source map with PSCM/PSH/PSUS/HHH vehicle map, caveated PSLP-to-PSH and PSH track records, 2026 AUM, and Herbalife/Allergan/HHH legal context. Key gaps preserved around Gotham/MBIA primary records, trade-level P&L, and direct HHH Chancery docket review.
+- Backlog added: None
