@@ -1235,3 +1235,8 @@
 - Output: investors/032-jim-chanos/profile.md (~2,485 words, 17 sources)
 - Notes: Stale retry closeout: verified the already-present Chanos profile, required sections, source-map append, and sample citations from Yale, SEC, Business Times/Bloomberg, NY Courts, plus current 2026 search results. Preserved caveats around unaudited Kynikos returns, secondary peak-AUM evidence, dynamic IAPD status, and unresolved Conlon litigation.
 - Backlog added: None
+
+## 2026-07-01T03:22:39Z — T0255 — 032-jim-chanos — D-mistakes — DONE
+- Output: investors/032-jim-chanos/mistakes-and-losses.md (~2,164 words, 19 sources)
+- Notes: Completed Chanos mistakes/losses across early Kynikos near-death, China timing, Tesla/AOL, Valeant/Baldwin path risk, 2023 fund wind-down, and Conlon governance caveat. Preserved caveats around private P&L, paywalled/secondary closure reporting, dynamic IAPD status, and no opened final Conlon merits/settlement record.
+- Backlog added: None
