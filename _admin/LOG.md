@@ -1304,3 +1304,8 @@
 - Output: investors/034-daniel-loeb/greatest-trades.md (~3,790 words, 27 Task C sources)
 - Notes: Closeout/QA of already-present Loeb greatest-trades file; verified Upstart, Greek bonds, Yahoo, 2009 credit, Sotheby's, Baxter, Campbell, and Sony evidence. Tightened Upstart entry-date and litigation caveats; preserved private-ledger, secondary-P&L, 13F, mirror-letter, and legal/process-risk limits.
 - Backlog added: None
+
+## 2026-07-01T22:33:10Z — T0267 — 033-bill-ackman — H-synthesis — DONE
+- Output: investors/033-bill-ackman/synthesis.md (~1,874 words, 24 Task H sources)
+- Notes: Stale retry completed Ackman synthesis, INDEX row, and Task H source-map append; emphasized concentrated public argument, structure-as-edge/risk, permanent-capital vehicle design, and transferability limits. Preserved caveats around Pershing-reported composite returns, PSH/PSUS discount leakage, unresolved HHH litigation/docket work, AUM-definition differences, and private-ledger gaps.
+- Backlog added: None
