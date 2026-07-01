@@ -1269,3 +1269,8 @@
 - Output: investors/033-bill-ackman/investment-philosophy.md (~2,682 words, 39 cited URLs)
 - Notes: Completed Ackman philosophy around concentrated quality activism, permanent capital, public thesis construction, governance mechanics, bounded downside, and post-Valeant/Herbalife simplification. Preserved tensions around complexity, mission-lock, closed-end discounts, public-short path risk, HHH conflicts, and structural over-engineering.
 - Backlog added: None
+
+## 2026-07-01T10:30:43Z — T0263 — 033-bill-ackman — D-mistakes — DONE
+- Output: investors/033-bill-ackman/mistakes-and-losses.md (~2,751 words, 40 sources)
+- Notes: Completed Ackman mistakes/losses across Target, J.C. Penney/Borders, Valeant, Herbalife, Allergan litigation, PSTH/UMG, Netflix, and current PSH/PSUS/HHH structural risks. Preserved caveats around secondary P&L figures, unresolved HHH litigation, closed-end discount dynamics, and PSTH as structure failure rather than UMG asset failure.
+- Backlog added: None
