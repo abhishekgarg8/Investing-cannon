@@ -259,7 +259,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-07-01T02:25:13Z T0252 | 032-jim-chanos | A-profile | investors/032-jim-chanos/profile.md
 - [x] done:2026-06-30T23:28:39Z T0253 | 032-jim-chanos | B-philosophy | investors/032-jim-chanos/investment-philosophy.md
 - [x] done:2026-07-01T01:22:46Z T0254 | 032-jim-chanos | C-greatest-trades | investors/032-jim-chanos/greatest-trades.md
-- [~] claimed:2026-07-01T03:09:12Z T0255 | 032-jim-chanos | D-mistakes | investors/032-jim-chanos/mistakes-and-losses.md
+- [x] done:2026-07-01T03:22:39Z T0255 | 032-jim-chanos | D-mistakes | investors/032-jim-chanos/mistakes-and-losses.md
 - [ ] T0256 | 032-jim-chanos | E-own-words | investors/032-jim-chanos/in-their-own-words.md
 - [ ] T0257 | 032-jim-chanos | F-key-writings | investors/032-jim-chanos/key-writings.md
 - [ ] T0258 | 032-jim-chanos | G-mental-models | investors/032-jim-chanos/mental-models.md
