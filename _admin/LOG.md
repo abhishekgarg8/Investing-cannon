@@ -1279,3 +1279,8 @@
 - Output: investors/033-bill-ackman/key-writings.md (~2,990 words, 33 sources)
 - Notes: Completed Ackman key-writings guide across PSH letters, 2026 PSUS/PSI offering materials, MBIA/Gotham, activist filings, Valeant/Herbalife, PSTH/SPARC, HHH, and ranked secondary works. Preserved caveats around Gotham mirror provenance, offering-document incentives, pending HHH execution/litigation risk, and advocacy/legal bias in campaign materials.
 - Backlog added: None
+
+## 2026-07-01T14:32:45Z — T0262 — 033-bill-ackman — C-greatest-trades — DONE
+- Output: investors/033-bill-ackman/greatest-trades.md (~3,659 words, 48 sources)
+- Notes: Stale retry closeout: verified and tightened the already-present Ackman greatest-trades file, adding per-trade source notes, missing Task C source map, Hilton initial-position evidence, and clearer P&L/drawdown caveats. Preserved caveats around Pershing-reported returns, secondary CP/GGP/MBIA figures, open QSR exposure, and un-reconstructed private-fund ledgers.
+- Backlog added: None
