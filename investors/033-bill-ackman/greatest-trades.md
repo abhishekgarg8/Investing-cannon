@@ -1,6 +1,6 @@
 # Bill Ackman - Greatest Trades
 
-As of: 2026-07-01T13:45:00Z
+As of: 2026-07-01T14:29:22Z
 
 This file treats "trade" broadly: completed public-equity investments, activist campaigns, event-driven positions, and convex hedges managed by Ackman or Pershing Square. Figures are tagged where useful: verified when anchored in primary Pershing/SEC/regulatory sources, single-source when dependent on one source, and disputed where sources use different scopes.
 
@@ -12,7 +12,7 @@ This file treats "trade" broadly: completed public-equity investments, activist 
 | 2 | Canadian Pacific Railway | 2011-2016 | Cleanest repeatable operational-activism template | Initial 13D: 20.659 million shares/options, 12.2%, $1.065 billion consideration; Pershing later reported 318.9% CP TSR during ownership; $2.6 billion profit estimate is strong secondary, not primary-verified ([SEC 13D](https://www.sec.gov/Archives/edgar/data/16875/000095012311093086/y05282sc13d.htm), [Pershing 2016 letter](https://assets.pershingsquareholdings.com/media/2014/09/09120722/2016-Annual-Report-Letter-Only.pdf), [IGOPP/Harvard case](https://igopp.org/wp-content/uploads/2017/01/IGOPP-Allaire-and-Dauphin-CP-Case-November-28-2016-SSRN.pdf)). |
 | 3 | General Growth Properties | 2008-2014 | Career-defining distressed-equity reorganization | Earliest purchases near $0.34-$0.35; Pershing later said the GGP/HHC/Rouse basket traded at over 100x the initial price; exact dollar P&L is disputed ([Pershing 2010 letter](https://www.valueplays.net/wp-content/uploads/43348412-Pershing-Q3-2010-Letter.pdf), [Pershing 2014 update](https://www.10xebitda.com/wp-content/uploads/2016/11/Pershing-Square-2014-Annual-Update-Presentation-Jan-2015.pdf)). |
 | 4 | Interest-rate swaptions | 2020-2023 | Second major convex macro hedge | Pershing reported $384 million of premium and $2.728 billion of proceeds on monetized hedges; use proceeds, not profit, language ([Pershing 2023 presentation](https://assets.pershingsquareholdings.com/2023/02/09104816/2023-Annual-Investor-Presentation.pdf)). |
-| 5 | MBIA / bond-insurer short | 2002-2008 | Forensic-credit trade that established the playbook | Thesis and instruments are primary-documented; Pershing's later hedge table reports $64 million cost and $1.1 billion proceeds on bond-insurer CDS, primarily MBIA ([Gotham MBIA report](https://www.briem.com/files/Ackman_MBIA_12092002.pdf), [Pershing 2023 presentation](https://assets.pershingsquareholdings.com/2023/02/09104816/2023-Annual-Investor-Presentation.pdf)). |
+| 5 | MBIA / bond-insurer short | 2002-2009 | Forensic-credit trade that established the playbook | Thesis and instruments are primary-documented; Pershing's later hedge table reports $64 million cost and $1.2 billion proceeds/market value on bond-insurer CDS, primarily MBIA ([Gotham MBIA report](https://www.briem.com/files/Ackman_MBIA_12092002.pdf), [Pershing 2022 presentation](https://assets.pershingsquareholdings.com/2022/02/11120213/Pershing-Square-Holdings-2022-Annual-Investor-Presentation.pdf)). |
 | 6 | Chipotle Mexican Grill | 2016-2025 | Quality-business activism after crisis | 2016 13D disclosed 9.9%; Pershing reported final exit in November 2025 with 634% gross and 429% net return ([SEC Chipotle 13D](https://www.sec.gov/Archives/edgar/data/1058090/000119312516702094/d233755dsc13d.htm), [Pershing 2026 presentation](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)). |
 | 7 | Allergan / Valeant | 2014-2015 | Huge event-trade economics, but legally contested | 13D disclosed 28.879 million beneficial shares, 9.7%, and $3.218 billion consideration; final all-fund net P&L after settlement is not fully disclosed ([SEC Allergan 13D](https://www.sec.gov/Archives/edgar/data/850693/000119312514150906/d711603dsc13d.htm), [Pershing settlement](https://pershingsquareholdings.com/https-pershingsquareholdings-com-pershing-square-announces-agreement-in-principle-to-settle-lawsuits-related-to-allergan/)). |
 | 8 | Lowe's | 2018-2024 | Friendly activism around CEO quality and margin gap closure | Pershing reported $1.8 billion gross profit, $1.3 billion net profit, and 175% share-price return from average cost to average sale price ([Pershing 2024 presentation](https://assets.pershingsquareholdings.com/2024/02/07111405/2024-Annual-Investor-Presentation.pdf)). |
@@ -45,6 +45,10 @@ Pershing reported roughly $27 million of premiums/carrying costs against about $
 
 This is the cleanest Ackman asymmetry case: define a catalyst, spend a small premium, monetize when the hedge becomes too large, and recycle gains into known long-term holdings. Permanent capital made the redeployment possible.
 
+### Sources
+
+Key sources: Pershing's March 25 and March 26, 2020 investor letters, PSH's 2019 annual report, and Pershing's 2021 annual investor presentation.
+
 ## 2. Canadian Pacific Railway
 
 ### Context and Dates
@@ -71,6 +75,10 @@ Pershing sold its remaining 9.84089 million shares in August 2016 ([Pershing CP 
 
 CP is Ackman's best repeatable activism template: a measurable operating gap, a proven operator, governance access, and a thesis that did not require financial engineering to work.
 
+### Sources
+
+Key sources: the initial CP Schedule 13D, Pershing's CP campaign materials, CP's response materials, PSH's 2015/2016 reporting, Pershing's 2016 sale announcement, and the IGOPP/Harvard case study.
+
 ## 3. General Growth Properties
 
 ### Context and Dates
@@ -83,11 +91,11 @@ Pershing argued GGP was a liquidity/maturity-wall problem, not a worthless-equit
 
 ### Size and Structure
 
-Pershing used common stock, total-return swaps, warrants, and unsecured debt. By August 2012, it reported 72.2 million common shares, 18.2 million warrants, and swaps, together a stated 10.2% stake ([GGP SEC exhibit](https://www.sec.gov/Archives/edgar/data/1336528/000119312512366295/d401719dex994.htm)).
+Pershing used common stock, total-return swaps, warrants, and unsecured debt. As of December 8, 2008, Pershing disclosed 20.08069 million common shares, 7.5% beneficial ownership, plus swaps referencing 48.5 million more shares, for 68.58069 million shares of total economic exposure, or about 25.6% ([GGP Schedule 13D/A](https://www.sec.gov/Archives/edgar/data/895648/000095012308017154/y00728sc13dza.htm)). By August 2012, it reported 72.2 million common shares, 18.2 million warrants, and swaps, together a stated 10.2% stake ([GGP SEC exhibit](https://www.sec.gov/Archives/edgar/data/1336528/000119312512366295/d401719dex994.htm)).
 
 ### Entry and Path, Including Drawdown Endured
 
-Pershing's 2010 letter says earliest stock purchases were at $0.34 and average cost below $1.00; by November 2010, original GGP plus Howard Hughes value exceeded $18 per original share ([Pershing 2010 letter](https://www.valueplays.net/wp-content/uploads/43348412-Pershing-Q3-2010-Letter.pdf)). The drawdown was process risk: bankruptcy court, creditor negotiations, new-money terms, and potential common-equity wipeout.
+Pershing's 2010 letter says earliest stock purchases were at $0.34 and average cost below $1.00; by November 2010, original GGP plus Howard Hughes value exceeded $18 per original share ([Pershing 2010 letter](https://www.valueplays.net/wp-content/uploads/43348412-Pershing-Q3-2010-Letter.pdf)). The drawdown was process risk: GGP's Chapter 11 case involved hundreds of debtor entities, creditor negotiations, new-money terms, and potential common-equity wipeout ([Bankruptcy court opinion](https://www.nysb.uscourts.gov/sites/default/files/opinions/178734_1284_opinion.pdf)). A precise Pershing mark-to-market drawdown from the first purchases to the bankruptcy low was not reconstructed from primary fund records.
 
 ### Exit and P&L
 
@@ -96,6 +104,10 @@ GGP repurchased 27.624 million Pershing shares at $20.12, about $556 million, in
 ### What It Teaches
 
 GGP shows Ackman's full capital-structure edge: buy when equity screens as terminal, underwrite asset value, influence process, and pair valuation work with recapitalization design.
+
+### Sources
+
+Key sources: Pershing's May 2009 GGP presentation, the 2008 GGP Schedule 13D/A, Pershing's 2010 investor letter, the bankruptcy court opinion, the 2012 GGP SEC exhibit, the 2014 GGP repurchase release, Pershing's 2014 annual update, and Bloomberg-syndicated sale coverage.
 
 ## 4. Interest-Rate Swaptions
 
@@ -123,11 +135,15 @@ Pershing's 2023 presentation reports $384 million premium and $2.728 billion pro
 
 The swaptions repeat the COVID structure but with harder timing: small premium, convex payoff, monetization discipline, and then the risk that remaining option exposure decays.
 
+### Sources
+
+Key sources: Pershing's 2022 and 2023 annual investor presentations, PSH's 2021 annual report, and PSH's June 2023 interim report.
+
 ## 5. MBIA / Bond-Insurer Short
 
 ### Context and Dates
 
-Gotham released *Is MBIA Triple A?* on December 9, 2002, disclosing bearish MBIA positions through CDS, puts, and short common stock. Pershing refreshed the thesis in May 2007 with a bond-insurer presentation before the crisis intensified ([Gotham MBIA report](https://www.briem.com/files/Ackman_MBIA_12092002.pdf), [Pershing 2007 presentation](https://pscmevents.com/wp-content/uploads/2023/03/Who-Is-Holding-The-Bag.pdf)).
+Gotham released *Is MBIA Triple A?* on December 9, 2002, disclosing bearish MBIA positions through CDS, puts, and short common stock. Pershing refreshed the thesis in May 2007 with a bond-insurer presentation before the crisis intensified; Pershing's later hedge table frames the bond-insurer CDS program as a 2005-2009 hedge ([Gotham MBIA report](https://www.briem.com/files/Ackman_MBIA_12092002.pdf), [Pershing 2007 presentation](https://pscmevents.com/wp-content/uploads/2023/03/Who-Is-Holding-The-Bag.pdf), [Pershing 2022 presentation](https://assets.pershingsquareholdings.com/2022/02/11120213/Pershing-Square-Holdings-2022-Annual-Investor-Presentation.pdf)).
 
 ### Thesis and How Found
 
@@ -143,11 +159,15 @@ The trade took years and included legal/reputational pressure. Fortune reported 
 
 ### Exit and P&L
 
-Pershing's later hedge table reports $64 million of carrying costs and $1.1 billion proceeds on bond-insurer CDS, primarily MBIA, with 17.5x gross and 13.8x net multiples ([Pershing 2023 presentation](https://assets.pershingsquareholdings.com/2023/02/09104816/2023-Annual-Investor-Presentation.pdf)). Exact MBIA-only realized P&L and cover dates were not reconstructed from primary sources.
+Pershing's later hedge table reports $64 million of carrying costs and $1.2 billion of proceeds and market value on bond-insurer CDS, primarily MBIA, with an 18.5x multiple of capital ([Pershing 2022 presentation](https://assets.pershingsquareholdings.com/2022/02/11120213/Pershing-Square-Holdings-2022-Annual-Investor-Presentation.pdf)). Exact MBIA-only realized P&L and cover dates were not reconstructed from primary sources; the table is a retrospective Pershing hedge-program summary rather than an audited MBIA-only trade ledger.
 
 ### What It Teaches
 
 MBIA is the forensic-research trade: public filings, rating-agency skepticism, regulatory engagement, and a structure where CDS convexity made a multi-year short survivable.
+
+### Sources
+
+Key sources: Gotham's 2002 MBIA report, Pershing's 2007 bond-insurer presentation, Christine Richard's *Confidence Game* excerpt, 2008 House hearing materials, the SEC MBIA release, and Fortune archive coverage.
 
 ## 6. Chipotle Mexican Grill
 
@@ -169,11 +189,15 @@ The path was operational, not a quick catalyst. Board refresh came in 2016, Nicc
 
 ### Exit and P&L
 
-Pershing's 2026 presentation reports a final exit in November 2025 and 634% gross / 429% net return from August 4, 2016 to November 12, 2025 ([Pershing 2026 presentation](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)).
+Pershing's 2026 presentation reports a final exit in November 2025 and 634% gross / 429% net return from August 4, 2016 to November 12, 2025 ([Pershing 2026 presentation](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)). Exact dollar P&L was not disclosed in the opened primary sources.
 
 ### What It Teaches
 
 Chipotle shows quality activism: refresh governance, recruit better operators, and let unit economics compound. It also shows attribution limits because the operational team created the enduring value.
+
+### Sources
+
+Key sources: the Chipotle Schedule 13D, the Chipotle/Pershing cooperation agreement, PSH's 2020 annual report, and Pershing's 2026 annual investor presentation.
 
 ## 7. Allergan / Valeant Event Trade
 
@@ -195,11 +219,15 @@ The main drawdown was legal/regulatory risk. Valeant's initial bid was $48.30 ca
 
 ### Exit and P&L
 
-Actavis paid $129.22 cash plus 0.3683 Actavis shares per Allergan share; PSH reported Allergan contributed 19.1% to 2014 gross performance ([PSH 2014 annual report](https://assets.pershingsquareholdings.com/2014/09/08113002/PSH-Annual-Report.pdf), [PSH 2015 annual report](https://assets.pershingsquareholdings.com/2016/03/PSH-Annual-Report-12.31.151.pdf)). Pershing/Valeant later settled related lawsuits for $290 million, with Pershing paying $193.75 million while denying wrongdoing ([Pershing settlement](https://pershingsquareholdings.com/https-pershingsquareholdings-com-pershing-square-announces-agreement-in-principle-to-settle-lawsuits-related-to-allergan/)).
+Actavis paid $129.22 cash plus 0.3683 Actavis shares per Allergan share; PSH reported Allergan contributed 19.1% to 2014 gross performance ([PSH 2014 annual report](https://assets.pershingsquareholdings.com/2014/09/08113002/PSH-Annual-Report.pdf), [PSH 2015 annual report](https://assets.pershingsquareholdings.com/2016/03/PSH-Annual-Report-12.31.151.pdf)). Pershing/Valeant later settled related lawsuits for $290 million, with Pershing paying $193.75 million while saying the case had no merit ([Pershing settlement](https://pershingsquareholdings.com/https-pershingsquareholdings-com-pershing-square-announces-agreement-in-principle-to-settle-lawsuits-related-to-allergan/)).
 
 ### What It Teaches
 
 Allergan shows that legal structure can create or destroy value. The trade was economically powerful, but its settlement must be attached to any fair study of the result.
+
+### Sources
+
+Key sources: Valeant/Pershing SEC filings, Allergan proxy materials, the Allergan Schedule 13D, PSH's 2014/2015 annual reports, the litigation order, and Pershing's settlement announcement.
 
 ## 8. Lowe's
 
@@ -227,6 +255,10 @@ Pershing reports $1.8 billion gross profit, $1.3 billion net profit, and 175% sh
 
 Lowe's is friendly activism: identify a high-quality business with a fixable execution gap, back the right operator, and exit when risk/reward normalizes.
 
+### Sources
+
+Key sources: Pershing's 2018 interim materials, Pershing's 2018 annual-report release, and Pershing's 2024 annual investor presentation.
+
 ## 9. Hilton
 
 ### Context and Dates
@@ -239,7 +271,7 @@ The thesis was a high-quality, capital-light lodging compounder with strong bran
 
 ### Size and Structure
 
-This run did not reconstruct initial share count. The COVID hedge documents show that Pershing redeployed hedge proceeds into Hilton in March 2020, increasing a favored quality position during crisis ([PSH 2019 annual report](https://pershingsquareholdings.com/wp-content/uploads/2020/04/Pershing-Square-Holdings-Ltd.-2019-Annual-Report.pdf)).
+Pershing announced an initial 10.9 million-share Hilton position, equal to 3.7% of Hilton and 13.9% of PSH NAV, in October 2018 ([Pershing Hilton announcement](https://assets.pershingsquareholdings.com/2018/10/25020540/Pershing-Square-Announces-Position-in-Hilton-Worldwide-Holdings-Inc.pdf)). The COVID hedge documents show that Pershing redeployed hedge proceeds into Hilton in March 2020, increasing a favored quality position during crisis ([PSH 2019 annual report](https://pershingsquareholdings.com/wp-content/uploads/2020/04/Pershing-Square-Holdings-Ltd.-2019-Annual-Report.pdf)).
 
 ### Entry and Path, Including Drawdown Endured
 
@@ -247,11 +279,15 @@ COVID directly impaired lodging demand, but Pershing treated the collapse as a s
 
 ### Exit and P&L
 
-Pershing reports a February 2026 exit with 492% gross return and 341% net return from October 8, 2018 to February 2, 2026 ([Pershing 2026 presentation](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)).
+Pershing reports a February 2026 exit with 492% gross return and 341% net return from October 8, 2018 to February 2, 2026 ([Pershing 2026 presentation](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)). Exact dollar P&L was not disclosed in the opened primary sources.
 
 ### What It Teaches
 
 Hilton shows Ackman using crisis liquidity to own more of an asset-light franchise whose normalized earnings could recover faster than market fear implied.
+
+### Sources
+
+Key sources: Pershing's 2018 Hilton position announcement, PSH's 2019 annual report, and Pershing's 2026 annual investor presentation.
 
 ## 10. Burger King / Restaurant Brands International
 
@@ -269,15 +305,19 @@ An SEC-filed press release said Pershing-managed funds were expected to own abou
 
 ### Entry and Path, Including Drawdown Endured
 
-This was not hostile activism. It was a sponsor/operator-partner investment in 3G's operating approach, franchising economics, and multi-brand platform strategy. The path risk was restaurant traffic, franchisee health, and execution across brands.
+This was not hostile activism. It was a sponsor/operator-partner investment in 3G's operating approach, franchising economics, and multi-brand platform strategy. The path risk was restaurant traffic, franchisee health, and execution across brands; a precise Pershing mark-to-market drawdown was not reconstructed from primary fund records.
 
 ### Exit and P&L
 
-Restaurant Brands remained a current holding in the 2026 materials reviewed. Pershing reports 782% gross and 445% net return from June 19, 2012 to February 9, 2026 ([Pershing 2026 presentation](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)).
+Restaurant Brands remained a current holding in the 2026 materials reviewed. Pershing reports 782% gross and 445% net return from June 19, 2012 to February 9, 2026 ([Pershing 2026 presentation](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)). Exact realized dollar P&L was not disclosed because the position was still current in the reviewed 2026 materials.
 
 ### What It Teaches
 
 Restaurant Brands shows Ackman as long-duration partner: back an aligned operator and let asset-light franchising plus platform M&A compound.
+
+### Sources
+
+Key sources: the SEC-filed Burger King/Justice release, the PSTH prospectus discussion of Justice, and Pershing's 2026 annual investor presentation.
 
 ## Honorable Mentions and Exclusions
 
