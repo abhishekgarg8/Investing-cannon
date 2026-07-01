@@ -107,7 +107,7 @@ As of: 2026-07-01T20:06:00Z
 
 ## Task C - Greatest Trades Source Map
 
-As of: 2026-07-01T20:37:09Z
+As of: 2026-07-01T21:34:32Z
 
 1. [Third Point Q1 2021 investor letter](https://assets.thirdpointlimited.com/f/166217/x/532e88d45d/third-point-q1-2021-investor-letter-tpil.pdf) - Primary manager source for Upstart's initial valuation, ownership, dollars invested, IPO share purchase, and Q1 2021 market value. Used with manager-reported/mark-to-market caveat.
 
@@ -163,4 +163,6 @@ As of: 2026-07-01T20:37:09Z
 
 27. [Upstart Q1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1647639/000164763926000046/upst-20260331.htm) and [S.D. Ohio Sept. 29, 2025 order](https://www.govinfo.gov/content/pkg/USCOURTS-ohsd-2_22-cv-02935/pdf/USCOURTS-ohsd-2_22-cv-02935-8.pdf) - Current litigation caveat for Upstart/Third Point defendants. Use carefully: the documents describe renewed allegations and pending dismissal motions, not liability findings.
 
-Evidence gaps preserved for future tasks: complete Third Point trade ledgers; exact realized P&L for Upstart, Yahoo, Sotheby's, Baxter, Campbell, and Sony; non-13F credit/sovereign position sizes; original official PDFs for some historical Third Point letters now available only through mirrors.
+28. [Third Point Q2 2021 investor letter](https://assets.thirdpointlimited.com/f/166217/x/575242c2b5/third-point-q2-2021-investor-letter-tpil.pdf) - Primary manager source for SentinelOne as the largest Q2 2021 winner, the 2015 Series B entry at a $98 million post-money valuation, over 10% post-IPO ownership, and the reason SentinelOne belongs in the considered-but-not-ranked set.
+
+Evidence gaps preserved for future tasks: complete Third Point trade ledgers; exact realized P&L for Upstart, SentinelOne, Yahoo, Sotheby's, Baxter, Campbell, and Sony; non-13F credit/sovereign position sizes; original official PDFs for some historical Third Point letters now available only through mirrors.
