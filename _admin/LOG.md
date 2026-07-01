@@ -1225,3 +1225,8 @@
 - Output: investors/032-jim-chanos/investment-philosophy.md (~2,862 words, 17 sources)
 - Notes: Completed Chanos philosophy from SEC/congressional testimony, full interview transcripts, Form ADV, court records, and strong profiles; emphasized forensic short alpha, market bullish bias, accounting/process checks, borrow/collateral risk, and post-2023 business-model strain. T0252 was a fresh claim and no Chanos folder existed at start, so sources.md was initialized with a merge note for the profile run.
 - Backlog added: None
+
+## 2026-07-01T01:22:46Z — T0254 — 032-jim-chanos — C-greatest-trades — DONE
+- Output: investors/032-jim-chanos/greatest-trades.md (~2,708 words, 13 sources)
+- Notes: Closed existing Chanos greatest-trades file after QA; verified Enron, Baldwin-United, Valeant, Wirecard, Hertz, Caterpillar/China, and 2008 crisis-book support. Preserved caveats around private Kynikos ledgers, single-source Wirecard P&L, and trade-complex attribution.
+- Backlog added: None
