@@ -1245,3 +1245,7 @@
 - Output: investors/032-jim-chanos/in-their-own-words.md (~1,980 words, 13 sources)
 - Notes: Stale-style closeout/QA of already-present own-words file with 40 short source-visible quote snippets, annotated primary-materials index, and Task E source map. Preserved caveats around carrier transcripts, iConnections conference wording, and Senate 2006 recheck target.
 - Backlog added: None
+## 2026-07-01T04:34:41Z — T0257 — 032-jim-chanos — F-key-writings — DONE
+- Output: investors/032-jim-chanos/key-writings.md (~2,789 words, 21 sources)
+- Notes: Completed Chanos key-writings map across testimony, WSJ op-eds, podcast/interview transcripts, current AI/crypto carriers, and ranked secondary works. Preserved caveats around no public investor-letter/book archive, paywalled WSJ visibility, Senate 2006 extraction, and page-check needs for books.
+- Backlog added: None
