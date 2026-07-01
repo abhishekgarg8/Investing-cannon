@@ -1249,3 +1249,8 @@
 - Output: investors/032-jim-chanos/key-writings.md (~2,789 words, 21 sources)
 - Notes: Completed Chanos key-writings map across testimony, WSJ op-eds, podcast/interview transcripts, current AI/crypto carriers, and ranked secondary works. Preserved caveats around no public investor-letter/book archive, paywalled WSJ visibility, Senate 2006 extraction, and page-check needs for books.
 - Backlog added: None
+
+## 2026-07-01T06:43:01Z — T0258 — 032-jim-chanos — G-mental-models — DONE
+- Output: investors/032-jim-chanos/mental-models.md (~3,200 words, 20 sources)
+- Notes: Closeout/QA of already-present mental-models file and Task G source-map append; verified required sections, inline citations, and sample support from SEC, GovInfo, Chicago Booth/Capitalisn't, IAPD, Justia/NY Courts, and 2026 AI/private-credit carrier sources. Preserved caveats around private Kynikos ledgers, dynamic IAPD extraction, unresolved Conlon merits, and carrier-source limits.
+- Backlog added: None
