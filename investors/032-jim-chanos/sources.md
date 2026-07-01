@@ -188,3 +188,32 @@ Source map initialized by T0253 (B-philosophy) because the A-profile task was fr
 - The IAPD page is dynamic and line extraction was limited; the termination-status statement is based on search-visible official page text and should be rechecked by future runs.
 - The Conlon dispute remains unresolved in the public court records opened here. The file treats allegations as disputed and does not infer a merits finding.
 - Several current Chanos applications, especially AI data-center and private-credit comments, are sourced through conference reports, press carriers, or FT/Bloomberg summaries rather than full first-party transcripts; exact wording should be checked against original video/audio where available.
+
+## T0259 H-synthesis Source Append
+
+113. [SEC Roundtable Comments of James Chanos (2003)](https://www.sec.gov/spotlight/hedgefunds/hedge-chanos.htm) - Primary source for Kynikos's mandate, "professional skeptic" framing, short-selling costs, and Enron public-file method.
+114. [GovInfo: Enron hearing transcript (2002)](https://www.govinfo.gov/content/pkg/CHRG-107hhrg77986/html/CHRG-107hhrg77986.htm) - Primary source for Enron chronology, return-on-capital concern, related-party complexity, analyst-conflict critique, and public-filings research.
+115. [Chanos & Company Form ADV brochure (2023)](https://reports.adviserinfo.sec.gov/reports/ADV/137563/PDF/137563.pdf) - Primary regulatory source for $327.4M regulatory AUM, account count, adviser structure, private funds, separately managed accounts, and control persons.
+116. [IAPD firm summary for Chanos & Company](https://adviserinfo.sec.gov/firm/summary/137563) - Official dynamic status page; source-visible search result showed SEC registration terminated effective 2024-03-29 and remains a recheck target.
+117. [Business Times/Bloomberg: Short seller Jim Chanos shuts hedge funds after 38-year run (2023)](https://www.businesstimes.com.sg/wealth/short-seller-jim-chanos-shuts-hedge-funds-after-38-year-run) - Accessible source for the 2023 hedge-fund wind-down, below-$200M outside capital, about-$8B 2008 peak, and advisory/personal-capital transition.
+118. [Capitalisn't / Chicago Booth Review: Is Short Selling Dead? With Jim Chanos (2024)](https://www.chicagobooth.edu/review/capitalisnt-is-short-selling-dead) - Post-closure transcript for short alpha cyclicality, fraud cycles, meme/reflexivity risk, and information-overload framing.
+119. [FT Alphachatterbox transcript: Jim Chanos and the art of short-selling (2016)](https://ftalphaville-cdn.ft.com/wp-content/uploads/2016/04/Alphachatterbox-Chanos-transcript.pdf) - Best source for portfolio mechanics, borrow/rebate economics, collateral risk, position-count discipline, and risk/reward reallocation.
+120. [Masters in Business transcript: Jim Chanos, Kynikos Associates (2018)](https://ritholtz.com/2018/05/transcript-jim-chanos-kynikos-associates/) - Full source for origin story, Baldwin-United, Enron/Valeant path risk, timing humility, and no-chart-reading edge statement.
+121. [Masters in Business transcript: Jim Chanos on Financial Fraud (2020)](https://ritholtz.com/2020/05/transcript-jim-chanos/) - Source for late Kynikos client-service model, low-rate rebate headwind, modern information abundance, and short alpha as portfolio service.
+122. [Graham and Doddsville / Jim Chanos: Rooting out Fraud (2012)](https://medium.com/graham-and-doddsville/jim-chanos-rooting-out-fraud-6eca8e6387ad) - Source for Baldwin-United initial short recommendation, stock doubling before validation, and early public regulator-file research.
+123. [New York Magazine: The Catastrophe Capitalist (2008)](https://nymag.com/news/business/52754/) - Crisis-era profile for early-1990s near-death, 2008 AUM/performance caveats, housing/financial shorts, China skepticism, and public-short social context.
+124. [Business Insider / FT: Chanos reportedly made almost $100M on Wirecard (2020)](https://markets.businessinsider.com/news/stocks/billionaire-jim-chanos-made-100-million-betting-against-wirecard-2020-7-1029427984) - Accessible source for Wirecard P&L, marked single-source through FT reporting.
+125. [Reuters via WIFC: Kynikos covered Hertz short before bankruptcy (2020)](https://wifc.com/2020/06/22/kynikos-associates-closed-hertz-short-bet-right-before-bankruptcy-chanos/) - Source for Hertz cover discipline, Wirecard position context, and late-stage event-risk handling.
+126. [Business Insider: Jim Chanos Was Right About Caterpillar And China (2013)](https://www.businessinsider.com/jim-chanos-caterpillar-trade-2013-7) - Source for the public Caterpillar/China trade pitch and mixed macro-to-equity expression.
+127. [Market Folly: Jim Chanos Short Caterpillar (2013)](https://www.marketfolly.com/2013/07/jim-chanos-short-caterpillar-cat.html) - Practitioner summary of the Caterpillar thesis: strong company exposed to wrong products and cycle timing.
+128. [NY Courts: Conlon Holdings LLC v Chanos & Co. LP (2024)](https://www.nycourts.gov/reporter/3dseries/2024/2024_51011.htm) - Primary court source for the Conlon injunction request, pending arbitration, loan/collateral dispute, and no-final-merits caveat.
+129. [Justia: Conlon Holdings LLC v Chanos (2025)](https://law.justia.com/cases/new-york/other-courts/2025/2025-ny-slip-op-30011-u.html) - Primary court source for summary-judgment denial, arbitration/stay posture, and unresolved merits.
+130. [iConnections: Jim Chanos on the AI Trade (2026)](https://iconnections.io/insights/jim-chanos-ai-bubble-data-centers-global-alts-ny-2026/) - Current conference carrier confirming continued public activity and 2026 AI/data-center capital-cycle thesis.
+
+## T0259 Source Limitations
+
+- The synthesis inherits the A-G caveats: no audited public Kynikos return series, no complete investor-letter archive, and no full trade ledger.
+- Wirecard's nearly $100M P&L remains single-source through FT reporting carried by Business Insider.
+- IAPD is dynamic; the post-2024 SEC-registration status should be rechecked by future runs.
+- The Conlon dispute remains unresolved in the opened 2024-2025 court record. Allegations are treated as disputed, not proven.
+- Current AI/data-center and private-credit applications are sourced through conference reports, press carriers, or FT/Bloomberg summaries where no complete first-party transcript was available.
