@@ -105,3 +105,25 @@ Source map initialized by T0253 (B-philosophy) because the A-profile task was fr
 - Exact realized P&L for Tesla, AOL, China-linked shorts, and early-1990s Kynikos losses remains unavailable from opened primary sources; the D-task file flags those as undisclosed or single-source where appropriate.
 - A search result suggested a later Conlon dismissal or settlement event, but this run did not open a primary order, settlement, final arbitration award, or merits decision after the January 2025 order. Future tasks should verify NYSCEF/Trellis/Court records before updating the legal-status language.
 - WSJ, Bloomberg, and FT materials were partly paywalled or syndicated; the D-task cites only opened text and corroborates with accessible sources where possible.
+
+## T0256 E-own-words Source Append
+
+59. [SEC Roundtable Comments of James Chanos (2003)](https://www.sec.gov/spotlight/hedgefunds/hedge-chanos.htm) - Primary own-words source for Kynikos's short-selling mandate, short sellers as professional skeptics, Enron research triggers, and the public-good argument for short selling.
+60. [GovInfo Enron hearing transcript (2002)](https://www.govinfo.gov/content/pkg/CHRG-107hhrg77986/html/CHRG-107hhrg77986.htm) - Primary congressional record for Chanos's Enron chronology, analyst-conflict language, and "trust me" / "black box" framing.
+61. [House Financial Services testimony of James Chanos / CPIC (2009)](https://financialservices.house.gov/media/file/hearings/111/testimony_-_chanos%2C_cpic.pdf) - Primary policy testimony for smart-regulation, custody, due-diligence, and regulatory-burden language used in the quote map.
+62. [FT Alphachatterbox transcript: Jim Chanos and the art of short-selling (2016)](https://ftalphaville-cdn.ft.com/wp-content/uploads/2016/04/Alphachatterbox-Chanos-transcript.pdf) - Full transcript used for portfolio mechanics, position sizing, borrow/rebate economics, the insurance metaphor, and risk-reward language.
+63. [Masters in Business transcript: Jim Chanos, Kynikos Associates (2018)](https://ritholtz.com/2018/05/transcript-jim-chanos-kynikos-associates/) - Full transcript used for origin story, Baldwin-United, Enron, Valeant, timing humility, and career-process snippets.
+64. [Masters in Business transcript: Jim Chanos on Financial Fraud (2020)](https://ritholtz.com/2020/05/transcript-jim-chanos/) - Full transcript used for information-overload, activist-short distinction, public-disclosure practice, and modern short-alpha language.
+65. [Capitalisn't transcript: Is Short Selling Dead? With Jim Chanos (2024)](https://capitalisnt.com/episodes/is-short-selling-dead-with-jim-chanos-wok_KNI_) - Current post-wind-down transcript used for changed short-selling economics, meme-stock reflexivity, fraud cycles, alpha/beta framing, and disinformation language.
+66. [Yale Alumni Magazine: The fraud detective (2013)](https://yalealumnimagazine.org/articles/3737-the-fraud-detective) - Near-primary profile with source-visible classroom remarks and fraud-detection teaching context.
+67. [Reuters via WIFC: Kynikos covered Hertz short before bankruptcy (2020)](https://wifc.com/2020/06/22/kynikos-associates-closed-hertz-short-bet-right-before-bankruptcy-chanos/) - Reuters-syndicated carrier for Bloomberg Invest remarks on Hertz, Wirecard, Tesla, and Macau risk.
+68. [Institute for New Economic Thinking: Jim Chanos on Crypto, AI, and Casino Capitalism (2025)](https://www.ineteconomics.org/perspectives/blog/jim-chanos-on-crypto-ai-and-casino-capitalism) - Current long-form interview used for crypto, AI, human nature, fraud-cycle, and speculative-culture language.
+69. [iConnections: Jim Chanos on the AI Trade (2026)](https://iconnections.io/insights/jim-chanos-ai-bubble-data-centers-global-alts-ny-2026/) - Current conference carrier for SpaceX, data centers, AI infrastructure, alternative energy, issuance, and valuation snippets.
+70. [Acquirer's Multiple / RiskReversal carrier (2026)](https://acquirersmultiple.com/2026/02/jim-chanos-ai-take-own-the-chip-magic-avoid-the-data-center-trade/) - Secondary carrier for RiskReversal remarks on AI infrastructure and balance-sheet engineering; recheck against original audio/video before exact publication quotes.
+71. [New Yorker: In Praise of Short Sellers (2015)](https://www.newyorker.com/magazine/2015/03/23/in-praise-of-short-sellers) - Secondary context for the activist-short market function and why Chanos's Enron case became a canonical example.
+
+## T0256 Source Limitations
+
+- The own-words file uses only short, source-visible snippets and labels conference, podcast, and syndicated-report pages as carriers where they are not official Chanos transcripts.
+- The Senate Banking 2006 download page remains a recheck target; static extraction returned a generic shell, so it was not quoted in T0256.
+- The iConnections 2026 page blends Chanos-attributed remarks with event marketing copy and broader conference summaries; T0256 quotes only source-visible Chanos-attributed snippets and labels the page as a conference carrier.
