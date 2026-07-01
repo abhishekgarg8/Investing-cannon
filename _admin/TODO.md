@@ -266,7 +266,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-07-01T07:40:31Z T0259 | 032-jim-chanos | H-synthesis | investors/032-jim-chanos/synthesis.md
 - [x] done:2026-07-01T07:58:00Z T0260 | 033-bill-ackman | A-profile | investors/033-bill-ackman/profile.md
 - [x] done:2026-07-01T08:37:05Z T0261 | 033-bill-ackman | B-philosophy | investors/033-bill-ackman/investment-philosophy.md
-- [ ] T0262 | 033-bill-ackman | C-greatest-trades | investors/033-bill-ackman/greatest-trades.md
+- [~] claimed:2026-07-01T09:19:49Z T0262 | 033-bill-ackman | C-greatest-trades | investors/033-bill-ackman/greatest-trades.md
 - [ ] T0263 | 033-bill-ackman | D-mistakes | investors/033-bill-ackman/mistakes-and-losses.md
 - [ ] T0264 | 033-bill-ackman | E-own-words | investors/033-bill-ackman/in-their-own-words.md
 - [ ] T0265 | 033-bill-ackman | F-key-writings | investors/033-bill-ackman/key-writings.md
