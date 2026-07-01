@@ -1230,3 +1230,8 @@
 - Output: investors/032-jim-chanos/greatest-trades.md (~2,708 words, 13 sources)
 - Notes: Closed existing Chanos greatest-trades file after QA; verified Enron, Baldwin-United, Valeant, Wirecard, Hertz, Caterpillar/China, and 2008 crisis-book support. Preserved caveats around private Kynikos ledgers, single-source Wirecard P&L, and trade-complex attribution.
 - Backlog added: None
+
+## 2026-07-01T02:25:13Z — T0252 — 032-jim-chanos — A-profile — DONE
+- Output: investors/032-jim-chanos/profile.md (~2,485 words, 17 sources)
+- Notes: Stale retry closeout: verified the already-present Chanos profile, required sections, source-map append, and sample citations from Yale, SEC, Business Times/Bloomberg, NY Courts, plus current 2026 search results. Preserved caveats around unaudited Kynikos returns, secondary peak-AUM evidence, dynamic IAPD status, and unresolved Conlon litigation.
+- Backlog added: None
