@@ -271,7 +271,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-07-01T17:26:39Z T0264 | 033-bill-ackman | E-own-words | investors/033-bill-ackman/in-their-own-words.md
 - [x] done:2026-07-01T11:32:47Z T0265 | 033-bill-ackman | F-key-writings | investors/033-bill-ackman/key-writings.md
 - [x] done:2026-07-01T17:39:36Z T0266 | 033-bill-ackman | G-mental-models | investors/033-bill-ackman/mental-models.md
-- [~] claimed:2026-07-01T22:23:05Z T0267 | 033-bill-ackman | H-synthesis | investors/033-bill-ackman/synthesis.md
+- [x] done:2026-07-01T22:33:10Z T0267 | 033-bill-ackman | H-synthesis | investors/033-bill-ackman/synthesis.md
 - [~] claimed:2026-07-01T19:20:11Z T0268 | 034-daniel-loeb | A-profile | investors/034-daniel-loeb/profile.md
 - [x] done:2026-07-01T20:08:51Z T0269 | 034-daniel-loeb | B-philosophy | investors/034-daniel-loeb/investment-philosophy.md
 - [x] done:2026-07-01T21:24:52Z T0270 | 034-daniel-loeb | C-greatest-trades | investors/034-daniel-loeb/greatest-trades.md
@@ -819,5 +819,4 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [ ] T0812 | canon | Z-retrospective | synthesis/retrospective.md
 
 ## BACKLOG
-
 
