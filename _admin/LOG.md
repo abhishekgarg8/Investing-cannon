@@ -1240,3 +1240,8 @@
 - Output: investors/032-jim-chanos/mistakes-and-losses.md (~2,164 words, 19 sources)
 - Notes: Completed Chanos mistakes/losses across early Kynikos near-death, China timing, Tesla/AOL, Valeant/Baldwin path risk, 2023 fund wind-down, and Conlon governance caveat. Preserved caveats around private P&L, paywalled/secondary closure reporting, dynamic IAPD status, and no opened final Conlon merits/settlement record.
 - Backlog added: None
+
+## 2026-07-01T04:21:32Z — T0256 — 032-jim-chanos — E-own-words — DONE
+- Output: investors/032-jim-chanos/in-their-own-words.md (~1,980 words, 13 sources)
+- Notes: Stale-style closeout/QA of already-present own-words file with 40 short source-visible quote snippets, annotated primary-materials index, and Task E source map. Preserved caveats around carrier transcripts, iConnections conference wording, and Senate 2006 recheck target.
+- Backlog added: None
