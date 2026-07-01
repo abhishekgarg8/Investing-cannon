@@ -57,3 +57,30 @@ Source map initialized by T0253 (B-philosophy) because the A-profile task was fr
 - Kynikos trade-level ledgers are private; position size, borrow cost, cover date, and realized P&L are unavailable for nearly all Chanos trades.
 - Wirecard's almost-$100M P&L is explicitly single-source via FT reporting carried by Business Insider.
 - China/Caterpillar is documented as a trade complex and public pitch, but it is not a verified single-ticker home run; future D/G tasks should treat it as mixed attribution.
+
+## T0252 - A-profile Source Map (Stale Retry)
+
+30. [Yale School of Management faculty profile](https://som.yale.edu/faculty-research/faculty-directory/james-chanos) - Best compact institutional bio for education, career facts, Kynikos role, Yale teaching role, and major-short list.
+31. [SEC Roundtable Comments of James Chanos (2003)](https://www.sec.gov/spotlight/hedgefunds/hedge-chanos.htm) - Primary source for Kynikos founding year, mandate, staffing, over-$1B AUM, and short-selling process language.
+32. [Chanos & Company Form ADV brochure (2023)](https://reports.adviserinfo.sec.gov/reports/ADV/137563/PDF/137563.pdf) - Primary regulatory source for 2023 RAUM, client accounts, ownership/control persons, and private-fund/separately managed account structure.
+33. [IAPD firm summary for Chanos & Company](https://adviserinfo.sec.gov/firm/summary/137563) - Official status page; dynamic extraction was poor, but search-visible official data indicated SEC termination effective 2024-03-29 and should be re-checked in later tasks.
+34. [Business Times/Bloomberg: Short seller Jim Chanos shuts hedge funds after 38-year run (2023)](https://www.businesstimes.com.sg/wealth/short-seller-jim-chanos-shuts-hedge-funds-after-38-year-run) - Accessible secondary source for the 2023 wind-down, below-$200M assets, and about-$8B 2008 peak claim.
+35. [New York Magazine: The Catastrophe Capitalist (2008)](https://nymag.com/news/business/52754/) - Rich long-form profile covering family background, Baldwin, 1985 launch, early-1990s near-death, 2008 AUM/performance, media tactics, and housing/China shorts.
+36. [Los Angeles Times: 'Short-Sellers' in Enron Finally Get Their Due (2002)](https://www.latimes.com/archives/la-xpm-2002-jan-20-fi-petruno20-story.html) - Contemporaneous support for Chanos's public Enron critique and the short-seller role in questioning analyst consensus.
+37. [GovInfo Enron hearing transcript (2002)](https://www.govinfo.gov/content/pkg/CHRG-107hhrg77986/html/CHRG-107hhrg77986.htm) - Primary congressional record placing Chanos in the Enron postmortem and useful for later Enron trade reconstruction.
+38. [House Financial Services testimony of James Chanos / CPIC (2009)](https://financialservices.house.gov/media/file/hearings/111/testimony_-_chanos%2C_cpic.pdf) - Primary source for Chanos's post-crisis regulatory stance and private-fund policy role.
+39. [Yale Alumni Magazine: The fraud detective (2013)](https://yalealumnimagazine.org/articles/3737-the-fraud-detective) - Strong secondary support for the fraud-history course and Chanos's public-file, case-study method.
+40. [FT Alphachatterbox transcript: Jim Chanos and the art of short-selling (2016)](https://ftalphaville-cdn.ft.com/wp-content/uploads/2016/04/Alphachatterbox-Chanos-transcript.pdf) - Full transcript for process, portfolio breadth, collateral/borrow mechanics, and China/Valeant/Tesla context.
+41. [Masters in Business transcript: Jim Chanos, Kynikos Associates (2018)](https://ritholtz.com/2018/05/transcript-jim-chanos-kynikos-associates/) - Full transcript for origin story, Kynikos name, Enron reputation, and durable short-selling edge.
+42. [Masters in Business transcript: Jim Chanos on Financial Fraud (2020)](https://ritholtz.com/2020/05/transcript-jim-chanos/) - Full transcript for Kynikos's 35-year self-description, hedging service model, and managed-account structure.
+43. [Capitalisn't transcript: Is Short Selling Dead? With Jim Chanos (2024)](https://capitalisnt.com/episodes/is-short-selling-dead-with-jim-chanos-wok_KNI_) - Current post-closure transcript for fraud-cycle framing, meme/pod-fund era, and market-structure critique.
+44. [NY Courts: Conlon Holdings LLC v Chanos & Co. LP (2024)](https://www.nycourts.gov/reporter/3dseries/2024/2024_51011.htm) - Primary court decision for the 2024 partnership/loan dispute, TRO context, and non-merits caveats.
+45. [Justia: Conlon Holdings LLC v Chanos (2025)](https://law.justia.com/cases/new-york/other-courts/2025/2025-ny-slip-op-30011-u.html) - 2025 court order showing arbitration/stay posture and unresolved nature of the Conlon claims.
+46. [iConnections: Jim Chanos on the AI Trade (2026)](https://iconnections.io/insights/jim-chanos-ai-bubble-data-centers-global-alts-ny-2026/) - Current source confirming Chanos remained active publicly in June 2026 and applying the same forensic/capital-cycle lens to AI infrastructure.
+
+## T0252 Source Limitations
+
+- No audited Kynikos return series, investor letter archive, or complete trade ledger was found. Profile return claims are therefore limited to primary AUM snapshots and caveated secondary reporting.
+- Exact birth date was not primary-verified in opened sources; profile uses 1957 and Milwaukee/Yale details from institutional and secondary sources.
+- IAPD current-status extraction was incomplete because the page is dynamic; future tasks should re-check directly for the post-2024 registration/entity status.
+- The Conlon dispute is unresolved in the opened court materials. Treat allegations as allegations until a final merits decision, arbitration award, or settlement is sourced.
