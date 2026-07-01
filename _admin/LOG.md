@@ -1274,3 +1274,8 @@
 - Output: investors/033-bill-ackman/mistakes-and-losses.md (~2,751 words, 40 sources)
 - Notes: Completed Ackman mistakes/losses across Target, J.C. Penney/Borders, Valeant, Herbalife, Allergan litigation, PSTH/UMG, Netflix, and current PSH/PSUS/HHH structural risks. Preserved caveats around secondary P&L figures, unresolved HHH litigation, closed-end discount dynamics, and PSTH as structure failure rather than UMG asset failure.
 - Backlog added: None
+
+## 2026-07-01T11:32:47Z — T0265 — 033-bill-ackman — F-key-writings — DONE
+- Output: investors/033-bill-ackman/key-writings.md (~2,990 words, 33 sources)
+- Notes: Completed Ackman key-writings guide across PSH letters, 2026 PSUS/PSI offering materials, MBIA/Gotham, activist filings, Valeant/Herbalife, PSTH/SPARC, HHH, and ranked secondary works. Preserved caveats around Gotham mirror provenance, offering-document incentives, pending HHH execution/litigation risk, and advocacy/legal bias in campaign materials.
+- Backlog added: None
