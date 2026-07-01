@@ -33,4 +33,6 @@
 | 030 | Michael Burry | Forensic contrarian value; document-driven special situations; credit-bubble shorting; activist value; 13F opacity; Cassandra risk | Turned primary-document reading and asymmetric instruments into a famous subprime short and a broader forensic-value playbook, while showing the limits of timing, disclosure, and public-prophecy risk. | [investors/030-michael-burry/](investors/030-michael-burry/) |
 | 031 | David Einhorn | Long/short value; forensic short selling; public thesis advocacy; event-driven value; direct macro expression; compliance-risk case study | Built Greenlight around document-driven variant perception on both longs and shorts, then adapted the process toward direct macro expression while exposing the legal, timing, and platform risks of public contrarian investing. | [investors/031-david-einhorn/](investors/031-david-einhorn/) |
 
+| 032 | Jim Chanos | Fundamental short selling; forensic accounting; fraud detection; short alpha; public-file skepticism; vehicle-risk case study | Institutionalized document-driven skepticism by shorting accounting and business-model contradictions, while showing that truth, timing, borrow, reflexivity, and client appetite are separate risks. | [investors/032-jim-chanos/](investors/032-jim-chanos/) |
+
 (Rows added by each investor's H-synthesis task.)
