@@ -1,6 +1,6 @@
 # Jim Chanos - Greatest Trades
 
-As of 2026-06-30, Jim Chanos is a living investor, and this document treats Kynikos/Chanos & Company trade data as mostly private unless a public source identifies a position, date, price path, or P&L. Chanos's own testimony and long-form interviews make the trade chronology unusually clear, but not the fund ledgers: position size, borrow cost, exact cover dates, and client-level P&L are usually undisclosed. The ranking below therefore separates three things: documented investment insight, public price outcome, and sourced P&L.
+As of 2026-07-01, Jim Chanos is a living investor, and this document treats Kynikos/Chanos & Company trade data as mostly private unless a public source identifies a position, date, price path, or P&L. Chanos's own testimony and long-form interviews make the trade chronology unusually clear, but not the fund ledgers: position size, borrow cost, exact cover dates, and client-level P&L are usually undisclosed. The ranking below therefore separates three things: documented investment insight, public price outcome, and sourced P&L.
 
 ## Ranking And Caveats
 
