@@ -1,6 +1,6 @@
 # Bill Ackman - In Their Own Words
 
-As of: 2026-07-01T15:38:00Z
+As of: 2026-07-01T15:53:58Z
 
 Task: T0264 | 033-bill-ackman | E-own-words
 
@@ -9,6 +9,8 @@ Task: T0264 | 033-bill-ackman | E-own-words
 This file privileges source-visible Ackman language from signed letters, SEC-filed exhibits, official Pershing Square / PSH materials, prepared testimony, and long-form transcript carriers. I avoided quote aggregators. A large share of the cleanest material is Pershing Square "we" language rather than Bill Ackman speaking as a private individual; those entries are still useful for method, but should be attributed to the relevant filing, shareholder letter, presentation, or issuer release.
 
 The snippets are intentionally short. They are signposts into the sources, not stand-alone proof of an investment outcome. Campaign materials on Herbalife, ADP, Target, GGP, Allergan, Valeant, and HHH are advocacy or transaction documents. Interview transcripts from Knowledge Project, Lex Fridman, Boyar, and Interactive Investor are carrier sources and should be checked against audio/video before publication-grade quotation. PSH/PSCM/PSUS fact sheets, presentations, and prospectus materials are institutional language, not always personal Ackman speech.
+
+Current-status note: PSUS and Pershing Square Inc. are live 2026 public-market vehicles, not merely the withdrawn 2024 PSUS proposal. Pershing Square announced that PSUS and PSI began NYSE trading on April 29, 2026 under PSUS and PS, respectively ([Pershing Square / Business Wire, 2026](https://www.businesswire.com/news/home/20260430478098/en/Pershing-Square-Announces-the-Closing-of-the-Combined-IPO-of-Pershing-Square-USA-and-Pershing-Square-Inc.)). The quote map still labels 2024 offering-material language where that is the specific source of a quoted phrase.
 
 ## Quotes By Theme
 
@@ -80,7 +82,7 @@ The snippets are intentionally short. They are signposts into the sources, not s
 ## Annotated Primary And Near-Primary Materials Index
 
 1. [Pershing Square Holdings materials archive](https://pershingsquareholdings.com/materials/) - Best official shelf for PSH annual reports, interim reports, investor letters, presentations, monthly reports, and public disclaimers.
-2. [Ackman Senate Special Committee on Aging testimony, 2016](https://www.aging.senate.gov/imo/media/doc/SCA_Ackman_4_27_16.pdf) - Prepared own-words source on concentration, activism, Valeant, Herbalife, and the defense of engaged shareholders.
+2. [Ackman Senate Special Committee on Aging testimony, 2016](https://www.aging.senate.gov/imo/media/doc/SCA_Ackman_4_27_16.pdf) - Primary prepared own-words source on concentration, activism, Valeant, Herbalife, and the defense of engaged shareholders.
 3. [PSH May 2026 fact sheet](https://pershingsquareholdings.com/wp-content/uploads/2026/06/PSH-Fact-Sheet-May-2026-Website.pdf) - Compact current source for PSH objective, portfolio concentration, holdings, NAV, discount, debt, AUM, fees, and strategy language.
 4. [PSCM Annual Investor Presentation, 2026](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf) - Current official deck for performance, portfolio standards, no-margin-leverage framing, debt management, PSUS, and HHH context.
 5. [PSH 2021 Annual Report](https://assets.pershingsquareholdings.com/2022/03/29140526/Pershing-Square-Holdings-Ltd.-2021-Annual-Report.pdf) - Key source for post-2017 reset, PSH objective, permanent capital, hedging, and process language after Valeant/Herbalife.
@@ -96,15 +98,16 @@ The snippets are intentionally short. They are signposts into the sources, not s
 15. [PSTH UMG withdrawal letter, 2021](https://www.sec.gov/Archives/edgar/data/1811882/000119312521218758/d199415dex991.htm) - SEC-filed letter explaining the UMG transaction withdrawal and Ackman's admission about complexity and shareholder reaction.
 16. [PSTH liquidation letter, 2022](https://www.sec.gov/Archives/edgar/data/1811882/000119312522191391/d305715dex992.htm) - SEC-filed liquidation letter explaining return of trust capital, investment criteria, SPAC market deterioration, and SPARC rationale.
 17. [SPARC prospectus, 2023](https://www.sec.gov/Archives/edgar/data/1895582/000119312523247555/d305814d424b3.htm) - Primary legal source for SPARC's not-a-SPAC structure and future-capital-raise mechanics.
-18. [PSUS free writing prospectus, 2024](https://www.sec.gov/Archives/edgar/data/2002660/000119312524176713/d845686dfwp.htm) - Offering-material source for Pershing's asymmetric-hedging pitch and PSUS strategy framing.
-19. [HHH transaction release, 2025](https://investor.howardhughes.com/news-releases/news-release-details/pershing-square-invest-900-million-acquire-nine-million-newly) - Primary issuer transaction source for Ackman's HHH executive-chair return and holding-company ambition.
-20. [Knowledge Project transcript carrier, 2020](https://podcasts.happyscribe.com/the-knowledge-project-with-shane-parrish/82-bill-ackman-getting-back-up) - Useful long-form interview on failure, resilience, research workflow, and post-drawdown recovery; carrier transcript, not official Pershing text.
-21. [Lex Fridman transcript, 2024](https://lexfridman.com/bill-ackman-transcript/) - Useful long-form transcript for investment-vs-trade framing, GGP, Herbalife, short-selling risk, and temperament; transcript carries its own error warning.
-22. [Interactive Investor GameStop / activism interview, 2021](https://www.ii.co.uk/analysis-commentary/bill-ackman-what-i-think-gamestop-and-shareholder-activism-ii515991) - Interview carrier for retail-flow, short-selling, PSH-as-holding-company, hedging, and ESG comments.
-23. [Interactive Investor PSH / SPAC interview, 2021](https://www.ii.co.uk/analysis-commentary/bill-ackman-latest-spac-news-and-how-make-his-portfolio-ii515992) - Interview carrier for PSH discount, great-business duration, and portfolio construction comments.
-24. [Boyar Value Group transcript, 2025](https://www.blog.boyarvaluegroup.com/boyar-value-group-blog/podcasts/billackman) - Current long-form transcript for HHH, Berkshire ambition, control path, economic rationality, and dispassion language; rough-transcript caveats apply.
-25. [FCIC Ackman interview memo, 2010](https://fcic-static.law.stanford.edu/NARA.FCIC.2016-03-11/SCREENED%20Interviews/2010-04-23%20MFR%20W.%20Ackman_4_SANITIZED.pdf) - Government interview memo for MBIA and crisis context; useful as near-primary but not a verbatim transcript.
-26. [FTC Herbalife settlement release, 2016](https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress) - Required regulator context for Herbalife; prevents overstating Pershing's campaign language as an FTC legal label.
+18. [PSUS free writing prospectus, 2024](https://www.sec.gov/Archives/edgar/data/2002660/000119312524176713/d845686dfwp.htm) - Offering-material source for asymmetric hedging and PSUS strategy framing; treat as marketing/compliance material and pair with 2026 live-vehicle disclosures.
+19. [Pershing Square combined IPO closing release, 2026](https://www.businesswire.com/news/home/20260430478098/en/Pershing-Square-Announces-the-Closing-of-the-Combined-IPO-of-Pershing-Square-USA-and-Pershing-Square-Inc.) - Current source for PSUS and Pershing Square Inc. beginning NYSE trading on April 29, 2026 under PSUS and PS.
+20. [HHH transaction release, 2025](https://investor.howardhughes.com/news-releases/news-release-details/pershing-square-invest-900-million-acquire-nine-million-newly) - Primary issuer source for Ackman quote on HHH as a holding-company platform and his executive-chair return.
+21. [Knowledge Project transcript carrier, 2020](https://podcasts.happyscribe.com/the-knowledge-project-with-shane-parrish/82-bill-ackman-getting-back-up) - Useful long-form interview on failure, resilience, research workflow, and post-drawdown recovery; carrier transcript, not official Pershing text.
+22. [Lex Fridman transcript, 2024](https://lexfridman.com/bill-ackman-transcript/) - Useful long-form transcript for investment-vs-trade framing, GGP, Herbalife, short-selling risk, and temperament; transcript carries its own error warning.
+23. [Interactive Investor GameStop / activism interview, 2021](https://www.ii.co.uk/analysis-commentary/bill-ackman-what-i-think-gamestop-and-shareholder-activism-ii515991) - Interview carrier for retail-flow, short-selling, PSH-as-holding-company, hedging, and ESG comments.
+24. [Interactive Investor PSH / SPAC interview, 2021](https://www.ii.co.uk/analysis-commentary/bill-ackman-latest-spac-news-and-how-make-his-portfolio-ii515992) - Interview carrier for PSH discount, great-business duration, and portfolio construction comments.
+25. [Boyar Value Group transcript, 2025](https://www.blog.boyarvaluegroup.com/boyar-value-group-blog/podcasts/billackman) - Current long-form transcript for HHH, Berkshire ambition, control path, economic rationality, and dispassion language; rough-transcript caveats apply.
+26. [FCIC Ackman interview memo, 2010](https://fcic-static.law.stanford.edu/NARA.FCIC.2016-03-11/SCREENED%20Interviews/2010-04-23%20MFR%20W.%20Ackman_4_SANITIZED.pdf) - Government interview memo for MBIA and crisis context; useful as near-primary but not a verbatim transcript.
+27. [FTC Herbalife settlement release, 2016](https://www.ftc.gov/news-events/news/press-releases/2016/07/herbalife-will-restructure-its-multi-level-marketing-operations-pay-200-million-consumer-redress) - Required regulator context for Herbalife; prevents overstating Pershing's campaign label as the FTC's own legal wording.
 
 ## How To Use This Quote Map
 
@@ -120,9 +123,9 @@ Finally, the quote corpus has to be separated by posture. Senate testimony, shar
 
 - Do not use quote aggregators for Ackman. His most repeated lines are often detached from date, venue, and whether he was quoting Graham, Buffett, or Pershing materials.
 - Attribute Pershing "we" language to the exact filing, presentation, or letter. Do not automatically turn every campaign-deck sentence into a personal Ackman quote.
-- Treat Herbalife materials as advocacy. The FTC required restructuring and $200 million redress, but did not formally give Pershing the clean pyramid-scheme label it wanted.
+- Treat Herbalife materials as Pershing advocacy. The FTC required restructuring and $200 million redress, alleged unfair and deceptive practices, and imposed injunctive relief, but the FTC release does not itself use Pershing's "fraud" or "pyramid scheme" label.
 - Treat GGP board letters, HHH issuer releases, and PSH/PSCM/PSUS materials as interested-party or institutional sources. They are useful for operating language, not neutral proof of outcome.
 - Treat the Valeant/Allergan filed transcript as contemporaneous deal advocacy. It is especially valuable because it preserves the underwriting language before the later Valeant loss.
 - Treat Knowledge Project, Lex, Interactive Investor, and Boyar as transcript carriers. They are useful and source-visible, but exact wording should be checked against audio/video for publication use.
 - Avoid social-media snippets unless directly archived and necessary. This file deliberately excludes volatile X/Twitter material, even though Ackman's 2024-2026 public persona is heavily shaped there.
-- Current HHH and PSUS/PS legal and public-vehicle developments should be dated carefully. Use official filings and issuer releases before secondary commentary.
+- Current HHH, PSUS, Pershing Square Inc., and related public-vehicle developments should be dated carefully. Use official filings, prospectuses, and issuer releases before secondary commentary.
