@@ -1,6 +1,6 @@
 # Daniel Loeb - Greatest Trades
 
-As of: 2026-07-01T20:37:09Z
+As of: 2026-07-01T21:34:32Z
 
 Task: T0270 - C-greatest-trades
 
@@ -14,7 +14,7 @@ The ranking favors three kinds of evidence: first, primary Third Point letters o
 
 1. Upstart - private-to-public lifecycle investment, marked at roughly $1.2 billion by Q1 2021 on about $66 million invested plus IPO shares [manager-reported].
 2. Greek sovereign bonds - about $1 billion position and reported $400-$500 million profit in 2012 [secondary-reported; triangulated].
-3. Yahoo / Alibaba look-through activism - roughly $947 million public-equity cost basis by early 2012, board settlement, 40 million-share buyback at $29.11, and reported roughly $1 billion profit [mixed primary/secondary].
+3. Yahoo / Alibaba look-through activism - roughly $947 million disclosed common-share cost by early 2012, board settlement, 40 million-share buyback at $29.11, and reported roughly $1 billion profit [mixed primary/secondary].
 4. 2009 auto and financial-credit rebound - Chrysler Financial, Delphi, Dana, Ford/Ford Credit, Lear, and financial preferreds helped move Third Point from crisis defense into a 38.6% Offshore return in 2009 [manager-letter/secondary].
 5. Sotheby's activism and take-private arc - board-seat settlement after a contested campaign; later $57/share cash sale supported by Third Point-affiliated funds [P&L not disclosed].
 6. Baxter - post-spinoff governance and CEO-selection campaign with Third Point as largest shareholder; later partial exit described as a strong gain [exact P&L not public].
@@ -41,7 +41,7 @@ The entry valuation was about $145 million. The position then moved from illiqui
 
 ### Exit and P&L
 
-Final realized P&L was not disclosed. The Q1 2021 mark alone suggests roughly an 18x gross mark on the $66 million disclosed investment before considering the IPO purchase and any later sales. Because that is a manager-reported mark, not a fully realized trade ledger, it should be treated as the best documented magnitude rather than an audited realized-profit number.
+Final realized P&L was not disclosed. The Q1 2021 mark alone suggests roughly an 18x gross mark on the $66 million disclosed investment before considering the IPO purchase and any later sales. Because that is a manager-reported mark, not a fully realized trade ledger, it should be treated as the best documented magnitude rather than an audited realized-profit number. The later public-stock drawdown is a reminder that the mark and the final realized profit can differ materially.
 
 ### What It Teaches
 
@@ -59,7 +59,7 @@ The thesis was a distressed sovereign repricing: if Greece stayed in the euro ar
 
 ### Size and Structure
 
-Business Insider, citing the Financial Times, reported that Third Point amassed about a $1 billion Greek government bond position and made about $500 million, tendering most of the position into Athens's debt buyback ([Business Insider / FT report](https://www.businessinsider.com/dan-loebs-third-point-made-500-million-on-greek-bonds-2012-12)). Vanity Fair independently reported Anthony Scaramucci's account that Loeb bought around 17 and sold around 34, making roughly $400-$500 million ([Vanity Fair profile](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident)). Because sovereign bonds are not 13F-reportable, the size and P&L remain secondary-reported rather than filing-corroborated.
+Business Insider, citing the Financial Times, reported that Third Point amassed about a $1 billion Greek government bond position and made about $500 million, tendering most of the position into Athens's debt buyback ([Business Insider / FT report](https://www.businessinsider.com/dan-loebs-third-point-made-500-million-on-greek-bonds-2012-12)). Third Point's own Q4 2012 letter is less precise, saying the firm tendered a significant portion and retained a meaningful position afterward ([Third Point Q4 2012 letter mirror](https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2013/01/Dan-Loeb-Third-Point-2012-Q4-Investor-Letter.pdf)). Vanity Fair independently reported Anthony Scaramucci's account that Loeb bought around 17 and sold around 34, making roughly $400-$500 million ([Vanity Fair profile](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident)). Because sovereign bonds are not 13F-reportable, the size and P&L remain secondary-reported rather than filing-corroborated.
 
 ### Entry, Path, and Drawdown
 
@@ -67,7 +67,7 @@ The entry was around 17 cents, after the bonds had already fallen sharply. The r
 
 ### Exit and P&L
 
-Reported profit was about $400-$500 million. This is triangulated by Business Insider/FT and Vanity Fair, but not audited in the public record. Third Point's Q4 2012 letter also identified Greek sovereign debt as a major driver of strong year-end performance, supporting the trade's importance even without a disclosed dollar profit ([Third Point Q4 2012 letter mirror](https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2013/01/Dan-Loeb-Third-Point-2012-Q4-Investor-Letter.pdf)).
+Reported profit was about $400-$500 million. This is triangulated by Business Insider/FT and Vanity Fair, but not audited in the public record. Third Point's Q4 2012 letter also identified Greek sovereign debt as a major driver of strong year-end performance, supporting the trade's importance even without a disclosed dollar profit.
 
 ### What It Teaches
 
@@ -77,7 +77,7 @@ This was classic Third Point: buy a complex, hated security where the catalyst w
 
 ### Context and Dates
 
-Third Point began accumulating Yahoo in 2011. Its initial 13D disclosed 45 million shares and options on 20 million more, equal to 5.15% beneficial ownership, with about $572.7 million spent on shares and $33.4 million on options ([Yahoo 13D, Sept. 2011](https://www.sec.gov/Archives/edgar/data/1011006/000089914011000474/a6970038.htm)). A February 2012 amendment disclosed about $946.9 million spent for 68.9 million shares ([Yahoo 13D amendment, Feb. 2012](https://www.sec.gov/Archives/edgar/data/1011006/000089914012000135/t7465280.htm)).
+Third Point began accumulating Yahoo in 2011. Its initial 13D disclosed 45 million shares and options on 20 million more, equal to 5.15% beneficial ownership, with about $572.7 million spent on shares and $33.4 million on option premiums ([Yahoo 13D, Sept. 2011](https://www.sec.gov/Archives/edgar/data/1011006/000089914011000474/a6970038.htm)). A February 2012 amendment disclosed about $946.9 million spent for 68.9 million common shares after part of the option position had been exercised ([Yahoo 13D amendment, Feb. 2012](https://www.sec.gov/Archives/edgar/data/1011006/000089914012000135/t7465280.htm)).
 
 ### Thesis and How Found
 
@@ -85,11 +85,11 @@ The thesis combined hidden asset value and governance change. Yahoo's Alibaba an
 
 ### Size and Structure
 
-The public filings show a roughly $947 million equity cost by February 2012. Third Point also used options at inception, giving it a larger economic position than common shares alone. At 2012 year-end, Third Point's 13F showed 73.0004 million Yahoo shares valued at $1.453 billion ([Third Point 13F, 2012 year-end](https://www.sec.gov/Archives/edgar/data/1040273/000108514613000612/0001085146-13-000612.txt)).
+The public filings show a roughly $947 million disclosed common-share cost by February 2012. That should not be treated as the entire economic cost basis: Third Point also used options at inception, and option premiums are not the same as full share exposure. At 2012 year-end, Third Point's 13F showed 73.0004 million Yahoo shares valued at $1.453 billion ([Third Point 13F, 2012 year-end](https://www.sec.gov/Archives/edgar/data/1040273/000108514613000612/0001085146-13-000612.txt)).
 
 ### Entry, Path, and Drawdown
 
-The campaign required public confrontation, board nominations, and reputational risk. The later HSR case is an important caveat: FTC/DOJ alleged Third Point funds violated premerger notification rules in connection with Yahoo purchases, although no civil penalties were sought because the agencies described the violation as inadvertent, short-lived, and a first offense ([FTC case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/121-0019-third-point-llc); [DOJ complaint/proposed judgment](https://www.justice.gov/atr/file/800891/dl)).
+The campaign required public confrontation, board nominations, and reputational risk. The later HSR case is an important caveat: FTC/DOJ alleged Third Point funds violated premerger notification rules in connection with Yahoo purchases, although no civil penalties were sought because the agencies described the violation as inadvertent, short-lived, and a first offense ([FTC case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/121-0019-third-point-llc); [DOJ complaint/proposed judgment](https://www.justice.gov/atr/file/800891/dl)). Public filings do not disclose Third Point's trade-level mark-to-market drawdown.
 
 ### Exit and P&L
 
@@ -115,11 +115,11 @@ Position-level sizes are not public. The book was a basket of distressed loans, 
 
 ### Entry, Path, and Drawdown
 
-The entry occurred while government rescue architecture was still uncertain. Chrysler Financial's separate $1.5 billion TARP loan was later fully repaid with interest, which supports the credit thesis but does not prove Third Point's exact trade profit ([U.S. Treasury release](https://home.treasury.gov/news/press-releases/tg700)). The path was not risk-free: the same securities could have been impaired badly if official support, bankruptcy treatment, or collateral values disappointed.
+The entry occurred while government rescue architecture was still uncertain. Chrysler Financial's separate $1.5 billion TARP loan was later fully repaid with interest, which supports the credit thesis but does not prove Third Point's exact trade profit ([U.S. Treasury release](https://home.treasury.gov/news/press-releases/tg700)). The path was not risk-free: the same securities could have been impaired badly if official support, bankruptcy treatment, or collateral values disappointed. Public letters identify the basket's winners but do not disclose security-level drawdown or full path data.
 
 ### Exit and P&L
 
-Third Point's Offshore fund returned 38.6% in 2009, and a Q4 2009 letter copy listed Delphi, Dana, Chrysler, Health Net, and General Growth among the quarter's top winners ([Third Point Q4 2009 letter mirror](https://www.scribd.com/document/27903456/Third-Point-Q4-Letter)). Exact trade-level P&L is not public, so this is best treated as a major basket that helped define the 2009 comeback rather than one isolated security.
+Third Point's Offshore fund returned 38.6% in 2009, and a Q4 2009 letter copy listed Delphi, Dana, Chrysler, Health Net, and General Growth among the quarter's top winners ([Third Point Q4 2009 letter mirror](https://www.scribd.com/document/27903456/Third-Point-Q4-Letter)). The Q4 letter names Chrysler as a winner, but it does not by itself prove detailed Chrysler Financial P&L; exact trade-level P&L is not public, so this is best treated as a major basket that helped define the 2009 comeback rather than one isolated security.
 
 ### What It Teaches
 
@@ -137,11 +137,11 @@ The thesis was that Sotheby's had a valuable brand and market position but was u
 
 ### Size and Structure
 
-The public 13D confirms 5.7% initially, while later filings and court materials show the stake moved near 10%. Third Point's 13F filings confirm multi-million-share holdings through the campaign period, including 6.35 million shares at 2013 year-end and 6.65 million in later 2014/2015 periods ([Third Point 13F, 2013 year-end](https://www.sec.gov/Archives/edgar/data/1040273/000108514614000711/xslForm13F_X01/form13fInfoTable.xml); [Third Point 13F, Q1 2014](https://www.sec.gov/Archives/edgar/data/1040273/000108514614001202/xslForm13F_X01/form13fInfoTable.xml)).
+The public 13D confirms 5.7% initially, while later filings and court materials show the disclosed stake moved to roughly 9.3%-9.7%, plus separate derivative exposure. Third Point's 13F filings confirm multi-million-share holdings through the campaign period, including 6.35 million shares at 2013 year-end and 6.65 million in later 2014/2015 periods ([Third Point 13F, 2013 year-end](https://www.sec.gov/Archives/edgar/data/1040273/000108514614000711/xslForm13F_X01/form13fInfoTable.xml); [Third Point 13F, Q1 2014](https://www.sec.gov/Archives/edgar/data/1040273/000108514614001202/xslForm13F_X01/form13fInfoTable.xml)).
 
 ### Entry, Path, and Drawdown
 
-The path included a court loss on the preliminary injunction: Delaware Chancery declined to enjoin Sotheby's poison pill and treated the board's negative-control concerns as likely proportionate at that stage ([Third Point LLC v. Ruprecht](https://courts.delaware.gov/opinions/download.aspx?ID=205180)). That legal setback did not end the campaign. Sotheby's and Third Point settled in May 2014, adding Daniel Loeb, Olivier Reza, and Harry Wilson to the board and ending the proxy contest; the support agreement also included expense reimbursement up to $10 million ([Sotheby's support agreement](https://www.sec.gov/Archives/edgar/data/823094/000119312514183175/d723453dex997.htm)).
+The path included a court loss on the preliminary injunction: Delaware Chancery declined to enjoin Sotheby's poison pill and treated the board's negative-control concerns as likely proportionate at that stage ([Third Point LLC v. Ruprecht](https://courts.delaware.gov/opinions/download.aspx?ID=205180)). This was not a final merits validation of the pill, but it was an adverse path event for Third Point. Sotheby's and Third Point later settled in May 2014, adding Daniel Loeb, Olivier Reza, and Harry Wilson to the board and ending the proxy contest; the support agreement also included expense reimbursement up to $10 million ([Sotheby's support agreement](https://www.sec.gov/Archives/edgar/data/823094/000119312514183175/d723453dex997.htm)). Public records do not disclose Third Point's trade-level drawdown.
 
 ### Exit and P&L
 
@@ -163,11 +163,11 @@ The thesis was that Baxter's post-spinoff reset created a governance and operati
 
 ### Size and Structure
 
-Public 13F data showed Baxter becoming a very large Third Point position. The position rose from 3.95 million shares at Q2 2015 to 53.85 million shares valued at about $1.769 billion at Q3 2015 ([Third Point 13F, Q2 2015](https://www.sec.gov/Archives/edgar/data/1040273/000108514615001835/xslForm13F_X01/form13fInfoTable.xml); [Third Point 13F, Q3 2015](https://www.sec.gov/Archives/edgar/data/1040273/000108514615002339/xslForm13F_X01/form13fInfoTable.xml)).
+Public 13F data showed Baxter becoming a very large Third Point position. The position moved from 3.95 million Baxter common shares at Q2 2015, plus 900,600 ex-distribution when-issued shares, to an August 2015 13D position of 37.925 million shares / 7.0%, with swaps and options also disclosed, and then to 53.85 million shares valued at about $1.769 billion at Q3 2015 ([Third Point 13F, Q2 2015](https://www.sec.gov/Archives/edgar/data/1040273/000108514615001835/xslForm13F_X01/form13fInfoTable.xml); [Baxter 13D](https://www.sec.gov/Archives/edgar/data/10456/000119312515278325/d61600dsc13d.htm); [Third Point 13F, Q3 2015](https://www.sec.gov/Archives/edgar/data/1040273/000108514615002339/xslForm13F_X01/form13fInfoTable.xml)).
 
 ### Entry, Path, and Drawdown
 
-The main path risk was that a fresh spinoff could choose a suboptimal CEO, under-deliver operationally, or resist activist governance. Baxter reached an agreement with Third Point in September 2015, appointing Third Point partner Munib Islam to the board and adding another mutually agreed director; the agreement also moved Baxter toward annual director elections ([Baxter appointment release](https://investor.baxter.com/investors/events-and-news/news/press-release-details/2015/Baxter-Appoints-Munib-Islam-to-Board-Announces-Agreement-with-Third-Point/default.aspx); [Baxter support agreement](https://www.sec.gov/Archives/edgar/data/10456/000119312515333393/d93131dex101.htm)).
+The main path risk was that a fresh spinoff could choose a suboptimal CEO, under-deliver operationally, or resist activist governance. Baxter reached an agreement with Third Point in September 2015, appointing Third Point partner Munib Islam to the board and adding another mutually agreed director; the agreement also moved Baxter toward annual director elections ([Baxter appointment release](https://investor.baxter.com/investors/events-and-news/news/press-release-details/2015/Baxter-Appoints-Munib-Islam-to-Board-Announces-Agreement-with-Third-Point/default.aspx); [Baxter support agreement](https://www.sec.gov/Archives/edgar/data/10456/000119312515333393/d93131dex101.htm)). Public records do not disclose Third Point's trade-level drawdown, and the spinoff/derivative mechanics complicate simple price-path reconstruction.
 
 ### Exit and P&L
 
@@ -193,11 +193,11 @@ The initial filing disclosed 17 million shares, or 5.65%. Later public materials
 
 ### Entry, Path, and Drawdown
 
-The campaign became a proxy fight but settled before a full board replacement. Campbell and Third Point agreed to add Sarah Hofstetter and Kurt Schmidt to the board, expand the board, include Third Point in the CEO-search process, and withdraw litigation/proxy demands ([Campbell / Third Point settlement](https://www.thecampbellscompany.com/newsroom/news/campbell-and-third-point-reach-agreement/)).
+The campaign became a proxy fight but settled before a full board replacement. Campbell and Third Point agreed to add Sarah Hofstetter and Kurt Schmidt to the board, expand the board, include Third Point in the CEO-search process, consult over a third director, and withdraw litigation/proxy demands ([Campbell / Third Point settlement](https://www.thecampbellscompany.com/newsroom/news/campbell-and-third-point-reach-agreement/)). Public records do not disclose Third Point's trade-level drawdown.
 
 ### Exit and P&L
 
-Exact P&L is not public. Third Point's Q4 2019 letter excerpt, summarized by GuruFocus, said Campbell was one of the biggest winners in Q4 and 2019, up over 6% in Q4 and 55% for the year ([GuruFocus summary of Third Point Q4 2019 letter](https://www.gurufocus.com/news/1026035/daniel-loeb-comments-on-campbell-soup)). Later reporting showed stake reductions, suggesting monetization after the recovery, but not a full realized-profit bridge ([Philadelphia Inquirer stake reduction](https://www.inquirer.com/business/campbell-soup-daniel-loeb-activist-sold-shares-20200108.html)).
+Exact P&L is not public. Third Point's Q4 2019 letter excerpt, summarized by GuruFocus, stated Campbell was one of the biggest winners in Q4 and 2019, up over 6% in Q4 and 55% for the year ([GuruFocus summary of Third Point Q4 2019 letter](https://www.gurufocus.com/news/1026035/daniel-loeb-comments-on-campbell-soup)). Later reporting showed stake reductions, suggesting monetization after the recovery, but not a full realized-profit bridge ([Philadelphia Inquirer stake reduction](https://www.inquirer.com/business/campbell-soup-daniel-loeb-activist-sold-shares-20200108.html)).
 
 ### What It Teaches
 
@@ -219,7 +219,7 @@ The 2013 exposure was more than $1 billion and included both ordinary shares and
 
 ### Entry, Path, and Drawdown
 
-Sony rejected the entertainment listing but promised greater entertainment disclosure. Third Point's Q4 2013 letter said Sony remained below Third Point's sum-of-parts valuation after the rejection, showing that the original catalyst had not fully played out ([Third Point Q4 2013 letter mirror](https://ftalphaville-cdn.ft.com/wp-content/uploads/2014/01/Third-Point-Q4-2013-Investor-Letter-TPOI.pdf)). George Clooney and other entertainment figures publicly criticized Loeb, highlighting reputational and stakeholder risk in culturally sensitive activism ([Vanity Fair profile](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident)).
+Sony rejected the entertainment listing but promised greater entertainment disclosure. Third Point's Q4 2013 letter said Sony remained below Third Point's sum-of-parts valuation after the rejection, showing that the original catalyst had not fully played out ([Third Point Q4 2013 letter mirror](https://ftalphaville-cdn.ft.com/wp-content/uploads/2014/01/Third-Point-Q4-2013-Investor-Letter-TPOI.pdf)). George Clooney and other entertainment figures publicly criticized Loeb, highlighting reputational and stakeholder risk in culturally sensitive activism ([Vanity Fair profile](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident)). Public sources do not disclose Third Point's swap-adjusted drawdown; simple Sony share-price comparisons are incomplete.
 
 ### Exit and P&L
 
@@ -231,12 +231,14 @@ Sony is a mixed but useful win: the company did not accept the proposed entertai
 
 ## Trades Considered but Not Ranked Higher
 
-Nestle, Dow/DowDuPont, Disney, Shell, Bath & Body Works, Meta, Amazon, TSMC/Nvidia/SK Hynix, and PG&E all have credible evidence of Third Point involvement or gains, but they are less clean for this task because public sources do not yet show enough campaign-level P&L, complete exit evidence, or a finished trade arc. They should remain live candidates for later synthesis or mental-model files rather than being overstated here.
+SentinelOne is the most important omitted lifecycle candidate: Third Point's Q2 2021 letter says it first invested in 2015 at a $98 million post-money valuation, owned over 10% after the IPO, and had SentinelOne as its largest Q2 winner when the company had roughly a $14 billion market cap ([Third Point Q2 2021 letter](https://assets.thirdpointlimited.com/f/166217/x/575242c2b5/third-point-q2-2021-investor-letter-tpil.pdf)). It is not ranked above Upstart because the public record here does not yet reconstruct realized P&L, later sales, or fund-level allocation as cleanly as the Upstart evidence.
+
+Nestle, Dow/DowDuPont, Disney, Shell, Bath & Body Works, Meta, Amazon, TSMC/Nvidia/SK Hynix, PG&E, SoFi, X/Twitter and xAI debt, Brightspeed, Danaher, and Fanuc all have credible evidence of Third Point involvement or gains, but they are less clean for this task because public sources do not yet show enough campaign-level P&L, complete exit evidence, or a finished trade arc. They should remain live candidates for later synthesis or mental-model files rather than being overstated here.
 
 ## Cross-Trade Lessons
 
 1. Loeb's largest wins often combine valuation and a catalyst: Yahoo's Asian assets plus board change, Greek bonds plus official-sector buyback, Sotheby's plus board settlement, and Baxter/Campbell plus governance resets.
-2. The best Third Point trades are not all hostile. Baxter and Campbell show settlement-driven activism; Upstart shows private sourcing; Greek bonds show distressed credit; Yahoo and Sotheby's show public confrontation.
-3. P&L transparency is the main research limitation. SEC filings can prove ownership and cost for public equities, but they rarely reveal full swaps, shorts, credit positions, or exits. Sovereign debt and private investments require more caution.
-4. Process risk is real. Yahoo had HSR issues, Sotheby's had poison-pill litigation, Sony carried stakeholder backlash, and Greek bonds depended on political outcomes. The greatness of the trades came from being paid for those risks, not from avoiding them.
+2. The best Third Point trades are not all hostile. Baxter and Campbell show settlement-driven activism; Upstart and SentinelOne show private sourcing; Greek bonds show distressed credit; Yahoo and Sotheby's show public confrontation.
+3. P&L transparency is the main research limitation. SEC filings can prove ownership and cost for public equities, but they rarely reveal full swaps, shorts, credit positions, private-company allocations, or exits. Sovereign debt and private investments require more caution.
+4. Process risk is real. Yahoo had HSR issues, Sotheby's had poison-pill litigation, Sony carried stakeholder backlash, Upstart now carries securities-litigation allegations, and Greek bonds depended on political outcomes. The greatness of the trades came from being paid for those risks, not from avoiding them.
 5. Loeb's edge evolved. The early image was public-letter activism, but the greatest-trades record shows a broader platform: private growth, distressed credit, public activism, structured/corporate credit, and catalyst equities.
