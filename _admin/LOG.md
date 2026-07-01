@@ -1309,3 +1309,8 @@
 - Output: investors/033-bill-ackman/synthesis.md (~1,874 words, 24 Task H sources)
 - Notes: Stale retry completed Ackman synthesis, INDEX row, and Task H source-map append; emphasized concentrated public argument, structure-as-edge/risk, permanent-capital vehicle design, and transferability limits. Preserved caveats around Pershing-reported composite returns, PSH/PSUS discount leakage, unresolved HHH litigation/docket work, AUM-definition differences, and private-ledger gaps.
 - Backlog added: None
+
+## 2026-07-01T23:29:18Z — T0268 — 034-daniel-loeb — A-profile — DONE
+- Output: investors/034-daniel-loeb/profile.md (~2,100 words, 21 Task A sources)
+- Notes: Stale retry closeout: verified the already-present Loeb profile and source map, required Task A sections, inline citations, and sample support from Third Point, SEC 13F/ADV, FTC, court/regulatory sources, and current 2026 checks. Preserved caveats around manager-reported returns, AUM/RAUM/13F non-comparability, Malibu Life/TPIL governance criticism, Upstart litigation status, and campaign-level P&L gaps.
+- Backlog added: None
