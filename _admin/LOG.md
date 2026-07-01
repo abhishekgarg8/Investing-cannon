@@ -1264,3 +1264,8 @@
 - Output: investors/033-bill-ackman/profile.md (~2,365 words, 25 sources)
 - Notes: Created Ackman profile/source map with PSCM/PSH/PSUS/HHH vehicle map, caveated PSLP-to-PSH and PSH track records, 2026 AUM, and Herbalife/Allergan/HHH legal context. Key gaps preserved around Gotham/MBIA primary records, trade-level P&L, and direct HHH Chancery docket review.
 - Backlog added: None
+
+## 2026-07-01T08:37:05Z — T0261 — 033-bill-ackman — B-philosophy — DONE
+- Output: investors/033-bill-ackman/investment-philosophy.md (~2,682 words, 39 cited URLs)
+- Notes: Completed Ackman philosophy around concentrated quality activism, permanent capital, public thesis construction, governance mechanics, bounded downside, and post-Valeant/Herbalife simplification. Preserved tensions around complexity, mission-lock, closed-end discounts, public-short path risk, HHH conflicts, and structural over-engineering.
+- Backlog added: None
