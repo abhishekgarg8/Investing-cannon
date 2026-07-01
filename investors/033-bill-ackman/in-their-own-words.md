@@ -1,6 +1,6 @@
 # Bill Ackman - In Their Own Words
 
-As of: 2026-07-01T10:42:15Z
+As of: 2026-07-01T15:38:00Z
 
 Task: T0264 | 033-bill-ackman | E-own-words
 
@@ -8,7 +8,7 @@ Task: T0264 | 033-bill-ackman | E-own-words
 
 This file privileges source-visible Ackman language from signed letters, SEC-filed exhibits, official Pershing Square / PSH materials, prepared testimony, and long-form transcript carriers. I avoided quote aggregators. A large share of the cleanest material is Pershing Square "we" language rather than Bill Ackman speaking as a private individual; those entries are still useful for method, but should be attributed to the relevant filing, shareholder letter, presentation, or issuer release.
 
-The snippets are intentionally short. They are signposts into the sources, not stand-alone proof of an investment outcome. Campaign materials on Herbalife, ADP, Target, Allergan, and Valeant are advocacy documents. Interview transcripts from Knowledge Project, Lex Fridman, Boyar, and Interactive Investor are carrier sources and should be checked against audio/video before publication-grade quotation.
+The snippets are intentionally short. They are signposts into the sources, not stand-alone proof of an investment outcome. Campaign materials on Herbalife, ADP, Target, GGP, Allergan, Valeant, and HHH are advocacy or transaction documents. Interview transcripts from Knowledge Project, Lex Fridman, Boyar, and Interactive Investor are carrier sources and should be checked against audio/video before publication-grade quotation. PSH/PSCM/PSUS fact sheets, presentations, and prospectus materials are institutional language, not always personal Ackman speech.
 
 ## Quotes By Theme
 
@@ -21,7 +21,7 @@ The snippets are intentionally short. They are signposts into the sources, not s
 5. "8 to 12 core holdings" ([PSH May 2026 fact sheet](https://pershingsquareholdings.com/wp-content/uploads/2026/06/PSH-Fact-Sheet-May-2026-Website.pdf)).
 6. "predictable, recurring cash flows" ([PSH May 2026 fact sheet](https://pershingsquareholdings.com/wp-content/uploads/2026/06/PSH-Fact-Sheet-May-2026-Website.pdf)).
 7. "time is the friend of the great business" ([Interactive Investor interview, 2021](https://www.ii.co.uk/analysis-commentary/bill-ackman-latest-spac-news-and-how-make-his-portfolio-ii515992)).
-8. "a good time to buy a great business" ([PSH 3Q 2016 investor letter](https://assets.pershingsquareholdings.com/2016/12/08112938/Pershing-Square-3Q2016-Investor-Letter-PSH.pdf)).
+8. "a good time to buy a great business is when it is in temporary trouble" ([PSH 3Q 2016 investor letter](https://assets.pershingsquareholdings.com/2016/12/08112938/Pershing-Square-3Q2016-Investor-Letter-PSH.pdf)).
 
 **Reading note:** The cleanest Ackman self-description is not "activist" alone. It is concentration plus business quality plus time. He wants the position big enough to matter, the business durable enough to underwrite, and the holding period long enough for governance or operating change to compound.
 
@@ -49,14 +49,14 @@ The snippets are intentionally short. They are signposts into the sources, not s
 23. "returning our $4 billion of capital" ([PSTH liquidation letter, 2022](https://www.sec.gov/Archives/edgar/data/1811882/000119312522191391/d305715dex992.htm)).
 24. "Our company is not a SPAC" ([SPARC prospectus, 2023](https://www.sec.gov/Archives/edgar/data/1895582/000119312523247555/d305814d424b3.htm)).
 
-**Reading note:** Ackman's own postmortem language is unusually explicit around PSTH. The lesson is not that Universal Music was unattractive; it is that a good asset can be made unworkable by structure, investor base, exchange rules, margin rules, option holders, tax issues, and regulatory consent. SPARC is the repair language: capital is not trapped before a target is known.
+**Reading note:** Ackman's own postmortem language is unusually explicit around PSTH. The lesson is not that Universal Music was unattractive; it is that a good asset can be made unworkable by structure, investor base, SEC/NYSE rule treatment, margin-account holders, option holders, and transaction complexity. SPARC is the repair language: capital is not trapped before a target is known.
 
 ### Shorts, Hedges, And Downside Shape
 
 25. "short selling is just inherently treacherous" ([Lex Fridman transcript, 2024](https://lexfridman.com/bill-ackman-transcript/)).
-26. "Stocks can trade at any price" ([Lex Fridman transcript, 2024](https://lexfridman.com/bill-ackman-transcript/)).
+26. "Stocks can trade at any price in the short term" ([Lex Fridman transcript, 2024](https://lexfridman.com/bill-ackman-transcript/)).
 27. "A trade is something you buy and you flip" ([Lex Fridman transcript, 2024](https://lexfridman.com/bill-ackman-transcript/)).
-28. "represented entirely by put options" ([PSH 3Q 2017 investor letter](https://assets.pershingsquareholdings.com/2014/09/08112825/Pershing-Square-3Q17-Investor-Letter-November-2017-PSH-2.pdf)).
+28. "our exposure is now represented entirely by put options" ([PSH 3Q 2017 investor letter](https://assets.pershingsquareholdings.com/2014/09/08112825/Pershing-Square-3Q17-Investor-Letter-November-2017-PSH-2.pdf)).
 29. "we cannot be squeezed" ([PSH 3Q 2017 investor letter](https://assets.pershingsquareholdings.com/2014/09/08112825/Pershing-Square-3Q17-Investor-Letter-November-2017-PSH-2.pdf)).
 30. "superior alternative to holding a large cash position" ([PSUS free writing prospectus, 2024](https://www.sec.gov/Archives/edgar/data/2002660/000119312524176713/d845686dfwp.htm)).
 31. "No margin leverage" ([PSCM Annual Investor Presentation, 2026](https://assets.pershingsquareholdings.com/wp-content/uploads/2026/02/11144917/2026-Annual-Investor-Presentation.pdf)).
@@ -88,7 +88,7 @@ The snippets are intentionally short. They are signposts into the sources, not s
 7. [PSH 3Q 2016 investor letter](https://assets.pershingsquareholdings.com/2016/12/08112938/Pershing-Square-3Q2016-Investor-Letter-PSH.pdf) - Primary source for Chipotle entry language, Valeant drawdown context, and Pershing's still-strong Herbalife view after the FTC settlement.
 8. [PSH 3Q 2017 investor letter](https://assets.pershingsquareholdings.com/2014/09/08112825/Pershing-Square-3Q17-Investor-Letter-November-2017-PSH-2.pdf) - Primary source for Herbalife put-option restructuring, squeeze-risk language, and activist-short restraint.
 9. [Target proxy filing, 2009](https://www.sec.gov/Archives/edgar/data/27419/000095012309007750/y01431dcdefc14a.htm) - Signed proxy letter and solicitation materials showing Ackman's board-governance framing and Target-specific operational thesis.
-10. [GGP board letter exhibit, 2012](https://www.sec.gov/Archives/edgar/data/1336528/000119312512366295/d401719dex994.htm) - SEC-filed letter showing Pershing's capital-structure activism and post-bankruptcy value-creation argument.
+10. [GGP board letter exhibit, 2012](https://www.sec.gov/Archives/edgar/data/1336528/000119312512366295/d401719dex994.htm) - SEC-filed Pershing advocacy letter showing capital-structure activism and post-bankruptcy value-creation argument.
 11. [Allergan Schedule 13D, 2014](https://www.sec.gov/Archives/edgar/data/850693/000119312514150906/d711603dsc13d.htm) - Primary ownership and purpose-of-transaction filing for Pershing's Allergan stake; concise governance/strategic-engagement language.
 12. [Valeant/Allergan filed transcript, 2014](https://www.sec.gov/Archives/edgar/data/850693/000119312514155081/d714446d425.htm) - Long source-visible transcript for Ackman's then-favorable Valeant underwriting, quality criteria, and platform-value reasoning.
 13. [ADP SEC-filed proxy material, 2017](https://www.sec.gov/Archives/edgar/data/8670/000119312517307998/d473821ddfan14a.htm) - Official campaign deck for Pershing's underperformance, margin, technology, governance, and board-refresh thesis.
@@ -97,7 +97,7 @@ The snippets are intentionally short. They are signposts into the sources, not s
 16. [PSTH liquidation letter, 2022](https://www.sec.gov/Archives/edgar/data/1811882/000119312522191391/d305715dex992.htm) - SEC-filed liquidation letter explaining return of trust capital, investment criteria, SPAC market deterioration, and SPARC rationale.
 17. [SPARC prospectus, 2023](https://www.sec.gov/Archives/edgar/data/1895582/000119312523247555/d305814d424b3.htm) - Primary legal source for SPARC's not-a-SPAC structure and future-capital-raise mechanics.
 18. [PSUS free writing prospectus, 2024](https://www.sec.gov/Archives/edgar/data/2002660/000119312524176713/d845686dfwp.htm) - Offering-material source for Pershing's asymmetric-hedging pitch and PSUS strategy framing.
-19. [HHH transaction release, 2025](https://investor.howardhughes.com/news-releases/news-release-details/pershing-square-invest-900-million-acquire-nine-million-newly) - Primary issuer source for Ackman's HHH executive-chair return and holding-company ambition.
+19. [HHH transaction release, 2025](https://investor.howardhughes.com/news-releases/news-release-details/pershing-square-invest-900-million-acquire-nine-million-newly) - Primary issuer transaction source for Ackman's HHH executive-chair return and holding-company ambition.
 20. [Knowledge Project transcript carrier, 2020](https://podcasts.happyscribe.com/the-knowledge-project-with-shane-parrish/82-bill-ackman-getting-back-up) - Useful long-form interview on failure, resilience, research workflow, and post-drawdown recovery; carrier transcript, not official Pershing text.
 21. [Lex Fridman transcript, 2024](https://lexfridman.com/bill-ackman-transcript/) - Useful long-form transcript for investment-vs-trade framing, GGP, Herbalife, short-selling risk, and temperament; transcript carries its own error warning.
 22. [Interactive Investor GameStop / activism interview, 2021](https://www.ii.co.uk/analysis-commentary/bill-ackman-what-i-think-gamestop-and-shareholder-activism-ii515991) - Interview carrier for retail-flow, short-selling, PSH-as-holding-company, hedging, and ESG comments.
@@ -114,13 +114,14 @@ The second pattern is the tension between simplicity and engineering. Ackman say
 
 The third pattern is post-loss adaptation. The Knowledge Project language about failure is personal, while the PSTH letters are institutional. Together they show how Ackman narrates error: acknowledge the point of failure, preserve the underlying principle where he still believes it, and redesign the process or vehicle. This can be healthy learning, but it can also preserve too much conviction when the original thesis should simply be retired.
 
-Finally, the quote corpus has to be separated by posture. Senate testimony, shareholder letters, and prospectuses are not casual reflections; they are advocacy, compliance, investor relations, or transaction documents. Interviews reveal more texture but need transcript caution. The best later work should pair each quote with the surrounding trade outcome, legal context, and source incentives.
+Finally, the quote corpus has to be separated by posture. Senate testimony, shareholder letters, issuer releases, campaign decks, and prospectuses are not casual reflections; they are advocacy, compliance, investor relations, or transaction documents. Interviews reveal more texture but need transcript caution. The best later work should pair each quote with the surrounding trade outcome, legal context, and source incentives.
 
 ## Attribution Watchlist
 
 - Do not use quote aggregators for Ackman. His most repeated lines are often detached from date, venue, and whether he was quoting Graham, Buffett, or Pershing materials.
 - Attribute Pershing "we" language to the exact filing, presentation, or letter. Do not automatically turn every campaign-deck sentence into a personal Ackman quote.
 - Treat Herbalife materials as advocacy. The FTC required restructuring and $200 million redress, but did not formally give Pershing the clean pyramid-scheme label it wanted.
+- Treat GGP board letters, HHH issuer releases, and PSH/PSCM/PSUS materials as interested-party or institutional sources. They are useful for operating language, not neutral proof of outcome.
 - Treat the Valeant/Allergan filed transcript as contemporaneous deal advocacy. It is especially valuable because it preserves the underwriting language before the later Valeant loss.
 - Treat Knowledge Project, Lex, Interactive Investor, and Boyar as transcript carriers. They are useful and source-visible, but exact wording should be checked against audio/video for publication use.
 - Avoid social-media snippets unless directly archived and necessary. This file deliberately excludes volatile X/Twitter material, even though Ackman's 2024-2026 public persona is heavily shaped there.
