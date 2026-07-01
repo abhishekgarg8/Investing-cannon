@@ -1299,3 +1299,8 @@
 - Output: investors/034-daniel-loeb/investment-philosophy.md (~2,503 words, 18 Task B sources)
 - Notes: Completed Loeb philosophy across catalyst-driven worldview, activist process, cross-capital-structure edge, risk controls, temperament/evolution, regimes, and tensions. Preserved caveats around 13F limits, manager-reported materials, HSR/Yahoo and Sotheby's legal constraints, CoStar thesis-break evidence, and TPIL/Malibu governance objections.
 - Backlog added: None
+
+## 2026-07-01T21:24:52Z — T0270 — 034-daniel-loeb — C-greatest-trades — DONE
+- Output: investors/034-daniel-loeb/greatest-trades.md (~3,790 words, 27 Task C sources)
+- Notes: Closeout/QA of already-present Loeb greatest-trades file; verified Upstart, Greek bonds, Yahoo, 2009 credit, Sotheby's, Baxter, Campbell, and Sony evidence. Tightened Upstart entry-date and litigation caveats; preserved private-ledger, secondary-P&L, 13F, mirror-letter, and legal/process-risk limits.
+- Backlog added: None
