@@ -1294,3 +1294,8 @@
 - Output: investors/033-bill-ackman/mental-models.md (~3506 words, 25 Task G sources)
 - Notes: Stale-style closeout/refreshed the already-present Ackman mental-models file after T0264 landed; updated the As-of line, removed stale A-F dependency wording, hardened checklist citations, and added the missing Task G source map. Preserved caveats around public-only evidence, 13F limits, third-party campaign archives, and live HHH governance/litigation risk.
 - Backlog added: None
+
+## 2026-07-01T20:08:51Z — T0269 — 034-daniel-loeb — B-philosophy — DONE
+- Output: investors/034-daniel-loeb/investment-philosophy.md (~2,503 words, 18 Task B sources)
+- Notes: Completed Loeb philosophy across catalyst-driven worldview, activist process, cross-capital-structure edge, risk controls, temperament/evolution, regimes, and tensions. Preserved caveats around 13F limits, manager-reported materials, HSR/Yahoo and Sotheby's legal constraints, CoStar thesis-break evidence, and TPIL/Malibu governance objections.
+- Backlog added: None
