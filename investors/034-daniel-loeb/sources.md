@@ -104,3 +104,59 @@ As of: 2026-07-01T20:06:00Z
 17. [Malibu Life investor presentation](https://assets.thirdpointlimited.com/f/166217/x/e755210c53/investor-presentation-07-25-2025.pdf), [Business Wire insurance solutions announcement](https://www.businesswire.com/news/home/20250723014288/en/Third-Point-Launches-Insurance-Solutions-Fund-to-Provide-Private-Credit-Opportunities-for-Insurance-Companies), and [Malibu Life site](https://www.malibulifeinsurance.com/) - Primary platform-evolution sources for insurance-linked credit, reinsurance liabilities, AS Birch Grove, and the TPIL/Malibu transition.
 
 18. [New Yorker profile](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor) and [Vanity Fair letter profile](https://www.vanityfair.com/news/2013/10/dan-loeb-mean-letters) - Secondary sources used only for reputation, public-letter style, and temperament analysis; not used for financial figures.
+
+## Task C - Greatest Trades Source Map
+
+As of: 2026-07-01T20:37:09Z
+
+1. [Third Point Q1 2021 investor letter](https://assets.thirdpointlimited.com/f/166217/x/532e88d45d/third-point-q1-2021-investor-letter-tpil.pdf) - Primary manager source for Upstart's initial valuation, ownership, dollars invested, IPO share purchase, and Q1 2021 market value. Used with manager-reported/mark-to-market caveat.
+
+2. [Third Point Q2 2023 investor letter](https://assets.thirdpointlimited.com/f/166217/x/44aad2e051/third-point-q2-2023-investor-letter-tpil.pdf) - Primary manager source for Upstart later being described as Third Point's most lucrative investment and for broader AI/cloud positioning context.
+
+3. [Third Point Q3 2012 investor letter mirror](https://www.scribd.com/document/108887940/Third-Point-Q3-2012-Investor-Letter-TPOI) - Manager-letter copy used for Greek government bond entry price, base-case/upside scenarios, and European credit return context. Mirror-hosted; use with provenance caveat.
+
+4. [Third Point Q4 2012 investor letter mirror](https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2013/01/Dan-Loeb-Third-Point-2012-Q4-Investor-Letter.pdf) - Manager-letter copy identifying Greek sovereign debt, Yahoo, Murphy Oil, and credit books as major 2012 performance drivers. Mirror-hosted.
+
+5. [Business Insider report citing Financial Times on Greek bonds](https://www.businessinsider.com/dan-loebs-third-point-made-500-million-on-greek-bonds-2012-12) - Secondary source for reported roughly $1 billion Greek bond position and about $500 million profit; triangulated but not primary.
+
+6. [Vanity Fair profile, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Greek buy/sell levels and $400-$500 million reported profit, Chrysler Financial doubling, and Sony stakeholder criticism. Used only where primary filings do not provide P&L.
+
+7. [Kathimerini / Bloomberg Greek recovery fund report](https://www.ekathimerini.com/economy/150269/third-point-starting-greek-focused-hedge-fund-on-recovery-bet/) - Secondary report supporting Greek bond tender/partial sale and residual exposure.
+
+8. [Yahoo 13D, September 2011](https://www.sec.gov/Archives/edgar/data/1011006/000089914011000474/a6970038.htm) - Primary filing for Third Point's initial Yahoo share count, option exposure, cost, and beneficial ownership.
+
+9. [Yahoo 13D amendment, February 2012](https://www.sec.gov/Archives/edgar/data/1011006/000089914012000135/t7465280.htm) - Primary filing for increased Yahoo share count and about $946.9 million disclosed common-share cost.
+
+10. [Yahoo settlement filing, May 2012](https://www.sec.gov/Archives/edgar/data/1011006/000119312512231456/d352779dex9901.htm) - Primary filing for Third Point board-seat settlement and 70.545 million share / 5.8% ownership reference.
+
+11. [Third Point 13F, 2012 year-end](https://www.sec.gov/Archives/edgar/data/1040273/000108514613000612/0001085146-13-000612.txt) - Primary filing corroborating Third Point's 73.0004 million Yahoo shares valued at about $1.453 billion at year-end 2012.
+
+12. [TechCrunch Yahoo share repurchase report](https://techcrunch.com/2013/07/22/yahoo-buys-40m-shares-from-third-point-1-2b-in-value-as-loeb-wilson-and-wolf-resign-from-board/) - Secondary report for Yahoo's 40 million-share buyback from Third Point at $29.11 and board resignations.
+
+13. [FTC Third Point/Yahoo HSR case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/121-0019-third-point-llc) and [DOJ filing](https://www.justice.gov/atr/file/800891/dl) - Primary regulatory caveat for Yahoo accumulation and investment-only-exemption risk.
+
+14. [Third Point Q3 2008 letter mirror](https://aboveaverageodds.wordpress.com/wp-content/uploads/2009/12/loeb-thirdpoint_q32008.pdf) - Manager-letter copy for 2008 drawdown, hedging, reduced net exposure, and no Lehman bankruptcy exposure. Used to frame survival before the 2009 distressed-credit rebound.
+
+15. [GuruFocus summary of Third Point Q2 2009 letter](https://www.gurufocus.com/news/66264/daniel-loeb-bought-bank-of-america-and-arbitraged-pfizer-and-wyeth-deal) - Secondary/letter-summary source for 2009 credit exposure, risk-arbitrage exposure, Chrysler Financial as top winner, and auto/financial-credit positions.
+
+16. [U.S. Treasury Chrysler Financial TARP repayment release](https://home.treasury.gov/news/press-releases/tg700) - Primary government source confirming Chrysler Financial's $1.5 billion TARP loan repayment with interest. Supports credit-context mechanics, not Third Point P&L.
+
+17. [Third Point Q4 2009 letter mirror](https://www.scribd.com/document/27903456/Third-Point-Q4-Letter) - Manager-letter copy for 2009 Offshore return and Q4 winner list including Delphi, Dana, Chrysler, Health Net, and General Growth. Mirror-hosted.
+
+18. [Sotheby's 13D, August 2013](https://www.sec.gov/Archives/edgar/data/823094/000119312513346480/d588939dsc13d.htm) and [Third Point Sotheby's letter exhibit](https://www.sec.gov/Archives/edgar/data/823094/000119312513388165/d605390dex993.htm) - Primary filings for Sotheby's initial stake, later larger ownership reference, and activist critique.
+
+19. [Third Point LLC v. Ruprecht](https://courts.delaware.gov/opinions/download.aspx?ID=205180) and [Sotheby's support agreement](https://www.sec.gov/Archives/edgar/data/823094/000119312514183175/d723453dex997.htm) - Primary legal and settlement sources for the Sotheby's poison-pill fight, board seats, and reimbursement terms.
+
+20. [Sotheby's acquisition announcement](https://www.sothebys.com/en/articles/sothebys-announces-definitive-agreement-to-be-acquired-by-patrick-drahi) and [Sotheby's 2019 8-K](https://www.sec.gov/Archives/edgar/data/823094/000119312519174299/d766624d8k.htm) - Primary/company sources for the $57/share BidFair transaction and Third Point-affiliated fund support agreement.
+
+21. [Baxter 13D](https://www.sec.gov/Archives/edgar/data/10456/000119312515278325/d61600dsc13d.htm), [Baxter response](https://investor.baxter.com/investors/events-and-news/news/press-release-details/2015/Baxter-Comments-on-Schedule-13D-Filing-by-Third-Point/default.aspx), and [Baxter support agreement](https://www.sec.gov/Archives/edgar/data/10456/000119312515333393/d93131dex101.htm) - Primary sources for Baxter stake, engagement, board appointment, and governance agreement.
+
+22. [Third Point 13F Q2 2015](https://www.sec.gov/Archives/edgar/data/1040273/000108514615001835/xslForm13F_X01/form13fInfoTable.xml) and [Third Point 13F Q3 2015](https://www.sec.gov/Archives/edgar/data/1040273/000108514615002339/xslForm13F_X01/form13fInfoTable.xml) - Primary filings for Baxter position build and size.
+
+23. [Campbell 13D](https://www.sec.gov/Archives/edgar/data/16732/000119312518244115/d593020dsc13d.htm), [Third Point Campbell presentation](https://www.10xebitda.com/wp-content/uploads/2020/03/Third-Point-Campbell-Presentation-October-2018.pdf), and [Campbell settlement release](https://www.thecampbellscompany.com/newsroom/news/campbell-and-third-point-reach-agreement/) - Campaign sources for Campbell stake, thesis, proxy fight, settlement, board additions, and CEO-search influence.
+
+24. [GuruFocus summary of Third Point Q4 2019 letter](https://www.gurufocus.com/news/1026035/daniel-loeb-comments-on-campbell-soup) and [Philadelphia Inquirer stake reduction report](https://www.inquirer.com/business/campbell-soup-daniel-loeb-activist-sold-shares-20200108.html) - Secondary sources for Campbell 2019 performance reference and later monetization. Exact P&L not public.
+
+25. [Third Point Sony May 2013 letter](https://www.10xebitda.com/wp-content/uploads/2016/12/Dan-Loeb-Letter-to-Sony-Corp-May-2013.pdf), [Third Point Sony June 2013 letter](https://im.ft-static.com/content/images/c9d5eaca-d82a-11e2-b4a4-00144feab7de.pdf), [Sony response](https://www.sony.com/en/SonyInfo/News/Press/201308/13-091E/), [Third Point Q4 2013 letter mirror](https://ftalphaville-cdn.ft.com/wp-content/uploads/2014/01/Third-Point-Q4-2013-Investor-Letter-TPOI.pdf), and [Los Angeles Times exit report](https://www.latimes.com/entertainment/envelope/cotown/la-et-ct-activist-investor-dan-loeb-sells-stake-in-sony-corp-20141021-story.html) - Source set for Sony sizing, thesis, rejection, continued valuation argument, and reported exit return.
+
+Evidence gaps preserved for future tasks: complete Third Point trade ledgers; exact realized P&L for Upstart, Yahoo, Sotheby's, Baxter, Campbell, and Sony; non-13F credit/sovereign position sizes; original official PDFs for some historical Third Point letters now available only through mirrors.
