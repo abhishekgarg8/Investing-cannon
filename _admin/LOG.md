@@ -1319,3 +1319,7 @@
 - Output: investors/034-daniel-loeb/mistakes-and-losses.md (~3,523 words, 33 cited URLs)
 - Notes: Closeout/QA of already-present Loeb mistakes/losses file; corrected Offshore loss figures and tightened Shell plus Malibu Life governance wording. Preserved caveats around manager-reported returns, unresolved Upstart litigation, non-quantified campaign P&L, and TPIL/Malibu outcome uncertainty.
 - Backlog added: None
+## 2026-07-02T04:35:56Z — T0273 — 034-daniel-loeb — F-key-writings — DONE
+- Output: investors/034-daniel-loeb/key-writings.md (~4,118 words, 83 cited links)
+- Notes: Closeout/QA of already-present Loeb key-writings file and Task F source map; verified required Task F sections, inline citations, Third Point letter coverage, activist/legal caveats, and current 2026 interview/panel materials from the five read-only research lanes. Preserved caveats around advocacy-document bias, mirror-hosted older letters, paywalled sources, HSR/legal context, and the evolving credit-heavy Third Point platform.
+- Backlog added: None
