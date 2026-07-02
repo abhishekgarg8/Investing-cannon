@@ -350,7 +350,7 @@ As of: 2026-07-02T13:24:00Z
 
 ## Task F - Key Writings Source Map (T0281)
 
-As of: 2026-07-02T16:30:54Z
+As of: 2026-07-02T16:38:31Z
 
 167. [Paul Singer, "Of Owners and Ownership," Harvard Law School Forum, 2021](https://corpgov.law.harvard.edu/2021/11/15/of-owners-and-ownership/) - Best public Singer-byline on shareholder ownership, passive-investor limits, stakeholder rhetoric, and board/management accountability; HLS notes it was adapted from an Elliott quarterly letter.
 
@@ -400,11 +400,11 @@ As of: 2026-07-02T16:30:54Z
 
 190. [Samsung Electronics value-enhancement letter, 2016](https://www.prnewswire.com/news-releases/letter-to-the-samsung-electronics-board-of-directors-outlining-value-enhancement-proposals-300339629.html) and [Samsung Electronics shareholder-value roadmap](https://news.samsung.com/global/samsung-electronics-announces-comprehensive-roadmap-to-enhance-long-term-shareholder-value-creation) - Non-U.S. campaign and issuer-side writing on Samsung Electronics capital allocation, governance, and shareholder-value proposals; distinguish from the later Samsung C&T/Cheil treaty-arbitration record.
 
-191. [AT&T letter mirror, 2019](https://deadline.com/wp-content/uploads/2019/09/elliott-management-letter-to-board-of-directors-of-att.pdf) - Public campaign letter on conglomerate strategy and capital allocation; mirror provenance should be noted.
+191. [AT&T letter mirror, 2019](https://deadline.com/wp-content/uploads/2019/09/elliott-management-letter-to-board-of-directors-of-att.pdf), [AT&T investor materials, 2019](https://investors.att.com/~/media/Files/A/ATT-IR/financial-reports/quarterly-earnings/2019/3q-2019/3Q19%20Investor%20News%20Items.pdf), and [Elliott AT&T statement, 2021](https://www.prnewswire.com/news-releases/elliott-statement-on-at-t-301292551.html) - Public campaign letter and follow-up sources on conglomerate strategy and capital allocation; Deadline mirror access/provenance varies, so pair with AT&T/Elliott materials.
 
 192. [Iron Mountain SEC soliciting material, 2011](https://www.sec.gov/Archives/edgar/data/904495/000119312511061573/ddfan14a.htm) - Older proxy material showing Elliott's REIT-conversion and capital-allocation argument style.
 
-193. [Twitter cooperation agreement, 2020](https://www.sec.gov/Archives/edgar/data/1418091/000119312520067362/d846415dex102.htm) - Primary settlement mechanics for board representation, governance review, and negotiated influence.
+193. [Twitter cooperation agreement, 2020](https://www.sec.gov/Archives/edgar/data/1418091/000119312520067362/d846415dex102.htm) and [Twitter/Silver Lake/Elliott announcement](https://www.silverlake.com/twitter-inc-announces-partnership-with-silver-lake-and-elliott-management/) - Primary settlement mechanics for board representation, governance review, negotiated influence, Silver Lake investment, and buyback context.
 
 194. [Salesforce/Elliott joint statement, 2023](https://investor.salesforce.com/news/news-details/2023/Salesforce-and-Elliott-Issue-Joint-Statement/default.aspx) - Primary issuer/activist statement for withdrawn nominations after transformation, margin, and governance commitments.
 
