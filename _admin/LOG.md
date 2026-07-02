@@ -1323,3 +1323,7 @@
 - Output: investors/034-daniel-loeb/key-writings.md (~4,118 words, 83 cited links)
 - Notes: Closeout/QA of already-present Loeb key-writings file and Task F source map; verified required Task F sections, inline citations, Third Point letter coverage, activist/legal caveats, and current 2026 interview/panel materials from the five read-only research lanes. Preserved caveats around advocacy-document bias, mirror-hosted older letters, paywalled sources, HSR/legal context, and the evolving credit-heavy Third Point platform.
 - Backlog added: None
+## 2026-07-02T05:57:25Z — T0275 — 034-daniel-loeb — H-synthesis — DONE
+- Output: investors/034-daniel-loeb/synthesis.md (~3,140 words, 24 cited links)
+- Notes: Completed Loeb synthesis, INDEX row, and Task H source-map append from completed A-D/F files plus fresh checks of Third Point Q1/Q4 2026 letters, CoStar, Upstart, HSR, Malibu Life/TPIL, ADV/13F, and peer syntheses. T0272 own-words and T0274 mental-models remained claimed/missing, so synthesis flags a refresh dependency for verified quotes and final checklist language. Preserved caveats around manager-reported returns, 13F/AUM/RAUM non-comparability, campaign-level P&L gaps, CoStar thesis-break evidence, Upstart litigation posture, and Malibu Life governance/platform risk.
+- Backlog added: None
