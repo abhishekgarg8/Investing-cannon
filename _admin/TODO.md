@@ -287,7 +287,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-07-02T12:09:44Z T0280 | 035-paul-singer | E-own-words | investors/035-paul-singer/in-their-own-words.md
 - [x] done:2026-07-02T16:22:08Z T0281 | 035-paul-singer | F-key-writings | investors/035-paul-singer/key-writings.md
 - [x] done:2026-07-02T13:38:31Z T0282 | 035-paul-singer | G-mental-models | investors/035-paul-singer/mental-models.md
-- [~] claimed:2026-07-02T17:19:40Z T0283 | 035-paul-singer | H-synthesis | investors/035-paul-singer/synthesis.md
+- [x] done:2026-07-02T17:27:14Z T0283 | 035-paul-singer | H-synthesis | investors/035-paul-singer/synthesis.md
 - [ ] T0284 | 036-li-lu | A-profile | investors/036-li-lu/profile.md
 - [ ] T0285 | 036-li-lu | B-philosophy | investors/036-li-lu/investment-philosophy.md
 - [ ] T0286 | 036-li-lu | C-greatest-trades | investors/036-li-lu/greatest-trades.md
