@@ -1342,3 +1342,7 @@
 - Output: investors/034-daniel-loeb/mental-models.md (~3,420 words, 27 sources)
 - Notes: Stale retry closeout: verified already-present Loeb mental-models file with five research lanes; refreshed current Malibu Life platform execution, added the missing Task G source map, and preserved public-evidence/13F/P&L limitations. Caveats maintained around HSR/legal process, Upstart litigation posture, CoStar thesis-break evidence, and TPIL/Malibu governance objections.
 - Backlog added: None
+## 2026-07-02T09:38:03Z — T0277 — 035-paul-singer — B-philosophy — DONE
+- Output: investors/035-paul-singer/investment-philosophy.md (~3,328 words, 27 sources)
+- Notes: Completed Singer philosophy around ownership rights, legal/process leverage, activism mechanics, hedged portfolio construction, and survival-first risk culture. Caveats preserved around manager/consultant return data, advocacy-source criticism, economic exposure vs voting ownership, and active LME/Korea legal-process failure modes.
+- Backlog added: None

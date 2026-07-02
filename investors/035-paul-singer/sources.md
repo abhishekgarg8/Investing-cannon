@@ -69,3 +69,40 @@ This source file ranks the most useful materials found for Paul Singer's A-profi
 - Economic exposure is not always voting common stock. Southwest and other campaigns include swaps, options, and derivative/economic exposure that can differ from beneficial ownership.
 
 - Current legal status needs fresh docket checks for Samsung/Korea, Citgo/Venezuela, Stronghold, AC Milan/RedBird, and other live disputes before later B-H tasks rely on them.
+## Task B - Investment Philosophy Source Map (T0277)
+
+As of: 2026-07-02T09:34:39Z
+
+26. [Elliott Equity-Oriented strategy page](https://www.elliottmgmt.com/what-we-do/equity-oriented/) - Best concise first-party statement that Elliott is not mainly long-only valuation investing; useful for uncorrelated positions, manual effort, asymmetry, and optionality.
+
+27. [Elliott Distressed Securities strategy page](https://www.elliottmgmt.com/what-we-do/distressed-securities/) - Best first-party description of the process/complexity/negotiation edge in distressed investing.
+
+28. [Elliott Portfolio Volatility Protection strategy page](https://www.elliottmgmt.com/what-we-do/portfolio-volatility-protection/) - First-party source for hedging instruments across credit, equity, volatility, rates, gold, and currencies.
+
+29. [Norges Bank Investment Management podcast page: Paul Singer, 2025](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/) and [third-party transcript mirror](https://podscripts.co/podcasts/in-good-company-with-nicolai-tangen/paul-singer-activist-investing-market-risks-and-avoiding-losses) - Best recent own-words source for activism definition, process, risk aversion, benchmarking, and temperament. Transcript mirror should be rechecked against audio before quote-heavy future tasks.
+
+30. [Paul Singer, "Of Owners and Ownership," Harvard Law School Forum, 2021](https://corpgov.law.harvard.edu/2021/11/15/of-owners-and-ownership/) - Best own-words source for shareholder-rights worldview, critique of passive/index ownership, rejection of "just sell," and stakeholder-accountability arguments.
+
+31. [Elliott SEC comment letter on beneficial ownership modernization, 2022](https://www.sec.gov/comments/s7-06-22/s70622-279518.pdf) and [Elliott SEC comment letter on security-based swap disclosure, 2022](https://www.sec.gov/comments/s7-32-10/s73210-20120750-272913.pdf) - Primary regulatory-policy evidence that disclosure timing, swaps, and shareholder communication are core to Elliott's activism model.
+
+32. [Southwest Schedule 13D/A, February 2026](https://www.sec.gov/Archives/edgar/data/92380/000090266426000646/xslSCHEDULE_13D_X01/primary_doc.xml) - Primary source for direct share cost, reduced economic exposure, cash-settled swaps, swap-call options, margin language, and the difference between beneficial ownership and economic exposure.
+
+33. [Southwest proxy exhibit/press release, October 2024](https://www.sec.gov/Archives/edgar/data/92380/000090266424005829/p24-2934exhibit99.htm) - Primary source for campaign escalation, 11% economic interest, director slate, and participant list including Paul Singer.
+
+34. [Elliott NRG letter, May 2023](https://www.prnewswire.com/news-releases/elliott-sends-letter-and-presentation-to-the-board-of-nrg-energy-301824565.html), [Elliott NRG letter, June 2023](https://www.prnewswire.com/news-releases/elliott-calls-for-new-ceo-and-strategic-review-at-nrg-energy-301864470.html), and [NRG cooperation agreement exhibit, November 2023](https://www.sec.gov/Archives/edgar/data/1013871/000110465923119741/tm2331129d1_ex10-1.htm) - Best public-company example of Elliott's escalation ladder from thesis memo to leadership pressure to settlement mechanics.
+
+35. [Twitter/Silver Lake/Elliott announcement, March 2020](https://www.silverlake.com/twitter-inc-announces-partnership-with-silver-lake-and-elliott-management/) - Primary/issuer-side source for negotiated influence: board seats, Silver Lake investment, buyback authorization, and governance review.
+
+36. [Salesforce and Elliott joint statement, March 2023](https://www.businesswire.com/news/home/20230327005297/en/Salesforce-and-Elliott-Issue-Joint-Statement) - Primary source showing sell/settlement discipline through withdrawn nominations after management, margin, capital-return, and governance commitments.
+
+37. [ICMA standard CACs and pari passu provisions, May 2015](https://www.icmagroup.org/assets/documents/Resources/ICMA-Standard-CACs-Pari-Passu-and-Creditor-Engagement-Provisions---May-2015.pdf) - Best source for market adaptation to the NML-style pari passu remedy; use for regime-dependence and edge decay.
+
+38. [Special Master statement on Argentina holdout settlement, February 2016](https://www.prnewswire.com/news-releases/special-master-announces-settlement-of-15-year-battle-between-argentina-and-holdout-hedge-funds-300227673.html) - Primary settlement-process source for the $4.653 billion aggregate agreement in principle with NML and other funds; not sufficient for exact Elliott profit.
+
+39. [CWA/SOC report, "Activist Hedge Fund Risks to Pension Funds: The Case of Elliott Management," 2021](https://cwa-union.org/sites/default/files/activist_hedge_fund_risks_to_pension_funds_case_of_elliot_mgt_sept_2020_socig_and_cwa.pdf) - Advocacy/critic source for the long-term target-company and pension-fund critique; useful only when clearly labeled as adversarial methodology.
+
+40. [CWA/PESP Elliott investor letter, 2020](https://cwa-union.org/sites/default/files/20200107-pesp-elliott-investor-letter.pdf) - Advocacy/critic source for recent return, fee, and AUM-growth concerns; useful counterweight to long-run performance claims.
+
+41. [Institutional Investor coverage of union/SOC critique, 2021](https://www.institutionalinvestor.com/article/2bswuziii3me2ot6zwruo/portfolio/paul-singers-elliott-is-a-risk-to-pension-funds-union-report-argues) - Secondary source balancing critic claims with Elliott's investor-letter return claims and response context.
+
+42. [LME Nickel litigation page](https://www.lme.com/lme-nickel-litigation), [PCA Elliott v. Korea case page](https://pca-cpa.org/ar/cases/197/), and [Arnold & Porter Korea update, 2026](https://www.arnoldporter.com/en/perspectives/news/2026/02/arnold-porter-secures-set-aside-of-arbitral-award-for-the-republic-of-korea) - Best task-B sources for legal-process risk, adverse rulings, remand posture, and the limits of Elliott's litigation edge.
