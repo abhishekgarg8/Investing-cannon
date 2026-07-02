@@ -1365,3 +1365,8 @@
 - Output: investors/035-paul-singer/mistakes-and-losses.md (~3,500 words, 34 Task D source-map entries)
 - Notes: Stale retry closeout: verified already-present Singer mistakes/losses output and Task D source map after five research lanes and spot checks. Preserved caveats around private Elliott ledgers, single-source allocator/media performance data, advocacy-source benchmarks, AMF reduced sanctions, LME/UKSC date nuance, Korea remand/pending posture, sovereign-debt policy backlash, and campaign-level P&L opacity.
 - Backlog added: None
+
+## 2026-07-02T16:22:08Z — T0281 — 035-paul-singer — F-key-writings — DONE
+- Output: investors/035-paul-singer/key-writings.md (~0 words, 53 sources)
+- Notes: Stale retry closeout: verified Singer/Elliott key-writings output after five research lanes, added the missing Task F source map, and tightened Grant Williams interview citation. Preserved caveats around no public Elliott letter archive, Singer-versus-firm attribution, advocacy-document bias, paywalled/partial sources, Korea/LME/AMF legal-status limits, and AUM/ADV/13F non-comparability.
+- Backlog added: None

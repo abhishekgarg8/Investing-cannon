@@ -346,3 +346,88 @@ As of: 2026-07-02T13:24:00Z
 165. [Salesforce and Elliott joint statement, 2023](https://www.businesswire.com/news/home/20230327005297/en/Salesforce-and-Elliott-Issue-Joint-Statement) - Primary source for Elliott withdrawing director nominations after Salesforce's transformation, margin, and governance commitments.
 
 166. [NRG cooperation agreement exhibit, 2023](https://www.sec.gov/Archives/edgar/data/1013871/000110465923119741/tm2331129d1_ex10-1.htm) - Primary SEC exhibit for settlement mechanics, board changes, and governance terms in a modern Elliott campaign.
+
+
+## Task F - Key Writings Source Map (T0281)
+
+As of: 2026-07-02T16:22:08Z
+
+167. [Paul Singer, "Of Owners and Ownership," Harvard Law School Forum, 2021](https://corpgov.law.harvard.edu/2021/11/15/of-owners-and-ownership/) - Best public Singer-byline on shareholder ownership, passive-investor limits, stakeholder rhetoric, and board/management accountability; HLS notes it was adapted from an Elliott quarterly letter.
+
+168. [Paul Singer, "Efficient Markets Need Guys Like Me," Manhattan Institute / Wall Street Journal, 2017](https://manhattan.institute/article/efficient-markets-need-guys-like-me) - Public mirror of Singer's WSJ op-ed defending activism as a complement to index ownership; use as advocacy, not outcome proof.
+
+169. [Norges Bank Investment Management podcast page: Paul Singer, 2025](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/) - Official recent interview page for activism, market risk, avoiding loss, crypto, AI valuations, and career reflections; use audio/video for exact quotation.
+
+170. [Grant Williams, The End Game Ep. 14: Paul Singer](https://www.grant-williams.com/podcast/the-end-game-ep-14-paul-singer/) - Long-form macro interview useful for inflation, central-bank, currency, derivatives, and crisis-risk context; transcript carrier should be checked before quote-heavy use.
+
+171. [Jefferies, "Paul Singer on Exercising Caution in an Era of Extremes," 2025](https://www.jefferies.com/insights/markets/paul-singer-on-exercising-caution-in-an-era-of-extremes/) - Current edited remarks on AI, inflation, tariffs, valuations, and prudence; host-edited, so best for themes rather than verbatim quotation.
+
+172. [Elliott official About page](https://www.elliottmgmt.com/about-elliott/) - Current first-party source for founding year, assets, headcount, culture, liquidity, counterparty risk, and value-added global approach.
+
+173. [Elliott official What We Do page](https://www.elliottmgmt.com/what-we-do/) - First-party strategy taxonomy showing Elliott's multi-strategy corpus beyond public equity activism.
+
+174. [Elliott official Paul Singer biography](https://www.elliottmgmt.com/who-we-are/paul-singer/) - Current role and committee-membership source; useful for attribution boundaries between Singer personally and Elliott institutionally.
+
+175. [Elliott SEC beneficial-ownership comment letter, 2022](https://www.sec.gov/comments/s7-06-22/s70622-279518.pdf) - Primary regulatory-policy source for Elliott's view that shortened disclosure windows, group rules, and derivative treatment can impair activism.
+
+176. [Elliott SEC security-based swap comment package, 2022](https://www.sec.gov/comments/s7-32-10/s73210-20120750-272913.pdf) - Primary regulatory-policy source for swaps, disclosure timing, proprietary strategy protection, and exposure design.
+
+177. [Elliott SEC universal proxy comment letter, 2021](https://www.sec.gov/comments/s7-24-16/s72416-8883055-240420.pdf) - Governance-process source for Elliott's shareholder-democracy and proxy-contest rule arguments.
+
+178. [Southwest Airlines SC 13D filing detail and June 2024 board letter](https://www.sec.gov/Archives/edgar/data/92380/000090266424004970/0000902664-24-004970-index.htm) - Primary campaign source for Southwest thesis language, economic exposure, leadership critique, and escalation materials.
+
+179. [Southwest Airlines September 2024 proxy material](https://www.sec.gov/Archives/edgar/data/92380/000092189524002164/ex991dfan14a10168307_092424.pdf) - Detailed proxy-campaign presentation for board, management, and operating-change arguments.
+
+180. [Southwest Airlines 2026 Schedule 13D/A filing detail](https://www.sec.gov/Archives/edgar/data/92380/000090266426001308/0000902664-26-001308-index.htm) - Current exposure update for an ongoing campaign; important for separating direct shares from economic exposure.
+
+181. [Elliott NRG letter and presentation, 2023](https://www.prnewswire.com/news-releases/elliott-sends-letter-and-presentation-to-the-board-of-nrg-energy-301824565.html) - Primary campaign writing on cost cuts, board/CEO change, Vivint review, and free-cash-flow discipline.
+
+182. [NRG cooperation agreement exhibit, 2023](https://www.sec.gov/Archives/edgar/data/1013871/000110465923119741/tm2331129d1_ex10-1.htm) - Primary settlement record for governance mechanics after Elliott's NRG campaign.
+
+183. [Elliott Phillips 66 letter, 2023](https://www.prnewswire.com/news-releases/elliott-sends-letter-to-the-board-of-phillips-66-302000704.html) - Primary campaign writing on refining execution, board additions, and performance gap.
+
+184. [Elliott Phillips 66 proxy material, 2025](https://www.sec.gov/Archives/edgar/data/1534701/000092189525000692/ex991todfan10168003_030425.pdf) - Escalated proxy-contest material for governance, simplification, and accountability arguments.
+
+185. [Streamline 66 presentation, 2025](https://streamline66.com/wp-content/uploads/2025/04/Streamline-66-Elliotts-Perspectives-on-Value-Creation.pdf) - Elliott-hosted campaign deck useful for full valuation bridge and public shareholder-argument structure.
+
+186. [Elliott PepsiCo presentation release, 2025](https://www.prnewswire.com/news-releases/elliott-sends-presentation-to-board-of-directors-of-pepsico-inc-302543745.html) - Mega-cap campaign example with a more constructive tone around focus, operating efficiency, reinvestment, and accountability.
+
+187. [Elliott Toyota Industries campaign page, 2026](https://elliottletters.com/toyota-industries/) and [PRNewswire tender-offer statement](https://www.prnewswire.com/apac/news-releases/elliott-opposes-toyota-fudosans-revised-tender-offer-for-toyota-industries-corporation-302664093.html) - Current Japan campaign source on minority-shareholder protection, valuation, governance, and tender-offer process.
+
+188. [Elliott Northern Star campaign page, 2026](https://elliottletters.com/nst/) and [Northern Star Rising presentation](https://elliottletters.com/wp-content/uploads/Northern-Star-Rising.pdf) - Current Australia campaign source on strategic review, board refresh, operating performance, and succession.
+
+189. [Hess proxy material, 2013](https://www.sec.gov/Archives/edgar/data/4447/000110465913027029/a13-7739_4dfan14a.htm) - Older campaign template for discount, capital allocation, board accountability, and management credibility language.
+
+190. [Samsung Electronics value-enhancement letter, 2016](https://www.prnewswire.com/news-releases/letter-to-the-samsung-electronics-board-of-directors-outlining-value-enhancement-proposals-300339629.html) - Non-U.S. campaign writing on conglomerate complexity, governance, and minority-shareholder rights.
+
+191. [AT&T letter mirror, 2019](https://deadline.com/wp-content/uploads/2019/09/elliott-management-letter-to-board-of-directors-of-att.pdf) - Public campaign letter on conglomerate strategy and capital allocation; mirror provenance should be noted.
+
+192. [Iron Mountain SEC soliciting material, 2011](https://www.sec.gov/Archives/edgar/data/904495/000119312511061573/ddfan14a.htm) - Older proxy material showing Elliott's REIT-conversion and capital-allocation argument style.
+
+193. [Twitter cooperation agreement, 2020](https://www.sec.gov/Archives/edgar/data/1418091/000119312520067362/d846415dex102.htm) - Primary settlement mechanics for board representation, governance review, and negotiated influence.
+
+194. [Salesforce/Elliott joint statement, 2023](https://investor.salesforce.com/news/news-details/2023/Salesforce-and-Elliott-Issue-Joint-Statement/default.aspx) - Primary issuer/activist statement for withdrawn nominations after transformation, margin, and governance commitments.
+
+195. [Elliott Associates v. Republic of Peru, S.D.N.Y. 1998](https://law.justia.com/cases/federal/district-courts/FSupp2/12/328/2499011/) and [Second Circuit 1999](https://law.justia.com/cases/federal/appellate-courts/F3/194/363/505181/) - Core primary court records for the sovereign-distressed enforcement template and champerty reversal.
+
+196. [NML Capital v. Republic of Argentina, Second Circuit 2012](https://law.justia.com/cases/federal/appellate-courts/ca2/12-105/12-105-2012-10-26.html), [2013 follow-on opinion](https://www.casemine.com/judgement/us/5914ae5eadd7b049347471df), and [Supreme Court 2014](https://supreme.justia.com/cases/federal/us/573/134/) - Primary records for pari passu, payment mechanics, discovery, and enforcement leverage.
+
+197. [PCA Elliott Associates L.P. v. Republic of Korea case page](https://pca-cpa.org/ar/cases/197/) and [Italaw award PDF](https://www.italaw.com/sites/default/files/case-documents/180117.pdf) - Primary arbitration record for the Samsung C&T/Cheil treaty claim; use with 2026 remand/set-aside caveat.
+
+198. [LME nickel litigation page](https://www.lme.com/lme-nickel-litigation) and [Court of Appeal judgment](https://www.lme.com/-/media/Files/News/R-Elliott-Associates-v-London-Metal-Exchange-final-judgment.pdf) - Primary/current records for Elliott's adverse nickel-cancellation litigation outcome.
+
+199. [AMF Elliott sanctions release](https://www.amf-france.org/en/news-publications/news-releases/enforcement-committee-news-releases/amf-enforcement-committee-fines-elliott-advisors-uk-limited-and-elliott-capital-advisors-lp-failing) and [Cour de cassation decision](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049385455) - Primary regulator/court records for disclosure and obstruction findings in the XPO/Norbert Dentressangle matter.
+
+200. [Sheelah Kolhatkar, "Paul Singer, Doomsday Investor," New Yorker, 2018](https://www.newyorker.com/magazine/2018/08/27/paul-singer-doomsday-investor) - Best narrative profile; useful for biography, reputation, tactics, and controversy, not standalone performance proof.
+
+201. [Gregory Makoff, Default, Georgetown University Press](https://press.georgetown.edu/Book/Default) - Book-length Argentina/NML treatment; page-level verification still needed before fine-grained quotation.
+
+202. [New Jersey Division of Investment memo on Elliott Associates, 2011](https://www.nj.gov/treasury/doinvest/pdf/AlternativeInvestments/HedgeFund/ElliottAssociates.pdf) - Best public allocator diligence document for strategy, risk, and manager-reported performance context.
+
+203. [Institutional Investor: "The Last Hedge Fund Pit Bull"](https://www.institutionalinvestor.com/article/2bsw3n74o0833e1cg9e68/portfolio/the-last-hedge-fund-pit-bull), [Fortune Elliott profile](https://fortune.com/2017/12/07/elliott-management-hedge-fund-paul-singer/), and [Euromoney Elliott profile](https://www.euromoney.com/article/27bjsstsqxhkmh1b07xib/capital-markets/elliott-associates-aggression-captures-low-risk-returns/) - Strong secondary profiles for campaign style and firm identity; paywall/access caveats apply.
+
+204. [CWA/SOC activist-risk report](https://cwa-union.org/sites/default/files/activist_hedge_fund_risks_to_pension_funds_case_of_elliot_mgt_sept_2020_socig_and_cwa.pdf) and [PESP/CWA Elliott investor letter](https://cwa-union.org/sites/default/files/20200107-pesp-elliott-investor-letter.pdf) - Adversarial labor/pension critiques; useful counterweights when clearly labeled.
+
+205. [Buchheit and Gulati, Restructuring Sovereign Debt After NML v. Argentina](https://scholarship.law.duke.edu/faculty_scholarship/3647/) and [Weidemaier NML analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199655) - Best legal-academic bridge for NML's broader sovereign-debt implications.
+
+206. [UNCTAD Argentina holdout note](https://unctad.org/news/argentinas-vulture-fund-crisis-threatens-profound-consequences-international-financial-system) and [French Treasury vulture-fund note](https://www.tresor.economie.gouv.fr/Articles/10bf577a-8002-4404-823f-a6167eca2f3b/files/37ecd990-e585-4836-ac2e-8976cae1b604) - Official policy counterweights showing sovereign-debt backlash and rule-change context.
