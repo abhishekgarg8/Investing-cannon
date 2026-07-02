@@ -1,6 +1,6 @@
 # Daniel Loeb - Sources
 
-As of: 2026-07-02T01:28:30Z
+As of: 2026-07-02T01:36:55Z
 
 This source file ranks the most useful materials found for Daniel Loeb's A-profile and appends task-specific source maps for later research files. Primary sources are preferred, especially Third Point letters, SEC filings, court opinions, company releases, and official adviser records. Secondary profiles are used for color, birth details, reputation, and reported campaign economics, with caveats.
 
@@ -98,6 +98,18 @@ Task D uses the sources below plus relevant ranked sources above, especially ite
 
 44. [MLHL 2025 financial statements](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1698/MLHL_Final_Financial_Statements_4.22.2026.pdf) - Primary source for post-transaction Malibu Life Holdings status, Third Point Master Fund allocation, and continuing operating model.
 
-45. [The New Yorker profile, "The Angry Investor," 2005](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor) - Secondary source for Loeb's early public-letter reputation and the behavioral risks of humiliation-based activism.
+45. [TPIL EGM result, 2025](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1652/result-of-extraordinary-general-meeting-rns.pdf) - Primary vote-result source for the Malibu transaction, including 66.67% support, 33.33% opposition, and the board's acknowledgment of meaningful dissent.
 
-46. [Vanity Fair profile of Daniel Loeb, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Loeb's reputation, claimed post-2008 effort to reduce personal invective, and the persistence of public-letter backlash.
+46. [TPIL redemption result, 2025](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1648/result-of-redemption-offer-consideration-shares.pdf) - Primary source for oversubscribed redemption mechanics, including submitted and accepted share counts.
+
+47. [Takeover Panel ruling summary, 2025](https://markets.ft.com/data/announce/detail?dockey=1323-17216331-5N53Q9GFVD1F9KJI1F2BIR9VAD) - Source for the rejected appeal seeking a mandatory-offer ruling; useful to avoid overstating Malibu as an adjudicated control-law breach.
+
+48. [MLHL May 2026 monthly report](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1707/2026.05_May_Monthly_Report_Third_Point_Master_Fund.pdf) - Current source for post-closing asset mix and the continuing Third Point/Malibu Re allocation.
+
+49. [Upstart 2025 annual report / Form 10-K PDF](https://ir.upstart.com/static-files/77673faa-918f-48b8-a6e2-d30846f896f2) - Company filing used to cross-check the Crain/In re Upstart securities litigation status and Third Point-related renewed motion-to-dismiss timeline.
+
+50. [Dunn v. Upstart Holdings docket, N.D. Cal.](https://dockets.justia.com/docket/california/candce/3%3A2026cv02974/467290) - Current docket source for a separate 2026 Upstart securities class action; names Upstart and executives rather than Third Point defendants.
+
+51. [The New Yorker profile, "The Angry Investor," 2005](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor) - Secondary source for Loeb's early public-letter reputation and the behavioral risks of humiliation-based activism.
+
+52. [Vanity Fair profile of Daniel Loeb, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Loeb's reputation, claimed post-2008 effort to reduce personal invective, and the persistence of public-letter backlash.
