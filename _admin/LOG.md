@@ -1314,3 +1314,8 @@
 - Output: investors/034-daniel-loeb/profile.md (~2,100 words, 21 Task A sources)
 - Notes: Stale retry closeout: verified the already-present Loeb profile and source map, required Task A sections, inline citations, and sample support from Third Point, SEC 13F/ADV, FTC, court/regulatory sources, and current 2026 checks. Preserved caveats around manager-reported returns, AUM/RAUM/13F non-comparability, Malibu Life/TPIL governance criticism, Upstart litigation status, and campaign-level P&L gaps.
 - Backlog added: None
+
+## 2026-07-02T01:36:08Z — T0271 — 034-daniel-loeb — D-mistakes — DONE
+- Output: investors/034-daniel-loeb/mistakes-and-losses.md (~3,523 words, 33 cited URLs)
+- Notes: Closeout/QA of already-present Loeb mistakes/losses file; corrected Offshore loss figures and tightened Shell plus Malibu Life governance wording. Preserved caveats around manager-reported returns, unresolved Upstart litigation, non-quantified campaign P&L, and TPIL/Malibu outcome uncertainty.
+- Backlog added: None
