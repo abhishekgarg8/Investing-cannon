@@ -1327,3 +1327,8 @@
 - Output: investors/034-daniel-loeb/synthesis.md (~3,140 words, 24 cited links)
 - Notes: Completed Loeb synthesis, INDEX row, and Task H source-map append from completed A-D/F files plus fresh checks of Third Point Q1/Q4 2026 letters, CoStar, Upstart, HSR, Malibu Life/TPIL, ADV/13F, and peer syntheses. T0272 own-words and T0274 mental-models remained claimed/missing, so synthesis flags a refresh dependency for verified quotes and final checklist language. Preserved caveats around manager-reported returns, 13F/AUM/RAUM non-comparability, campaign-level P&L gaps, CoStar thesis-break evidence, Upstart litigation posture, and Malibu Life governance/platform risk.
 - Backlog added: None
+
+## 2026-07-02T07:40:09Z — T0272 — 034-daniel-loeb — E-own-words — DONE
+- Output: investors/034-daniel-loeb/in-their-own-words.md (~1,884 words, 35 quotes / 22 Task E sources)
+- Notes: Stale retry closeout: QA'd already-present own-words file with five read-only quote/source checks, tightened Star Gas/Nestle/short-selling provenance, and added the missing Task E source map. Preserved caveats around institutional "we" language, advocacy-document bias, mirror-hosted materials, rough transcript carriers, HSR/legal context, Upstart litigation posture, CoStar exit, and Malibu/TPIL governance objections.
+- Backlog added: None
