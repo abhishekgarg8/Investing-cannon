@@ -1,6 +1,6 @@
 # Daniel Loeb - Sources
 
-As of: 2026-07-02T01:36:55Z
+As of: 2026-07-02T03:42:04Z
 
 This source file ranks the most useful materials found for Daniel Loeb's A-profile and appends task-specific source maps for later research files. Primary sources are preferred, especially Third Point letters, SEC filings, court opinions, company releases, and official adviser records. Secondary profiles are used for color, birth details, reputation, and reported campaign economics, with caveats.
 
@@ -113,3 +113,71 @@ Task D uses the sources below plus relevant ranked sources above, especially ite
 51. [The New Yorker profile, "The Angry Investor," 2005](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor) - Secondary source for Loeb's early public-letter reputation and the behavioral risks of humiliation-based activism.
 
 52. [Vanity Fair profile of Daniel Loeb, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Loeb's reputation, claimed post-2008 effort to reduce personal invective, and the persistence of public-letter backlash.
+
+## Task F - Key Writings Source Map (T0273)
+
+Task F uses ranked sources above plus the task-specific materials below. Core primary sources are Third Point / TPIL / Malibu investor letters, SEC exhibits, court opinions, company releases, and official conference pages. Secondary works are ranked mainly for interpretation of Loeb's writing style and activist persona.
+
+53. [Malibu Life resources archive](https://www.malibulifeinsurance.com/resources/) - Current public hub for 2024-2026 Third Point / TPIL / Malibu Life letters, reports, and annual materials. Useful for locating the latest post-TPIL-transition documents.
+
+54. [Third Point Q4 2024 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/26/third-point-q4-2024-investor-letter_tpil.pdf) - Primary letter for the current platform, AI/physical-world investment framing, and 2024 recovery context.
+
+55. [Third Point Q4 2023 investor letter](https://assets.thirdpointlimited.com/f/166217/x/4c01ad22d8/fourth-quarter-2023-investor-letter-tpil.pdf) - Primary letter for post-2022 process adjustment, high-rate-market framing, and short-book discussion.
+
+56. [Third Point Q4 2013 investor letter](https://ftalphaville-cdn.ft.com/wp-content/uploads/2014/01/Third-Point-Q4-2013-Investor-Letter-TPOI.pdf) - Important activist-period letter, including Dow-related analysis. Hosted by FT Alphaville; use source-host caveat.
+
+57. [Third Point December 2025 monthly report](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1683/Third_Point_Master_Fund_December_2025_Monthly_Report.pdf) - Performance and exposure context for current Third Point communications. Manager-reported and not narrative prose.
+
+58. [Yahoo 2011 board letter SEC exhibit](https://www.sec.gov/Archives/edgar/data/1011006/000089914011000474/a6970038b.htm) - Primary carrier for the Yahoo board-governance and Asian-asset-value thesis used in the key-writings guide.
+
+59. [Yahoo 2011 letter opposing private-equity transaction](https://www.sec.gov/Archives/edgar/data/1011006/000089914011000516/y6991465b.htm) - Primary SEC exhibit for campaign escalation and Loeb's opposition to an insider-friendly transaction structure.
+
+60. [Yahoo 2012 Thompson/Hart letter](https://www.sec.gov/Archives/edgar/data/1011006/000089914012000299/y7749418b.htm) - Primary SEC exhibit for the educational-record discrepancy governance challenge.
+
+61. [Sony 2013 Third Point letter, WSJ-hosted PDF](https://www.wsj.com/public/resources/documents/ThirdPointLettertoSony.pdf) - Primary letter text for the Sony Entertainment partial-listing thesis. Hosted by WSJ, not Third Point.
+
+62. [Third Point, A Stronger Sony, 2019](https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2019/06/23114258/A-Stronger-Sony-Letter.pdf) - Primary campaign presentation/letter for Third Point's 2019 Sony portfolio and semiconductor-separation thesis.
+
+63. [Sotheby's 2013 Third Point letter SEC exhibit](https://www.sec.gov/Archives/edgar/data/823094/000119312513388165/d605390dex993.htm) - Primary letter for margins, governance, compensation, board ownership, and leadership critique.
+
+64. [Sotheby's April 2014 Third Point presentation mirror](https://www.10xebitda.com/wp-content/uploads/2016/11/Third-Point-Sothebys-Presentation-Apr-2014.pdf) - Proxy-fight presentation. Useful but mirror-hosted; prefer SEC-filed materials where available.
+
+65. [Campbell 2018 Third Point DFAN14A](https://www.sec.gov/Archives/edgar/data/16732/000119312518289694/d625024ddfan14a.htm) - Primary SEC-filed campaign material for the full-board-refresh argument.
+
+66. [Third Point #NestleNOW release](https://www.advfn.com/stock-market/NYSE/TPRE/stock-news/77779013/third-point-publishes-presentation-on-nestlenow) - Accessible release and presentation lead for the Nestle campaign. Current public carriers are mostly secondary or mirror sources.
+
+67. [Shell Q3 2021 Third Point investor letter](https://assets.thirdpointlimited.com/f/166217/x/33cbc7ad16/third-point-q3-2021-investor-letter-tpil.pdf) - Primary letter for the Shell separation thesis and conflicting-shareholder-mandate argument.
+
+68. [Third Point Disney 2020 letter](https://assets.thirdpointlimited.com/f/166217/x/be59df6502/third-point-letter-to-disney-october-2020-tpou.pdf) - Primary letter for Loeb's pro-reinvestment Disney+ dividend-suspension thesis.
+
+69. [Invest Like the Best, Daniel Loeb episode, 2026](https://colossus.com/episode/reminiscences-of-an-investor/) - Official episode page for Loeb's current long-form interview. Public page is not a full open transcript.
+
+70. [Milken Institute 2026 Macro Meets the Real Economy panel](https://milkeninstitute.org/content-hub/event-panels/macro-meets-real-economy-credit-private-equity-and-next-investment-cycle) - Official panel page for current Loeb comments on credit, private equity, and the investment cycle.
+
+71. [Milken Institute 2026 panel transcript PDF](https://milkeninstitute.org/sites/default/files/2026-05/MacroMeetsRealEconomy_Transcript_GC26.pdf) - Official transcript PDF for the Milken panel; useful for near-primary current comments.
+
+72. [WSJ Japan op-ed by Loeb and Lawrence B. Lindsey, 2013](https://www.wsj.com/articles/SB10001424127887324021104578551213361894312) - Paywalled op-ed source for Japan/Sony-era macro framing. Use only where accessible.
+
+73. [WSJ philanthropy op-ed by Loeb, 2020](https://www.wsj.com/opinion/effective-giving-requires-rolling-up-your-sleeves-11602886784) - Paywalled source for Loeb's public persona and philanthropy framing; outside core investment process.
+
+74. [Maneet Ahuja, The Alpha Masters, Wiley listing](https://www.wiley-vch.de/en/areas-interest/finance-economics-law/finance-investments-13fi/investments-securities-13fi3/the-alpha-masters-978-1-118-97117-8) - Best secondary book source for Loeb/Third Point chapter context.
+
+75. [The Alpha Masters, O'Reilly preview of Chapter 7](https://www.oreilly.com/library/view/the-alpha-masters/9781118167571/xhtml/Chapter07.html) - Preview carrier for the Loeb chapter. Use with book-source caveats.
+
+76. [Jeff Gramm, Dear Chairman, HarperCollins listing](https://www.harpercollins.com/products/dear-chairman-jeff-gramm) - Best book source for public activist letters as governance instruments.
+
+77. [Dear Chairman Loeb chapter PDF](https://static1.squarespace.com/static/56bffa38d51cd4587e617679/t/5a8474c9652dea87701985ee/1518630092002/Loeb%2Bchapter.pdf) - Accessible chapter carrier for Gramm's account of Loeb and hedge-fund activism.
+
+78. [Steve Fishman, Get Richest Quickest, New York Magazine, 2004](https://nymag.com/nymetro/news/bizfinance/finance/features/10426/) - Best early profile of Loeb's pre-institutional public image and early reputation.
+
+79. [Deepak Gopinath, Hedge Fund Rabble-Rouser, Bloomberg Markets mirror](https://www.scribd.com/document/58069272/DanLoeb-Bloomberg) - Contemporaneous 2005 profile; mirror-hosted, so use cautiously.
+
+80. [William D. Cohan, Little Big Man, Vanity Fair, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Sony-era reputation, maturation claims, and public-profile context.
+
+81. [Michelle Celarier, The Return of Dan Loeb, Institutional Investor, 2025](https://www.institutionalinvestor.com/article/2e9dav7vlsldizaehfegw/premium/the-return-of-dan-loeb) - Recent premium secondary source on Third Point's contemporary platform and return-to-form narrative.
+
+82. [Juliet Chung, Biggest Chapter Yet for a Poison Pen, WSJ, 2012](https://www.wsj.com/article/SB10000872396390444130304577559000855796614.html) - Paywalled secondary source for Yahoo-era reputation and public-letter style.
+
+83. [Kara Swisher, AllThingsD Yahoo campaign coverage, 2012](https://allthingsd.com/20120209/ready-to-rumble-or-make-nice-activist-shareholder-daniel-loeb-could-strike-sooner-than-yahoo-thinks/) - Secondary contemporaneous technology-sector coverage of the Yahoo campaign.
+
+84. [Vanity Fair roundup of Loeb's scathing letters, 2013](https://www.vanityfair.com/news/2013/10/dan-loeb-mean-letters) - Useful roadmap to early public letters; not a preferred canonical carrier for final citations.
