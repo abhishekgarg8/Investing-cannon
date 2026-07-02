@@ -1370,3 +1370,8 @@
 - Output: investors/035-paul-singer/key-writings.md (~0 words, 53 sources)
 - Notes: Stale retry closeout: verified Singer/Elliott key-writings output after five research lanes, added the missing Task F source map, tightened Grant Williams interview citation, and refined the SEC 13D deadline nuance. Preserved caveats around no public Elliott letter archive, Singer-versus-firm attribution, advocacy-document bias, paywalled/partial sources, Korea/LME/AMF legal-status limits, and AUM/ADV/13F non-comparability.
 - Backlog added: None
+
+## 2026-07-02T16:33:17Z — T0281 — 035-paul-singer — F-key-writings — DONE
+- Output: investors/035-paul-singer/key-writings.md (~2,985 words, 53+ sources)
+- Notes: QA follow-up within the same stale retry: refreshed the as-of stamp, corrected Manhattan Institute provenance, renamed the interviews section, narrowed Elliott platform wording, added issuer/counterparty context for NRG, Phillips 66, PepsiCo, Toyota Industries, Northern Star, Hess, and Samsung Electronics, and clarified that the NML Supreme Court opinion concerned post-judgment discovery rather than pari passu merits. Queue state left unchanged.
+- Backlog added: None
