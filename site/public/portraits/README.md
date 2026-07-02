@@ -10,5 +10,5 @@ Drop investor portrait images here, named by their catalog number:
 
 - Any file starting with the 3-digit number is detected automatically (`001.jpg`, `001.png`, etc.). The card markup currently points at `.jpg`, so prefer `.jpg`.
 - Portrait orientation: vertical (3:4) works best; images are cropped with `object-fit: cover`.
-- A duotone filter is applied in CSS so mismatched source photos blend into the gallery palette — no need to pre-edit them.
+- Portraits are shown in their original color; avoid pre-applying grayscale or duotone treatments.
 - Missing a portrait? The card falls back to an intentional gradient-and-initials placeholder, so the grid never looks broken.
