@@ -1375,3 +1375,8 @@
 - Output: investors/035-paul-singer/key-writings.md (~4,048 words, 68 inline links)
 - Notes: QA follow-up within the same stale retry: refreshed the as-of stamp, corrected Manhattan Institute provenance, renamed the interviews section, narrowed Elliott platform wording, added issuer/counterparty context for NRG, Phillips 66, PepsiCo, Toyota Industries, Northern Star, Hess, Samsung Electronics, AT&T, and Twitter, and clarified that the NML Supreme Court opinion concerned post-judgment discovery rather than pari passu merits. Queue state left unchanged.
 - Backlog added: None
+
+## 2026-07-02T17:27:14Z — T0283 — 035-paul-singer — H-synthesis — DONE
+- Output: investors/035-paul-singer/synthesis.md (~3,141 words, 21 Task H sources)
+- Notes: Refreshed the already-present Singer synthesis after T0281 key-writings landed, removing stale dependency language and integrating the Singer/Elliott source taxonomy. Caveats preserved around private track records, AUM/RAUM/13F non-comparability, live Korea/CITGO/campaign tails, AMF/LME legal outcomes, and campaign P&L opacity.
+- Backlog added: None
