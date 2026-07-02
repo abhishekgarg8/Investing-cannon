@@ -275,7 +275,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [x] done:2026-07-01T23:29:18Z T0268 | 034-daniel-loeb | A-profile | investors/034-daniel-loeb/profile.md
 - [x] done:2026-07-01T20:08:51Z T0269 | 034-daniel-loeb | B-philosophy | investors/034-daniel-loeb/investment-philosophy.md
 - [x] done:2026-07-01T21:24:52Z T0270 | 034-daniel-loeb | C-greatest-trades | investors/034-daniel-loeb/greatest-trades.md
-- [ ] T0271 | 034-daniel-loeb | D-mistakes | investors/034-daniel-loeb/mistakes-and-losses.md
+- [~] claimed:2026-07-02T01:10:04Z T0271 | 034-daniel-loeb | D-mistakes | investors/034-daniel-loeb/mistakes-and-losses.md
 - [ ] T0272 | 034-daniel-loeb | E-own-words | investors/034-daniel-loeb/in-their-own-words.md
 - [ ] T0273 | 034-daniel-loeb | F-key-writings | investors/034-daniel-loeb/key-writings.md
 - [ ] T0274 | 034-daniel-loeb | G-mental-models | investors/034-daniel-loeb/mental-models.md
