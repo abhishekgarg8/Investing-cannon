@@ -1346,3 +1346,8 @@
 - Output: investors/035-paul-singer/investment-philosophy.md (~3,328 words, 27 sources)
 - Notes: Completed Singer philosophy around ownership rights, legal/process leverage, activism mechanics, hedged portfolio construction, and survival-first risk culture. Caveats preserved around manager/consultant return data, advocacy-source criticism, economic exposure vs voting ownership, and active LME/Korea legal-process failure modes.
 - Backlog added: None
+
+## 2026-07-02T12:09:44Z — T0280 — 035-paul-singer — E-own-words — DONE
+- Output: investors/035-paul-singer/in-their-own-words.md (~2645 words, 33 sources)
+- Notes: Completed Singer/Elliott quote file with 32 short sourced quotes, separating Singer personal voice from Elliott institutional, representative, and legal voices. Flagged transcript, court/regulator-characterization, and campaign-advocacy caveats.
+- Backlog added: None
