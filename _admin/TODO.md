@@ -279,7 +279,7 @@ Procedure: _admin/HOURLY_RUNBOOK.md. Templates and quality bar: _admin/RESEARCH_
 - [~] claimed:2026-07-02T03:13:34Z T0272 | 034-daniel-loeb | E-own-words | investors/034-daniel-loeb/in-their-own-words.md
 - [x] done:2026-07-02T04:35:56Z T0273 | 034-daniel-loeb | F-key-writings | investors/034-daniel-loeb/key-writings.md
 - [~] claimed:2026-07-02T05:17:10Z T0274 | 034-daniel-loeb | G-mental-models | investors/034-daniel-loeb/mental-models.md
-- [ ] T0275 | 034-daniel-loeb | H-synthesis | investors/034-daniel-loeb/synthesis.md
+- [~] claimed:2026-07-02T05:21:31Z T0275 | 034-daniel-loeb | H-synthesis | investors/034-daniel-loeb/synthesis.md
 - [ ] T0276 | 035-paul-singer | A-profile | investors/035-paul-singer/profile.md
 - [ ] T0277 | 035-paul-singer | B-philosophy | investors/035-paul-singer/investment-philosophy.md
 - [ ] T0278 | 035-paul-singer | C-greatest-trades | investors/035-paul-singer/greatest-trades.md
