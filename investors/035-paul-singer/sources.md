@@ -106,3 +106,63 @@ As of: 2026-07-02T09:34:39Z
 41. [Institutional Investor coverage of union/SOC critique, 2021](https://www.institutionalinvestor.com/article/2bswuziii3me2ot6zwruo/portfolio/paul-singers-elliott-is-a-risk-to-pension-funds-union-report-argues) - Secondary source balancing critic claims with Elliott's investor-letter return claims and response context.
 
 42. [LME Nickel litigation page](https://www.lme.com/lme-nickel-litigation), [PCA Elliott v. Korea case page](https://pca-cpa.org/ar/cases/197/), and [Arnold & Porter Korea update, 2026](https://www.arnoldporter.com/en/perspectives/news/2026/02/arnold-porter-secures-set-aside-of-arbitral-award-for-the-republic-of-korea) - Best task-B sources for legal-process risk, adverse rulings, remand posture, and the limits of Elliott's litigation edge.
+
+## Task D - Mistakes and Losses Source Map (T0279)
+
+As of: 2026-07-02T10:29:59Z
+
+43. [Elliott official biography: Paul Singer](https://www.elliottmgmt.com/who-we-are/paul-singer/) - Current official role and committee memberships; useful for tying Singer personally to risk, valuation, management, and investment oversight.
+
+44. [Elliott official About page](https://www.elliottmgmt.com/about-elliott/) - Firm-level current assets/headcount and first-party description of culture, tenacity, liquidity management, operational/counterparty risk, and value creation. Use as Elliott's own process/risk-control claim, not independent proof.
+
+45. [Elliott Portfolio Volatility Protection strategy page](https://www.elliottmgmt.com/what-we-do/portfolio-volatility-protection/) - First-party source for hedging across credit, equity, volatility, rates, gold, and currencies; central to the process-change section.
+
+46. [Norges Bank Investment Management podcast page: Paul Singer, 2025](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/) and [third-party transcript mirror](https://podscripts.co/podcasts/in-good-company-with-nicolai-tangen/paul-singer-activist-investing-market-risks-and-avoiding-losses) - Recent own-words source on activism, risk aversion, benchmarking, and avoiding losses. The transcript mirror should be checked against audio before future quote-heavy use.
+
+47. [New Jersey Division of Investment memo on Elliott Associates, 2011](https://www.nj.gov/treasury/doinvest/pdf/AlternativeInvestments/HedgeFund/ElliottAssociates.pdf) - Best public allocator source for long-run return, -3.08% 2008 drawdown, hedged-book description, fee terms, liquidity terms, and risk-adjusted framing.
+
+48. [Fortune: Mitt Romney's hedge fund kingmaker, 2012](https://fortune.com/2012/03/26/mitt-romneys-hedge-fund-kingmaker/) - Secondary source for the reported 1998 and 2008 down-year history. Use the 1998 figure as single-source unless audited fund records are obtained.
+
+49. [Second Circuit: Elliott Associates v. Republic of Peru, 194 F.3d 363 (1999)](https://law.justia.com/cases/federal/appellate-courts/F3/194/363/505181/) - Primary source for Peru purchase facts, Singer testimony, distressed-debt approach, trial-court champerty dismissal, and appellate reversal.
+
+50. [BIS Papers No. 72, sovereign debt litigation discussion](https://www.bis.org/publ/bppdf/bispap72u.pdf) - Institutional secondary source for the Brussels restraining order, payment-channel disruption, and Peru settlement amount; pair with court records for trade facts.
+
+51. [Second Circuit: NML Capital v. Republic of Argentina, 2012](https://law.justia.com/cases/federal/appellate-courts/ca2/12-105/12-105-2012-10-26.html) - Primary source for pari passu/equal-treatment injunctions and payment-intermediary risk.
+
+52. [Supreme Court: Republic of Argentina v. NML Capital, 573 U.S. 134 (2014)](https://supreme.justia.com/cases/federal/us/573/134/) - Primary source for FSIA discovery ruling, 11 debt-collection actions, and approximately $2.5 billion owed context.
+
+53. [Special Master statement on Argentina holdout settlement, February 2016](https://www.prnewswire.com/news-releases/special-master-announces-settlement-of-15-year-battle-between-argentina-and-holdout-hedge-funds-300227673.html) - Settlement-process source for the $4.653 billion aggregate agreement in principle with NML and other holdouts.
+
+54. [UNCTAD: Argentina's vulture fund crisis, 2014](https://unctad.org/news/argentinas-vulture-fund-crisis-threatens-profound-consequences-international-financial-system) - Official institutional criticism of systemic sovereign-debt consequences. Use as policy-backlash evidence, not neutral investment-performance analysis.
+
+55. [IMF transcript on collective-action problems in sovereign debt restructuring, 2014](https://www.imf.org/en/news/articles/2015/09/28/04/54/tr100614) - Official IMF source for holdout-strategy viability and payment-interruption concerns after the Argentina rulings.
+
+56. [IMF Executive Board press release on sovereign-debt contractual framework, 2014](https://www.imf.org/en/news/articles/2015/09/14/01/49/pr14459) - Official source for revised pari passu and enhanced collective-action clause response.
+
+57. [ICMA Standard CACs and Pari Passu Provisions, 2015](https://www.icmagroup.org/assets/documents/Resources/ICMA-Standard-CACs-Pari-Passu-and-Creditor-Engagement-Provisions---May-2015.pdf) - Market-standard contract response to holdout/pari passu risk; useful for edge-decay discussion.
+
+58. [OHCHR: Human rights impact must be addressed in vulture fund litigation, 2014](https://www.ohchr.org/en/press-releases/2014/11/human-rights-impact-must-be-addressed-vulture-fund-litigation-un-experts) - Official human-rights criticism; use carefully as advocacy-policy evidence and triangulate any purchase-price/P&L figures before using as exact economics.
+
+59. [Second Circuit: Kensington International v. Republic of Congo, 461 F.3d 238 (2006)](https://law.justia.com/cases/federal/appellate-courts/F3/461/238/480727/) - Primary court source for Congo judgment-enforcement posture and security/sovereign-immunity fights.
+
+60. [Second Circuit: Kensington v. BNP Paribas, 2007](https://caselaw.findlaw.com/court/us-2nd-circuit/1238025.html) - Court source reciting allegations around Congolese oil-financing structures; allegations should not be treated as findings.
+
+61. [ECB Working Paper: Sovereign Defaults in Court](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2135.en.pdf) - Institutional secondary source on creditor litigation tactics, including Kensington/Congo and bank-relationship disruption.
+
+62. [CWA/PESP Elliott investor letter, 2020](https://cwa-union.org/sites/default/files/20200107-pesp-elliott-investor-letter.pdf) - Advocacy source citing Cliffwater and pension reports for 2015-2019 return/fee criticism; useful with clear caveats.
+
+63. [CWA release on Elliott underperformance and divestment criticism, 2020](https://cwa-union.org/news/releases/cwa-alerts-elliott-management-investors-about-hedge-funds-underperformance-divestment) - Advocacy source for 2019 return comparison, UC/New Jersey divestment claims, and labor criticism; do not use as neutral standalone proof.
+
+64. [AMF Enforcement Committee release on Elliott Advisors UK and Elliott Capital Advisors sanctions, 2020 with 2022/2024 appeal updates](https://www.amf-france.org/en/news-publications/news-releases/enforcement-committee-news-releases/amf-enforcement-committee-fines-elliott-advisors-uk-limited-and-elliott-capital-advisors-lp-failing) - Primary regulator source for inaccurate/late reports, obstruction finding, adjusted EUR14 million and EUR4.5 million fines, and Cour de cassation dismissal.
+
+65. [PCA Case 2018-51: Elliott Associates L.P. v. Republic of Korea](https://pca-cpa.org/ar/cases/197/) - Official source for Samsung/Korea case status, parties, commencement date, award date, and resumed proceedings after English court order.
+
+66. [Elliott Associates L.P. v. Republic of Korea final award PDF](https://www.italaw.com/sites/default/files/case-documents/180117.pdf) - Award text for Korea arbitration amount and treaty findings. Pair with 2026 set-aside sources before treating award amount as final.
+
+67. [Arnold & Porter Korea set-aside update, 2026](https://www.arnoldporter.com/en/perspectives/news/2026/02/arnold-porter-secures-set-aside-of-arbitral-award-for-the-republic-of-korea) - Counsel-side but specific source for February 2026 English court partial set-aside/remand posture; use as current legal-status evidence pending direct judgment parsing.
+
+68. [LME Nickel litigation page](https://www.lme.com/lme-nickel-litigation) - Official exchange page for Elliott/Jane Street nickel litigation, Divisional Court defeat, Court of Appeal dismissal, and UK Supreme Court refusal of permission to appeal.
+
+69. [SEC Southwest Airlines Schedule 13D/A, February 2026](https://www.sec.gov/Archives/edgar/data/92380/000090266426000646/xslSCHEDULE_13D_X01/primary_doc.xml) - Primary filing example for economic exposure, direct shares, swaps, options, and margin language in Elliott activism.
+
+70. [Twitter/Silver Lake/Elliott announcement, March 2020](https://www.silverlake.com/twitter-inc-announces-partnership-with-silver-lake-and-elliott-management/) - Primary/issuer-side source for Twitter settlement mechanics; useful as an example of negotiated influence that is not identical to a clean investment win.
