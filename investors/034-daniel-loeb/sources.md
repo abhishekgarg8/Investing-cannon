@@ -1,6 +1,6 @@
 # Daniel Loeb - Sources
 
-As of: 2026-07-02T05:48:07Z
+As of: 2026-07-02T07:30:01Z
 
 This source file ranks the most useful materials found for Daniel Loeb's A-profile and appends task-specific source maps for later research files. Primary sources are preferred, especially Third Point letters, SEC filings, court opinions, company releases, and official adviser records. Secondary profiles are used for color, birth details, reputation, and reported campaign economics, with caveats.
 
@@ -233,3 +233,51 @@ Task H uses completed A-D/F files, the ranked sources above, and the task-specif
 107. [Malibu Life official site](https://www.malibulifeinsurance.com/) - Current source for Malibu Life's reinsurance strategy, LSE listing, and $3 billion flow reinsurance treaty description.
 
 108. [Third Point historical performance PDF, July 2023](https://assets.thirdpoint.com/f/160155/x/68fe31b218/2023-07-third-point-performance.pdf?cv=1691020826437) - Manager-reported calendar-year performance series used for drawdown and regime-dependence context.
+
+## Task E - Own Words Source Map (T0272)
+
+Task E uses the quote-grade sources below plus ranked sources above. The list separates primary/near-primary Daniel Loeb or Third Point language from lower-grade transcript carriers and secondary style profiles.
+
+109. [Malibu Life resources archive](https://www.malibulifeinsurance.com/resources/) - Current hub for 2024-2026 Third Point/Malibu letters and reports; no official Q2 2026 investor letter found as of this task.
+
+110. [Third Point Q1 2026 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1696/Third_Point_Q1_2026_Investor_Letter_MLHL.pdf) - Fresh quote-grade firm voice on defensive posture, short book, CoStar exit, and credit.
+
+111. [Third Point Q4 2025 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1689/Third_Point_Q4_2025_Investor_Letter_TPIL.pdf) - Year-end AI/regime framing and current manager-reported language.
+
+112. [Third Point Q1 2025 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/21/third-point-q1-2025-investor-letter_tpil.pdf) - Source for dry-powder and exposure-reduction language.
+
+113. [Third Point Q2 2025 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/22/third-point-q2-2025-investor-letter_tpil.pdf) - Source for expanding opportunity-set and tariff/credit context.
+
+114. [Third Point Q3 2025 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1673/Third_Point_Q3_2025_Investor_Letter_TPIL.pdf) - Source for reality-versus-expectation quote and current AI/market framing.
+
+115. [Third Point Q2 2024 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/24/third-point-q2-2024-investor-letter_tpil_q2.pdf) - Source for physical-world quote and regime-broadening theme.
+
+116. [Third Point Q3 2024 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/25/third-point-q3-2024-investor-letter_tpil.pdf) - Source for staying committed to positions and election/policy response framing.
+
+117. [Third Point Q4 2023 investor letter](https://assets.thirdpointlimited.com/f/166217/x/4c01ad22d8/fourth-quarter-2023-investor-letter-tpil.pdf) - Source for high-conviction concentration and post-2022 short-book/process reset.
+
+118. [Milken Institute 2026 official transcript PDF](https://milkeninstitute.org/sites/default/files/2026-05/MacroMeetsRealEconomy_Transcript_GC26.pdf) - Official transcript and strongest recent personal-voice quote source found.
+
+119. [FA Mag / Bloomberg on iConnections Global Alts 2026](https://www.fa-mag.com/news/dan-loeb-says--lost-art-of-short-selling--is-making-a-comeback-85998.html) - Better current source for the lost-art-of-short-selling quote than rough podcast transcript carriers.
+
+120. [Yahoo 2012 proxy material](https://www.sec.gov/Archives/edgar/data/1011006/000119312512148293/d327193ddfan14a.htm) - Primary campaign language for shareholder voice and choice.
+
+121. [Sotheby's 2013 letter exhibit](https://www.sec.gov/Archives/edgar/data/823094/000119312513388165/d605390dex993.htm) and [2014 proxy material](https://www.sec.gov/Archives/edgar/data/823094/000119312514150883/d712963ddfan14a.htm) - Primary campaign rhetoric on owner perspective, imperial CEOs, and boardroom leverage.
+
+122. [Baxter 2015 Third Point letter exhibit](https://www.sec.gov/Archives/edgar/data/10456/000119312515278325/d61600dex3.htm) - Constructive activism quote source around CEO search and board representation.
+
+123. [Campbell Soup 2018 proxy material](https://www.sec.gov/Archives/edgar/data/16732/000119312518268669/d604326ddfan14a.htm) - Primary source for #RefreshTheRecipe campaign language.
+
+124. [Disney 2020 letter](https://assets.thirdpointlimited.com/f/166217/x/be59df6502/third-point-letter-to-disney-october-2020-tpou.pdf) and [Disney 2022 letter](https://a.storyblok.com/f/166217/x/2f8c72a37f/third-point-letter-to-disney-august-15-2022-tpou.pdf) - Primary quote base for DTC reinvestment, cost structure, and board refresh asks.
+
+125. [Shell Q3 2021 Third Point investor letter](https://assets.thirdpointlimited.com/f/166217/x/33cbc7ad16/third-point-q3-2021-investor-letter-tpil.pdf) - Primary source for strategic-separation language.
+
+126. [Sony 2013 letter mirror](https://www.10xebitda.com/wp-content/uploads/2016/12/Dan-Loeb-Letter-to-Sony-Corp-May-2013.pdf) and [Sony 2019 presentation mirror](https://www.10xebitda.com/wp-content/uploads/2020/03/Third-Point-Sony-Presentation-June-2019.pdf) - Important focus/separation rhetoric; mirror-hosted and should be labeled as such.
+
+127. [El Economista / Business Wire NestleNOW carrier](https://www.eleconomista.es/empresas-finanzas/noticias/9247109/07/18/Third-Point-Publishes-Presentation-on-NestleNOW.html) - Source-visible NestleNOW campaign wording after the 2017 mirror could not be quote-grade verified.
+
+128. [CoStar 2026 Third Point letter](https://www.businesswire.com/news/home/20260127616511/en/Third-Point-Sends-Letter-to-Board-of-Directors-of-CoStar-Group) and [CoStar response](https://investors.costargroup.com/news-releases/news-release-details/costar-group-reiterates-strategic-initiatives-prioritize) - Current public-pressure language plus issuer counter-source; pair with Q1 2026 exit.
+
+129. [SEC Star Gas letter exhibit, 2005](https://www.sec.gov/Archives/edgar/data/1002590/000089914005000128/t2774169.txt) - Primary carrier for the early public-letter quote used here.
+
+130. [New York Magazine 2004 profile](https://nymag.com/nymetro/news/bizfinance/finance/features/10426/), [The New Yorker 2005 profile](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor), [Dear Chairman Loeb chapter](https://static1.squarespace.com/static/56bffa38d51cd4587e617679/t/5a8474c9652dea87701985ee/1518630092002/Loeb%2Bchapter.pdf), and [Alpha Masters preview](https://www.oreilly.com/library/view/the-alpha-masters/9781118167571/xhtml/Chapter07.html) - Secondary/excerpt carriers for Loeb's public style and poison-pen evolution; use cautiously.
