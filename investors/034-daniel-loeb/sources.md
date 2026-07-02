@@ -1,6 +1,6 @@
 # Daniel Loeb - Sources
 
-As of: 2026-07-02T03:42:04Z
+As of: 2026-07-02T05:48:07Z
 
 This source file ranks the most useful materials found for Daniel Loeb's A-profile and appends task-specific source maps for later research files. Primary sources are preferred, especially Third Point letters, SEC filings, court opinions, company releases, and official adviser records. Secondary profiles are used for color, birth details, reputation, and reported campaign economics, with caveats.
 
@@ -181,3 +181,55 @@ Task F uses ranked sources above plus the task-specific materials below. Core pr
 83. [Kara Swisher, AllThingsD Yahoo campaign coverage, 2012](https://allthingsd.com/20120209/ready-to-rumble-or-make-nice-activist-shareholder-daniel-loeb-could-strike-sooner-than-yahoo-thinks/) - Secondary contemporaneous technology-sector coverage of the Yahoo campaign.
 
 84. [Vanity Fair roundup of Loeb's scathing letters, 2013](https://www.vanityfair.com/news/2013/10/dan-loeb-mean-letters) - Useful roadmap to early public letters; not a preferred canonical carrier for final citations.
+
+## Task H - Synthesis Source Map (T0275)
+
+Task H uses completed A-D/F files, the ranked sources above, and the task-specific sources below. T0272 own-words and T0274 mental-models were freshly claimed and unavailable on `main` during this run, so quote-derived and checklist-derived synthesis should be refreshed when those files land.
+
+85. [Third Point official site](https://www.thirdpoint.com/) - Official current source for Loeb's active role and Third Point's cross-capital-structure strategy scope.
+
+86. [Third Point Q1 2026 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1696/Third_Point_Q1_2026_Investor_Letter_MLHL.pdf) - Freshest manager letter used for Q1 2026 performance, long-run annualized return, CoStar exit, short-book performance, corporate credit, and structured-credit positioning. Manager-reported; cite with caveat.
+
+87. [Third Point Q4 2025 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1689/Third_Point_Q4_2025_Investor_Letter_TPIL.pdf) - Cross-check for long-run return series through December 31, 2025 and manager disclosure limitations.
+
+88. [SEC Form ADV for Third Point LLC](https://reports.adviserinfo.sec.gov/reports/ADV/137927/PDF/137927.pdf) - Current regulatory record for RAUM, client/private-fund structure, employee count, and disclosures. Parse directly before relying on numeric fields.
+
+89. [SEC 13F-HR cover page, Q1 2026](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/xslForm13F_X02/primary_doc.xml) - Current U.S.-listed long-book disclosure; useful as a visibility boundary because it is not total AUM and excludes many instruments.
+
+90. [SEC 13F-HR information table, Q1 2026](https://www.sec.gov/Archives/edgar/data/1040273/000104027326000002/xslForm13F_X02/infotable.xml) - Position-level 13F source for listed long holdings and absence of visible CoStar/Upstart common stock as of March 31, 2026.
+
+91. [Yahoo 13D, September 2011](https://www.sec.gov/Archives/edgar/data/1011006/000089914011000474/a6970038.htm) - Primary source for the Yahoo stake, options exposure, and campaign starting position.
+
+92. [Yahoo 8-K settlement, May 2012](https://www.sec.gov/Archives/edgar/data/1011006/000119312512231455/d352779d8k.htm) - Primary source for Yahoo board-seat settlement and CEO/board changes.
+
+93. [FTC Yahoo HSR case page](https://www.ftc.gov/legal-library/browse/cases-proceedings/121-0019-third-point-llc) - Regulatory caveat on the investment-only HSR exemption in the Yahoo campaign.
+
+94. [DOJ 2019 DowDuPont HSR penalty release](https://www.justice.gov/archives/opa/pr/third-point-funds-pay-609810-civil-penalty-and-be-subject-injunction-violating-antitrust) - Separate later HSR matter; useful to keep legal/compliance process risk distinct from campaign outcome.
+
+95. [Third Point LLC v. Ruprecht, Delaware Chancery opinion](https://courts.delaware.gov/opinions/download.aspx?ID=205180) - Primary legal source for the Sotheby's poison-pill fight and activist negative-control analysis.
+
+96. [Campbell / Third Point settlement](https://www.thecampbellscompany.com/newsroom/news/campbell-and-third-point-reach-agreement/) - Primary company source for negotiated board additions, CEO-search consultation, and campaign settlement mechanics.
+
+97. [Third Point Disney campaign letter, August 2022](https://www.businesswire.com/news/home/20220815005428/en/Third-Point-Accumulates-Position-in-The-Walt-Disney-Company-Files-for-Hart-Scott-Rodino-to-Engage-Directly-with-the-Company) - Primary manager-authored release for Loeb's Disney asks and HSR filing disclosure.
+
+98. [Disney / Third Point support agreement](https://www.sec.gov/Archives/edgar/data/1744489/000174448922000167/fy2022_q4x8kxex101.htm) - SEC exhibit for standstill and board-refresh mechanics after the Disney campaign.
+
+99. [Shell response to Third Point letter](https://shell.gcs-web.com/news-releases/news-release-details/shell-acknowledges-third-point-llc-investor-letter) - Primary issuer response to Shell separation proposal, useful as a counterweight to activist framing.
+
+100. [Third Point CoStar letter, January 2026](https://www.businesswire.com/news/home/20260127616511/en/Third-Point-Sends-Letter-to-Board-of-Directors-of-CoStar-Group) - Fresh public activist escalation, useful for current playbook and for comparison to the later exit.
+
+101. [CoStar response to Third Point, 2026](https://investors.costargroup.com/news-releases/news-release-details/costar-group-reiterates-strategic-initiatives-prioritize) - Primary issuer counter-source for the CoStar campaign.
+
+102. [GovInfo Upstart court order, September 2025](https://www.govinfo.gov/content/pkg/USCOURTS-ohsd-2_22-cv-02935/pdf/USCOURTS-ohsd-2_22-cv-02935-8.pdf) - Court source for the evolving Upstart litigation posture and Third Point-related defendant status; allegations are not findings.
+
+103. [Upstart Q1 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1647639/000164763926000046/upst-20260331.htm) - Current company filing for motion-to-dismiss timeline and related Delaware derivative litigation status.
+
+104. [TPIL Malibu transaction announcement, May 2025](https://assets.thirdpointlimited.com/f/166217/x/e8ff41e50b/tpil-announcement-21-05-2025-vf-1.pdf) - Primary source for reverse takeover, related-party structure, tender mechanics, Third Point voting undertaking, and business plan.
+
+105. [Malibu Life resources archive](https://www.malibulifeinsurance.com/resources/) - Public hub for Malibu Life annual report, monthly reports, and Third Point quarterly letters after the transition.
+
+106. [Takeover Panel ruling summary, 2025](https://markets.ft.com/data/announce/detail?dockey=1323-17216331-5N53Q9GFVD1F9KJI1F2BIR9VAD) - Source for the rejected mandatory-offer appeal around Malibu/TPIL; use to avoid overstating governance objections as legal findings.
+
+107. [Malibu Life official site](https://www.malibulifeinsurance.com/) - Current source for Malibu Life's reinsurance strategy, LSE listing, and $3 billion flow reinsurance treaty description.
+
+108. [Third Point historical performance PDF, July 2023](https://assets.thirdpoint.com/f/160155/x/68fe31b218/2023-07-third-point-performance.pdf?cv=1691020826437) - Manager-reported calendar-year performance series used for drawdown and regime-dependence context.
