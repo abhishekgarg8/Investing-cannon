@@ -36,7 +36,7 @@ This source file ranks the most useful materials found for Paul Singer's A-profi
 
 15. [SEC Southwest Airlines proxy exhibit, October 2024](https://www.sec.gov/Archives/edgar/data/92380/000090266424005829/p24-2934exhibit99.htm) - Primary example of Elliott's economic-exposure disclosures in activism: approximately 11% economic interest and beneficial ownership details, plus participant list including Paul Singer.
 
-16. [Elliott statement on AT&T, May 2021](https://www.prnewswire.com/news-releases/elliott-statement-on-att-301292551.html) - Manager statement praising AT&T's media separation and refocus after the Elliott campaign. Useful as self-attribution evidence; pair with company and labor/secondary sources for campaign causation.
+16. [Elliott statement on AT&T, May 2021](https://www.prnewswire.com/news-releases/elliott-statement-on-at-t-301292551.html) - Manager statement praising AT&T's media separation and refocus after the Elliott campaign. Useful as self-attribution evidence; pair with company and labor/secondary sources for campaign causation.
 
 17. [Twitter / Silver Lake / Elliott announcement, March 2020](https://www.silverlake.com/twitter-inc-announces-partnership-with-silver-lake-and-elliott-management/) and [Twitter cooperation agreement exhibit](https://www.sec.gov/Archives/edgar/data/1418091/000119312520062130/d886222dex101.htm) - Primary/near-primary sources for Twitter settlement mechanics: Elliott/Silver Lake board representation, Silver Lake investment, buyback authorization, governance review, and platform-policy non-influence language. Pre-Musk context only.
 
@@ -281,3 +281,68 @@ As of: 2026-07-02T13:07:45Z
 
 135. [Amber Energy approved as acquirer of CITGO, 2025](https://www.prnewswire.com/news-releases/amber-energy-approved-as-acquirer-of-citgo-by-us-district-court-for-the-district-of-delaware-302626071.html) - Current unresolved CITGO/Amber source; included only as a watchlist item, not a completed greatest trade.
 
+## Task G - Mental Models Source Map (T0282)
+
+As of: 2026-07-02T13:24:00Z
+
+136. [Elliott official About page](https://www.elliottmgmt.com/about-elliott/) - Current first-party source for firm scale, culture, liquidity controls, risk controls, counterparty focus, and the explicit claim that process and accountability are central to the organization.
+
+137. [Elliott official What We Do page](https://www.elliottmgmt.com/what-we-do/) - First-party strategy taxonomy supporting Singer's cross-asset mental model: public equities, private equity/credit, distressed, hedge/arbitrage, real estate, commodities, and portfolio volatility protection.
+
+138. [Elliott Equity-Oriented strategy page](https://www.elliottmgmt.com/what-we-do/equity-oriented/) - First-party evidence for complexity, manual effort, uncorrelated positions, asymmetry, and active engagement as part of the investment model.
+
+139. [Elliott Distressed Securities strategy page](https://www.elliottmgmt.com/what-we-do/distressed-securities/) - First-party source for distressed-credit process, creditor negotiations, bankruptcy mechanics, and the idea that legal/document work is investment work.
+
+140. [Elliott Portfolio Volatility Protection strategy page](https://www.elliottmgmt.com/what-we-do/portfolio-volatility-protection/) - First-party source for hedging across credit, equity, volatility, rates, gold, and currencies; useful for the absolute-return and position-design models.
+
+141. [Elliott official biography: Paul Singer](https://www.elliottmgmt.com/who-we-are/paul-singer/) - Current role source for Singer's chairman/co-CEO/co-CIO status and oversight committees; useful for tying mental models to his continuing formal responsibilities.
+
+142. [Norges Bank Investment Management podcast page: Paul Singer, 2025](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/) and [PodScripts transcript mirror](https://podscripts.co/podcasts/in-good-company-with-nicolai-tangen/paul-singer-activist-investing-market-risks-and-avoiding-losses) - Best recent own-words source for activism, avoiding losses, benchmarking skepticism, process, temperament, and risk aversion. Use the transcript mirror for navigation but audio-check before heavy quotation.
+
+143. [Paul Singer / Elliott, Of Owners and Ownership, Harvard Law School Forum, 2021](https://corpgov.law.harvard.edu/2021/11/15/of-owners-and-ownership/) - Own-words source for shareholder-rights worldview, passive-owner critique, accountability, and the mental model that ownership rights are economic assets.
+
+144. [Paul Singer, Efficient Markets Need Guys Like Me, Manhattan Institute, 2017](https://manhattan.institute/article/efficient-markets-need-guys-like-me) - Singer-authored source for his theory that activist pressure improves market efficiency and corporate accountability.
+
+145. [Elliott SEC comment letter on beneficial-ownership rules, 2022](https://www.sec.gov/comments/s7-06-22/s70622-279518.pdf) - Primary policy source showing Elliott's view that disclosure timing, shareholder communication, and position-building are central to the activist process.
+
+146. [Elliott SEC comment letter on security-based swap disclosure, 2022](https://www.sec.gov/comments/s7-32-10/s73210-20120750-272913.pdf) - Primary regulatory source for Elliott's view of swaps, beneficial ownership, and disclosure mechanics in activist investing.
+
+147. [SEC Southwest Airlines Schedule 13D/A, February 2026](https://www.sec.gov/Archives/edgar/data/92380/000090266426000646/xslSCHEDULE_13D_X01/primary_doc.xml) - Current primary example of Elliott's position design: direct shares, cash-settled swaps, call-option economics, margin language, and the gap between economic exposure and beneficial ownership.
+
+148. [SEC Southwest Airlines proxy exhibit, October 2024](https://www.sec.gov/Archives/edgar/data/92380/000090266424005829/p24-2934exhibit99.htm) - Primary campaign source for Elliott's escalation model, director slate, economic exposure, and governance demands.
+
+149. [Second Circuit: Elliott Associates v. Republic of Peru, 1999](https://law.justia.com/cases/federal/appellate-courts/F3/194/363/505181/) - Primary court source for Singer's legal-process edge in sovereign debt, including purchase facts, activist characterization, and reversal of the champerty dismissal.
+
+150. [Second Circuit: NML Capital v. Republic of Argentina, 2012](https://law.justia.com/cases/federal/appellate-courts/ca2/12-105/12-105-2012-10-26.html) - Primary court source for pari passu enforcement, payment-channel leverage, and the use of contract rights as investment assets.
+
+151. [Supreme Court: Republic of Argentina v. NML Capital, 2014](https://supreme.justia.com/cases/federal/us/573/134/) - Primary source for discovery/enforcement mechanics in the NML campaign; useful for the chokepoint model and legal-process risk.
+
+152. [Special Master statement on Argentina holdout settlement, 2016](https://www.prnewswire.com/news-releases/special-master-announces-settlement-of-15-year-battle-between-argentina-and-holdout-hedge-funds-300227673.html) - Settlement-process source for the aggregate $4.653 billion agreement in principle with NML and other major holdouts.
+
+153. [ICMA Standard CACs and Pari Passu Provisions, 2015](https://www.icmagroup.org/assets/documents/Resources/ICMA-Standard-CACs-Pari-Passu-and-Creditor-Engagement-Provisions---May-2015.pdf) - Market-standard response to NML-style holdout strategies; important evidence that successful playbooks can invite edge-decaying rule changes.
+
+154. [IMF Executive Board press release on sovereign-debt contractual framework, 2014](https://www.imf.org/en/news/articles/2015/09/14/01/49/pr14459) - Official source for collective-action and pari passu reforms after Argentina; supports the failure-mode discussion about regime dependence.
+
+155. [LME Nickel litigation page](https://www.lme.com/lme-nickel-litigation) - Official exchange source for Elliott/Jane Street's failed nickel-cancellation litigation and the exhausted UK appeal path.
+
+156. [Court of Appeal judgment: Elliott Associates v. London Metal Exchange](https://www.lme.com/-/media/Files/News/R-Elliott-Associates-v-London-Metal-Exchange-final-judgment.pdf) - Direct judgment source for Elliott's claimed lost profits and the limits of judicial review against exchange emergency powers.
+
+157. [PCA Case 2018-51: Elliott Associates L.P. v. Republic of Korea](https://pca-cpa.org/ar/cases/197/) - Official arbitration docket for the Korea/Samsung dispute, including award and resumed-proceeding posture after the set-aside order.
+
+158. [Arnold & Porter Korea set-aside update, 2026](https://www.arnoldporter.com/en/perspectives/news/2026/02/arnold-porter-secures-set-aside-of-arbitral-award-for-the-republic-of-korea) - Counsel-side but current source for the February 2026 partial set-aside/remand; use as a status lead until the direct judgment is parsed.
+
+159. [AMF Enforcement Committee release on Elliott sanctions, 2020 with 2022/2024 appeal updates](https://www.amf-france.org/en/news-publications/news-releases/enforcement-committee-news-releases/amf-enforcement-committee-fines-elliott-advisors-uk-limited-and-elliott-capital-advisors-lp-failing) - Primary regulator source for disclosure and obstruction failures, useful for the failure-mode discussion.
+
+160. [Cour de cassation decision on AMF/Elliott sanctions, 2024](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049385455) - Direct French high-court source for dismissal of the Elliott entities' appeal.
+
+161. [CWA/PESP Elliott investor letter, 2020](https://cwa-union.org/sites/default/files/20200107-pesp-elliott-investor-letter.pdf) - Advocacy source for labor, pension, recent-return, and stakeholder critiques; useful only as a clearly labeled adversarial counterweight.
+
+162. [CWA/SOC report on activist hedge-fund risks, 2021](https://cwa-union.org/sites/default/files/activist_hedge_fund_risks_to_pension_funds_case_of_elliot_mgt_sept_2020_socig_and_cwa.pdf) - Advocacy source for the target-company and pension-fund critique of Elliott's model; use with methodology caveats.
+
+163. [New Jersey Division of Investment memo on Elliott Associates, 2011](https://www.nj.gov/treasury/doinvest/pdf/AlternativeInvestments/HedgeFund/ElliottAssociates.pdf) - Public allocator diligence source for long-run returns, volatility, Sharpe ratio, and 2008 drawdown; supports the absolute-return framing with caveats.
+
+164. [Twitter / Silver Lake / Elliott announcement, 2020](https://www.silverlake.com/twitter-inc-announces-partnership-with-silver-lake-and-elliott-management/) - Primary/issuer-side source for negotiated settlement mechanics, board seats, capital commitment, buyback, and governance review.
+
+165. [Salesforce and Elliott joint statement, 2023](https://www.businesswire.com/news/home/20230327005297/en/Salesforce-and-Elliott-Issue-Joint-Statement) - Primary source for Elliott withdrawing director nominations after Salesforce's transformation, margin, and governance commitments.
+
+166. [NRG cooperation agreement exhibit, 2023](https://www.sec.gov/Archives/edgar/data/1013871/000110465923119741/tm2331129d1_ex10-1.htm) - Primary SEC exhibit for settlement mechanics, board changes, and governance terms in a modern Elliott campaign.
