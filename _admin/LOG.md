@@ -1356,3 +1356,8 @@
 - Output: investors/035-paul-singer/greatest-trades.md (~3,097 words, 35 sources)
 - Notes: Stale retry closeout: completed Singer greatest-trades file with five research lanes; ranked Argentina/NML, Peru, AC Milan, Delphi, NRG, Twitter, Hess, and Samsung Electronics with explicit P&L caveats. Flagged active/unrealized Southwest, Phillips 66, Toyota Industries, PepsiCo, Northern Star, CITGO/Amber, and non-ranked JGBI/LME/Caesars/Lehman limitations.
 - Backlog added: None
+
+## 2026-07-02T13:38:31Z — T0282 — 035-paul-singer — G-mental-models — DONE
+- Output: investors/035-paul-singer/mental-models.md (~2,489 words, 31 Task G sources)
+- Notes: Verified and closed already-present Singer/Elliott mental-models output and Task G source map after five research lanes; required sections, inline citations, and spot-checked sources passed QA. Preserved caveats around Task F still missing, 13F/ADV/AUM non-comparability, private Elliott ledgers, AMF/LME/Korea legal-process failures, policy backlash, labor/pension critiques, and scale/crowding risk.
+- Backlog added: None
