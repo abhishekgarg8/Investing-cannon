@@ -1337,3 +1337,8 @@
 - Output: investors/035-paul-singer/profile.md (~2,483 words, 25 sources)
 - Notes: Recovery closeout: verified and tightened already-present Singer profile/source map with five research lanes; added required snapshot fields, official ADV/13D support, stronger Twitter/Salesforce citations, 2025 performance caveat, and 2026 Korea remand status. Preserved caveats around private Elliott ledgers, AUM/RAUM/13F non-comparability, sovereign-debt ethics, and live legal tails.
 - Backlog added: None
+
+## 2026-07-02T08:44:43Z — T0274 — 034-daniel-loeb — G-mental-models — DONE
+- Output: investors/034-daniel-loeb/mental-models.md (~3,420 words, 27 sources)
+- Notes: Stale retry closeout: verified already-present Loeb mental-models file with five research lanes; refreshed current Malibu Life platform execution, added the missing Task G source map, and preserved public-evidence/13F/P&L limitations. Caveats maintained around HSR/legal process, Upstart litigation posture, CoStar thesis-break evidence, and TPIL/Malibu governance objections.
+- Backlog added: None

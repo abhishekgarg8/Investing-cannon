@@ -1,6 +1,6 @@
 # Daniel Loeb - Mental Models
 
-As of: 2026-07-02T07:51:10Z
+As of: 2026-07-02T08:44:43Z
 
 Task: T0274 - G-mental-models
 
@@ -113,6 +113,8 @@ The Malibu Life / TPIL transaction is the inward-facing failure mode. Third Poin
 
 The platform is also materially more credit- and insurance-heavy than the old "poison pen activist" caricature. Malibu's 2025 annual report said Third Point had $24.1 billion of AUM, $17.7 billion invested in credit, more than 150 employees, and more than 40 dedicated credit specialists; it also showed the listed vehicle still had about 80% of net assets in the Third Point Master Fund and 20% in Malibu Life Reinsurance SPC at year-end ([Malibu Life annual report, 2025](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1698/MLHL_Final_Financial_Statements_4.22.2026.pdf)). That makes future analysis less like pure activist-equity work and more like an asset-liability, credit, and governance problem.
 
+As of July 2, 2026, that transition had a more concrete U.S. distribution leg: Malibu Life announced that it had completed the TruSpire acquisition, established Malibu Life USA as a direct annuity-origination platform, and expected its first product launch in early-to-mid September. Malibu also announced Todd D. Shriber as CEO effective July 20, 2026, while Gary Dombowsky would step down as CEO and remain a non-executive director and senior adviser ([Malibu Life TruSpire release, 2026](https://news.cision.com/malibu-life-holdings-limited/r/malibu-life-holdings-completes-acquisition-of-truspire--establishing-malibu-usa-and-accelerating-ent%2Cc4370226), [Malibu Life CEO release, 2026](https://news.cision.com/malibu-life-holdings-limited/r/malibu-life-appoints-todd-d--shriber-as-ceo%2Cc4348654)).
+
 ### Private-to-Public Winners Can Carry Legal Tails
 
 Upstart was a major winner in the greatest-trades file, but current filings show litigation risk remains a live caveat. Upstart's Q1 2026 10-Q said plaintiffs added back Third Point LLC, Loeb, and Third Point Ventures as defendants in a first amended complaint, and that a motion to dismiss by those defendants was fully briefed with no hearing set as of January 29, 2026 ([Upstart 10-Q, 2026](https://www.sec.gov/Archives/edgar/data/1647639/000164763926000046/upst-20260331.htm)). A September 2025 court order also recited earlier dismissal of all claims against Third Point defendants before allowing amendment issues to proceed ([GovInfo court order, 2025](https://www.govinfo.gov/content/pkg/USCOURTS-ohsd-2_22-cv-02935/pdf/USCOURTS-ohsd-2_22-cv-02935-8.pdf)). The operating lesson is to treat venture-style upside, board influence, information flow, and public-company exit windows as one litigation surface.
@@ -178,3 +180,5 @@ Daniel Loeb's mental model is not "be aggressive." It is: find mispriced change,
 23. [Third Point May 2026 monthly report](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1707/2026.05_May_Monthly_Report_Third_Point_Master_Fund.pdf) - Current manager-reported exposure snapshot, position-count data, performance, and Malibu asset mix.
 24. [Malibu Life 2025 annual report](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1698/MLHL_Final_Financial_Statements_4.22.2026.pdf) - Primary source for platform evolution, credit AUM, employee/credit-specialist counts, and Master Fund / Malibu Life Re asset mix.
 25. [Third Point Investors Limited 2024 annual report](https://assets.thirdpointlimited.com/f/166217/x/1453295197/third-point-investors-limited-2024-annual-report-and-audited-financial-statements.pdf) - Source for the four-pillar strategy framing, structured-credit details, and listed-feeder context.
+26. [Malibu Life TruSpire completion release](https://news.cision.com/malibu-life-holdings-limited/r/malibu-life-holdings-completes-acquisition-of-truspire--establishing-malibu-usa-and-accelerating-ent%2Cc4370226) - Current source for the completed TruSpire acquisition, Malibu Life USA annuity-origination platform, and first product launch target.
+27. [Malibu Life CEO appointment release](https://news.cision.com/malibu-life-holdings-limited/r/malibu-life-appoints-todd-d--shriber-as-ceo%2Cc4348654) - Current source for Todd D. Shriber's CEO appointment effective July 20, 2026 and Gary Dombowsky's transition to non-executive director/senior adviser.
