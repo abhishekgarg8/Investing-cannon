@@ -207,3 +207,77 @@ As of: 2026-07-02T12:09:44Z
 99. [AMF Elliott sanctions release, 2020-2024](https://www.amf-france.org/en/news-publications/news-releases/enforcement-committee-news-releases/amf-enforcement-committee-fines-elliott-advisors-uk-limited-and-elliott-capital-advisors-lp-failing) - Official regulator source for controversy context and disclosure/obstruction findings; not an Elliott own-words quote source.
 100. [LME nickel litigation page, 2022-2025](https://www.lme.com/lme-nickel-litigation) - Official litigation-status page for Elliott/Jane Street nickel cancellation challenge and adverse appeal outcome.
 
+## Task C - Greatest Trades Source Map (T0278)
+
+As of: 2026-07-02T13:07:45Z
+
+101. [Second Circuit: NML Capital v. Republic of Argentina, 2012](https://law.justia.com/cases/federal/appellate-courts/ca2/12-105/12-105-2012-10-26.html) - Primary pari passu/equal-treatment opinion for Argentina/NML, useful for injunction mechanics, Lock Law context, and payment-system leverage.
+
+102. [Supreme Court: Republic of Argentina v. NML Capital, 2014 PDF](https://supreme.justia.com/cases/federal/us/573/12-842/case.pdf) - Primary FSIA discovery ruling; use for NML's 11 collection actions and approximately $2.5 billion owed, not as the pari passu merits ruling.
+
+103. [Special Master settlement announcement, February 2016](https://www.prnewswire.com/news-releases/special-master-announces-settlement-of-15-year-battle-between-argentina-and-holdout-hedge-funds-300227673.html) - Settlement-process source for the approximately $4.653 billion agreement in principle with NML and other major holdouts.
+
+104. [Wall Street Journal: After 15 years, a bond trade now pays off, 2016](https://www.wsj.com/articles/after-15-years-a-bond-trade-now-pays-off-1456966319) - Strong secondary source for the reported $2.4 billion Singer/Argentina payoff and 10-15x return; treat exact return multiple as single-source journalism.
+
+105. [Washington Post: how one hedge fund made $2 billion from Argentina's collapse, 2016](https://www.washingtonpost.com/news/business/wp/2016/03/29/how-one-hedge-fund-made-2-billion-from-argentinas-economic-collapse/) - Secondary/analysis-derived source for reported NML face amount and purchase cost; use with single-source caveat.
+
+106. [ICMA standard pari passu provision, August 2014](https://www.icmagroup.org/assets/documents/Resources/ICMA-Standard-Pari-Passu-Provision-August-2014.pdf) - Market-response source showing edge decay after Argentina/NML through revised pari passu drafting.
+
+107. [SDNY: Elliott Associates v. Banco de la Nacion/Republic of Peru, 1998](https://law.justia.com/cases/federal/district-courts/FSupp2/12/328/2499011/) - Primary trial-court Peru source for purchase facts and champerty dispute.
+
+108. [Second Circuit: Elliott Associates v. Republic of Peru, 1999](https://caselaw.findlaw.com/court/us-2nd-circuit/1201641.html) - Primary appellate Peru source for reversal and distressed-debt purchase facts.
+
+109. [BIS paper on sovereign debt litigation and Peru settlement](https://www.bis.org/publ/bppdf/bispap72u.pdf) - Institutional source for Belgium payment-channel pressure and Peru's $58.45 million settlement.
+
+110. [AC Milan: RedBird agreement to acquire AC Milan from Elliott, 2022](https://www.acmilan.com/en/news/articles/club/2022-06-01/redbird-capital-partners-enters-into-agreement-with-elliott-advisors-to-acquire-ac-milan) - Official club source for the EUR1.2 billion sale valuation, Elliott retained minority interest, and board continuity.
+
+111. [AC Milan club statement, December 2024](https://www.acmilan.com/en/news/articles/club/2024-12-20/club-statement) - Official source for RedBird reducing Elliott vendor-loan principal to EUR489 million.
+
+112. [AC Milan refinancing statement, January 2026](https://www.acmilan.com/en/news/articles/club/2026-01-30/redbird-capital-partners-completes-refinancing-of-ac-milan) - Official source for refinancing of acquisition-related vendor financing and Elliott board departures.
+
+113. [PBGC Delphi case history](https://www.pbgc.gov/workers-retirees/trusteed-plans/delphi/delphi-case-history) - Official source for Delphi bankruptcy/pension context.
+
+114. [WardsAuto: Delphi exits bankruptcy, 2009](https://www.wardsauto.com/news/archive-wards-delphi-exits-bankruptcy-as-shell-of-former-self/774616/) - Secondary source identifying Elliott and Silver Point as senior-creditor acquisition leaders.
+
+115. [The Nation: Mitt Romney's bailout bonanza, 2012](https://www.thenation.com/article/archive/mitt-romneys-bailout-bonanza/) - Critical secondary source reconstructing Delphi gains from SEC filings; use P&L figures only with caveat.
+
+116. [NRG 2017 transformation announcement](https://www.nrg.com/about/newsroom/2017/2285932.html) - Company source for the 2017 Elliott/Bluescape-related transformation program and value-creation targets.
+
+117. [Elliott letter to NRG board, May 2023](https://www.prnewswire.com/news-releases/elliott-sends-letter-and-presentation-to-the-board-of-nrg-energy-301824565.html) - Campaign source for Elliott's more-than-13% economic interest and 2017 TSR claim.
+
+118. [NRG cooperation agreement exhibit, November 2023](https://www.sec.gov/Archives/edgar/data/1013871/000110465923119741/tm2331129d1_ex10-1.htm) - Primary SEC exhibit for 2023 NRG settlement mechanics, directors, and governance commitments.
+
+119. [Twitter/Silver Lake/Elliott announcement, March 2020](https://www.prnewswire.com/news-releases/twitter-inc-announces-partnership-with-silver-lake-and-elliott-management-301019725.html) - Issuer/participant source for Twitter settlement terms, Silver Lake investment, buyback authorization, board seats, and review committee.
+
+120. [Twitter cooperation agreement exhibit, March 2020](https://www.sec.gov/Archives/edgar/data/1418091/000119312520067362/d846415dex102.htm) - Primary SEC exhibit for Twitter settlement terms.
+
+121. [Wall Street Journal: Elliott exited Twitter around Musk deal period, 2022](https://www.wsj.com/livecoverage/stock-market-news-today-08-16-2022/card/elliott-exited-twitter-around-the-time-musk-struck-takeover-deal-6ng7dhQDQzgZs4S2IMli) - Secondary source for reported March/June 2022 Twitter position change; derivatives remain opaque.
+
+122. [Hess/Elliott settlement release, May 2013](https://www.sec.gov/Archives/edgar/data/4447/000089882213000219/hessjointrelease5-1613.htm) - Primary SEC source for board-settlement outcome in the Hess proxy campaign.
+
+123. [Elliott Hess proxy material, 2013](https://www.sec.gov/Archives/edgar/data/4447/000104746913003661/a2214159zprrn14a.htm) - Primary campaign source for Hess thesis and position-size framing.
+
+124. [Chevron agreement to acquire Hess, 2023](https://chevroncorp.gcs-web.com/news-releases/news-release-details/chevron-announces-agreement-acquire-hess) - Company source for later Hess strategic value realization; use carefully because attribution to Elliott is long-cycle and contested.
+
+125. [Elliott letter to Samsung Electronics board, 2016](https://www.prnewswire.com/news-releases/letter-to-the-samsung-electronics-board-of-directors-outlining-value-enhancement-proposals-300339629.html) - Campaign source for Samsung Electronics value-enhancement proposals.
+
+126. [Samsung Electronics shareholder-value roadmap, 2016](https://news.samsung.com/global/samsung-electronics-announces-comprehensive-roadmap-to-enhance-long-term-shareholder-value-creation) - Issuer source for shareholder-return and governance commitments after Elliott's campaign.
+
+127. [Caesars Entertainment/CEOC bankruptcy filing release, 2015](https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-caesars-entertainment-operating-co-file) - Company source for Caesars restructuring context and creditor structure.
+
+128. [Caesars restructuring agreement release](https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-caesars-entertainment-operating-co-reach-0) - Company source for CEOC restructuring scale and debt-reduction framing.
+
+129. [Dow Jones/ADVFN: Elliott and King Street Lehman UK claim purchase, 2013](https://de.advfn.com/borse/NYSE/RBS/nachrichten/59738809/judge-clears-way-for-elliott-king-street-purchase) - Secondary source for Lehman Brothers International Europe claims-trading lead; final Elliott P&L remains unverified.
+
+130. [PwC Lehman Brothers International Europe administration page](https://www.pwc.co.uk/services/business-restructuring/administrations/lehman/lehman-brothers-international-europe.html) - Administration context for LBIE claim recoveries and process duration.
+
+131. [NBIM podcast page: Paul Singer, 2025](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/) - Own-words source for JGBI drawdown/worst-trade framing and risk process.
+
+132. [Grant Williams: The End Game Ep. 14 with Paul Singer](https://www.grant-williams.com/podcast/the-end-game-ep-14-paul-singer/) - Transcript source for JGBI entry/trough/recovery details; use alongside NBIM.
+
+133. [LME Nickel litigation page](https://www.lme.com/lme-nickel-litigation) - Official source for Elliott/Jane Street adverse nickel-cancellation litigation status.
+
+134. [Court of Appeal judgment: Elliott Associates v. London Metal Exchange](https://www.lme.com/-/media/Files/News/R-Elliott-Associates-v-London-Metal-Exchange-final-judgment.pdf) - Court judgment source for Elliott's claimed lost nickel profits and appeal dismissal.
+
+135. [Amber Energy approved as acquirer of CITGO, 2025](https://www.prnewswire.com/news-releases/amber-energy-approved-as-acquirer-of-citgo-by-us-district-court-for-the-district-of-delaware-302626071.html) - Current unresolved CITGO/Amber source; included only as a watchlist item, not a completed greatest trade.
+
