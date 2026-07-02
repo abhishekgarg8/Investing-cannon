@@ -1,6 +1,6 @@
 # Daniel Loeb - In Their Own Words
 
-As of: 2026-07-02T06:33:37Z
+As of: 2026-07-02T07:30:01Z
 
 This file collects short, source-visible Daniel Loeb / Third Point excerpts. The core tension is provenance: many Third Point investor letters speak in an institutional "we," while many activist letters are advocacy documents written to pressure boards. I therefore label each quote by source type and keep the snippets short. Older campaign letters are sometimes available only through SEC exhibits, company responses, or mirror-hosted PDFs; those cases are flagged in the materials index.
 
@@ -18,7 +18,7 @@ This file collects short, source-visible Daniel Loeb / Third Point excerpts. The
 
 5. "giving us dry powder to deploy at the right time." - Third Point Q1 2025 investor letter ([Third Point, 2025](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/21/third-point-q1-2025-investor-letter_tpil.pdf)).
 
-6. "We have a clean portfolio." - Loeb, Milken Institute panel transcript, 2026 ([Milken Institute, 2026](https://milkeninstitute.org/sites/default/files/2026-05/MacroMeetsRealEconomy_Transcript_GC26.pdf)).
+6. "we have a clean portfolio." - Loeb, Milken Institute panel transcript, 2026 ([Milken Institute, 2026](https://milkeninstitute.org/sites/default/files/2026-05/MacroMeetsRealEconomy_Transcript_GC26.pdf)).
 
 7. "We no longer believe that our original thesis holds true today" - Third Point on CoStar, Q1 2026 investor letter ([Third Point, 2026](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1696/Third_Point_Q1_2026_Investor_Letter_MLHL.pdf)).
 
@@ -34,7 +34,7 @@ This file collects short, source-visible Daniel Loeb / Third Point excerpts. The
 
 12. "we are finding many investments in the 'physical world' to be equally attractive." - Third Point Q2 2024 investor letter ([Third Point, 2024](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/24/third-point-q2-2024-investor-letter_tpil_q2.pdf)).
 
-13. "The lost art of short selling has come back." - Loeb, All-In rough transcript carrier, 2026 ([HappyScribe / All-In, 2026](https://podcasts.happyscribe.com/all-in-with-chamath-jason-sacks-friedberg/dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back)).
+13. "The lost art of short selling has come back." - Loeb, Bloomberg/iConnections Global Alts report, 2026 ([FA Mag / Bloomberg, 2026](https://www.fa-mag.com/news/dan-loeb-says--lost-art-of-short-selling--is-making-a-comeback-85998.html)).
 
 14. "I would not underestimate the resilience of the American economy." - Loeb, Economic Club of New York recap, 2025 ([Economic Club of New York, 2025](https://www.linkedin.com/posts/economic-club_ecnyloeb-ecny-econclubny-activity-7322656179367669760-Mefz)).
 
@@ -66,25 +66,25 @@ This file collects short, source-visible Daniel Loeb / Third Point excerpts. The
 
 26. "Sony Technologies spin-off will create value for the long-term" - Third Point Sony presentation, 2019 ([Third Point mirror, 2019](https://www.10xebitda.com/wp-content/uploads/2020/03/Third-Point-Sony-Presentation-June-2019.pdf)).
 
-27. "Third Point currently owns roughly 40 million shares of Nestle." - Third Point Nestle letter carrier, 2017 ([Third Point mirror, 2017](https://fd-binary-external-prod.imgix.net/TD80A0fRgqptZr7FqrHOZpWBS-M.pdf?dl=Third-Point-Nestle-Letter.pdf.pdf)).
+27. "The time for incrementalism has passed." - Third Point NestleNOW presentation carrier, 2018 ([El Economista / Business Wire, 2018](https://www.eleconomista.es/empresas-finanzas/noticias/9247109/07/18/Third-Point-Publishes-Presentation-on-NestleNOW.html)).
 
 ### Public Voice, Pressure, and the Costs of Style
 
-28. "the moral-indignation business" - Loeb describing the public-letter style, New York Magazine, 2004 ([New York Magazine, 2004](https://nymag.com/nymetro/news/bizfinance/finance/features/10426/)).
+28. "The moral-indignation business" - Loeb describing the public-letter style, New York Magazine, 2004 ([New York Magazine, 2004](https://nymag.com/nymetro/news/bizfinance/finance/features/10426/)).
 
 29. "Your 'inexplicable insouciance' and disrespect is fascinating" - Loeb email quoted in The New Yorker, 2005 ([The New Yorker, 2005](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor)).
 
-30. "Sadly, your ineptitude is not limited" - Star Gas letter excerpt in Dear Chairman chapter carrier ([Dear Chairman excerpt, 2016](https://static1.squarespace.com/static/56bffa38d51cd4587e617679/t/5a8474c9652dea87701985ee/1518630092002/Loeb%2Bchapter.pdf)).
+30. "Sadly, your ineptitude is not limited" - Third Point Star Gas letter, SEC exhibit, 2005 ([SEC, 2005](https://www.sec.gov/Archives/edgar/data/1002590/000089914005000128/t2774169.txt)).
 
 31. "the long-gone era of imperial CEOs" - Third Point Sotheby's letter, 2013 ([SEC, 2013](https://www.sec.gov/Archives/edgar/data/823094/000119312513388165/d605390dex993.htm)).
 
-32. "I want to cover you" - Loeb anecdote in The Alpha Masters preview, 2012 ([O'Reilly, 2012](https://www.oreilly.com/library/view/the-alpha-masters/9781118167571/xhtml/Chapter07.html)).
+32. "I want to cover you" - Loeb anecdote in The Alpha Masters preview carrier, 2012 ([O'Reilly, 2012](https://www.oreilly.com/library/view/the-alpha-masters/9781118167571/xhtml/Chapter07.html)).
 
-33. "For Sony to Change, Sony Must Focus." - Third Point Sony letter carrier, 2013 ([Third Point mirror, 2013](https://www.10xebitda.com/wp-content/uploads/2016/12/Dan-Loeb-Letter-to-Sony-Corp-May-2013.pdf)).
+33. "For Sony to Change, Sony Must Focus." - Third Point Sony letter carrier, 2013 ([10X EBITDA mirror, 2013](https://www.10xebitda.com/wp-content/uploads/2016/12/Dan-Loeb-Letter-to-Sony-Corp-May-2013.pdf)).
 
-34. "The majority of the board must be replaced" - Third Point CoStar letter, 2026 ([Business Wire, 2026](https://www.businesswire.com/news/home/20260127616511/en/Third-Point-Sends-Letter-to-Board-of-Directors-of-CoStar-Group)).
+34. "The majority of the board must be replaced" - Third Point CoStar letter carrier, 2026 ([Business Wire, 2026](https://www.businesswire.com/news/home/20260127616511/en/Third-Point-Sends-Letter-to-Board-of-Directors-of-CoStar-Group)).
 
-35. "feckless board of directors" - Third Point CoStar letter, 2026 ([Business Wire, 2026](https://www.businesswire.com/news/home/20260127616511/en/Third-Point-Sends-Letter-to-Board-of-Directors-of-CoStar-Group)).
+35. "feckless board of directors" - Third Point CoStar letter carrier, 2026 ([Business Wire, 2026](https://www.businesswire.com/news/home/20260127616511/en/Third-Point-Sends-Letter-to-Board-of-Directors-of-CoStar-Group)).
 
 ## Annotated Index of Primary and Near-Primary Materials
 
@@ -122,7 +122,9 @@ This file collects short, source-visible Daniel Loeb / Third Point excerpts. The
 
 - [Sony 2013 letter mirror](https://www.10xebitda.com/wp-content/uploads/2016/12/Dan-Loeb-Letter-to-Sony-Corp-May-2013.pdf), [Sony SEC response](https://www.sec.gov/Archives/edgar/data/313838/000090342313000449/sony-6k_0805.htm), [Sony 2019 presentation mirror](https://www.10xebitda.com/wp-content/uploads/2020/03/Third-Point-Sony-Presentation-June-2019.pdf), and [Sony 2019 issuer response](https://www.sony.com/en/SonyInfo/IR/news/20190917_E.pdf) - Use mirrors cautiously; issuer materials confirm the proposals and rejection.
 
-- [Nestle 2017 letter mirror](https://fd-binary-external-prod.imgix.net/TD80A0fRgqptZr7FqrHOZpWBS-M.pdf?dl=Third-Point-Nestle-Letter.pdf.pdf) and [NestleNOW release carrier](https://www.advfn.com/stock-market/NYSE/TPRE/stock-news/77779013/third-point-publishes-presentation-on-nestlenow) - Useful for international large-cap activism; mirror/carrier provenance should be stated.
+- [Nestle 2017 letter mirror](https://fd-binary-external-prod.imgix.net/TD80A0fRgqptZr7FqrHOZpWBS-M.pdf?dl=Third-Point-Nestle-Letter.pdf.pdf), [ADVFN NestleNOW release carrier](https://www.advfn.com/stock-market/NYSE/TPRE/stock-news/77779013/third-point-publishes-presentation-on-nestlenow), and [El Economista / Business Wire NestleNOW carrier](https://www.eleconomista.es/empresas-finanzas/noticias/9247109/07/18/Third-Point-Publishes-Presentation-on-NestleNOW.html) - Useful for international large-cap activism; the 2017 mirror was not used as a quote-grade source in the final quote list, so mirror/carrier provenance should be stated.
+
+- [SEC Star Gas letter exhibit, 2005](https://www.sec.gov/Archives/edgar/data/1002590/000089914005000128/t2774169.txt) and [Dear Chairman Loeb chapter carrier](https://static1.squarespace.com/static/56bffa38d51cd4587e617679/t/5a8474c9652dea87701985ee/1518630092002/Loeb%2Bchapter.pdf) - Primary SEC exhibit and secondary chapter context for Loeb's early public-letter style; use the SEC exhibit for exact Star Gas letter wording.
 
 ### Interviews, Panels, Podcasts, and Profiles
 
@@ -130,7 +132,7 @@ This file collects short, source-visible Daniel Loeb / Third Point excerpts. The
 
 - [Invest Like the Best / Colossus Loeb episode](https://colossus.com/episode/reminiscences-of-an-investor/) - Important current long-form interview page, but transcript access was not open during this run; treat show notes as an index, not a quote source unless future agents verify audio or transcript.
 
-- [All-In episode rough transcript carrier](https://podcasts.happyscribe.com/all-in-with-chamath-jason-sacks-friedberg/dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back) and [official YouTube episode](https://www.youtube.com/watch?v=i8OI8CNdZgU) - Useful lead for current short-selling commentary; the HappyScribe text is machine/third-party and should remain labeled rough until audio-checked.
+- [All-In episode rough transcript carrier](https://podcasts.happyscribe.com/all-in-with-chamath-jason-sacks-friedberg/dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back), [official YouTube episode](https://www.youtube.com/watch?v=i8OI8CNdZgU), and [FA Mag / Bloomberg iConnections report](https://www.fa-mag.com/news/dan-loeb-says--lost-art-of-short-selling--is-making-a-comeback-85998.html) - Useful leads for current short-selling commentary; the HappyScribe text is machine/third-party and should remain labeled rough until audio-checked.
 
 - [Sohn Hearts & Minds / AFR recap](https://www.heartsandmindsinvestments.com.au/insights/activism-without-proxy-fights-is-like-catholicism-without-hell-loeb), [Economic Club of New York recap](https://www.linkedin.com/posts/economic-club_ecnyloeb-ecny-econclubny-activity-7322656179367669760-Mefz), and [Business Insider DealBook recap](https://www.businessinsider.com/dan-loeb-at-dealbook-conference-2013-11) - Reported snippets rather than full primary transcripts; useful but lower-grade.
 
@@ -160,4 +162,4 @@ This file collects short, source-visible Daniel Loeb / Third Point excerpts. The
 
 - Style evolution: early profiles document a combative public-letter persona; later materials show more institutional phrasing and more behind-the-scenes engagement. The file should preserve both phases rather than flattening Loeb into only the "poison pen" caricature.
 
-- Legal developments as of this run: HSR matters were civil antitrust-filing issues; Upstart allegations involving Third Point/Loeb remained litigation allegations, not findings; CoStar was a live 2026 public campaign followed by Third Point's disclosed exit; TPIL/Malibu objections were governance concerns around a completed platform shift.
+- Legal developments as of this run: HSR matters were civil antitrust-filing issues; Upstart allegations involving Third Point/Loeb remained litigation allegations, not findings; CoStar was a 2026 public campaign followed by Third Point's disclosed exit; TPIL/Malibu objections were governance concerns around a completed platform shift.
