@@ -1,6 +1,6 @@
 # Daniel Loeb - Sources
 
-As of: 2026-07-02T00:36:25Z
+As of: 2026-07-02T01:28:30Z
 
 This source file ranks the most useful materials found for Daniel Loeb's A-profile and appends task-specific source maps for later research files. Primary sources are preferred, especially Third Point letters, SEC filings, court opinions, company releases, and official adviser records. Secondary profiles are used for color, birth details, reputation, and reported campaign economics, with caveats.
 
@@ -50,6 +50,8 @@ This source file ranks the most useful materials found for Daniel Loeb's A-profi
 
 ## Task D - Mistakes and Losses Source Map (T0271)
 
+Task D uses the sources below plus relevant ranked sources above, especially items 4, 12, 13, 18, 19, and 21 for Q1 2025 risk positioning, Yahoo HSR, Sony, Campbell, and Shell. The separate Task D list emphasizes new or task-specific loss, litigation, and governance materials.
+
 22. [Third Point historical performance PDF, July 2023](https://assets.thirdpoint.com/f/160155/x/68fe31b218/2023-07-third-point-performance.pdf?cv=1691020826437) - Best compact manager-reported source for Offshore Fund calendar-year losses, including 2008, 2018, and 2022. Must be caveated as manager-reported and not investor-specific.
 
 23. [Third Point Q3 2008 investor letter](https://aboveaverageodds.wordpress.com/wp-content/uploads/2009/12/loeb-thirdpoint_q32008.pdf) - Primary crisis-period letter for Q3/YTD losses, AUM context, deleveraging, exposure cuts, counterparty-risk management, and absence of Lehman exposure. Hosted on a third-party archive; use with source-host caveat.
@@ -68,7 +70,7 @@ This source file ranks the most useful materials found for Daniel Loeb's A-profi
 
 30. [Third Point Q1 2026 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1696/Third_Point_Q1_2026_Investor_Letter_MLHL.pdf) - Primary source for CoStar exit, recent defensive positioning, short-book performance, and current Loeb/Third Point activity.
 
-31. [DOJ release on Third Point DowDuPont HSR penalty](https://www.justice.gov/opa/pr/third-point-funds-agree-pay-609810-penalty-violating-premerger-notification-requirements) - Primary government source for the 2019 HSR penalty and alleged DowDuPont filing violation.
+31. [DOJ release on Third Point DowDuPont HSR penalty](https://www.justice.gov/archives/opa/pr/third-point-funds-pay-609810-civil-penalty-and-be-subject-injunction-violating-antitrust) - Primary government source for the 2019 HSR penalty and alleged DowDuPont filing violation.
 
 32. [DOJ final judgment in United States v. Third Point Offshore Fund, Ltd. et al.](https://www.justice.gov/atr/case-document/file/1233936/dl) - Primary legal source for the final judgment terms, penalty amount, non-admission language, and judgment duration.
 
@@ -76,24 +78,26 @@ This source file ranks the most useful materials found for Daniel Loeb's A-profi
 
 34. [Sony August 2013 response to Third Point](https://www.sony.com/en/SonyInfo/News/Press/201308/13-091E/) - Primary issuer source for the board's rejection of Third Point's entertainment spin/IPO proposal and disclosure concession.
 
-35. [Third Point Disney campaign letter, August 2022](https://www.businesswire.com/news/home/20220815005428/en/Third-Point-Accumulates-Position-in-The-Walt-Disney-Company-Files-for-Hart-Scott-Rodino-to-Engage-Directly-with-the-Company) - Primary source for Third Point's Disney asks, including ESPN, Hulu, cost cuts, dividend suspension, and board refreshment.
+35. [Los Angeles Times on Third Point's Sony exit, 2014](https://www.latimes.com/entertainment/envelope/cotown/la-et-ct-activist-investor-dan-loeb-sells-stake-in-sony-corp-20141021-story.html) - Secondary contemporaneous report that Third Point sold Sony and reported a near-20% profit, supporting the caveat that Sony was a failed ask, not a proven investment loss.
 
-36. [Disney board appointment and Third Point settlement, September 2022](https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-appoints-veteran-media-and-technology-executive-carolyn-everson-to-its-board-of-directors/) - Primary issuer source for the Disney settlement, board addition, and standstill context.
+36. [Third Point Disney campaign letter, August 2022](https://www.businesswire.com/news/home/20220815005428/en/Third-Point-Accumulates-Position-in-The-Walt-Disney-Company-Files-for-Hart-Scott-Rodino-to-Engage-Directly-with-the-Company) - Primary source for Third Point's Disney asks, including ESPN, Hulu, cost cuts, dividend suspension, and board refreshment.
 
-37. [Disney standstill exhibit](https://www.sec.gov/Archives/edgar/data/1744489/000174448922000167/fy2022_q4x8kxex101.htm) - SEC-filed exhibit for the Third Point/Disney agreement terms.
+37. [Disney board appointment and Third Point settlement, September 2022](https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-appoints-veteran-media-and-technology-executive-carolyn-everson-to-its-board-of-directors/) - Primary issuer source for the Disney settlement, board addition, and standstill context.
 
-38. [Third Point Q2 2023 investor letter](https://assets.thirdpointlimited.com/f/166217/x/44aad2e051/third-point-q2-2023-investor-letter-tpil.pdf) - Useful for later Shell framing after Shell did not execute Third Point's proposed multi-company split.
+38. [Disney standstill exhibit](https://www.sec.gov/Archives/edgar/data/1744489/000174448922000167/fy2022_q4x8kxex101.htm) - SEC-filed exhibit for the Third Point/Disney agreement terms.
 
-39. [Malibu Life prospectus](https://assets.thirdpointlimited.com/f/166217/x/5c9fdcaafb/mailbu-prospectus.pdf) - Primary source for TPIL/Malibu Life transaction structure, reverse takeover, related-party context, conflicts, and continued Third Point dependence.
+39. [Third Point Q2 2023 investor letter](https://assets.thirdpointlimited.com/f/166217/x/44aad2e051/third-point-q2-2023-investor-letter-tpil.pdf) - Useful for later Shell framing after Shell did not execute Third Point's proposed multi-company split.
 
-40. [TPIL May 2025 Malibu transaction announcement](https://assets.thirdpointlimited.com/f/166217/x/e8ff41e50b/tpil-announcement-21-05-2025-vf-1.pdf) - Primary source for original tender/redemption terms and transaction rationale.
+40. [Malibu Life prospectus](https://assets.thirdpointlimited.com/f/166217/x/5c9fdcaafb/mailbu-prospectus.pdf) - Primary source for TPIL/Malibu Life transaction structure, reverse takeover, related-party context, conflicts, and continued Third Point dependence.
 
-41. [TPIL July 2025 Malibu transaction update](https://assets.thirdpointlimited.com/f/166217/x/bab15c2ea2/tpil-transaction-update-announcement-23-07-25.pdf) - Primary source for revised redemption terms after shareholder pushback.
+41. [TPIL May 2025 Malibu transaction announcement](https://assets.thirdpointlimited.com/f/166217/x/e8ff41e50b/tpil-announcement-21-05-2025-vf-1.pdf) - Primary source for original tender/redemption terms and transaction rationale.
 
-42. [QuotedData report on Malibu vote](https://quoteddata.com/2025/08/third-point-declares-victory-in-malibu-vote/) - Secondary but detailed source for dissenting shareholder analysis of VoteCo, manager-aligned votes, and independent-shareholder objections.
+42. [TPIL July 2025 Malibu transaction update](https://assets.thirdpointlimited.com/f/166217/x/bab15c2ea2/tpil-transaction-update-announcement-23-07-25.pdf) - Primary source for revised redemption terms after shareholder pushback.
 
-43. [MLHL 2025 financial statements](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1698/MLHL_Final_Financial_Statements_4.22.2026.pdf) - Primary source for post-transaction Malibu Life Holdings status, Third Point Master Fund allocation, and continuing operating model.
+43. [QuotedData report on Malibu vote](https://quoteddata.com/2025/08/third-point-declares-victory-in-malibu-vote/) - Secondary but detailed source for dissenting shareholder analysis of VoteCo, manager-aligned votes, and independent-shareholder objections.
 
-44. [The New Yorker profile, "The Angry Investor," 2005](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor) - Secondary source for Loeb's early public-letter reputation and the behavioral risks of humiliation-based activism.
+44. [MLHL 2025 financial statements](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1698/MLHL_Final_Financial_Statements_4.22.2026.pdf) - Primary source for post-transaction Malibu Life Holdings status, Third Point Master Fund allocation, and continuing operating model.
 
-45. [Vanity Fair profile of Daniel Loeb, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Loeb's reputation, claimed post-2008 effort to reduce personal invective, and the persistence of public-letter backlash.
+45. [The New Yorker profile, "The Angry Investor," 2005](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor) - Secondary source for Loeb's early public-letter reputation and the behavioral risks of humiliation-based activism.
+
+46. [Vanity Fair profile of Daniel Loeb, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Loeb's reputation, claimed post-2008 effort to reduce personal invective, and the persistence of public-letter backlash.
