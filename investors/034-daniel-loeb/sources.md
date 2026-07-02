@@ -1,8 +1,8 @@
 # Daniel Loeb - Sources
 
-As of: 2026-07-01T23:29:18Z
+As of: 2026-07-02T00:36:25Z
 
-This source file ranks the most useful materials found for Daniel Loeb's A-profile. Primary sources are preferred, especially Third Point letters, SEC filings, court opinions, company releases, and official adviser records. Secondary profiles are used for color, birth details, reputation, and reported campaign economics, with caveats.
+This source file ranks the most useful materials found for Daniel Loeb's A-profile and appends task-specific source maps for later research files. Primary sources are preferred, especially Third Point letters, SEC filings, court opinions, company releases, and official adviser records. Secondary profiles are used for color, birth details, reputation, and reported campaign economics, with caveats.
 
 ## Ranked Source List
 
@@ -47,3 +47,53 @@ This source file ranks the most useful materials found for Daniel Loeb's A-profi
 20. [Business Wire Prudential plc letter, February 2020](https://www.businesswire.com/news/home/20200224005747/en/Third-Point-Sends-Letter-to-Prudential-plc-Highlighting-Opportunity-to-Separate-US-and-Asian-Businesses) - Primary campaign release for Third Point's Prudential separation thesis and economic exposure.
 
 21. [Shell response to Third Point letter, October 2021](https://shell.gcs-web.com/news-releases/news-release-details/shell-acknowledges-third-point-llc-investor-letter) - Primary issuer response to Third Point's Shell break-up proposal; useful for showing management resistance and engagement.
+
+## Task D - Mistakes and Losses Source Map (T0271)
+
+22. [Third Point historical performance PDF, July 2023](https://assets.thirdpoint.com/f/160155/x/68fe31b218/2023-07-third-point-performance.pdf?cv=1691020826437) - Best compact manager-reported source for Offshore Fund calendar-year losses, including 2008, 2018, and 2022. Must be caveated as manager-reported and not investor-specific.
+
+23. [Third Point Q3 2008 investor letter](https://aboveaverageodds.wordpress.com/wp-content/uploads/2009/12/loeb-thirdpoint_q32008.pdf) - Primary crisis-period letter for Q3/YTD losses, AUM context, deleveraging, exposure cuts, counterparty-risk management, and absence of Lehman exposure. Hosted on a third-party archive; use with source-host caveat.
+
+24. [Third Point Q1 2022 investor letter](https://assets.thirdpointlimited.com/f/166217/x/8ea19ec4d9/third-point-q1-2022-investor-letter-tpil.pdf) - Primary postmortem evidence for the 2022 first-quarter drawdown, net-exposure reduction, trimming/hedging, and leverage cuts.
+
+25. [Third Point Q2 2022 investor letter](https://assets.thirdpointlimited.com/f/166217/x/af4405b946/third-point-q2-2022-investor-letter-tpil.pdf) - Primary source for continued 2022 losses, deleveraging, hedging, short-book expansion, and pressure on late-stage private companies to reduce burn.
+
+26. [Third Point Q4 2022 investor letter](https://a.storyblok.com/f/166217/x/c179ba3ef3/third-point-q4-2022-investor-letter-tpil.pdf) - Primary year-end 2022 source for full-year loss context, defensive positioning, large-position weakness, and crypto/private markdown discussion.
+
+27. [TPIL 2023 annual report](https://assets.thirdpointlimited.com/f/166217/x/2cd31da5fc/tpil-annual-afs-31-12-2023-final.pdf) - Strongest public source for process changes after the 2022 drawdown: duration, concentration, event-driven focus, and diversified short construction.
+
+28. [Third Point CoStar letter, January 2026](https://www.businesswire.com/news/home/20260127616511/en/Third-Point-Sends-Letter-to-Board-of-Directors-of-CoStar-Group) - Primary campaign source for Third Point's CoStar critique and board/strategy demands.
+
+29. [CoStar response to Third Point, 2026](https://investors.costargroup.com/news-releases/news-release-details/costar-group-reiterates-strategic-initiatives-prioritize) - Primary issuer response defending CoStar's plan and disputing Third Point's framing.
+
+30. [Third Point Q1 2026 investor letter](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1696/Third_Point_Q1_2026_Investor_Letter_MLHL.pdf) - Primary source for CoStar exit, recent defensive positioning, short-book performance, and current Loeb/Third Point activity.
+
+31. [DOJ release on Third Point DowDuPont HSR penalty](https://www.justice.gov/opa/pr/third-point-funds-agree-pay-609810-penalty-violating-premerger-notification-requirements) - Primary government source for the 2019 HSR penalty and alleged DowDuPont filing violation.
+
+32. [DOJ final judgment in United States v. Third Point Offshore Fund, Ltd. et al.](https://www.justice.gov/atr/case-document/file/1233936/dl) - Primary legal source for the final judgment terms, penalty amount, non-admission language, and judgment duration.
+
+33. [Upstart May 2026 Form 10-Q PDF](https://ir.upstart.com/static-files/814b4ca0-9519-4d39-88a4-89fb00f63b7f) - Current company filing for the status of reasserted securities claims involving Daniel Loeb, Third Point LLC, and Third Point Ventures. Allegations remain pending, not findings.
+
+34. [Sony August 2013 response to Third Point](https://www.sony.com/en/SonyInfo/News/Press/201308/13-091E/) - Primary issuer source for the board's rejection of Third Point's entertainment spin/IPO proposal and disclosure concession.
+
+35. [Third Point Disney campaign letter, August 2022](https://www.businesswire.com/news/home/20220815005428/en/Third-Point-Accumulates-Position-in-The-Walt-Disney-Company-Files-for-Hart-Scott-Rodino-to-Engage-Directly-with-the-Company) - Primary source for Third Point's Disney asks, including ESPN, Hulu, cost cuts, dividend suspension, and board refreshment.
+
+36. [Disney board appointment and Third Point settlement, September 2022](https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-appoints-veteran-media-and-technology-executive-carolyn-everson-to-its-board-of-directors/) - Primary issuer source for the Disney settlement, board addition, and standstill context.
+
+37. [Disney standstill exhibit](https://www.sec.gov/Archives/edgar/data/1744489/000174448922000167/fy2022_q4x8kxex101.htm) - SEC-filed exhibit for the Third Point/Disney agreement terms.
+
+38. [Third Point Q2 2023 investor letter](https://assets.thirdpointlimited.com/f/166217/x/44aad2e051/third-point-q2-2023-investor-letter-tpil.pdf) - Useful for later Shell framing after Shell did not execute Third Point's proposed multi-company split.
+
+39. [Malibu Life prospectus](https://assets.thirdpointlimited.com/f/166217/x/5c9fdcaafb/mailbu-prospectus.pdf) - Primary source for TPIL/Malibu Life transaction structure, reverse takeover, related-party context, conflicts, and continued Third Point dependence.
+
+40. [TPIL May 2025 Malibu transaction announcement](https://assets.thirdpointlimited.com/f/166217/x/e8ff41e50b/tpil-announcement-21-05-2025-vf-1.pdf) - Primary source for original tender/redemption terms and transaction rationale.
+
+41. [TPIL July 2025 Malibu transaction update](https://assets.thirdpointlimited.com/f/166217/x/bab15c2ea2/tpil-transaction-update-announcement-23-07-25.pdf) - Primary source for revised redemption terms after shareholder pushback.
+
+42. [QuotedData report on Malibu vote](https://quoteddata.com/2025/08/third-point-declares-victory-in-malibu-vote/) - Secondary but detailed source for dissenting shareholder analysis of VoteCo, manager-aligned votes, and independent-shareholder objections.
+
+43. [MLHL 2025 financial statements](https://assets-malibu-life.s3.us-west-2.amazonaws.com/system/uploads/fae/file/asset/1698/MLHL_Final_Financial_Statements_4.22.2026.pdf) - Primary source for post-transaction Malibu Life Holdings status, Third Point Master Fund allocation, and continuing operating model.
+
+44. [The New Yorker profile, "The Angry Investor," 2005](https://www.newyorker.com/magazine/2005/04/18/the-angry-investor) - Secondary source for Loeb's early public-letter reputation and the behavioral risks of humiliation-based activism.
+
+45. [Vanity Fair profile of Daniel Loeb, 2013](https://www.vanityfair.com/news/2013/12/dan-loeb-cuba-car-accident) - Secondary source for Loeb's reputation, claimed post-2008 effort to reduce personal invective, and the persistence of public-letter backlash.
