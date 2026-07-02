@@ -1368,5 +1368,5 @@
 
 ## 2026-07-02T16:22:08Z — T0281 — 035-paul-singer — F-key-writings — DONE
 - Output: investors/035-paul-singer/key-writings.md (~0 words, 53 sources)
-- Notes: Stale retry closeout: verified Singer/Elliott key-writings output after five research lanes, added the missing Task F source map, and tightened Grant Williams interview citation. Preserved caveats around no public Elliott letter archive, Singer-versus-firm attribution, advocacy-document bias, paywalled/partial sources, Korea/LME/AMF legal-status limits, and AUM/ADV/13F non-comparability.
+- Notes: Stale retry closeout: verified Singer/Elliott key-writings output after five research lanes, added the missing Task F source map, tightened Grant Williams interview citation, and refined the SEC 13D deadline nuance. Preserved caveats around no public Elliott letter archive, Singer-versus-firm attribution, advocacy-document bias, paywalled/partial sources, Korea/LME/AMF legal-status limits, and AUM/ADV/13F non-comparability.
 - Backlog added: None

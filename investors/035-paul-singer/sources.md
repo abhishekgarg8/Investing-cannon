@@ -368,9 +368,9 @@ As of: 2026-07-02T16:22:08Z
 
 174. [Elliott official Paul Singer biography](https://www.elliottmgmt.com/who-we-are/paul-singer/) - Current role and committee-membership source; useful for attribution boundaries between Singer personally and Elliott institutionally.
 
-175. [Elliott SEC beneficial-ownership comment letter, 2022](https://www.sec.gov/comments/s7-06-22/s70622-279518.pdf) - Primary regulatory-policy source for Elliott's view that shortened disclosure windows, group rules, and derivative treatment can impair activism.
+175. [Elliott SEC beneficial-ownership comment letter, 2022](https://www.sec.gov/comments/s7-06-22/s70622-279518.pdf) and [November 2022 13D supplement](https://www.sec.gov/comments/s7-06-22/s70622-20151495-320039.pdf) - Primary regulatory-policy sources for Elliott's view that group-definition changes, derivative treatment, and accelerated amendment mechanics can impair activism; the supplement clarifies Elliott did not oppose shortening the initial Section 13(d) reporting deadline itself.
 
-176. [Elliott SEC security-based swap comment package, 2022](https://www.sec.gov/comments/s7-32-10/s73210-20120750-272913.pdf) - Primary regulatory-policy source for swaps, disclosure timing, proprietary strategy protection, and exposure design.
+176. [Elliott SEC security-based swap comment package, 2022](https://www.sec.gov/comments/s7-32-10/s73210-20120750-272913.pdf) and [August 2023 reopened-rulemaking response](https://www.sec.gov/comments/s7-32-10/s73210-248699-567042.pdf) - Primary regulatory-policy sources for swaps, disclosure timing, proprietary strategy protection, and exposure design.
 
 177. [Elliott SEC universal proxy comment letter, 2021](https://www.sec.gov/comments/s7-24-16/s72416-8883055-240420.pdf) - Governance-process source for Elliott's shareholder-democracy and proxy-contest rule arguments.
 

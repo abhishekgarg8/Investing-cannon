@@ -40,7 +40,7 @@ Caveat: the article is advocacy for Elliott's business model. It does not indepe
 
 ### 3. Current Singer interviews and remarks - NBIM, Grant Williams, Jefferies
 
-Central thesis: Singer's current public spoken corpus presents the same owner-accountability framework inside a broader risk-management worldview. The NBIM interview is the best official recent source because it is hosted by Norges Bank Investment Management and frames the conversation around activism, market risks, and avoiding losses ([NBIM](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/)). The Grant Williams "End Game" interview is a useful long-form macro source ([Grant Williams](https://www.grant-williams.com/podcast/the-end-game-ep-14-paul-singer/)), and Jefferies' 2025 TechTrek remarks are useful for current views on AI, inflation, tariffs, valuations, and prudence, though the Jefferies transcript is edited by the host organization ([Jefferies](https://www.jefferies.com/insights/boardroom-intelligence/tech-trek-2025-exercising-caution-in-an-era-of-extremes/)).
+Central thesis: Singer's current public spoken corpus presents the same owner-accountability framework inside a broader risk-management worldview. The NBIM interview is the best official recent source because it is hosted by Norges Bank Investment Management and frames the conversation around activism, market risks, and avoiding losses ([NBIM](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/)). The Grant Williams "End Game" interview is a useful long-form macro source ([Grant Williams](https://www.grant-williams.com/podcast/the-end-game-ep-14-paul-singer/)), and Jefferies' 2025 TechTrek remarks are useful for current views on AI, inflation, tariffs, valuations, and prudence, though the Jefferies transcript is edited by the host organization ([Jefferies](https://www.jefferies.com/insights/markets/paul-singer-on-exercising-caution-in-an-era-of-extremes/)).
 
 Key ideas:
 
@@ -72,17 +72,17 @@ Caveat: these are firm-owned marketing pages. They are appropriate for how Ellio
 
 ### 5. Regulatory comment letters - the rules-of-the-game corpus
 
-Central thesis: Elliott's SEC comment letters defend the infrastructure that makes activism work: the ability to acquire positions, communicate with other shareholders, use derivatives, and avoid premature disclosure of proprietary strategies. The strongest pair for this task is Elliott's 2022 beneficial-ownership comment letter and its security-based-swap disclosure comment package ([SEC beneficial ownership letter](https://www.sec.gov/comments/s7-06-22/s70622-279518.pdf), [SEC SBS package](https://www.sec.gov/comments/s7-32-10/s73210-20120750-272913.pdf)). The earlier universal-proxy comment letter is also worth reading as part of the governance toolkit ([SEC universal proxy letter](https://www.sec.gov/comments/s7-24-16/s72416-8883055-240420.pdf)).
+Central thesis: Elliott's SEC comment letters defend the infrastructure that makes activism work: the ability to acquire positions, communicate with other shareholders, use derivatives, and avoid premature disclosure of proprietary strategies. The strongest starting points are Elliott's 2022 beneficial-ownership comment letter, its security-based-swap disclosure comment package, and a November 2022 supplement that narrows the record by saying Elliott did not oppose shortening the initial Section 13(d) reporting deadline but objected to other market-structure changes ([SEC beneficial ownership letter](https://www.sec.gov/comments/s7-06-22/s70622-279518.pdf), [SEC SBS package](https://www.sec.gov/comments/s7-32-10/s73210-20120750-272913.pdf), [SEC 13D supplement](https://www.sec.gov/comments/s7-06-22/s70622-20151495-320039.pdf)). The earlier universal-proxy comment letter is also worth reading as part of the governance toolkit ([SEC universal proxy letter](https://www.sec.gov/comments/s7-24-16/s72416-8883055-240420.pdf)).
 
 Key ideas:
 
-- Disclosure rules change activist economics. Shorter windows, broader group definitions, and derivative reporting can make campaigns harder or more expensive.
+- Disclosure rules change activist economics. Elliott objected to broader group definitions, derivative reporting, and some accelerated amendment mechanics, while later clarifying that it did not oppose shortening the initial Section 13(d) reporting deadline itself.
 - Elliott argues that activism and shareholder communication are beneficial market functions, not suspicious coordination by default.
 - The letters reveal the importance of optionality: activists want time to build a position before incumbents can respond.
 - Derivatives are part of modern exposure design. The letters therefore belong beside Schedule 13D filings, not in a separate "legal appendix."
 - The regulatory voice is lawyerly and institutional; it is the clearest public statement of what Elliott wants preserved in market plumbing.
 
-Best sections to read: the summaries of harms from shortened 13D windows, the group-formation analysis, and the sections on security-based swaps and proprietary strategy protection.
+Best sections to read: the group-formation analysis, the security-based-swap and proprietary-strategy sections, and the November 2022 clarification distinguishing the initial 13D deadline from Elliott's broader objections.
 
 Caveat: these are lobbying documents. They explain Elliott's incentives and preferred rules, but they are not neutral policy analysis.
 
