@@ -350,11 +350,11 @@ As of: 2026-07-02T13:24:00Z
 
 ## Task F - Key Writings Source Map (T0281)
 
-As of: 2026-07-02T16:22:08Z
+As of: 2026-07-02T16:30:54Z
 
 167. [Paul Singer, "Of Owners and Ownership," Harvard Law School Forum, 2021](https://corpgov.law.harvard.edu/2021/11/15/of-owners-and-ownership/) - Best public Singer-byline on shareholder ownership, passive-investor limits, stakeholder rhetoric, and board/management accountability; HLS notes it was adapted from an Elliott quarterly letter.
 
-168. [Paul Singer, "Efficient Markets Need Guys Like Me," Manhattan Institute / Wall Street Journal, 2017](https://manhattan.institute/article/efficient-markets-need-guys-like-me) - Public mirror of Singer's WSJ op-ed defending activism as a complement to index ownership; use as advocacy, not outcome proof.
+168. [Paul Singer, "Efficient Markets Need Guys Like Me," Manhattan Institute / Wall Street Journal, 2017](https://manhattan.institute/article/efficient-markets-need-guys-like-me) - Public reference/excerpt for Singer's WSJ op-ed defending activism as a complement to index ownership; use as advocacy and provenance support, not a complete substitute for the paywalled WSJ original.
 
 169. [Norges Bank Investment Management podcast page: Paul Singer, 2025](https://www.nbim.no/en/news-and-insights/podcast/2025/paul-singer-activist-investing-market-risks-and-avoiding-losses-/) - Official recent interview page for activism, market risk, avoiding loss, crypto, AI valuations, and career reflections; use audio/video for exact quotation.
 
@@ -380,25 +380,25 @@ As of: 2026-07-02T16:22:08Z
 
 180. [Southwest Airlines 2026 Schedule 13D/A filing detail](https://www.sec.gov/Archives/edgar/data/92380/000090266426001308/0000902664-26-001308-index.htm) - Current exposure update for an ongoing campaign; important for separating direct shares from economic exposure.
 
-181. [Elliott NRG letter and presentation, 2023](https://www.prnewswire.com/news-releases/elliott-sends-letter-and-presentation-to-the-board-of-nrg-energy-301824565.html) - Primary campaign writing on cost cuts, board/CEO change, Vivint review, and free-cash-flow discipline.
+181. [Elliott NRG May letter and presentation, 2023](https://www.prnewswire.com/news-releases/elliott-sends-letter-and-presentation-to-the-board-of-nrg-energy-301824565.html), [Elliott June CEO-search letter](https://www.prnewswire.com/news-releases/elliott-calls-for-new-ceo-and-strategic-review-at-nrg-energy-301864470.html), and [NRG leadership-change release](https://investors.nrg.com/news-releases/news-release-details/nrg-energy-announces-leadership-changes) - Campaign and issuer-side sources separating the May cost-cut/Vivint/free-cash-flow thesis from the later CEO-search escalation and company leadership response.
 
 182. [NRG cooperation agreement exhibit, 2023](https://www.sec.gov/Archives/edgar/data/1013871/000110465923119741/tm2331129d1_ex10-1.htm) - Primary settlement record for governance mechanics after Elliott's NRG campaign.
 
 183. [Elliott Phillips 66 letter, 2023](https://www.prnewswire.com/news-releases/elliott-sends-letter-to-the-board-of-phillips-66-302000704.html) - Primary campaign writing on refining execution, board additions, and performance gap.
 
-184. [Elliott Phillips 66 proxy material, 2025](https://www.sec.gov/Archives/edgar/data/1534701/000092189525000692/ex991todfan10168003_030425.pdf) - Escalated proxy-contest material for governance, simplification, and accountability arguments.
+184. [Elliott Phillips 66 proxy material, 2025](https://www.sec.gov/Archives/edgar/data/1534701/000092189525000692/ex991todfan10168003_030425.pdf), [Phillips 66 2023 response](https://investor.phillips66.com/financial-information/news-releases/news-release-details/2023/Phillips-66-Comments-on-Letter-from-Elliott-Investment-Management/default.aspx), and [Phillips 66 2025 preliminary director-election result](https://investor.phillips66.com/financial-information/news-releases/news-release-details/2025/Phillips-66-Updates-Preliminary-Results-on-Election-of-Directors/default.aspx) - Escalated proxy-contest material plus issuer-side records for governance, simplification, accountability, and election-result context.
 
 185. [Streamline 66 presentation, 2025](https://streamline66.com/wp-content/uploads/2025/04/Streamline-66-Elliotts-Perspectives-on-Value-Creation.pdf) - Elliott-hosted campaign deck useful for full valuation bridge and public shareholder-argument structure.
 
-186. [Elliott PepsiCo presentation release, 2025](https://www.prnewswire.com/news-releases/elliott-sends-presentation-to-board-of-directors-of-pepsico-inc-302543745.html) - Mega-cap campaign example with a more constructive tone around focus, operating efficiency, reinvestment, and accountability.
+186. [Elliott PepsiCo presentation release, 2025](https://www.prnewswire.com/news-releases/elliott-sends-presentation-to-board-of-directors-of-pepsico-inc-302543745.html), [PepsiCo September response](https://www.pepsico.com/newsroom/press-releases/2025/pepsico-statement-regarding-elliott-investment-management-perspectives-on-pepsico), and [PepsiCo December value-enhancement/outlook release](https://www.pepsico.com/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook) - Mega-cap campaign example with a more constructive tone around focus, operating efficiency, reinvestment, accountability, and later issuer-supported actions.
 
-187. [Elliott Toyota Industries campaign page, 2026](https://elliottletters.com/toyota-industries/) and [PRNewswire tender-offer statement](https://www.prnewswire.com/apac/news-releases/elliott-opposes-toyota-fudosans-revised-tender-offer-for-toyota-industries-corporation-302664093.html) - Current Japan campaign source on minority-shareholder protection, valuation, governance, and tender-offer process.
+187. [Elliott Toyota Industries campaign page, 2026](https://elliottletters.com/toyota-industries/), [PRNewswire tender-offer statement](https://www.prnewswire.com/apac/news-releases/elliott-opposes-toyota-fudosans-revised-tender-offer-for-toyota-industries-corporation-302664093.html), [Toyota Industries tender-offer notice page](https://www.toyota-industries.com/investors/notice/), and [SEC tender/repurchase exhibit](https://www.sec.gov/Archives/edgar/data/1094517/000119312526130284/d12865dex991.htm) - Current Japan campaign and counterparty sources on valuation, governance, tender-offer process, and later tender/repurchase context.
 
-188. [Elliott Northern Star campaign page, 2026](https://elliottletters.com/nst/) and [Northern Star Rising presentation](https://elliottletters.com/wp-content/uploads/Northern-Star-Rising.pdf) - Current Australia campaign source on strategic review, board refresh, operating performance, and succession.
+188. [Elliott Northern Star campaign page, 2026](https://elliottletters.com/nst/), [Northern Star Rising presentation](https://elliottletters.com/wp-content/uploads/Northern-Star-Rising.pdf), and [Northern Star shareholder letter](https://www.nsrltd.com/media/jadhtfkz/letter-to-shareholders.pdf) - Current Australia campaign and issuer-side sources on strategic review, board refresh, operating performance, and succession.
 
 189. [Hess proxy material, 2013](https://www.sec.gov/Archives/edgar/data/4447/000110465913027029/a13-7739_4dfan14a.htm) - Older campaign template for discount, capital allocation, board accountability, and management credibility language.
 
-190. [Samsung Electronics value-enhancement letter, 2016](https://www.prnewswire.com/news-releases/letter-to-the-samsung-electronics-board-of-directors-outlining-value-enhancement-proposals-300339629.html) - Non-U.S. campaign writing on conglomerate complexity, governance, and minority-shareholder rights.
+190. [Samsung Electronics value-enhancement letter, 2016](https://www.prnewswire.com/news-releases/letter-to-the-samsung-electronics-board-of-directors-outlining-value-enhancement-proposals-300339629.html) and [Samsung Electronics shareholder-value roadmap](https://news.samsung.com/global/samsung-electronics-announces-comprehensive-roadmap-to-enhance-long-term-shareholder-value-creation) - Non-U.S. campaign and issuer-side writing on Samsung Electronics capital allocation, governance, and shareholder-value proposals; distinguish from the later Samsung C&T/Cheil treaty-arbitration record.
 
 191. [AT&T letter mirror, 2019](https://deadline.com/wp-content/uploads/2019/09/elliott-management-letter-to-board-of-directors-of-att.pdf) - Public campaign letter on conglomerate strategy and capital allocation; mirror provenance should be noted.
 
