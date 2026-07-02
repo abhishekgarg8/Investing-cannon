@@ -1361,3 +1361,7 @@
 - Output: investors/035-paul-singer/mental-models.md (~2,489 words, 31 Task G sources)
 - Notes: Verified and closed already-present Singer/Elliott mental-models output and Task G source map after five research lanes; required sections, inline citations, and spot-checked sources passed QA. Preserved caveats around Task F still missing, 13F/ADV/AUM non-comparability, private Elliott ledgers, AMF/LME/Korea legal-process failures, policy backlash, labor/pension critiques, and scale/crowding risk.
 - Backlog added: None
+## 2026-07-02T14:42:15Z — T0279 — 035-paul-singer — D-mistakes — DONE
+- Output: investors/035-paul-singer/mistakes-and-losses.md (~3,500 words, 34 Task D source-map entries)
+- Notes: Stale retry closeout: verified already-present Singer mistakes/losses output and Task D source map after five research lanes and spot checks. Preserved caveats around private Elliott ledgers, single-source allocator/media performance data, advocacy-source benchmarks, AMF reduced sanctions, LME/UKSC date nuance, Korea remand/pending posture, sovereign-debt policy backlash, and campaign-level P&L opacity.
+- Backlog added: None
