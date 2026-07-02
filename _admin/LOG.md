@@ -1351,3 +1351,8 @@
 - Output: investors/035-paul-singer/in-their-own-words.md (~2645 words, 33 sources)
 - Notes: Completed Singer/Elliott quote file with 32 short sourced quotes, separating Singer personal voice from Elliott institutional, representative, and legal voices. Flagged transcript, court/regulator-characterization, and campaign-advocacy caveats.
 - Backlog added: None
+
+## 2026-07-02T13:07:45Z — T0278 — 035-paul-singer — C-greatest-trades — DONE
+- Output: investors/035-paul-singer/greatest-trades.md (~3,097 words, 35 sources)
+- Notes: Stale retry closeout: completed Singer greatest-trades file with five research lanes; ranked Argentina/NML, Peru, AC Milan, Delphi, NRG, Twitter, Hess, and Samsung Electronics with explicit P&L caveats. Flagged active/unrealized Southwest, Phillips 66, Toyota Industries, PepsiCo, Northern Star, CITGO/Amber, and non-ranked JGBI/LME/Caesars/Lehman limitations.
+- Backlog added: None
