@@ -1332,3 +1332,8 @@
 - Output: investors/034-daniel-loeb/in-their-own-words.md (~1,884 words, 35 quotes / 22 Task E sources)
 - Notes: Stale retry closeout: QA'd already-present own-words file with five read-only quote/source checks, tightened Star Gas/Nestle/short-selling provenance, and added the missing Task E source map. Preserved caveats around institutional "we" language, advocacy-document bias, mirror-hosted materials, rough transcript carriers, HSR/legal context, Upstart litigation posture, CoStar exit, and Malibu/TPIL governance objections.
 - Backlog added: None
+
+## 2026-07-02T08:06:49Z — T0276 — 035-paul-singer — A-profile — DONE
+- Output: investors/035-paul-singer/profile.md (~2,483 words, 25 sources)
+- Notes: Recovery closeout: verified and tightened already-present Singer profile/source map with five research lanes; added required snapshot fields, official ADV/13D support, stronger Twitter/Salesforce citations, 2025 performance caveat, and 2026 Korea remand status. Preserved caveats around private Elliott ledgers, AUM/RAUM/13F non-comparability, sovereign-debt ethics, and live legal tails.
+- Backlog added: None
